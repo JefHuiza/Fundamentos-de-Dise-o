@@ -1,4 +1,4 @@
-# Fundamentos-de-Dise-o
+# Fundamentos de Diseño - Grupo 4
 
 Hola, bienvenidos al equipo 4 del curso de fundamentos de diseño, este equipo es muy laborioso y determinado y realizar un proyecto que ayude a reducir el impacto ambiental.
 
