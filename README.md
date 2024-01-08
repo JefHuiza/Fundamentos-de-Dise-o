@@ -9,3 +9,4 @@ Colaboradores:
 - Nardy Liz Condori Mamani
 - Edithson Ricardo Aybar Escobar
 
+![proyectos-de-ingenieria-que-estan-salvando-el-medio-ambiente-1](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/503391b9-49a3-46ca-b221-0375698d46bb)
