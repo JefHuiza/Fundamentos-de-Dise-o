@@ -1,9 +1,16 @@
+## tabla de contenidos
+- [Fundamentos de Diseño - Grupo 4](#fundamentos-de-diseño---grupo-4)
+  - [Presentacion](#presentacion)
+  - [Introduccíon](#introduccíon)
+  - [Colaboradores:](#colaboradores)
+
 # Fundamentos de Diseño - Grupo 4
 
 Hola, bienvenidos al equipo 4 del curso de fundamentos de diseño, este equipo es muy laborioso y determinado y realizar un proyecto que ayude a reducir el impacto ambiental.
-## Introduccíon
+## Presentacion
 Un grupo de cuatro estudiantes universitarios de ingeniería ambiental e informática están trabajando en un proyecto de ingeniería. Se centran en un tema aleatorio y necesitan una introducción para presentárselo a los miembros. El proyecto tiene como objetivo diseñar y desarrollar soluciones tecnológicas ambientales para minimizar los problemas en el campo. Los estudiantes aprenderán nuevos conceptos, discutirán problemas y soluciones y trabajarán juntos para crear soluciones innovadoras. El proyecto formará parte del curso Sociedad y Medio Ambiente (SE), que combina teoría, discusión y desarrollo práctico relacionados con temas ambientales y de sostenibilidad.
 
+## Introduccíon
 
 ## Colaboradores:
 - Jefferson Juvenal Huiza Quispe     jefferson.huiza@upch.pe  
