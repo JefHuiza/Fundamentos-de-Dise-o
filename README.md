@@ -13,9 +13,25 @@ Un grupo de cuatro estudiantes universitarios de ingeniería ambiental e inform�
 ## Introduccíon
 
 ## Colaboradores:
-- Jefferson Juvenal Huiza Quispe     jefferson.huiza@upch.pe  
-- Lizzeth Rossmery Quispe Mamani     lizzeth.quispe@upch.pe
-- Nardy Liz Condori Mamani           nardy.condori@upch.pe 
-- Edithson Ricardo Aybar Escobar     edithson.aybar@upch.pe 
+**- Jefferson Juvenal Huiza Quispe**
+Estudiante del cuarto año de la carrera de Ingeniería Ambiental, interesado en el desarrollo de proyectos sostenibles.
+                 **Coordinador de diseño y modelado 3D**
+Encargado del diseño y el modelamiento del prototipo en 3D a desarrollar.
+                         jefferson.huiza@upch.pe  
+**- Lizzeth Rossmery Quispe Mamani**
+Estudiante de tercer año de la carrera de Ingeniería Ambiental, interesada en la problemáticas de desaastres medio ambientales.
+                  **Coordinadora del proyecto y diseño de software**
+Encargada en la gestión de los avances del proyecto y el desarrollo del firmware.
+                           lizzeth.quispe@upch.pe
+**- Nardy Liz Condori Mamani**           
+Estudiante de tercer año de la carrera de Ingeniería Informática, interesada en la conservación de especies con el medio ambiente.
+              **Coordinadora del área de redacción e investigación**
+Encargada de la búsqueda y verificación de la información recopilada con sus respectivas referencias. Asimismo, de la edición y redacción.
+                                 nardy.condori@upch.pe 
+**- Edithson Ricardo Aybar Escobar**
+Estudiante del tercer año de la carrera de Ingeniería Informática, interesado la remediación y/o mitigación de los impactos ambientales.
+                         **Coordinador del área de electrónica**
+Encargado de la electrónica del prototipo, como el diseño del esquema del circuito e implementación.
+                                edithson.aybar@upch.pe 
 
 ![proyectos-de-ingenieria-que-estan-salvando-el-medio-ambiente-1](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/503391b9-49a3-46ca-b221-0375698d46bb)
