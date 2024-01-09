@@ -1,18 +1,22 @@
-# Fundamentos de Diseño - Grupo 4
+# Fundamentos de Diseño - Grupo 10
 
-Hola, bienvenidos al equipo 4 del curso de fundamentos de diseño, este equipo es muy laborioso y determinado y realizar un proyecto que ayude a reducir el impacto ambiental.
+Hola, bienvenidos al equipo 10 del curso de Fundamentos de Diseño, somos estudiantes de la Universidad Peruana Cayetano Heredia interesados en ayudar a reducir el impacto ambiental usando la tecnología a nuestro favor creando soluciones a las diferentes problemáticas. 
+
+En el presente proyecto buscamos crear unas soluciones tecnológicas con respecto a una de las problemáticas de uno de los Objetivos de Desarrollo Sostenible (ODS) relacionados con el medio ambiente, donde se realizará una profunda investigación con respaldo de diferentes fuentes confiables.
+
 
 ## tabla de contenidos
-- [Presentacion](#presentacion)
-- [Introduccíon](#introduccíon)
-- [Colaboradores:](#colaboradores)
+- [Descripción](#descripción)
+- [Participantes](#participantes)
+- [Docentes del curso](#docentes_del_curso)
 
-## Presentacion
-Un grupo de cuatro estudiantes universitarios de ingeniería ambiental e informática están trabajando en un proyecto de ingeniería. Se centran en un tema aleatorio y necesitan una introducción para presentárselo a los miembros. El proyecto tiene como objetivo diseñar y desarrollar soluciones tecnológicas ambientales para minimizar los problemas en el campo. Los estudiantes aprenderán nuevos conceptos, discutirán problemas y soluciones y trabajarán juntos para crear soluciones innovadoras. El proyecto formará parte del curso Sociedad y Medio Ambiente (SE), que combina teoría, discusión y desarrollo práctico relacionados con temas ambientales y de sostenibilidad.
+## Descripción:
 
-## Introduccíon
+-	Documentos: Documentos en formato de pdf y/o Word relacionados al tema a tratar, donde se presentará el nombre del proyecto, propósito, problemática, entre otros. 
+-	Hardware: El archivo de diseño del modelado de 3D, diagrama esquemático del circuito, lista de materiales, entre otros.
+-	Software: El código fuente del software, documentación sobre como utilizar el software, entre otros. 
 
-## Colaboradores:
+## Participantes:
 **- Jefferson Juvenal Huiza Quispe**
 
 Estudiante del cuarto año de la carrera de Ingeniería Ambiental, interesado en el desarrollo de proyectos sostenibles.
@@ -54,3 +58,10 @@ Encargado de la electrónica del prototipo, como el diseño del esquema del circ
    edithson.aybar@upch.pe 
 
 ![proyectos-de-ingenieria-que-estan-salvando-el-medio-ambiente-1](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/503391b9-49a3-46ca-b221-0375698d46bb)
+
+## Docentes_del_curso:
+- Harry Anderson Rivera Tito
+- Paulo Camilo Alberto Vela Anton
+- Moises Stevend Meza Rodriguez
+- Renzo Jose Chan Rios
+- Juan Manuel Zuñiga Mamani
