@@ -30,10 +30,9 @@ Encargado del diseño y el modelamiento del prototipo en 3D a desarrollar.
 **- Lizzeth Rossmery Quispe Mamani**
 
 Estudiante de tercer año de la carrera de Ingeniería Ambiental, interesada en la problemáticas de desastres medio ambientales.
-
-   **Coordinadora del proyecto y diseño de software**
-   
-Encargada en la gestión de los avances del proyecto y el desarrollo del firmware.
+ **Coordinadora del área de redacción e investigación**
+ 
+Encargada de la búsqueda y verificación de la información recopilada con sus respectivas referencias. Asimismo, de la edición y redacción.
 
    lizzeth.quispe@upch.pe
    
@@ -41,9 +40,9 @@ Encargada en la gestión de los avances del proyecto y el desarrollo del firmwar
 
 Estudiante de tercer año de la carrera de Ingeniería Informática, interesada en la conservación de especies en el medio ambiente.
 
- **Coordinadora del área de redacción e investigación**
- 
-Encargada de la búsqueda y verificación de la información recopilada con sus respectivas referencias. Asimismo, de la edición y redacción.
+   **Coordinadora del proyecto y diseño de software**
+   
+Encargada en la gestión de los avances del proyecto y el desarrollo del softmware.
 
    nardy.condori@upch.pe 
                                  
