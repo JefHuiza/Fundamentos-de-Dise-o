@@ -22,20 +22,34 @@ Estudiante del cuarto año de la carrera de Ingeniería Ambiental, interesado en
 Encargado del diseño y el modelamiento del prototipo en 3D a desarrollar.
 
   jefferson.huiza@upch.pe  
+  
 **- Lizzeth Rossmery Quispe Mamani**
+
 Estudiante de tercer año de la carrera de Ingeniería Ambiental, interesada en la problemáticas de desaastres medio ambientales.
-                  **Coordinadora del proyecto y diseño de software**
+
+   **Coordinadora del proyecto y diseño de software**
 Encargada en la gestión de los avances del proyecto y el desarrollo del firmware.
-                           lizzeth.quispe@upch.pe
-**- Nardy Liz Condori Mamani**           
+
+   lizzeth.quispe@upch.pe
+   
+**- Nardy Liz Condori Mamani** 
+
 Estudiante de tercer año de la carrera de Ingeniería Informática, interesada en la conservación de especies con el medio ambiente.
-              **Coordinadora del área de redacción e investigación**
+
+ **Coordinadora del área de redacción e investigación**
+ 
 Encargada de la búsqueda y verificación de la información recopilada con sus respectivas referencias. Asimismo, de la edición y redacción.
-                                 nardy.condori@upch.pe 
+
+   nardy.condori@upch.pe 
+                                 
 **- Edithson Ricardo Aybar Escobar**
+
 Estudiante del tercer año de la carrera de Ingeniería Informática, interesado la remediación y/o mitigación de los impactos ambientales.
-                         **Coordinador del área de electrónica**
+
+   **Coordinador del área de electrónica**
+                         
 Encargado de la electrónica del prototipo, como el diseño del esquema del circuito e implementación.
-                                edithson.aybar@upch.pe 
+
+   edithson.aybar@upch.pe 
 
 ![proyectos-de-ingenieria-que-estan-salvando-el-medio-ambiente-1](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/503391b9-49a3-46ca-b221-0375698d46bb)
