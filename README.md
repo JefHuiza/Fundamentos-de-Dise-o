@@ -17,11 +17,11 @@ Un grupo de cuatro estudiantes universitarios de ingeniería ambiental e inform�
 
 Estudiante del cuarto año de la carrera de Ingeniería Ambiental, interesado en el desarrollo de proyectos sostenibles.
 
-                 **Coordinador de diseño y modelado 3D**
+  **Coordinador de diseño y modelado 3D**
                  
 Encargado del diseño y el modelamiento del prototipo en 3D a desarrollar.
 
-                         jefferson.huiza@upch.pe  
+  jefferson.huiza@upch.pe  
 **- Lizzeth Rossmery Quispe Mamani**
 Estudiante de tercer año de la carrera de Ingeniería Ambiental, interesada en la problemáticas de desaastres medio ambientales.
                   **Coordinadora del proyecto y diseño de software**
