@@ -30,6 +30,7 @@ Encargado del diseño y el modelamiento del prototipo en 3D a desarrollar.
 **- Lizzeth Rossmery Quispe Mamani**
 
 Estudiante de tercer año de la carrera de Ingeniería Ambiental, interesada en la problemáticas de desastres medio ambientales.
+
  **Coordinadora del área de redacción e investigación**
  
 Encargada de la búsqueda y verificación de la información recopilada con sus respectivas referencias. Asimismo, de la edición y redacción.
