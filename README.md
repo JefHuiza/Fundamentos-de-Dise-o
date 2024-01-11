@@ -2,7 +2,7 @@
 
 Hola, bienvenidos al equipo 10 del curso de Fundamentos de Diseño, somos estudiantes de la Universidad Peruana Cayetano Heredia interesados en ayudar a reducir el impacto ambiental usando la tecnología a nuestro favor creando soluciones a las diferentes problemáticas. 
 
-En el presente proyecto buscamos crear unas soluciones tecnológicas con respecto a una de las problemáticas de uno de los Objetivos de Desarrollo Sostenible (ODS) relacionados con el medio ambiente, donde se realizará una profunda investigación con respaldo de diferentes fuentes confiables.
+En este repositorio de desarrollará el proyecto, donde buscamos crear soluciones tecnológicas con respecto a una de las problemáticas de uno de los Objetivos de Desarrollo Sostenible (ODS) relacionados con el medio ambiente, donde se realizará una profunda investigación con respaldo de diferentes fuentes confiables.
 
 
 ## tabla de contenidos
