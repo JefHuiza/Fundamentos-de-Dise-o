@@ -33,7 +33,7 @@ Si deseas saber más sobre nosotros, ingresa al siguiente link:
 
 ## Docentes_del_curso:
 - Harry Anderson Rivera Tito
-- - Paulo Camilo Alberto Vela Anton
+- Paulo Camilo Alberto Vela Anton
 - Moises Stevend Meza Rodriguez
 - Renzo Jose Chan Rios
 - Juan Manuel Zuñiga Mamani
