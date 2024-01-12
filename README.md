@@ -29,14 +29,14 @@ El Perú tiene una escasez de agua en muchas partes del país, especialmente en 
 **- Nardy Liz Condori Mamani** nardy.condori@upch.pe                                
 **- Edithson Ricardo Aybar Escobar** edithson.aybar@upch.pe 
 
-Si deseas saber más sobre nostros, ingresa al siguiente link:
+Si deseas saber más sobre nosotros, ingresa al siguiente link:
 
 ## Docentes_del_curso:
-**- Harry Anderson Rivera Tito** 
-**- Paulo Camilo Alberto Vela Anton** 
-**- Moises Stevend Meza Rodriguez** 
-**- Renzo Jose Chan Rios** 
-**- Juan Manuel Zuñiga Mamani**
+- Harry Anderson Rivera Tito
+- - Paulo Camilo Alberto Vela Anton
+- Moises Stevend Meza Rodriguez
+- Renzo Jose Chan Rios
+- Juan Manuel Zuñiga Mamani
 
 
 
