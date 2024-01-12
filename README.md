@@ -7,7 +7,7 @@ El tema del proyecto es de suma importancia ya que contaminación ambiental es u
 
 ## Tabla de contenidos
 - [Descripción del problema](#descripción_del_problema)
-- [Descripición de los archivos](#descripción_de_los_archivos)
+- [Descripición de los archivos](#descripición_de_los_archivos)
 - [Participantes](#participantes)
 - [Docentes del curso](#docentes_del_curso)
 
