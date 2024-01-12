@@ -24,10 +24,10 @@ El Perú tiene una escasez de agua en muchas partes del país, especialmente en 
 -	Software: El código fuente del software, documentación sobre como utilizar el software, entre otros. 
 
 ## Participantes:
-**- Jefferson Juvenal Huiza Quispe** jefferson.huiza@upch.pe  
-**- Lizzeth Rossmery Quispe Mamani** lizzeth.quispe@upch.pe  
-**- Nardy Liz Condori Mamani** nardy.condori@upch.pe                                
-**- Edithson Ricardo Aybar Escobar** edithson.aybar@upch.pe 
+- Jefferson Juvenal Huiza Quispe jefferson.huiza@upch.pe  
+- Lizzeth Rossmery Quispe Mamani lizzeth.quispe@upch.pe  
+- Nardy Liz Condori Mamani  nardy.condori@upch.pe                                
+- Edithson Ricardo Aybar Escobar  edithson.aybar@upch.pe 
 
 Si deseas saber más sobre nosotros, ingresa al siguiente link:
 
