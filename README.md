@@ -22,7 +22,8 @@ Millones de peruanos acceden a agua potable a través de camiones cisternas. | F
 
 -	Documentos: Documentos en formato de pdf y/o imagenes  relacionados al tema a presentar en el proyecto. 
 -	Hardware: El archivo de diseño del modelado de 3D, diagrama esquemático del circuito, lista de materiales, entre otros.
--	Software: El código fuente del software, documentación sobre como utilizar el software, entre otros. 
+-	Software: El código fuente del software, documentación sobre como utilizar el software, entre otros.
+-	FdD:Actividades del curso como entregables, hitos e informes.
 
 ## Participantes:
 - Jefferson Juvenal Huiza Quispe jefferson.huiza@upch.pe  
