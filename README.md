@@ -1,67 +1,39 @@
-# Fundamentos de Diseño - Grupo 10
+# ¡Bienvenidos a AmbienteTech!
 
-Hola, bienvenidos al equipo 10 del curso de Fundamentos de Diseño, somos estudiantes de la Universidad Peruana Cayetano Heredia interesados en ayudar a reducir el impacto ambiental usando la tecnología a nuestro favor creando soluciones a las diferentes problemáticas. 
+Me complace darles la bienvenida a AmbienteTech, somos un grupo de estudiantes de la Universidad Peruana Cayetano Heredia que realizamos un proyecto de creación de IoT como solución a un problema ambiental relacionado a un Objetivo de Desarrollo Sostenible (ODS). Este proyecto es una oportunidad única para nosotros como estudiantes para poder aplicar todos nuestros conocimientos adquiridos de Ingeniería Ambiental e Ingeniería Informática buscando resolver un problema real que afecta a nuestro País. 
 
-En el presente proyecto buscamos crear unas soluciones tecnológicas con respecto a una de las problemáticas de uno de los Objetivos de Desarrollo Sostenible (ODS) relacionados con el medio ambiente, donde se realizará una profunda investigación con respaldo de diferentes fuentes confiables.
+El tema del proyecto es de suma importancia ya que contaminación ambiental es un problema global que tiene impactos negativos en la salud y el medio ambiente. Por ello, nosotros como estudiantes buscamos a portar con un granito creando una solución que ayude al planeta y mejorar la calidad de vida de nuestra población.
 
 
-## tabla de contenidos
-- [Descripción](#descripción)
+## Tabla de contenidos
+- [Descripción del problema](#descripción_del_problema)
+- [Descripición de los archivos](#descripción_de_los_archivos)
 - [Participantes](#participantes)
 - [Docentes del curso](#docentes_del_curso)
 
-## Descripción:
+## Descripción del problema 
 
--	Documentos: Documentos en formato de pdf y/o Word relacionados al tema a tratar, donde se presentará el nombre del proyecto, propósito, problemática, entre otros. 
+El Perú tiene una escasez de agua en muchas partes del país, especialmente en las zonas rurales y desérticas. Esta escasez se debe a la combinación de factores, como el cambio climático, la sequía y la sobreexplotación de los recursos hídricos. Siendo un problema de mucha preocupación ya que es ser humano vive del agua sin agua no es posible nuestra existencia, por ello nosotros nos enfocado en dicha problemática para buscar una solución. La problemática mencionada hace referencia a un problema del objetivo 6 de la ODS. 
+
+"Agregar una imagen de la problemática"
+
+## Descripición de los archivos
+
+-	Documentos: Documentos en formato de pdf y/o imagenes  relacionados al tema a presentar en el presente proyecto. 
 -	Hardware: El archivo de diseño del modelado de 3D, diagrama esquemático del circuito, lista de materiales, entre otros.
 -	Software: El código fuente del software, documentación sobre como utilizar el software, entre otros. 
 
 ## Participantes:
-**- Jefferson Juvenal Huiza Quispe**
+**- Jefferson Juvenal Huiza Quispe** jefferson.huiza@upch.pe  
+**- Lizzeth Rossmery Quispe Mamani** lizzeth.quispe@upch.pe  
+**- Nardy Liz Condori Mamani** nardy.condori@upch.pe                                
+**- Edithson Ricardo Aybar Escobar** edithson.aybar@upch.pe 
 
-Estudiante del cuarto año de la carrera de Ingeniería Ambiental, interesado en el desarrollo de proyectos sostenibles.
-
-  **Coordinador de diseño y modelado 3D**
-                 
-Encargado del diseño y el modelamiento del prototipo en 3D a desarrollar.
-
-  jefferson.huiza@upch.pe  
-  
-**- Lizzeth Rossmery Quispe Mamani**
-
-Estudiante de tercer año de la carrera de Ingeniería Ambiental, interesada en la problemáticas de desastres medio ambientales.
-
- **Coordinadora del área de redacción e investigación**
- 
-Encargada de la búsqueda y verificación de la información recopilada con sus respectivas referencias. Asimismo, de la edición y redacción.
-
-   lizzeth.quispe@upch.pe
-   
-**- Nardy Liz Condori Mamani** 
-
-Estudiante de tercer año de la carrera de Ingeniería Informática, interesada en la conservación de especies en el medio ambiente.
-
-   **Coordinadora del proyecto y diseño de software**
-   
-Encargada en la gestión de los avances del proyecto y el desarrollo del softmware.
-
-   nardy.condori@upch.pe 
-                                 
-**- Edithson Ricardo Aybar Escobar**
-
-Estudiante del tercer año de la carrera de Ingeniería Informática, interesado la remediación y/o mitigación de los impactos ambientales.
-
-   **Coordinador del área de electrónica**
-                         
-Encargado de la electrónica del prototipo, como el diseño del esquema del circuito e implementación.
-
-   edithson.aybar@upch.pe 
-
-![proyectos-de-ingenieria-que-estan-salvando-el-medio-ambiente-1](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/503391b9-49a3-46ca-b221-0375698d46bb)
+Si deseas saber más sobre nostros, ingresa al siguiente link:
 
 ## Docentes_del_curso:
-- Harry Anderson Rivera Tito
-- Paulo Camilo Alberto Vela Anton
-- Moises Stevend Meza Rodriguez
-- Renzo Jose Chan Rios
-- Juan Manuel Zuñiga Mamani
+**- Harry Anderson Rivera Tito** harry.rivera@upch.pe
+**- Paulo Camilo Alberto Vela Anton** paulo.vela@upch.pe
+**- Moises Stevend Meza Rodriguez** moises.mezaupch.pe
+**- Renzo Jose Chan Rios** renzo.chan@upch.pe
+**- Juan Manuel Zuñiga Mamani** juan.zuniga@upch.pe
