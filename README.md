@@ -19,7 +19,7 @@ El Perú tiene una escasez de agua en muchas partes del país, especialmente en 
 
 ## Descripición de los archivos
 
--	Documentos: Documentos en formato de pdf y/o imagenes  relacionados al tema a presentar en el presente proyecto. 
+-	Documentos: Documentos en formato de pdf y/o imagenes  relacionados al tema a presentar en el proyecto. 
 -	Hardware: El archivo de diseño del modelado de 3D, diagrama esquemático del circuito, lista de materiales, entre otros.
 -	Software: El código fuente del software, documentación sobre como utilizar el software, entre otros. 
 
