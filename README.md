@@ -26,10 +26,10 @@ Millones de peruanos acceden a agua potable a través de camiones cisternas. | F
 -	[FdD](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/main/FdD): Actividades del curso como entregables, hitos e informes.
 
 ## Participantes:
-- Jefferson Juvenal Huiza Quispe jefferson.huiza@upch.pe  
-- Lizzeth Rossmery Quispe Mamani lizzeth.quispe@upch.pe  
-- Nardy Liz Condori Mamani  nardy.condori@upch.pe                                
-- Edithson Ricardo Aybar Escobar  edithson.aybar@upch.pe 
+- Jefferson Juvenal Huiza Quispe                           jefferson.huiza@upch.pe  
+- Lizzeth Rossmery Quispe Mamani (Representante del grupo) lizzeth.quispe@upch.pe  
+- Nardy Liz Condori Mamani                                 nardy.condori@upch.pe                                
+- Edithson Ricardo Aybar Escobar                           edithson.aybar@upch.pe 
 
 Si deseas saber más sobre nosotros, ingresa al siguiente link:
 
