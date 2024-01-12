@@ -33,7 +33,11 @@ Si deseas saber más sobre nostros, ingresa al siguiente link:
 
 ## Docentes_del_curso:
 **- Harry Anderson Rivera Tito** harry.rivera@upch.pe
+
 **- Paulo Camilo Alberto Vela Anton** paulo.vela@upch.pe
+
 **- Moises Stevend Meza Rodriguez** moises.mezaupch.pe
+
 **- Renzo Jose Chan Rios** renzo.chan@upch.pe
+
 **- Juan Manuel Zuñiga Mamani** juan.zuniga@upch.pe
