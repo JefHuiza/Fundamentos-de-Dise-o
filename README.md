@@ -31,7 +31,7 @@ Millones de peruanos acceden a agua potable a través de camiones cisternas. | F
 - Edithson Ricardo Aybar Escobar  edithson.aybar@upch.pe 
 
 Si deseas saber más sobre nosotros, ingresa al siguiente link:
-https://github.com/Edithson1/Fundamentos-de-Dise-o/blob/main/FdD/Entregables/README.md
+https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/main/FdD/Entregables/Sobre_nosotros.md
 ## Docentes_del_curso:
 - Harry Anderson Rivera Tito
 - Paulo Camilo Alberto Vela Anton
