@@ -23,7 +23,7 @@ Millones de peruanos acceden a agua potable a través de camiones cisternas. | F
 -	[Documentos](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/main/Documentos): Documentos en formato de pdf y/o imagenes  relacionados al tema a presentar en el proyecto. 
 -	[Hardware](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/main/Hardware): El archivo de diseño del modelado de 3D, diagrama esquemático del circuito, lista de materiales, entre otros.
 -	[Software](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/main/Software): El código fuente del software, documentación sobre como utilizar el software, entre otros.
--	[FdD](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/main/FdD):Actividades del curso como entregables, hitos e informes.
+-	[FdD](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/main/FdD): Actividades del curso como entregables, hitos e informes.
 
 ## Participantes:
 - Jefferson Juvenal Huiza Quispe jefferson.huiza@upch.pe  
