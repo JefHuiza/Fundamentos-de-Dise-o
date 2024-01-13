@@ -33,7 +33,7 @@ Millones de peruanos acceden a agua potable a través de camiones cisternas. | F
 
 Si deseas saber más sobre nosotros, ingresa al siguiente link:
 
-[Enlace a Sobre Nosotros](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/main/FdD/Entregables/Sobre_nosotros.md)
+[Enlace a Sobre Nosotros](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/main/Fundamentos_de_Dise%C3%B1o/Entregables/Sobre_nosotros.md)
 ## Docentes_del_curso:
 - Harry Anderson Rivera Tito
 - Paulo Camilo Alberto Vela Anton
