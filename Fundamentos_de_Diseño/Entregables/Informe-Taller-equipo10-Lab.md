@@ -1,5 +1,5 @@
 
-#Informe de Laboratorio N° 2: Introducción a los Equipos e Instrumentos del Laboratorio
+# Informe de Laboratorio N° 2: Introducción a los Equipos e Instrumentos del Laboratorio
 
 **II. Materiales y Equipos**
 
@@ -52,10 +52,3 @@ Como se puede apreciar en las imagenes de este experimento, estan los valores aj
 ![Imagen de WhatsApp 2024-01-12 a las 23 24 10_b530b7ca](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/ee33a967-59d8-4f71-ab0b-d56171c47837)
 ![Imagen de WhatsApp 2024-01-12 a las 23 24 10_5661e372](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/917197ce-424b-45cb-9825-21665390d551)
 ![Imagen de WhatsApp 2024-01-12 a las 23 24 10_e9096480](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/4f9cd0e1-9178-4d57-aa86-1697a4815dc3)
-**V. Conclusión**
-
-En la conclusión, resume tus hallazgos y discute su importancia. También puedes hablar sobre lo que aprendiste de la experiencia y cómo se relaciona con tus objetivos de aprendizaje.
-
-**VI. Referencias**
-
-Si utilizaste alguna fuente de información adicional, asegúrate de citarla correctamente aquí.
