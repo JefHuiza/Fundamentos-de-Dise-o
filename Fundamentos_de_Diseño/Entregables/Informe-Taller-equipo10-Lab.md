@@ -1,5 +1,5 @@
 
-Informe de Laboratorio N° 2: Introducción a los Equipos e Instrumentos del Laboratorio
+#Informe de Laboratorio N° 2: Introducción a los Equipos e Instrumentos del Laboratorio
 
 **I. Introducción**
 
