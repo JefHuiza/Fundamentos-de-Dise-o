@@ -1,13 +1,9 @@
 
 #Informe de Laboratorio N° 2: Introducción a los Equipos e Instrumentos del Laboratorio
 
-**I. Introducción**
-
-En esta sección, proporciona una breve descripción general de lo que se realizó en el laboratorio. Puedes incluir los objetivos específicos de la práctica.
-
 **II. Materiales y Equipos**
 
-Lista todos los equipos y materiales que utilizaste en el laboratorio, tal como lo has hecho en tu guía.
+Lista todos los equipos y materiales que utilizamos en este laboratorio fueronlos siguientes: Fuentes de alimantación regulable, multimetro digital, generador de señales, osciloscopio digital, cable BNC Male-Male, punta de osciloscopio con conector BBNC (Male) y un par de cables cocodrilos.
 
 **III. Procedimientos**
 
