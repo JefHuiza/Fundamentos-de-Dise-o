@@ -43,10 +43,10 @@ Resultados finales luego de resolver los problemas vistos anteriormente:
 ### Experimento con oscilador de señales y osciloscopio:
 Como se puede apreciar en las imagenes de este experimento, estan los valores ajustados de las graficas, el valor de la amplitud, de la frecuencia, y a partir del periodo obetenido en al ultima imagen, podemos calcular la frecuencia  y a su ves el error relativo que tuvo el experimento.
 #### frecuencia:
-valor real = (1/104)*1000000=9615 Hz
-valor base = 10000 Hz
-error absoluto = 385 Hz
-error relativo = 385*100/9615 = 4.00
+- valor real = (1/104)*1000000=9615 Hz
+- valor base = 10000 Hz
+- error absoluto = 385 Hz
+- error relativo = 385*100/9615 = 4.00
 
 
 ![Imagen de WhatsApp 2024-01-12 a las 23 24 10_b530b7ca](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/ee33a967-59d8-4f71-ab0b-d56171c47837)
