@@ -23,7 +23,7 @@
 ### Experimento con oscilador de señales y osciloscopio:
 
 - Encendimos el Generador de Señales y el Osciloscopio. 
-- Configuramos el Generador para una señal sinusoidal de 1 KHz, 5V de amplitud y 0V de offset. 
+- Configuramos el Generador para una señal sinusoidal de 10 KHz, 2.5V de amplitud y 0V de offset. 
 - Conectamos el Generador al canal 1 del Osciloscopio. 
 - Ajustamos la visualización con controles de Posición y Disparo. 
 - Calculamos Amplitud y Periodo usando cursores del osciloscopio.
@@ -42,7 +42,7 @@ Resultados finales luego de resolver los problemas vistos anteriormente:
 
 ### Experimento con oscilador de señales y osciloscopio:
 Como se puede apreciar en las imagenes de este experimento, estan los valores ajustados de las graficas, el valor de la amplitud, de la frecuencia, y a partir del periodo obetenido en al ultima imagen, podemos calcular la frecuencia  y a su ves el error relativo que tuvo el experimento.
-###Amplitud
+### Amplitud
 - valor real=2.5
 - valor base=2.4
 - valor absoluto =0.1
