@@ -1,64 +1,39 @@
-# Fundamentos de Diseño - Grupo 10
+# ¡Bienvenidos a AmbienteTech!
 
-Hola, bienvenidos al equipo 10 del curso de Fundamentos de Diseño, somos estudiantes de la Universidad Peruana Cayetano Heredia interesados en ayudar a reducir el impacto ambiental usando la tecnología a nuestro favor creando soluciones a las diferentes problemáticas. 
+Me complace darles la bienvenida a AmbienteTech, somos un grupo de estudiantes de la Universidad Peruana Cayetano Heredia que realizamos un proyecto de creación de IoT como solución a un problema ambiental relacionado a un Objetivo de Desarrollo Sostenible (ODS). Este proyecto es una oportunidad única para nosotros como estudiantes para poder aplicar todos nuestros conocimientos adquiridos de Ingeniería Ambiental e Ingeniería Informática buscando resolver un problema real que afecta a nuestro País. 
 
-En este repositorio de desarrollará el proyecto, donde buscamos crear soluciones tecnológicas con respecto a una de las problemáticas de uno de los Objetivos de Desarrollo Sostenible (ODS) relacionados con el medio ambiente, donde se realizará una profunda investigación con respaldo de diferentes fuentes confiables.
+El tema del proyecto es de suma importancia ya que contaminación ambiental es un problema global que tiene impactos negativos en la salud y el medio ambiente. Por ello, nosotros como estudiantes buscamos aportar por lo menos con un granito creando una solución que ayude al planeta y mejorar la calidad de vida de nuestra población.
 
 
-## tabla de contenidos
-- [Descripción](#descripción)
+## Tabla de contenidos
+- [Descripción del problema](#descripción_del_problema)
+- [Descripición de los archivos](#descripición_de_los_archivos)
 - [Participantes](#participantes)
 - [Docentes del curso](#docentes_del_curso)
 
-## Descripción:
+## Descripción_del_problema 
 
--	Documentos: Documentos en formato de pdf y/o Word relacionados al tema a tratar, donde se presentará el nombre del proyecto, propósito, problemática, entre otros. 
--	Hardware: El archivo de diseño del modelado de 3D, diagrama esquemático del circuito, lista de materiales, entre otros.
--	Software: El código fuente del software, documentación sobre como utilizar el software, entre otros. 
+El Perú tiene una escasez de agua en muchas partes del país, especialmente en las zonas rurales y desérticas. Esta escasez se debe a la combinación de factores, como el cambio climático, la sequía y la sobreexplotación de los recursos hídricos. Siendo un problema de mucha preocupación ya que es ser humano vive del agua sin agua no es posible nuestra existencia, por ello nosotros nos enfocado en dicha problemática para buscar una solución. La problemática mencionada hace referencia a un problema del objetivo 6 de la ODS. 
+
+![Imagen de WhatsApp 2024-01-11 a las 21 20 21_39e83d44](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/0aa1cf80-5955-49b1-9f62-8239b605e96a)
+Millones de peruanos acceden a agua potable a través de camiones cisternas. | Fuente: RPP / Foto: Andina
+
+## Descripición_de_los_archivos
+
+-	[Documentos](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/main/Documentos): Documentos en formato de pdf y/o imagenes  relacionados al tema a presentar en el proyecto. 
+-	[Hardware](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/main/Hardware): El archivo de diseño del modelado de 3D, diagrama esquemático del circuito, lista de materiales, entre otros.
+-	[Software](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/main/Software): El código fuente del software, documentación sobre como utilizar el software, entre otros.
+-	[FdD](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/main/FdD): Actividades del curso como entregables, hitos e informes.
 
 ## Participantes:
-**- Jefferson Juvenal Huiza Quispe**
+- Jefferson Juvenal Huiza Quispe                           jefferson.huiza@upch.pe  
+- Lizzeth Rossmery Quispe Mamani (Representante del grupo) lizzeth.quispe@upch.pe  
+- Nardy Liz Condori Mamani                                 nardy.condori@upch.pe                                
+- Edithson Ricardo Aybar Escobar                           edithson.aybar@upch.pe 
 
-Estudiante del cuarto año de la carrera de Ingeniería Ambiental, interesado en el desarrollo de proyectos sostenibles.
+Si deseas saber más sobre nosotros, ingresa al siguiente link:
 
-  **Coordinador de diseño y modelado 3D**
-                 
-Encargado del diseño y el modelamiento del prototipo en 3D a desarrollar.
-
-  jefferson.huiza@upch.pe  
-  
-**- Lizzeth Rossmery Quispe Mamani**
-
-Estudiante de tercer año de la carrera de Ingeniería Ambiental, interesada en la problemáticas de desastres medio ambientales.
-
- **Coordinadora del área de redacción e investigación**
- 
-Encargada de la búsqueda y verificación de la información recopilada con sus respectivas referencias. Asimismo, de la edición y redacción.
-
-   lizzeth.quispe@upch.pe
-   
-**- Nardy Liz Condori Mamani** 
-
-Estudiante de tercer año de la carrera de Ingeniería Informática, interesada en la conservación de especies en el medio ambiente.
-
-   **Coordinadora del proyecto y diseño de software**
-   
-Encargada en la gestión de los avances del proyecto y el desarrollo del softmware.
-
-   nardy.condori@upch.pe 
-                                 
-**- Edithson Ricardo Aybar Escobar**
-
-Estudiante del tercer año de la carrera de Ingeniería Informática, interesado la remediación y/o mitigación de los impactos ambientales.
-
-   **Coordinador del área de electrónica**
-                         
-Encargado de la electrónica del prototipo, como el diseño del esquema del circuito e implementación.
-
-   edithson.aybar@upch.pe 
-
-![proyectos-de-ingenieria-que-estan-salvando-el-medio-ambiente-1](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/503391b9-49a3-46ca-b221-0375698d46bb)
-
+[Enlace a Sobre Nosotros](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/main/FdD/Entregables/Sobre_nosotros.md)
 ## Docentes_del_curso:
 - Harry Anderson Rivera Tito
 - Paulo Camilo Alberto Vela Anton
