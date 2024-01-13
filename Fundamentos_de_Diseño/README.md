@@ -4,4 +4,4 @@ La carpeta lleva de nombre Fundamentos de Diseño, esta contiene una subcarpeta 
 
 Los entregables se subdividen a las vez las siguientes secciones:
 
-- Sobre_nosotros.md  <link rel="stylesheet" href="Sobre_nosotros.md">
+- [Sobre nosotros](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/main/Fundamentos_de_Dise%C3%B1o/Entregables/Sobre_nosotros.md)
