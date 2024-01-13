@@ -32,7 +32,7 @@
 
 ### Experimento de medicion de voltaje, desde 5V hasta 14V:
 
-Primeros resultados, donde se aprecia un error relativo demasiado grande, esto debido a complicaciones con uno de los equipos de laboratorio, la fuente de alimentacion regulable.
+Primeros resultados, donde se aprecia un error relativo demasiado grande, esto debido a complicaciones con uno de los equipos de laboratorio.
 ![Imagen de WhatsApp 2024-01-12 a las 23 24 22_31ad227f](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/b941d2d4-662d-48f0-96c4-8d7388bf08ee)
 ![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/2229c801-946d-4d65-85bb-b7d4a360713d)
 
