@@ -49,17 +49,6 @@ Fuente: Informe sobre el desarrollo de los recursos hídricos en el mundo. Progr
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 La demanda está creciendo y el consumo excesivo es la norma
 Para el 2030 se espera que el uso del agua aumente en un 40% gracias a una combinación de factores como el cambio climático, la acción humana y el crecimiento demográfico, aunque hoy en día ya es excesivo en algunas ciudades (FAO).
 ![Imagen6](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/b0e52c15-b073-4178-8679-e9ba28d89c50)
@@ -77,7 +66,7 @@ Para el 2030 se espera que el uso del agua aumente en un 40% gracias a una combi
  
 4.	La calidad del agua también se ve afectada por el cambio climático, ya que se prevé que las temperaturas más altas del agua y las inundaciones y sequías más frecuentes agraven muchas formas de contaminación del agua, desde sedimentos hasta patógenos y pesticidas (IPCC).
 
-
+![Imagen7](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/e0af07c4-3e2d-47c6-9b36-2103fe4e3612)
  
 Fuente (Panel Intergubernamental del Cambio Climático, IPCC): Mapa representativo de los efectos del cambio climático futuro en el agua dulce que amenazan el desarrollo sostenible de las regiones afectadas. Los antecedentes muestran el cambio en la media de la escorrentía anual, reflejada en %, entre el presente (1981-2000) y 2081-2100 para el escenario de emisiones; el color azul indica aumento de la escorrentía, y el rojo disminución de la escorrentía.
 
