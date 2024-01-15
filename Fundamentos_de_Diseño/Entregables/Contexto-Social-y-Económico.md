@@ -17,6 +17,9 @@ de 3.5 millones de habitantes que ocuparon alrededor de 940,000 viviendas. Este 
 2000, según indican Espinoza y Fort (2020). Este fenómeno ha tenido repercusiones notables en los Humedales Villa Chorrillos, manifestándose en cambios sustanciales 
 en las características fisicoquímicas del agua y, como consecuencia, afectando la biodiversidad y los hábitats de esta área.
 
+![presión](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/db47ab0c-a10a-46de-ac06-1701355d71de)
+
+
 # Contexto Económico
 ## Contexto mundial
 
