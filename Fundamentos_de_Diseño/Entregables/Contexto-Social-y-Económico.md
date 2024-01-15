@@ -180,20 +180,31 @@ Fuente: Aquafondo, 2020
 Fuente: Stakeholders, 2020
 
 # Referencias
+## Bibliografía:
+- Agua en el planeta. (2017, marzo 17). Agua.org.mx. https://agua.org.mx/en-el-planeta/
+  
+- Arroyo, V., Ballestero, M., & Mejía, A. (2015). Inseguridad Económica del Agua en Latinoamérica: de la abundancia a la inseguridad. https://scioteca.caf.com/handle/123456789/787
+  
 - Bonifaz, J. L., & Aragón, G. (2008). Sobrecostos por la falta de infraestructura en agua potable: una aproximación empírica. https://repositorio.up.edu.pe/handle/11354/345
+  
+- BIRF. (28 de Julio del 2023). Panorama general del agua [Data set]. https://doi.org/worldbank.org
+
+- BIRF. (05 de oct de 2022). Banco Mundial – Desarrollo sostenible, resiliencia y crecimiento económico. Entiendo la pobreza. https://www.bancomundial.org/es/home
+  
 - Cogorno Ventura, G. R. (2019). Caos hídrico: el acceso al agua en el humedal “Los Pantanos de Villa” en Chorrillos, (Lima) https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/18156
-- Vda, R. R. C. Z. (2022). Expansión urbana y sostenibilidad de humedales naturales. Caso: Humedales de Villa, Chorrillos, Lima, Perú 2010-2020. 
-
-Bibliografía:
-
--	National Geographic. (2024). ESCASEZ DE AGUA: UNO DE LOS MAYORES DESAFÍOS DEL SIGLO XXI. En Org.pe. Susan Goldberg. https://www.nationalgeographic.com.es/ciencia/propiedades-que-hacen-que-agua-sea-tan-especial_14052
-
--	BIRF. (28 de Julio del 2023). Panorama general del agua [Data set]. https://doi.org/worldbank.org
+  
+- Esparza, M. (2014). La sequía y la escasez de agua en México: Situación actual y perspectivas futuras. Secuencia, (89), 193-219. https://www.scielo.org.mx/scielo.php?pid=S0186-03482014000200008&script=sci_arttext
+  
+- Eche, D. (2018). Migración y renovación generacional en la agricultura familiar indígena: estudio de caso Otavalo-Ecuador. Siembra, 5(1), 1-15.
+  
+- National Geographic. (2024). ESCASEZ DE AGUA: UNO DE LOS MAYORES DESAFÍOS DEL SIGLO XXI. En Org.pe. Susan Goldberg. https://www.nationalgeographic.com.es/ciencia/propiedades-que-hacen-que-agua-sea-tan-especial_14052
+  
+- 	Nieto, N. (2011). La gestión del agua: tensiones globales y latinoamericanas. Política y cultura, (36), 157-176. https://www.scielo.org.mx/scielo.php?pid=S0188-77422011000200007&script=sci_arttext
+  
+- 	Maripaz. (2019). La escasez de agua y sus efectos sobre la economía global – Natural Capital Summit. https://naturalcapitalsummit.com/2016/08/24/la-escasez-de-agua-y-sus-efectos-sobre-la-economia-global/
+  
+- Oppliger, A., Höhl, J., & Fragkou, M. (2019). Escasez de agua: develando sus orígenes híbridos en la cuenca del Río Bueno, Chile. Revista de Geografía Norte Grande, (73), 9-27. https://www.scielo.cl/scielo.php?pid=S0718-34022019000200009&script=sci_arttext
   
 -	UNESCO. (2015, diciembre 11). Abordar la escasez y la calidad del agua. https://es.unesco.org/themes/garantizar-suministro-agua/hidrologia/escasez-calidad
   
--	Agua en el planeta. (2017, marzo 17). Agua.org.mx. https://agua.org.mx/en-el-planeta/
-  
--	Maripaz. (2019). La escasez de agua y sus efectos sobre la economía global – Natural Capital Summit. https://naturalcapitalsummit.com/2016/08/24/la-escasez-de-agua-y-sus-efectos-sobre-la-economia-global/
-  
--	BIRF. (05 de oct de 2022). Banco Mundial – Desarrollo sostenible, resiliencia y crecimiento económico. Entiendo la pobreza. https://www.bancomundial.org/es/home
+- Vda, R. R. C. Z. (2022). Expansión urbana y sostenibilidad de humedales naturales. Caso: Humedales de Villa, Chorrillos, Lima, Perú 2010-2020. 
