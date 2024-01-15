@@ -12,9 +12,7 @@ en términos de contaminación. Esta situación representa un riesgo significati
 agua de fuentes diversas y no siempre seguras. Además, se agrava la problemática al constatar que los tanques no son desinfectados de manera regular, lo que 
 facilita la acumulación de bacterias y otros contaminantes.
 
-![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/3b7bd2e8-cb0f-48a0-bbbe-d103f51027f1)
 
-Fuente: Stakeholders, 2020
 
 
 - En el lapso comprendido entre 2001 y 2018 en el Perú, se registró un aumento significativo de 68,000 hectáreas de nuevo suelo urbano, con una población adicional 
@@ -40,4 +38,11 @@ en las características fisicoquímicas del agua y, como consecuencia, afectando
   de agua en comparación con lo que obtendrían mediante una conexión domiciliaria, y todo ello a un costo más elevado. Esta realidad no solo implica una pérdida
   de eficiencia económica, ya que se consume menos agua a un precio más alto, sino que también destaca la importancia crítica de mejorar la infraestructura de servicios
   hídricos para garantizar un acceso equitativo y eficiente al recurso vital.
+  
+![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/2ec5ed81-9172-402f-b12b-fed1c994276e)
 
+Fuente: Aquafondo, 2020
+  
+![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/3b7bd2e8-cb0f-48a0-bbbe-d103f51027f1)
+
+Fuente: Stakeholders, 2020
