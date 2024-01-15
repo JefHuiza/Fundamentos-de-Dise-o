@@ -15,28 +15,11 @@ Fuente: Arne Hoel, miembro del Banco Mundial BIRF
 
 Fuente: Banco Mundial, BIRF
 
-
-
-
-
-
-
 “Entre 2.000 y 3.000 millones de personas sufren escasez de agua durante al menos un mes al año, lo que supone graves riesgos para sus medios de subsistencia, en particular la seguridad alimentaria y el acceso a la electricidad. Se prevé que la población urbana mundial que sufre escasez de agua se duplique, pasando de 930 millones en 2016 a 1.700-2.400 millones de personas en 2050. La creciente incidencia de sequías extremas y prolongadas también está estresando los ecosistemas, con consecuencias nefastas para las especies vegetales y animales”, (UNESCO, marzo de 2023).
 
 ![Imagen4](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/3ca3326a-bc31-49d5-b4fc-4d4d3f868431)
  
 Fuente: Unesco, marzo del 2023
-
-
-
-
-
-
-
-
-
-
-
 
 Estrés hídrico y escasez de agua:
 Según el Programa Mundial de Evaluación de los Recursos Hídricos (WWAP), los hidrólogos miden la escasez de agua a través de la relación agua/población. Una zona experimentará estrés hídrico cuando su suministro anual de agua caiga por debajo de los 1.700 m3 por persona. Cuando ese mismo suministro anual cae por debajo de los 1.000 m3 por persona, entonces se habla de escasez de agua. Y de escasez absoluta de agua cuando la tasa es menor a 500 m3.
@@ -45,22 +28,15 @@ Según el Programa Mundial de Evaluación de los Recursos Hídricos (WWAP), los 
  
 Fuente: Informe sobre el desarrollo de los recursos hídricos en el mundo. Programa Mundial de Evaluación de los Recursos Hídricos (WWAP).
 
-
-
-
-
 La demanda está creciendo y el consumo excesivo es la norma
 Para el 2030 se espera que el uso del agua aumente en un 40% gracias a una combinación de factores como el cambio climático, la acción humana y el crecimiento demográfico, aunque hoy en día ya es excesivo en algunas ciudades (FAO).
 ![Imagen6](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/b0e52c15-b073-4178-8679-e9ba28d89c50)
 
- 
-
-¿Cómo afecta el cambio climático a la escasez de agua?
+ ¿Cómo afecta el cambio climático a la escasez de agua?
 
 1.	Se prevé que los suministros de agua almacenados en los glaciares y la capa de nieve disminuyan aún más durante este siglo, lo que reducirá la disponibilidad de agua durante los períodos cálidos y secos en las regiones abastecidas por el agua derretida de las principales cadenas montañosas (IPCC).
 
 2.	Se prevé que el aumento del nivel del mar amplíe la salinización de las aguas subterráneas, disminuyendo la disponibilidad de agua dulce para los seres humanos y los ecosistemas presentes en las zonas costeras (IPCC).
-
 
 3.	Limitar el calentamiento global a 1,5 °C en vez de hacerlo a 2 °C reduciría aproximadamente a la mitad la proporción de la población mundial que se espera que sufra escasez de agua, aunque cabe destacar que existe una variabilidad considerable entre regiones (IPCC).
  
