@@ -202,6 +202,8 @@ Fuente: Stakeholders, 2020
 - 	Maripaz. (2019). La escasez de agua y sus efectos sobre la economía global – Natural Capital Summit. https://naturalcapitalsummit.com/2016/08/24/la-escasez-de-agua-y-sus-efectos-sobre-la-economia-global/
   
 - Oppliger, A., Höhl, J., & Fragkou, M. (2019). Escasez de agua: develando sus orígenes híbridos en la cuenca del Río Bueno, Chile. Revista de Geografía Norte Grande, (73), 9-27. https://www.scielo.cl/scielo.php?pid=S0718-34022019000200009&script=sci_arttext
+ 
+- Ramírez, R. A. M., Yerovi, A. B. P., & Castro, D. A. T. (2017). La gobernanza del agua para riego en el Ecuador contemporáneo. Mikarimin. Revista Científica Multidisciplinaria. e-ISSN 2528-7842, 3(1), 09-24. https://core.ac.uk/download/pdf/235988438.pdf
   
 -	UNESCO. (2015, diciembre 11). Abordar la escasez y la calidad del agua. https://es.unesco.org/themes/garantizar-suministro-agua/hidrologia/escasez-calidad
   
