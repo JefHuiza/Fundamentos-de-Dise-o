@@ -86,7 +86,12 @@ México es uno de los países de Latinoamérica que cuenta con ríos y lagos imp
 ![Imagen de WhatsApp 2024-01-15 a las 03 14 59_b4ca4e39](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/c82ccdda-846c-461b-a864-a3695d954b12)
 
 **Imagen 5**. México: sobreexplotación de acuíferos por región administrativa. 2008. Fuente: CONAGUA,2010
+
 ## Nivel nacional
+
+El Perú es considerado uno de los países con una gran riqueza natural, pero también hoy en día con un grave problema de escasez de agua. Según la United Nations Office for Project Servicies (UNOPS) [1] menciona que estos problemas se deben al uso indebido durante estos años de los recursos hídricos por parte de la industria fabril, los efectos del cambio climático, crecimiento poblacional y prácticas inadecuadas en la agricultura, siendo obstáculos para un desarrollo sostenible. Además, existe una mala gestión en la distribución del agua a nivel nacional. 
+Durante estos últimos años se ha ido evidenciado el aumento y la preocupación de la escasez hídrica en el Perú, ante esta situación el Poder Ejecutivo declaró en estado de emergencia algunas provincias de los departamentos de Áncash, Apurímac, Arequipa, Ayacucho, Cusco, Huancavelica, Huánuco, Ica, Junín, La Libertad, Lima, Pasco, Puno y Tacna por peligro inminente ante déficit hídrico como consecuencia del posible Fenómeno El Niño 2023-2024. A	demás según CENEPRED en el informe de Escenario de riesgo por déficit hídrico ante condiciones el niño para el periodo de lluvias 2023 – 2024 señala que los departamentos con muy alto peligro por déficit hídrico son Puno, Ayacucho, Arequipa, Moquegua, Tacna y Cusco siendo una información muy preocupante ya que los dichos departamentos dependen de la agricultura. 
+
 
 ### Lima
 - La escasez de agua ha llevado al gobierno a asumir la responsabilidad de distribuir el recurso para satisfacer la demanda de la población. Sin embargo, se 
@@ -106,6 +111,19 @@ de 3.5 millones de habitantes que ocuparon alrededor de 940,000 viviendas. Este 
 en las características fisicoquímicas del agua y, como consecuencia, afectando la biodiversidad y los hábitats de esta área.
 
 ![presión](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/db47ab0c-a10a-46de-ac06-1701355d71de)
+
+###Arequipa
+Según un reciente informe del Ministerio de Vivienda, Construcción y Saneamiento (MVCS) , la región de Arequipa se encuentra en una situación de emergencia hídrica. El informe señala que la región cuenta con una disponibilidad promedio de agua de 1.000 metros cúbicos por habitante al año, que es inferior a la media nacional, que es de 1.200 metros cúbicos por habitante al año, siendo una diferencia muy preocupante. 
+Tabla 01: Demanda de agua para uso poblacional, Cuenca Quilca Chili
+
+Fuente: Tomado del Plan de Gestión de Recursos Hídricos de la Cuenca (2014)
+
+Por otro lado, según un estudio meteorológico sobre los efectos del cambio climático en los próximos 40 años reveló que entre los años 2023 y 2024 habrá una escasez de agua en la región de Arequipa [3], ante ello el gerente regional de Agricultura, José Paredes Sánchez, ha recomendado a los agricultores de la región que utilicen solo el 70% de sus tierras como medida provisional. Pero tener en cuenta que la región cuenta con 130 mil hectáreas de cultivo, y aproximadamente 20 mil hectáreas deberían quedar sin cultivar, lo que representa el 30%.
+Pero, por otra parte, es muy importante tomar en cuenta que la agricultura es una actividad que genera un mayor uso de mano laboral, dando oportunidad de trabajo a los sectores más pobres de la región, el suministro de agua afecta directamente en la cantidad de empleo que se usa. Lo que significa una decisión razonable por estos problemas, pero no considero para los trabajadores de dicho sector. 
+
+Tabla 02: Demanda de agua agropecuaria
+
+Fuente: Plan de gestión de Recursos Hídricos de la Cuenca
 
 
 # Contexto Económico
@@ -162,6 +180,9 @@ Según Arroyo Victor (2015) en México el 77% de la población, el 88% de la act
 
 ## Nivel nacional
 
+El Producto Interno Bruto (PIB) del país creció a una tasa promedio de 4,6% entre 2010 y 2022, alcanzando un valor de 216.000 millones de dólares en 2022. Este crecimiento económico se ha impulsado por el aumento de la demanda interna, la inversión extranjera directa y las exportaciones. La demanda interna ha crecido impulsada por el aumento del consumo de los hogares y las empresas. La inversión extranjera directa ha crecido gracias a la estabilidad macroeconómica del país y a las oportunidades de inversión en sectores como la minería, la energía, y el turismo. Las exportaciones han crecido gracias a la demanda de los mercados internacionales de los productos peruanos, como el cobre, el oro, el zinc y el café.
+Sin embargo, este crecimiento económico se enfrenta a una serie de desafíos, entre los que se encuentran la escasez de agua siendo un problema que afecta a muchas regiones del Perú en especial aquellas que dependen de la agricultura lo que generaría un decrecimiento económico en el país. El crecimiento de la agricultura en la última década ha sido robusto a un ritmo de 3.3% anual, y ha permitido que muchos productos peruanos sean competitivos en los mercados internacionales. “En definitiva el crecimiento del sector agrícola ayuda a diversificar la economía y reducir la dependencia en las industrias extractivas no renovables, y puede ser un gran impulsor de la reducción de la pobreza en el Perú.” afirmó Alberto Rodríguez, director del Banco Mundial para Bolivia, Chile, Ecuador Perú y Venezuela.
+
 
 ### Lima
 - Debido a la carencia de una infraestructura adecuada en los servicios hídricos de ciertas áreas en Lima, los residentes se ven obligados a recurrir
@@ -178,6 +199,19 @@ Fuente: Aquafondo, 2020
 ![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/3b7bd2e8-cb0f-48a0-bbbe-d103f51027f1)
 
 Fuente: Stakeholders, 2020
+
+###Arequipa 
+La escasez de agua en Arequipa tiene un impacto negativo en la economía regional. El sector agrícola es el más afectado, ya que la agricultura representa el 13% del PBI regional. La escasez de agua está afectando a la productividad agrícola, lo que está reduciendo los ingresos de los agricultores y las exportaciones agrícolas.
+El sector agrario es el que consume la mayor cantidad de agua en un área agrícola de 47 081 has, esta actividad utiliza 1041,40 millones de metros cúbicos. Sin embargo, hay que hacer notar que solo 671,15 millones de metros cúbicos se encuentran con licencia de uso de agua, el resto es utilizado sin la formalidad de la licencia. Uno de los sembríos más representativos en el Departamento de Arequipa es la alfalfa (30 % de la superficie agrícola cultivada) que es sembrado con fines forrajeros, pero es uno de los sembríos con un uso intensivo de agua, otros sembríos son el ajo, la cebolla, la papa y hortalizas.
+
+Producción Agrícola Nacional y de Arequipa
+
+Fuente: Instituto Nacional de Estadística e Informática- DNCN (mayo 2016)
+
+El agua es importante para diversas actividades en la minería, la minería formal consume en la actualidad 46,46 millones de metros cúbicos de agua de fuentes naturales y 31,53 millones de agua de reúso proveniente de las aguas tratadas de la ciudad de Arequipa.
+
+
+La minería en la región Arequipa ha generado un valor agregado que representa el 26 % durante el periodo 2007 al 2014, esta participación corresponde solo a las actividades primarias (extracción de minerales y obtención de concentrados), sin considerar el efecto indirecto por la demanda de bienes y servicios conexos (bienes industriales intermedios, transporte, comunicaciones, agua, electricidad y otros).  
 
 # Referencias
 ## Bibliografía:
