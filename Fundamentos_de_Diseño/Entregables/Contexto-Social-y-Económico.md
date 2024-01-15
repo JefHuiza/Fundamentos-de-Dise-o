@@ -195,8 +195,6 @@ Fuente: Stakeholders, 2020
   
 - Esparza, M. (2014). La sequía y la escasez de agua en México: Situación actual y perspectivas futuras. Secuencia, (89), 193-219. https://www.scielo.org.mx/scielo.php?pid=S0186-03482014000200008&script=sci_arttext
   
-- Eche, D. (2018). Migración y renovación generacional en la agricultura familiar indígena: estudio de caso Otavalo-Ecuador. Siembra, 5(1), 1-15.
-  
 - National Geographic. (2024). ESCASEZ DE AGUA: UNO DE LOS MAYORES DESAFÍOS DEL SIGLO XXI. En Org.pe. Susan Goldberg. https://www.nationalgeographic.com.es/ciencia/propiedades-que-hacen-que-agua-sea-tan-especial_14052
   
 - 	Nieto, N. (2011). La gestión del agua: tensiones globales y latinoamericanas. Política y cultura, (36), 157-176. https://www.scielo.org.mx/scielo.php?pid=S0188-77422011000200007&script=sci_arttext
