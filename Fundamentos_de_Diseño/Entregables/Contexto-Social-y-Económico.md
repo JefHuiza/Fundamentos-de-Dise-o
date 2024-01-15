@@ -155,7 +155,10 @@ Un tercio de la población chilena vive en Santiago y produce el 42 % del PIB, o
 
 ### **México**
 Según Arroyo Victor (2015) en México el 77% de la población, el 88% de la actividad económica y el 82 % del área irrigada se centran en las altiplanicies central y norte con más de 1000 m de elevación, mientras que el 72% de la disponibilidad hídrica se encuentra al sur del país muy por debajo de dicha altitud( Figur 1). Los principales impulsores financieros de la población son particularmente de la concentración de las inversiones, por lo tanto el crecimiento económico en estas áreas  conlleva  a la creación de empleo en mejores condiciones de vida para la población mexicana.
-**Figura 4:** México. Aportes al PIB Nacional de las diferentes regiones hidrológicas administrativas y su relación con la disponibilidad hídrica. 2010. Fuente: :Estadísticas del Agua en México, 2010. CONAGUA
+
+![Imagen de WhatsApp 2024-01-15 a las 03 57 37_f7d5297e](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/265bcc2f-45ef-43b9-9be0-085e62d7ade0)
+
+**Figura 4:** México. Aportes al PIB Nacional de las diferentes regiones hidrológicas administrativas y su relación con la disponibilidad hídrica. Fuente: :Estadísticas del Agua en México, 2010. CONAGUA
 
 ## Nivel nacional
 
