@@ -50,8 +50,9 @@ Fuente (Panel Intergubernamental del Cambio Climático, IPCC): Mapa representati
 ## Contexto regional
 A lo largo de la historia de nuestro planeta, se ha llegado a evidenciar que vivimos en un mundo lleno de tensiones provocadas por la escasez de recursos hídricos que se presentan alrededor de todo el mundo. En años anteriores por los años 2000 el agua no era considerada como un factor de conflicto, pero actualmente ha llegado a convertirse en “el oro azul de este siglo” (Nieto, 2011). Por tales motivos, en esta sección te mencionaremos algunos países dentro de latinoamérica que cuentan con estos problemas de escasez de agua para su población.
 
-##En america del sur:
-###**ECUADOR**
+## En america del sur:
+
+### **ECUADOR**
 En los últimos años Ecuador se ha ido debilitando frente a la institucionalidad relacionada con el riego, por ende, no se logró priorizar un enfoque integral sobre el buen uso de este recurso, por tal motivo se identificó un incremento en la contaminación y disminución del recurso hídrico desde los años de 1990 hasta 2004 (Magap, 2012), además, de ello se pudo observar la mala gestión que tiene las políticas de este país, que provocaron un gran debilitamiento en el sector estatal, asimismo, la capacidad de controlar, regular y planificar el uso adecuado del agua (Ramírez, 2017). El estado ecuatoriano en los últimos años ha estado intentando equilibrar sus políticas frente a las cuestiones ambientales, donde reconocieron al agua como el principal factor limitante en la producción agrícola y alimentaria dentro del país, es decir, si la escasez aumenta puede llegar a agudizarse más de lo que ya está actualmente (Ramírez, 2017). Por tal motivo presentó un total del 82% de agua consumida en riego, por otro lado el 12% representa al consumo doméstico y finalmente el 6% al consumo industrial como lo muestra la imagen 1.
 
 **Imagen 1**: Uso del Agua en el Ecuador. Fuente: SENAGUA, 2017.
