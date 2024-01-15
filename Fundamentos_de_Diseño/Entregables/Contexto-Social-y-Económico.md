@@ -48,7 +48,7 @@ Fuente: Aquafondo, 2020
 Fuente: Stakeholders, 2020
 
 # Referencias
-Bonifaz, J. L., & Aragón, G. (2008). Sobrecostos por la falta de infraestructura en agua potable: una aproximación empírica. https://repositorio.up.edu.pe/handle/11354/345
-Cogorno Ventura, G. R. (2019). Caos hídrico: el acceso al agua en el humedal “Los Pantanos de Villa” en Chorrillos, (Lima) https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/18156
-Vda, R. R. C. Z. (2022). Expansión urbana y sostenibilidad de humedales naturales. Caso: Humedales de Villa, Chorrillos, Lima, Perú 2010-2020. 
+- Bonifaz, J. L., & Aragón, G. (2008). Sobrecostos por la falta de infraestructura en agua potable: una aproximación empírica. https://repositorio.up.edu.pe/handle/11354/345
+- Cogorno Ventura, G. R. (2019). Caos hídrico: el acceso al agua en el humedal “Los Pantanos de Villa” en Chorrillos, (Lima) https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/18156
+- Vda, R. R. C. Z. (2022). Expansión urbana y sostenibilidad de humedales naturales. Caso: Humedales de Villa, Chorrillos, Lima, Perú 2010-2020. 
 
