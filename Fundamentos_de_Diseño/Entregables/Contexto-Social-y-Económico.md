@@ -84,7 +84,9 @@ en términos de contaminación. Esta situación representa un riesgo significati
 agua de fuentes diversas y no siempre seguras. Además, se agrava la problemática al constatar que los tanques no son desinfectados de manera regular, lo que 
 facilita la acumulación de bacterias y otros contaminantes.
 
+![Consumo-de-agua-en-Lima_Mesa-de-trabajo-1-1024x645](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/3daf68ed-7825-4745-9e02-c57bf54de200)
 
+Fuente: Aquafondo, 2020
 
 
 - En el lapso comprendido entre 2001 y 2018 en el Perú, se registró un aumento significativo de 68,000 hectáreas de nuevo suelo urbano, con una población adicional 
