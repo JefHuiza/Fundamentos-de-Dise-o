@@ -92,6 +92,11 @@ México es uno de los países de Latinoamérica que cuenta con ríos y lagos imp
 El Perú es considerado uno de los países con una gran riqueza natural, pero también hoy en día con un grave problema de escasez de agua. Según la United Nations Office for Project Servicies (UNOPS) [1] menciona que estos problemas se deben al uso indebido durante estos años de los recursos hídricos por parte de la industria fabril, los efectos del cambio climático, crecimiento poblacional y prácticas inadecuadas en la agricultura, siendo obstáculos para un desarrollo sostenible. Además, existe una mala gestión en la distribución del agua a nivel nacional. 
 Durante estos últimos años se ha ido evidenciado el aumento y la preocupación de la escasez hídrica en el Perú, ante esta situación el Poder Ejecutivo declaró en estado de emergencia algunas provincias de los departamentos de Áncash, Apurímac, Arequipa, Ayacucho, Cusco, Huancavelica, Huánuco, Ica, Junín, La Libertad, Lima, Pasco, Puno y Tacna por peligro inminente ante déficit hídrico como consecuencia del posible Fenómeno El Niño 2023-2024. A	demás según CENEPRED en el informe de Escenario de riesgo por déficit hídrico ante condiciones el niño para el periodo de lluvias 2023 – 2024 señala que los departamentos con muy alto peligro por déficit hídrico son Puno, Ayacucho, Arequipa, Moquegua, Tacna y Cusco siendo una información muy preocupante ya que los dichos departamentos dependen de la agricultura. 
 
+Figura 01. Mapa de peligro por déficit hídrico ante condiciones El Niño para el periodo lluvioso 2023 – 2024
+
+![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/852bf88e-093b-43de-a876-88e278761afb)
+
+Fuente: SENAMHI 2023 y ANA 2023 Elaborado por CENEPRED
 
 ### Lima
 - La escasez de agua ha llevado al gobierno a asumir la responsabilidad de distribuir el recurso para satisfacer la demanda de la población. Sin embargo, se 
@@ -114,8 +119,10 @@ en las características fisicoquímicas del agua y, como consecuencia, afectando
 
 ###Arequipa
 Según un reciente informe del Ministerio de Vivienda, Construcción y Saneamiento (MVCS) , la región de Arequipa se encuentra en una situación de emergencia hídrica. El informe señala que la región cuenta con una disponibilidad promedio de agua de 1.000 metros cúbicos por habitante al año, que es inferior a la media nacional, que es de 1.200 metros cúbicos por habitante al año, siendo una diferencia muy preocupante. 
+
 Tabla 01: Demanda de agua para uso poblacional, Cuenca Quilca Chili
 
+![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/6a90d3ca-8fdb-4b9c-8707-368a3838f32c)
 Fuente: Tomado del Plan de Gestión de Recursos Hídricos de la Cuenca (2014)
 
 Por otro lado, según un estudio meteorológico sobre los efectos del cambio climático en los próximos 40 años reveló que entre los años 2023 y 2024 habrá una escasez de agua en la región de Arequipa [3], ante ello el gerente regional de Agricultura, José Paredes Sánchez, ha recomendado a los agricultores de la región que utilicen solo el 70% de sus tierras como medida provisional. Pero tener en cuenta que la región cuenta con 130 mil hectáreas de cultivo, y aproximadamente 20 mil hectáreas deberían quedar sin cultivar, lo que representa el 30%.
@@ -123,6 +130,7 @@ Pero, por otra parte, es muy importante tomar en cuenta que la agricultura es un
 
 Tabla 02: Demanda de agua agropecuaria
 
+![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/4fa9dbb2-ae03-47f5-8d86-5946bf0a6de3)
 Fuente: Plan de gestión de Recursos Hídricos de la Cuenca
 
 
@@ -206,10 +214,12 @@ El sector agrario es el que consume la mayor cantidad de agua en un área agríc
 
 Producción Agrícola Nacional y de Arequipa
 
+![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/a2f84be2-6174-4ec6-ae48-9e15b8553cbb)
 Fuente: Instituto Nacional de Estadística e Informática- DNCN (mayo 2016)
 
 El agua es importante para diversas actividades en la minería, la minería formal consume en la actualidad 46,46 millones de metros cúbicos de agua de fuentes naturales y 31,53 millones de agua de reúso proveniente de las aguas tratadas de la ciudad de Arequipa.
 
+![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/dcd527bb-7ac7-4890-aa91-528df64988f7)
 
 La minería en la región Arequipa ha generado un valor agregado que representa el 26 % durante el periodo 2007 al 2014, esta participación corresponde solo a las actividades primarias (extracción de minerales y obtención de concentrados), sin considerar el efecto indirecto por la demanda de bienes y servicios conexos (bienes industriales intermedios, transporte, comunicaciones, agua, electricidad y otros).  
 
