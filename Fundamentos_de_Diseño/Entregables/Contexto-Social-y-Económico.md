@@ -208,7 +208,7 @@ Fuente: Aquafondo, 2020
 
 Fuente: Stakeholders, 2020
 
-###Arequipa 
+### Arequipa 
 La escasez de agua en Arequipa tiene un impacto negativo en la economía regional. El sector agrícola es el más afectado, ya que la agricultura representa el 13% del PBI regional. La escasez de agua está afectando a la productividad agrícola, lo que está reduciendo los ingresos de los agricultores y las exportaciones agrícolas.
 El sector agrario es el que consume la mayor cantidad de agua en un área agrícola de 47 081 has, esta actividad utiliza 1041,40 millones de metros cúbicos. Sin embargo, hay que hacer notar que solo 671,15 millones de metros cúbicos se encuentran con licencia de uso de agua, el resto es utilizado sin la formalidad de la licencia. Uno de los sembríos más representativos en el Departamento de Arequipa es la alfalfa (30 % de la superficie agrícola cultivada) que es sembrado con fines forrajeros, pero es uno de los sembríos con un uso intensivo de agua, otros sembríos son el ajo, la cebolla, la papa y hortalizas.
 
