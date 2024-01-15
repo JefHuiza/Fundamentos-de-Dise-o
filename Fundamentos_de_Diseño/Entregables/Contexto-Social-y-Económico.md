@@ -96,6 +96,47 @@ en las características fisicoquímicas del agua y, como consecuencia, afectando
 
 # Contexto Económico
 ## Contexto mundial
+Según el Banco Mundial, el crecimiento económico depende en gran medida del agua. El agua es un factor vital para la producción, por lo que la reducción de las reservas puede traducirse en una desaceleración del crecimiento que empañará las perspectivas económicas, la escasez de agua provocada por el clima podría afectar en hasta un 6 % la tasa de crecimiento económico de algunas regiones.
+ 
+Fuente: Informe del Grupo del Banco Mundial (High and Dry: Climate Change, Water and The Economy — En dique seco: Cambio climático, agua y la economía
+
+
+
+
+
+
+
+
+
+
+
+
+Para alimentar a 10 000 millones de personas en 2050 será necesario aumentar un 50 % la producción agrícola (que hoy consume el 70 % del recurso) e incrementar la extracción de agua un 15 %. Más allá de la demanda creciente, los recursos hídricos ya son escasos en muchas partes del mundo. Las estimaciones indican que más del 40 % de la población mundial vive en zonas donde el agua escasea, y aproximadamente una cuarta parte del producto interno bruto mundial está expuesta a este problema. Se prevé que, para 2040, uno de cada cuatro niños vivirá en zonas con escasez de agua extrema. 
+ 
+Fuente: Banco Mundial, 2023 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Según UNDRR, se registraron 7,348 desastres en todo el mundo en EM-DAT,1 una de las bases de datos internacionales más importantes de este tipo de situaciones. En total, como se ve en la figura 1, los desastres se cobraron aproximadamente 1.23 millones de vidas, un promedio de 60,000 por año, y afectaron a un total de más de 4,000 millones de personas (a muchas de ellas, en más de una ocasión). Además, los desastres provocaron aproximadamente 2.97 billones de dólares2 de pérdidas económicas en todo el mundo.
+ 
+Fuente: UNDRR (Oficina de las Naciones Unidas para la Reducción del Riesgo de Desastres), en la imagen, se muestra los efectos de los desastres: 1980–1999 vs. 2000-2019
+
+
+
+ 
+  
+
 
 ## Contexto regional
 
