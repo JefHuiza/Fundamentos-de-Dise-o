@@ -142,7 +142,7 @@ Para el año 2011, el servicio de agua potable tuvo una cobertura del 35.4% en e
 
 Mientras que en el 2013, el monto de transferencia de 23 GADP’s fue de 59,15 millones de dólares, como se muestra en la Figura 2. Este monto incluyó el valor de la inversión, los costos generales y de mantenimiento de los proyectos que se iban a ejecutar cada año, además, se puede observar que estos valores son muy mínimos con respecto a cada requerimiento según cada PPRD en Ecuador (Senplades, 2014).
 
-[Imagen de WhatsApp 2024-01-15 a las 03 57 11_ebc624f9](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/7a487f4d-7f50-49b1-a503-0bd62c044e3b)
+![Imagen de WhatsApp 2024-01-15 a las 03 57 11_ebc624f9](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/7a487f4d-7f50-49b1-a503-0bd62c044e3b)
 
 **Figura 2.** Montos transferidos a los GADP´s por concepto de competencia de riego y drenaje año 2013, Ecuador. Fuente: SENPLADES, 2014.
 
