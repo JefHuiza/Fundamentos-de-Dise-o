@@ -104,33 +104,18 @@ Fuente: Informe del Grupo del Banco Mundial (High and Dry: Climate Change, Water
 
 
 
-
-
-
-
-
-
-
-
 Para alimentar a 10 000 millones de personas en 2050 será necesario aumentar un 50 % la producción agrícola (que hoy consume el 70 % del recurso) e incrementar la extracción de agua un 15 %. Más allá de la demanda creciente, los recursos hídricos ya son escasos en muchas partes del mundo. Las estimaciones indican que más del 40 % de la población mundial vive en zonas donde el agua escasea, y aproximadamente una cuarta parte del producto interno bruto mundial está expuesta a este problema. Se prevé que, para 2040, uno de cada cuatro niños vivirá en zonas con escasez de agua extrema. 
- 
+ ![Imagen9](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/1bf06745-1a4e-48ee-aa5f-a5978f8b599f)
+
 Fuente: Banco Mundial, 2023 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
 Según UNDRR, se registraron 7,348 desastres en todo el mundo en EM-DAT,1 una de las bases de datos internacionales más importantes de este tipo de situaciones. En total, como se ve en la figura 1, los desastres se cobraron aproximadamente 1.23 millones de vidas, un promedio de 60,000 por año, y afectaron a un total de más de 4,000 millones de personas (a muchas de ellas, en más de una ocasión). Además, los desastres provocaron aproximadamente 2.97 billones de dólares2 de pérdidas económicas en todo el mundo.
- 
+ ![Imagen10](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/aa8fc4ce-7cc2-487b-8fd5-3a1d6950df37)
+![Imagen11](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/ffee1692-afb0-4a84-8437-9ca0c61a454b)
+
 Fuente: UNDRR (Oficina de las Naciones Unidas para la Reducción del Riesgo de Desastres), en la imagen, se muestra los efectos de los desastres: 1980–1999 vs. 2000-2019
 
 
