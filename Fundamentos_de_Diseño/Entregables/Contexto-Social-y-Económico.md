@@ -151,7 +151,7 @@ Un tercio de la población chilena vive en Santiago y produce el 42 % del PIB, o
 
 ![Imagen de WhatsApp 2024-01-15 a las 03 56 14_5652eace](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/17006401-7cd7-4ba1-be20-a8ae85e1f308)
 
-**Imagen 3. Red hídrica Río Bueno en chile. Fuente: Ministerio de obras públicas
+**Imagen 3.** Red hídrica Río Bueno en chile. Fuente: Ministerio de obras públicas
 
 ### **México**
 Según Arroyo Victor (2015) en México el 77% de la población, el 88% de la actividad económica y el 82 % del área irrigada se centran en las altiplanicies central y norte con más de 1000 m de elevación, mientras que el 72% de la disponibilidad hídrica se encuentra al sur del país muy por debajo de dicha altitud( Figur 1). Los principales impulsores financieros de la población son particularmente de la concentración de las inversiones, por lo tanto el crecimiento económico en estas áreas  conlleva  a la creación de empleo en mejores condiciones de vida para la población mexicana.
