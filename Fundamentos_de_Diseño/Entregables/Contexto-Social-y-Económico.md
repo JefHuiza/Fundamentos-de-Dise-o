@@ -150,3 +150,11 @@ Fuente: Stakeholders, 2020
 - Cogorno Ventura, G. R. (2019). Caos hídrico: el acceso al agua en el humedal “Los Pantanos de Villa” en Chorrillos, (Lima) https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/18156
 - Vda, R. R. C. Z. (2022). Expansión urbana y sostenibilidad de humedales naturales. Caso: Humedales de Villa, Chorrillos, Lima, Perú 2010-2020. 
 
+Bibliografía:
+•	National Geographic. (2024). ESCASEZ DE AGUA: UNO DE LOS MAYORES DESAFÍOS DEL SIGLO XXI. En Org.pe. Susan Goldberg. https://www.nationalgeographic.com.es/ciencia/propiedades-que-hacen-que-agua-sea-tan-especial_14052
+
+•	BIRF. (28 de Julio del 2023). Panorama general del agua [Data set]. https://doi.org/worldbank.org
+•	UNESCO. (2015, diciembre 11). Abordar la escasez y la calidad del agua. https://es.unesco.org/themes/garantizar-suministro-agua/hidrologia/escasez-calidad
+•	Agua en el planeta. (2017, marzo 17). Agua.org.mx. https://agua.org.mx/en-el-planeta/
+•	Maripaz. (2019). La escasez de agua y sus efectos sobre la economía global – Natural Capital Summit. https://naturalcapitalsummit.com/2016/08/24/la-escasez-de-agua-y-sus-efectos-sobre-la-economia-global/
+•	BIRF. (05 de oct de 2022). Banco Mundial – Desarrollo sostenible, resiliencia y crecimiento económico. Entiendo la pobreza. https://www.bancomundial.org/es/home
