@@ -50,7 +50,7 @@ Fuente (Panel Intergubernamental del Cambio Climático, IPCC): Mapa representati
 ## Contexto regional
 A lo largo de la historia de nuestro planeta, se ha llegado a evidenciar que vivimos en un mundo lleno de tensiones provocadas por la escasez de recursos hídricos que se presentan alrededor de todo el mundo. En años anteriores por los años 2000 el agua no era considerada como un factor de conflicto, pero actualmente ha llegado a convertirse en “el oro azul de este siglo” (Nieto, 2011). Por tales motivos, en esta sección te mencionaremos algunos países dentro de latinoamérica que cuentan con estos problemas de escasez de agua para su población.
 
-## En america del sur:
+## En Latinoamérica:
 
 ### **ECUADOR**
 En los últimos años Ecuador se ha ido debilitando frente a la institucionalidad relacionada con el riego, por ende, no se logró priorizar un enfoque integral sobre el buen uso de este recurso, por tal motivo se identificó un incremento en la contaminación y disminución del recurso hídrico desde los años de 1990 hasta 2004 (Magap, 2012), además, de ello se pudo observar la mala gestión que tiene las políticas de este país, que provocaron un gran debilitamiento en el sector estatal, asimismo, la capacidad de controlar, regular y planificar el uso adecuado del agua (Ramírez, 2017). El estado ecuatoriano en los últimos años ha estado intentando equilibrar sus políticas frente a las cuestiones ambientales, donde reconocieron al agua como el principal factor limitante en la producción agrícola y alimentaria dentro del país, es decir, si la escasez aumenta puede llegar a agudizarse más de lo que ya está actualmente (Ramírez, 2017). Por tal motivo presentó un total del 82% de agua consumida en riego, por otro lado el 12% representa al consumo doméstico y finalmente el 6% al consumo industrial como lo muestra la imagen 1.
@@ -132,13 +132,21 @@ Según UNDRR, se registraron 7,348 desastres en todo el mundo en EM-DAT,1 una de
 
 Fuente: UNDRR (Oficina de las Naciones Unidas para la Reducción del Riesgo de Desastres), en la imagen, se muestra los efectos de los desastres: 1980–1999 vs. 2000-2019
 
-
-
- 
-  
-
-
 ## Contexto regional
+### **Ecuador**
+Para el año 2011, el servicio de agua potable tuvo una cobertura del 35.4% en el ámbito rural, mientras que en el área urbana fue del 93.2%, una de las situaciones más críticas que existe en el ecuador es respecto al alcantarillado, ya que solo tiene una cobertura rural del 18.3% mientras que el urbano es del 86.5%. Cabe resaltar que en las comunidades rurales, tanto como en las ciudades, la pobreza extrema y la desigualdad son una realidad, eso muy aparte de que hubo una reducción del 6% en la NBI. La pobreza por NBI es de 4.3 veces mayor que en la zonas rurales, ejemplo de ello es que se realizó una comparación con lo hogares urbanos donde la incidencia fue mayor en los hogares de la Amazonia con un total del 50.7% en el año 2012, mientras que en la Sierra centro se identificó tres ciudades tales como, Bolívar con un 57.1%, Chimborazo con 50.9% y la ciudad de Cotopaxi con un total de 48%, adicional a ello algunas provincias de Manabí en un 57.8%, Los Ríos con un 57.3%, Esmeraldas con 52.1% y Santo Domingo con un total de 49.5%. En 2012, se transfirieron 57,65 millones de dólares a 23 GADP’s para realizar una inversión, gasto corriente y mantenimiento de proyectos que iban a ejecutarse durante ese año (Senplades, 2014) en la Figura 1 nos  muestra los valores transferidos al GADP’s a través de la competencia en riego y drenaje que se emplearon en Ecuador.
+**Figura 1:**  Montos transferidos a los GADP´s por concepto de competencia de riego y drenaje año 2012, Ecuador. Fuente: SENPLADES, 2014.
+
+Mientras que en el 2013, el monto de transferencia de 23 GADP’s fue de 59,15 millones de dólares, como se muestra en la Figura 2. Este monto incluyó el valor de la inversión, los costos generales y de mantenimiento de los proyectos que se iban a ejecutar cada año, además, se puede observar que estos valores son muy mínimos con respecto a cada requerimiento según cada PPRD en Ecuador (Senplades, 2014).
+
+**Figura 2.** Montos transferidos a los GADP´s por concepto de competencia de riego y drenaje año 2013, Ecuador. Fuente: SENPLADES, 2014.
+
+### **Chile**
+Un tercio de la población chilena vive en Santiago y produce el 42 % del PIB, otro ejemplo que se ilustra frente a la escasez institucional de agua, debido a las formas institucionales inadecuadas de gestión, serían los siguientes, “pozo profundo del  APR de Pilpilcahuin” que fue inaugurado en el año 2010 con una inversión de 300 millones de pesos, ya que buscaba dar solución a la escasez de agua que existía, pero de acuerdo a datos proporcionados se informó que dichos recursos se perdieron, dado que con 120 metros de profundidad el pozo nunca encontró agua. Pasando a otro plano por el año 2015 la dirección de vialidad del Ministerio de Obras Públicas (MOP) inició las obras de mejoramiento de la ruta T-80 con una inversión total de 3.270.283.412 millones de pesos, pero a causa de la mala coordinación e información, este proyecto no resultó como se esperaba, ya que los corte de agua eran muy frecuentes en distintos punto de cañerías de la red de agua potable por chile, por tal motivo los costos se triplicaban por consumo energético de las bombas de agua, donde al 30 de marzo del 2016 las entidades encargadas no tomaron cartas en el asunto para resolver ese problema, además , no hubo ningún tipo de compensación por el proyecto fallido haciendo perder más de cuatro millones de pesos al país (Oppliger, Höhl, & Fragkou, 2019).
+
+### **México**
+Según Arroyo Victor (2015) en México el 77% de la población, el 88% de la actividad económica y el 82 % del área irrigada se centran en las altiplanicies central y norte con más de 1000 m de elevación, mientras que el 72% de la disponibilidad hídrica se encuentra al sur del país muy por debajo de dicha altitud( Figur 1). Los principales impulsores financieros de la población son particularmente de la concentración de las inversiones, por lo tanto el crecimiento económico en estas áreas  conlleva  a la creación de empleo en mejores condiciones de vida para la población mexicana.
+**Figura 4:** México. Aportes al PIB Nacional de las diferentes regiones hidrológicas administrativas y su relación con la disponibilidad hídrica. 2010. Fuente: :Estadísticas del Agua en México, 2010. CONAGUA
 
 ## Nivel nacional
 
