@@ -11,6 +11,8 @@ ha observado un problema crítico en este proceso: los tanques de los camiones c
 en términos de contaminación. Esta situación representa un riesgo significativo para la salud de los consumidores, ya que los camiones cisterna suelen cargar 
 agua de fuentes diversas y no siempre seguras. Además, se agrava la problemática al constatar que los tanques no son desinfectados de manera regular, lo que 
 facilita la acumulación de bacterias y otros contaminantes.
+![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/3b7bd2e8-cb0f-48a0-bbbe-d103f51027f1)
+Fuente: Stakeholders, 2020
 
 - En el lapso comprendido entre 2001 y 2018 en el Perú, se registró un aumento significativo de 68,000 hectáreas de nuevo suelo urbano, con una población adicional 
 de 3.5 millones de habitantes que ocuparon alrededor de 940,000 viviendas. Este incremento representó un 47 % más en comparación con los datos reportados en el año 
