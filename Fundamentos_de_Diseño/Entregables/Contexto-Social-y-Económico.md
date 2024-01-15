@@ -74,6 +74,7 @@ En Chile se ha estado presentando en los últimos años una alteración frente a
 
 Además, de ello se dio a entender que la escasez en dichas zonas no eran únicamente causa físicas, sino que también eran causas antrópicas (Oppliger, Höhl, & Fragkou, 2019). Para ese entonces se habían identificado algunas tipologías de escasez en el agua, donde en términos generales se encontró dos grandes vertientes que definen la escasez hídrica en chile: que es la “escasez física o sequía” (Esparza, 2014) y la “escasez social” (Cooley et al., 2014) y dentro de cada una de ellas se encuentra una gran subdivisión de factores que ayudan a entender mejor el problema con el que cuenta, para ello te invito a que visualices la imagen 4 que te mostrará más resumidamente de las tipologías de escasez de agua en Chile. 
 
+![Imagen de WhatsApp 2024-01-15 a las 03 13 33_e5b8d2bc](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/6833efed-194e-46a6-ad16-836dec96713e)
 **Imagen 2**. Tipologías de escasez del agua en Chile. Fuente: Oppliger, 2019.
 
 ### **MÉXICO**
