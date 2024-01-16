@@ -34,7 +34,9 @@ Gráfica 2. La gráfica es una estimación de escasez de agua hasta el 2050.[Fue
 
 **Estrés hídrico y escasez de agua:**
   
-![Imagen5](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/44cd12ea-dc64-490b-8125-c818bdf089a6)
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/44cd12ea-dc64-490b-8125-c818bdf089a6" alt="Imagen5">
+</p>
 
 Mapa 1. El mapa muestra la escasez física o económica del agua, por ejemplo, el Perú sufre una escasez económica del agua. Fuente: Programa Mundial de Evaluación de los Recursos Hídricos (WWAP, 2020) [https://www.un.org/spanish/waterforlifedecade/scarcity.shtml](url)
 
