@@ -143,15 +143,6 @@ Según el Banco Mundial, el crecimiento económico depende en gran medida del ag
 
 Imagen 1. La imagen representa la dependencia del crecimiento económico con respecto al agua, en el Perú el porcentaje de 6%. Fuente: Informe del Grupo del Banco Mundial (High and Dry: Climate Change, Water and The Economy — En dique seco: Cambio climático, agua y la economía
 
-
-
-
-Según UNDRR, se registraron 7,348 desastres en todo el mundo en EM-DAT,1 una de las bases de datos internacionales más importantes de este tipo de situaciones. En total, como se ve en la figura 1, los desastres se cobraron aproximadamente 1.23 millones de vidas, un promedio de 60,000 por año, y afectaron a un total de más de 4,000 millones de personas (a muchas de ellas, en más de una ocasión). Además, los desastres provocaron aproximadamente 2.97 billones de dólares2 de pérdidas económicas en todo el mundo.
-
-
-![Imagen10](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/aa8fc4ce-7cc2-487b-8fd5-3a1d6950df37)
-
-Imagen 2. En la imagen 2 se muestran los efectos de los desastres, en el ámbito económico se perdieron 2.97 billones de dólares entre el año 2000 y 2019. Fuente: UNDRR (Oficina de las Naciones Unidas para la Reducción del Riesgo de Desastres).
  
 
 ## Contexto regional
