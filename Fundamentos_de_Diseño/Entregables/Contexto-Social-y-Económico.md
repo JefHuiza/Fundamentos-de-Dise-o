@@ -153,9 +153,9 @@ Mientras que en el 2013, el monto de transferencia de 23 GADP’s fue de 59,15 m
 ### **Chile**
 Un tercio de la población chilena vive en Santiago y produce el 42 % del PIB, otro ejemplo que se ilustra frente a la escasez institucional de agua, debido a las formas institucionales inadecuadas de gestión, serían los siguientes, “pozo profundo del  APR de Pilpilcahuin” que fue inaugurado en el año 2010 con una inversión de 300 millones de pesos, ya que buscaba dar solución a la escasez de agua que existía, pero de acuerdo a datos proporcionados se informó que dichos recursos se perdieron, dado que con 120 metros de profundidad el pozo nunca encontró agua. Pasando a otro plano por el año 2015 la dirección de vialidad del Ministerio de Obras Públicas (MOP) inició las obras de mejoramiento de la ruta T-80 con una inversión total de 3.270.283.412 millones de pesos, pero a causa de la mala coordinación e información, este proyecto no resultó como se esperaba, ya que los corte de agua eran muy frecuentes en distintos punto de cañerías de la red de agua potable por chile, por tal motivo los costos se triplicaban por consumo energético de las bombas de agua, donde al 30 de marzo del 2016 las entidades encargadas no tomaron cartas en el asunto para resolver ese problema, además , no hubo ningún tipo de compensación por el proyecto fallido haciendo perder más de cuatro millones de pesos al país (Oppliger, Höhl, & Fragkou, 2019).
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/17006401-7cd7-4ba1-be20-a8ae85e1f308" width="80%">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/17006401-7cd7-4ba1-be20-a8ae85e1f308" width="60%">
 </p>
-<div align="center">Mapa 6: Red hídrica Río Bueno en chile. Fuente: Ministerio de obras públicas</div>
+<div align="center">Mapa 6: Red hídrica Río Bueno en chile. Fuente: Ministerio de obras públicas.</div>
 </p>
 
 ### **México**
