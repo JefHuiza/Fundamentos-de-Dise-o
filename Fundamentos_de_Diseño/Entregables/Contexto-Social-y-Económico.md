@@ -5,18 +5,20 @@
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/12618ba1-3318-4f08-a0fd-7cfc745c44d3" alt="Texto Alternativo" width="60%">
 </p>
 <div align="center">Imagen 1. El agua en el mundo. Fuente: Nacional Geographic, 2017. </div>
- <p align="center">
-  ![Imagen2](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/d14eb56e-7ea3-45e7-845c-d853129d36da)
+
+![Imagen2](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/d14eb56e-7ea3-45e7-845c-d853129d36da)
 
 Fuente: Arne Hoel, fotografía publicada en el BIRF, UN, LA-NETWORK  (27/08/2015) [https://www.un.org/sustainabledevelopment/es/2015/08/agua-saneamiento-e-higiene-un-plan-de-la-oms-contra-las-enfermedades-tropicales-desatendidas/08-27-2015watersanitation7799/](url)
 
  <p align="center">
+  
   ![GRAFICA](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/531b6624-60aa-4c9c-949a-3f388cd150ab)
 _[Fuente: BIRF, 28/07/2023]_
 [https://www.bancomundial.org/es/topic/water/overview](url)
 
 “Alrededor de 2000 millones de personas en todo el mundo no tienen acceso a servicios de agua potable gestionados de manera segura, 3600 millones no cuentan con servicios de saneamiento seguros y 2300 millones carecen de instalaciones básicas para lavarse las manos.” (Banco Mundial y BIRF, año ). 
-  <p align="center"> 
+
+ 
 ![GRAFICA 2](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/97f8aefe-1d00-4a4c-b9b5-7eaa468e248c)
 [Fuente: Programa de las Naciones Unidas para el Desarrollo, 2023](https://www.undp.org/es/agua)[](url)
 
@@ -24,12 +26,14 @@ _[Fuente: BIRF, 28/07/2023]_
 
 **Estrés hídrico y escasez de agua:**
  <p align="center">
+  
 ![Imagen5](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/44cd12ea-dc64-490b-8125-c818bdf089a6)
 
 Fuente: Programa Mundial de Evaluación de los Recursos Hídricos (WWAP, 2020) [https://www.un.org/spanish/waterforlifedecade/scarcity.shtml](url)
 
 Según el Programa Mundial de Evaluación de los Recursos Hídricos (WWAP), los hidrólogos miden la escasez de agua a través de la relación agua/población. Una zona experimentará estrés hídrico cuando su suministro anual de agua caiga por debajo de los 1.700 m3 por persona. Cuando ese mismo suministro anual cae por debajo de los 1.000 m3 por persona, entonces se habla de escasez de agua y de escasez absoluta de agua es cuando la tasa es menor a 500 m3.
  <p align="center">
+  
  ![Población y extracción de agua mundiales en el tiempo](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/2f006906-84ec-4c26-a727-9bdde266cfb6) 
  
  
@@ -47,6 +51,7 @@ La demanda de agua está creciendo a un ritmo alarmante. Para 2030, se espera qu
  
 4.	La calidad del agua también se ve afectada por el cambio climático, ya que se prevé que las temperaturas más altas del agua y las inundaciones y sequías más frecuentes agraven muchas formas de contaminación del agua, desde sedimentos hasta patógenos y pesticidas (IPCC, año).
  <p align="center">
+  
 ![Imagen7](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/e0af07c4-3e2d-47c6-9b36-2103fe4e3612)
 
 
