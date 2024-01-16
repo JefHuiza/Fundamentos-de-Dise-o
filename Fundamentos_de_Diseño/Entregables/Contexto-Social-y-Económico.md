@@ -16,7 +16,7 @@ Fuente: Banco Mundial, BIRF (Elaboración propia)
 
 ![Imagen4](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/3ca3326a-bc31-49d5-b4fc-4d4d3f868431)
  
-Fuente: Unesco, marzo del 2023
+Fuente: Unesco, 2023
 
 Estrés hídrico y escasez de agua:
 Según el Programa Mundial de Evaluación de los Recursos Hídricos (WWAP), los hidrólogos miden la escasez de agua a través de la relación agua/población. Una zona experimentará estrés hídrico cuando su suministro anual de agua caiga por debajo de los 1.700 m3 por persona. Cuando ese mismo suministro anual cae por debajo de los 1.000 m3 por persona, entonces se habla de escasez de agua. Y de escasez absoluta de agua cuando la tasa es menor a 500 m3.
