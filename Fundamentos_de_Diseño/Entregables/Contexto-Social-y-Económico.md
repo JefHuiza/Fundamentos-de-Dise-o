@@ -239,7 +239,7 @@ La minería en la región Arequipa ha generado un valor agregado que representa 
   
 - Bonifaz, J. L., & Aragón, G. (2008). Sobrecostos por la falta de infraestructura en agua potable: una aproximación empírica. https://repositorio.up.edu.pe/handle/11354/345
   
-- BIRF. (28 de Julio del 2023). Panorama general del agua [Data set]. https://doi.org/worldbank.org
+- Banco Internacional de Reconstrucción y Fomento (BIRF). (28 de Julio del 2023). Panorama general del agua [Data set]. https://doi.org/worldbank.org
 
 - BIRF. (05 de oct de 2022). Banco Mundial – Desarrollo sostenible, resiliencia y crecimiento económico. Entiendo la pobreza. https://www.bancomundial.org/es/home
   
