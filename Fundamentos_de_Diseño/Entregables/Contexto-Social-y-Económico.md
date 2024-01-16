@@ -90,7 +90,7 @@ Durante estos últimos años se ha ido evidenciado el aumento y la preocupación
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/852bf88e-093b-43de-a876-88e278761afb" width="80%">
 </p>
-<div align="center">Mapa 5. Peligro por déficit hídrico ante condiciones El Niño para el periodo lluvioso 2023 – 2024. Fuente: SENAMHI 2023 y ANA 2023 Elaborado por CENEPRED.</div>
+<div align="center">Mapa 5. Peligro por déficit hídrico ante condiciones El Niño para el periodo lluvioso 2023 – 2024. Fuente: SENAMHI & ANA, 2023, elaborado por CENEPRED.</div>
 </p>
 
 ### Lima
@@ -101,20 +101,21 @@ Durante estos últimos años se ha ido evidenciado el aumento y la preocupación
 <div align="center">Imagen 2. Consumo excesivo de agua en Lima. Fuente: Aquafondo, 2020</div>
 </p>
 
-- En el lapso comprendido entre 2001 y 2018 en el Perú, se registró un aumento significativo de 68,000 hectáreas de nuevo suelo urbano, con una población adicional 
-de 3.5 millones de habitantes que ocuparon alrededor de 940,000 viviendas. Este incremento representó un 47 % más en comparación con los datos reportados en el año 
-2000, según indican Espinoza y Fort (2020). Este fenómeno ha tenido repercusiones notables en los Humedales Villa Chorrillos, manifestándose en cambios sustanciales 
-en las características fisicoquímicas del agua y, como consecuencia, afectando la biodiversidad y los hábitats de esta área.
+- En el lapso comprendido entre 2001 y 2018 en el Perú, se registró un aumento significativo de 68,000 hectáreas de nuevo suelo urbano, con una población adicional de 3.5 millones de habitantes que ocuparon alrededor de 940,000 viviendas. Este incremento representó un 47 % más en comparación con los datos reportados en el año 2000, según indican Espinoza y Fort (2020). Este fenómeno ha tenido repercusiones notables en los Humedales Villa Chorrillos, manifestándose en cambios sustanciales en las características fisicoquímicas del agua y, como consecuencia, afectando la biodiversidad y los hábitats de esta área.
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/db47ab0c-a10a-46de-ac06-1701355d71de" width="80%">
+</p>
+<div align="center">Gráfico 5. Evolución de la población en Lima Metropolitana, respecto a la población nacional 1940-2015. Fuente: Censos Nacionales, 2018</div>
+</p>
 
-![presión](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/db47ab0c-a10a-46de-ac06-1701355d71de)
-
-###Arequipa
+### **Arequipa**
 Según un reciente informe del Ministerio de Vivienda, Construcción y Saneamiento (MVCS) , la región de Arequipa se encuentra en una situación de emergencia hídrica. El informe señala que la región cuenta con una disponibilidad promedio de agua de 1.000 metros cúbicos por habitante al año, que es inferior a la media nacional, que es de 1.200 metros cúbicos por habitante al año, siendo una diferencia muy preocupante. 
-
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/6a90d3ca-8fdb-4b9c-8707-368a3838f32c" width="80%">
+</p>
+<div align="center">Tabla 01: Demanda de agua para uso poblacional, Cuenca Quilca Chili. Fuente: Tomado del Plan de Gestión de Recursos Hídricos de la Cuenca (2014).</div>
+</p>
 Tabla 01: Demanda de agua para uso poblacional, Cuenca Quilca Chili
-
-![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/6a90d3ca-8fdb-4b9c-8707-368a3838f32c)
-Fuente: Tomado del Plan de Gestión de Recursos Hídricos de la Cuenca (2014)
 
 Por otro lado, según un estudio meteorológico sobre los efectos del cambio climático en los próximos 40 años reveló que entre los años 2023 y 2024 habrá una escasez de agua en la región de Arequipa [3], ante ello el gerente regional de Agricultura, José Paredes Sánchez, ha recomendado a los agricultores de la región que utilicen solo el 70% de sus tierras como medida provisional. Pero tener en cuenta que la región cuenta con 130 mil hectáreas de cultivo, y aproximadamente 20 mil hectáreas deberían quedar sin cultivar, lo que representa el 30%.
 Pero, por otra parte, es muy importante tomar en cuenta que la agricultura es una actividad que genera un mayor uso de mano laboral, dando oportunidad de trabajo a los sectores más pobres de la región, el suministro de agua afecta directamente en la cantidad de empleo que se usa. Lo que significa una decisión razonable por estos problemas, pero no considero para los trabajadores de dicho sector. 
