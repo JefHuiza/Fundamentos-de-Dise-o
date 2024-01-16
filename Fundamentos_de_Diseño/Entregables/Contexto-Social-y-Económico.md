@@ -180,13 +180,13 @@ Sin embargo, este crecimiento económico se enfrenta a una serie de desafíos, e
   de eficiencia económica, ya que se consume menos agua a un precio más alto, sino que también destaca la importancia crítica de mejorar la infraestructura de servicios
   hídricos para garantizar un acceso equitativo y eficiente al recurso vital.
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/2ec5ed81-9172-402f-b12b-fed1c994276e" width="80%">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/2ec5ed81-9172-402f-b12b-fed1c994276e" width="60%">
 </p>
 <div align="center">Imagen 4. Riesgos hídricos en el secctor de Lima Y Callao. Fuente: Aquafondo, 2020.</div>
 </p>
 
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/3b7bd2e8-cb0f-48a0-bbbe-d103f51027f1" width="80%">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/3b7bd2e8-cb0f-48a0-bbbe-d103f51027f1" width="60%">
 </p>
 <div align="center">Imagen 5. ¿Cómo afrontaría Lima una crisis hídrica severa?. Fuente: Stakeholders, 2020.</div>
 </p>
@@ -201,8 +201,11 @@ El sector agrario es el que consume la mayor cantidad de agua en un área agríc
 </p>
 
 El agua es importante para diversas actividades en la minería, la minería formal consume en la actualidad 46,46 millones de metros cúbicos de agua de fuentes naturales y 31,53 millones de agua de reúso proveniente de las aguas tratadas de la ciudad de Arequipa.
-
-![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/dcd527bb-7ac7-4890-aa91-528df64988f7)
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/dcd527bb-7ac7-4890-aa91-528df64988f7" width="80%">
+</p>
+<div align="center">Tabla 4. Demanda de agua en la minería de Arequipa. Fuente: Plan de gestión de Recursos Hídricoss de la cuenca, 2014.</div>
+</p>
 
 La minería en la región Arequipa ha generado un valor agregado que representa el 26 % durante el periodo 2007 al 2014, esta participación corresponde solo a las actividades primarias (extracción de minerales y obtención de concentrados), sin considerar el efecto indirecto por la demanda de bienes y servicios conexos (bienes industriales intermedios, transporte, comunicaciones, agua, electricidad y otros).  
 
