@@ -43,8 +43,10 @@ Mapa 1. El mapa muestra la escasez física o económica del agua, por ejemplo, e
 Según el Programa Mundial de Evaluación de los Recursos Hídricos (WWAP), los hidrólogos miden la escasez de agua a través de la relación agua/población. Una zona experimentará estrés hídrico cuando su suministro anual de agua caiga por debajo de los 1.700 m3 por persona. Cuando ese mismo suministro anual cae por debajo de los 1.000 m3 por persona, entonces se habla de escasez de agua y de escasez absoluta de agua es cuando la tasa es menor a 500 m3.
  <p align="center">
   
- ![Población y extracción de agua mundiales en el tiempo](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/2f006906-84ec-4c26-a727-9bdde266cfb6) 
- 
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/2f006906-84ec-4c26-a727-9bdde266cfb6" alt="Población y extracción de agua mundiales en el tiempo">
+</p>
+
  
  [https://agua.org.mx/en-el-planeta/](url)
 
