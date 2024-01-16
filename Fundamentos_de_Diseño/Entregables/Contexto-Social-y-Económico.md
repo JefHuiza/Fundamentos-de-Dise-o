@@ -39,17 +39,20 @@ Fuente: UNESCO, 2023
 
  ¿Cómo afecta el cambio climático a la escasez de agua?
 
-1.	Se prevé que los suministros de agua almacenados en los glaciares y la capa de nieve disminuyan aún más durante este siglo, lo que reducirá la disponibilidad de agua durante los períodos cálidos y secos en las regiones abastecidas por el agua derretida de las principales cadenas montañosas (IPCC).
+1.	Se prevé que los suministros de agua almacenados en los glaciares y la capa de nieve disminuyan aún más durante este siglo, lo que reducirá la disponibilidad de agua durante los períodos cálidos y secos en las regiones abastecidas por el agua derretida de las principales cadenas montañosas (IPCC, año).
 
-2.	Se prevé que el aumento del nivel del mar amplíe la salinización de las aguas subterráneas, disminuyendo la disponibilidad de agua dulce para los seres humanos y los ecosistemas presentes en las zonas costeras (IPCC).
+2.	Se prevé que el aumento del nivel del mar amplíe la salinización de las aguas subterráneas, disminuyendo la disponibilidad de agua dulce para los seres humanos y los ecosistemas presentes en las zonas costeras (IPCC, año).
 
-3.	Limitar el calentamiento global a 1,5 °C en vez de hacerlo a 2 °C reduciría aproximadamente a la mitad la proporción de la población mundial que se espera que sufra escasez de agua, aunque cabe destacar que existe una variabilidad considerable entre regiones (IPCC).
+3.	Limitar el calentamiento global a 1,5 °C en vez de hacerlo a 2 °C reduciría aproximadamente a la mitad la proporción de la población mundial que se espera que sufra escasez de agua, aunque cabe destacar que existe una variabilidad considerable entre regiones (IPCC, año).
  
-4.	La calidad del agua también se ve afectada por el cambio climático, ya que se prevé que las temperaturas más altas del agua y las inundaciones y sequías más frecuentes agraven muchas formas de contaminación del agua, desde sedimentos hasta patógenos y pesticidas (IPCC).
+4.	La calidad del agua también se ve afectada por el cambio climático, ya que se prevé que las temperaturas más altas del agua y las inundaciones y sequías más frecuentes agraven muchas formas de contaminación del agua, desde sedimentos hasta patógenos y pesticidas (IPCC, año).
+   
+**Mapa 01: Mapa representativo de los efectos del cambio climático futuro en el agua dulce que amenazan el desarrollo sostenible de las regiones afectadas. Los antecedentes muestran el cambio en la media de la escorrentía anual, reflejada en %, entre el presente (1981-2000) y 2081-2100 para el escenario de emisiones**
 
 ![Imagen7](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/e0af07c4-3e2d-47c6-9b36-2103fe4e3612)
- 
-Fuente (Panel Intergubernamental del Cambio Climático, IPCC): Mapa representativo de los efectos del cambio climático futuro en el agua dulce que amenazan el desarrollo sostenible de las regiones afectadas. Los antecedentes muestran el cambio en la media de la escorrentía anual, reflejada en %, entre el presente (1981-2000) y 2081-2100 para el escenario de emisiones; el color azul indica aumento de la escorrentía, y el rojo disminución de la escorrentía.
+
+Fuente Panel Intergubernamental del Cambio Climático (IPCC, año) 
+El color azul indica aumento de la escorrentía, y el rojo disminución de la escorrentía.
 
 ## Contexto regional
 A lo largo de la historia de nuestro planeta, se ha llegado a evidenciar que vivimos en un mundo lleno de tensiones provocadas por la escasez de recursos hídricos que se presentan alrededor de todo el mundo. En años anteriores por los años 2000 el agua no era considerada como un factor de conflicto, pero actualmente ha llegado a convertirse en “el oro azul de este siglo” (Nieto, 2011). Por tales motivos, en esta sección te mencionaremos algunos países dentro de latinoamérica que cuentan con estos problemas de escasez de agua para su población.
