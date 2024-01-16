@@ -4,7 +4,7 @@
  <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/12618ba1-3318-4f08-a0fd-7cfc745c44d3" alt="Texto Alternativo" width="60%">
 Imagen 1. El agua en el mundo. Fuente: Nacional Geographic, 2017. </div>
-
+</p>
 
 
 <p align="center">
