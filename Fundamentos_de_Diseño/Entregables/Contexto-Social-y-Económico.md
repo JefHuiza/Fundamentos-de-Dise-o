@@ -33,11 +33,10 @@ Gráfica 2. La gráfica es una estimación de escasez de agua hasta el 2050.[Fue
 “Entre 2.000 y 3.000 millones de personas sufren escasez de agua durante al menos un mes al año, lo que supone graves riesgos para sus medios de subsistencia, en particular la seguridad alimentaria y el acceso a la electricidad. Se prevé que la población urbana mundial que sufre escasez de agua se duplique, pasando de 930 millones en 2016 a 1.700-2.400 millones de personas en 2050. La creciente incidencia de sequías extremas y prolongadas también está estresando los ecosistemas, con consecuencias nefastas para las especies vegetales y animales”, (UNESCO, 2023).
 
 **Estrés hídrico y escasez de agua:**
- <p align="center">
   
 ![Imagen5](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/44cd12ea-dc64-490b-8125-c818bdf089a6)
 
-Fuente: Programa Mundial de Evaluación de los Recursos Hídricos (WWAP, 2020) [https://www.un.org/spanish/waterforlifedecade/scarcity.shtml](url)
+Mapa 1. El mapa muestra la escasez física o económica del agua, por ejemplo, el Perú sufre una escasez económica del agua. Fuente: Programa Mundial de Evaluación de los Recursos Hídricos (WWAP, 2020) [https://www.un.org/spanish/waterforlifedecade/scarcity.shtml](url)
 
 Según el Programa Mundial de Evaluación de los Recursos Hídricos (WWAP), los hidrólogos miden la escasez de agua a través de la relación agua/población. Una zona experimentará estrés hídrico cuando su suministro anual de agua caiga por debajo de los 1.700 m3 por persona. Cuando ese mismo suministro anual cae por debajo de los 1.000 m3 por persona, entonces se habla de escasez de agua y de escasez absoluta de agua es cuando la tasa es menor a 500 m3.
  <p align="center">
