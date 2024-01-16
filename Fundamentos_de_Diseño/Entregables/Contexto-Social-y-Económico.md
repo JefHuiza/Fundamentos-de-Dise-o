@@ -5,7 +5,7 @@
 -	“Alrededor de 2000 millones de personas en todo el mundo no tienen acceso a servicios de agua potable gestionados de manera segura, 3600 millones no cuentan con servicios de saneamiento seguros y 2300 millones carecen de instalaciones básicas para lavarse las manos.” (Banco Mundial, BIRF). #Falta su año de la cita y elimina una de las imaganes que consideres que no sea tan necesaria
 
   
-  **Gráfica 01: Cantidad de personas afectadas por la mala gestón del agua en todo el mundo** 
+      **Gráfica 01: Cantidad de personas afectadas por la mala gestón del agua en todo el mundo** 
 
  ![Imagen3](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/8dd2b0e6-4e4a-4d64-90bd-2b0c58702a16)
 
@@ -14,7 +14,7 @@ Fuente: Banco Mundial, BIRF (Elaboración propia)
 
 - “Entre 2.000 y 3.000 millones de personas sufren escasez de agua durante al menos un mes al año, lo que supone graves riesgos para sus medios de subsistencia, en particular la seguridad alimentaria y el acceso a la electricidad. Se prevé que la población urbana mundial que sufre escasez de agua se duplique, pasando de 930 millones en 2016 a 1.700-2.400 millones de personas en 2050. La creciente incidencia de sequías extremas y prolongadas también está estresando los ecosistemas, con consecuencias nefastas para las especies vegetales y animales”, (UNESCO, 2023).
 
-  **Gráfica 02: Personas que sufren escacez de agua en el mundo 2016 y pronósticos al 2050**
+     **Gráfica 02: Personas que sufren escacez de agua en el mundo 2016 y pronósticos al 2050**
 
 ![Escacez del agua a nivel mundial](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/b8db7165-f420-45f2-a411-cda4bccf3a54)
  
@@ -24,7 +24,7 @@ Fuente: Unesco, 2023
 
 - Según el Programa Mundial de Evaluación de los Recursos Hídricos (WWAP), los hidrólogos miden la escasez de agua a través de la relación agua/población. Una zona experimentará estrés hídrico cuando su suministro anual de agua caiga por debajo de los 1.700 m3 por persona. Cuando ese mismo suministro anual cae por debajo de los 1.000 m3 por persona, entonces se habla de escasez de agua y de escasez absoluta de agua es cuando la tasa es menor a 500 m3.
   
-**Imagen 01: Escasez física y/o económica de agua a nivel mundial**
+     **Imagen 01: Escasez física y/o económica de agua a nivel mundial**
 
   ![Imagen5](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/44cd12ea-dc64-490b-8125-c818bdf089a6)
  
