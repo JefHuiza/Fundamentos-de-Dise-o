@@ -17,14 +17,13 @@ Imagen 2. La imagen muestra la dificultad de conseguir agua en otras regiones. F
 
   
   <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/531b6624-60aa-4c9c-949a-3f388cd150ab" alt="GRAFICA" style="max-width: 80%; border: 1px solid #ddd;">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/531b6624-60aa-4c9c-949a-3f388cd150ab" alt="GRAFICA" style="max-width: 60%; border: 1px solid #ddd;">
 </p>
 
-<p align="center">
-  <em>Fuente: [BIRF, 28/07/2023](https://www.bancomundial.org/es/topic/water/overview)</em>
-</p>
+ Gráfica 1. La gráfica es una representación de la falta de acceso a servicios de agua potable, saneamiento e instalaciones básicas para lavarse las manos. Fuente: [BIRF, 28/07/2023](https://www.bancomundial.org/es/topic/water/overview)</em>
 
-> “Alrededor de 2000 millones de personas en todo el mundo no tienen acceso a servicios de agua potable gestionados de manera segura, 3600 millones no cuentan con servicios de saneamiento seguros y 2300 millones carecen de instalaciones básicas para lavarse las manos.” (Banco Mundial y BIRF, año ).
+
+“Alrededor de 2000 millones de personas en todo el mundo no tienen acceso a servicios de agua potable gestionados de manera segura, 3600 millones no cuentan con servicios de saneamiento seguros y 2300 millones carecen de instalaciones básicas para lavarse las manos.” (Banco Mundial y BIRF, año ).
 
 
  
