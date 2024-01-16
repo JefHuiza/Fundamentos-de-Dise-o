@@ -87,12 +87,11 @@ México es uno de los países de Latinoamérica que cuenta con ríos y lagos imp
 
 El Perú es considerado uno de los países con una gran riqueza natural, pero también hoy en día con un grave problema de escasez de agua. Según la United Nations Office for Project Servicies (UNOPS) [1] menciona que estos problemas se deben al uso indebido durante estos años de los recursos hídricos por parte de la industria fabril, los efectos del cambio climático, crecimiento poblacional y prácticas inadecuadas en la agricultura, siendo obstáculos para un desarrollo sostenible. Además, existe una mala gestión en la distribución del agua a nivel nacional. 
 Durante estos últimos años se ha ido evidenciado el aumento y la preocupación de la escasez hídrica en el Perú, ante esta situación el Poder Ejecutivo declaró en estado de emergencia algunas provincias de los departamentos de Áncash, Apurímac, Arequipa, Ayacucho, Cusco, Huancavelica, Huánuco, Ica, Junín, La Libertad, Lima, Pasco, Puno y Tacna por peligro inminente ante déficit hídrico como consecuencia del posible Fenómeno El Niño 2023-2024. A	demás según CENEPRED en el informe de Escenario de riesgo por déficit hídrico ante condiciones el niño para el periodo de lluvias 2023 – 2024 señala que los departamentos con muy alto peligro por déficit hídrico son Puno, Ayacucho, Arequipa, Moquegua, Tacna y Cusco siendo una información muy preocupante ya que los dichos departamentos dependen de la agricultura. 
-
-Figura 01. Mapa de peligro por déficit hídrico ante condiciones El Niño para el periodo lluvioso 2023 – 2024
-
-![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/852bf88e-093b-43de-a876-88e278761afb)
-
-Fuente: SENAMHI 2023 y ANA 2023 Elaborado por CENEPRED
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/852bf88e-093b-43de-a876-88e278761afb" width="80%">
+</p>
+<div align="center">Mapa 5. Mapa de peligro por déficit hídrico ante condiciones El Niño para el periodo lluvioso 2023 – 2024. Fuente: SENAMHI 2023 y ANA 2023 Elaborado por CENEPRED.</div>
+</p>
 
 ### Lima
 - La escasez de agua ha llevado al gobierno a asumir la responsabilidad de distribuir el recurso para satisfacer la demanda de la población. Sin embargo, se 
