@@ -22,11 +22,11 @@ Fuente: Unesco, 2023
 
 **Estrés hídrico y escasez de agua:**
 
-Según el Programa Mundial de Evaluación de los Recursos Hídricos (WWAP), los hidrólogos miden la escasez de agua a través de la relación agua/población. Una zona experimentará estrés hídrico cuando su suministro anual de agua caiga por debajo de los 1.700 m3 por persona. Cuando ese mismo suministro anual cae por debajo de los 1.000 m3 por persona, entonces se habla de escasez de agua y de escasez absoluta de agua es cuando la tasa es menor a 500 m3.
+- Según el Programa Mundial de Evaluación de los Recursos Hídricos (WWAP), los hidrólogos miden la escasez de agua a través de la relación agua/población. Una zona experimentará estrés hídrico cuando su suministro anual de agua caiga por debajo de los 1.700 m3 por persona. Cuando ese mismo suministro anual cae por debajo de los 1.000 m3 por persona, entonces se habla de escasez de agua y de escasez absoluta de agua es cuando la tasa es menor a 500 m3.
 
   ![Imagen5](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/44cd12ea-dc64-490b-8125-c818bdf089a6)
  
-Fuente: Informe sobre el desarrollo de los recursos hídricos en el mundo. Programa Mundial de Evaluación de los Recursos Hídricos (WWAP).
+Fuente: Programa Mundial de Evaluación de los Recursos Hídricos (WWAP, 2020) 
 
 La demanda está creciendo y el consumo excesivo es la norma
 Para el 2030 se espera que el uso del agua aumente en un 40% gracias a una combinación de factores como el cambio climático, la acción humana y el crecimiento demográfico, aunque hoy en día ya es excesivo en algunas ciudades (FAO).
