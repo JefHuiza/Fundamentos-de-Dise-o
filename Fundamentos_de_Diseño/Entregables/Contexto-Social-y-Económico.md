@@ -59,7 +59,6 @@ Cabe destacar que el Ecuador creó un plan de gobernanza sobre el agua, donde su
 </p>
 
 ### **CHILE**
-
 En Chile se ha estado presentando en los últimos años una alteración frente a los recursos hídricos, por ende, ha logrado ser reconocida por el gobierno actual como uno de los problemas que sufre el país (Bachelet, 2015). Dada su extensión se identificó que este problema afecta a las regiones vecinas como la de los ríos con el cual cuenta en su territorio, donde el estado chileno atribuyó que la escasez del agua se daba principalmente por el cambio climático, por lo que, las causas de dicha escasez en la gestión o distribución de estos recursos no eran consideradas antiguamente de manera eficiente, es por esa razón en los años 2011, 2012 hasta el 2016 se obtuvo información acerca de tres grupos de actores principales que estaban vinculados al problema que fueron identificados como la gestión del agua, escasez y recurso forestal, siendo estos tres tal como se mencionó anteriormente los actores principales de escasez, estos mismos factores eran representado por los mismo habitantes del país, a lo que se menciona es que las localidades rurales eran abastecidas por camiones aljibes, mostrando así todos los lugares involucrados que eran abastecidos y los que contaban con escasez (mapa 3).
 
 <p align="center">
@@ -115,16 +114,14 @@ Según un reciente informe del Ministerio de Vivienda, Construcción y Saneamien
 </p>
 <div align="center">Tabla 01: Demanda de agua para uso poblacional, Cuenca Quilca Chili. Fuente: Tomado del Plan de Gestión de Recursos Hídricos de la Cuenca (2014).</div>
 </p>
-Tabla 01: Demanda de agua para uso poblacional, Cuenca Quilca Chili
 
 Por otro lado, según un estudio meteorológico sobre los efectos del cambio climático en los próximos 40 años reveló que entre los años 2023 y 2024 habrá una escasez de agua en la región de Arequipa [3], ante ello el gerente regional de Agricultura, José Paredes Sánchez, ha recomendado a los agricultores de la región que utilicen solo el 70% de sus tierras como medida provisional. Pero tener en cuenta que la región cuenta con 130 mil hectáreas de cultivo, y aproximadamente 20 mil hectáreas deberían quedar sin cultivar, lo que representa el 30%.
 Pero, por otra parte, es muy importante tomar en cuenta que la agricultura es una actividad que genera un mayor uso de mano laboral, dando oportunidad de trabajo a los sectores más pobres de la región, el suministro de agua afecta directamente en la cantidad de empleo que se usa. Lo que significa una decisión razonable por estos problemas, pero no considero para los trabajadores de dicho sector. 
-
-Tabla 02: Demanda de agua agropecuaria
-
-![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/4fa9dbb2-ae03-47f5-8d86-5946bf0a6de3)
-Fuente: Plan de gestión de Recursos Hídricos de la Cuenca
-
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/4fa9dbb2-ae03-47f5-8d86-5946bf0a6de3" width="80%">
+</p>
+<div align="center">Tabla 02: Demanda de agua agropecuaria. Fuente: Plan de gestión de Recursos Hídricos de la Cuenca, 2014.</div>
+</p>
 
 # Contexto Económico
 ## Contexto mundial
