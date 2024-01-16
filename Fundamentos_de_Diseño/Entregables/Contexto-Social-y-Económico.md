@@ -14,7 +14,7 @@ Imagen 1. La imagen muestra la dificultad de conseguir agua en otras regiones. F
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/531b6624-60aa-4c9c-949a-3f388cd150ab" alt="GRAFICA" style="max-width: 60%; border: 1px solid #ddd;">
 </p>
 
- Gráfica 1. La gráfica es una representación de la falta de acceso a servicios de agua potable, saneamiento e instalaciones básicas para lavarse las manos. Fuente: [BIRF, 28/07/2023](https://www.bancomundial.org/es/topic/water/overview)</em>
+ Gráfico 1. La gráfica es una representación de la falta de acceso a servicios de agua potable, saneamiento e instalaciones básicas para lavarse las manos. Fuente: [BIRF, 28/07/2023](https://www.bancomundial.org/es/topic/water/overview)</em>
 
 
 “Alrededor de 2000 millones de personas en todo el mundo no tienen acceso a servicios de agua potable gestionados de manera segura, 3600 millones no cuentan con servicios de saneamiento seguros y 2300 millones carecen de instalaciones básicas para lavarse las manos.” (Banco Mundial y BIRF, año ).
@@ -22,7 +22,7 @@ Imagen 1. La imagen muestra la dificultad de conseguir agua en otras regiones. F
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/97f8aefe-1d00-4a4c-b9b5-7eaa468e248c" alt="Texto Alternativo" width="80%">
  </p>
 
-Gráfica 2. La gráfica es una estimación de escasez de agua hasta el 2050.[Fuente: Programa de las Naciones Unidas para el Desarrollo, 2023](https://www.undp.org/es/agua)[](url)
+Gráfico 2. La gráfica es una estimación de escasez de agua hasta el 2050.[Fuente: Programa de las Naciones Unidas para el Desarrollo, 2023](https://www.undp.org/es/agua)[](url)
 
 “Entre 2.000 y 3.000 millones de personas sufren escasez de agua durante al menos un mes al año, lo que supone graves riesgos para sus medios de subsistencia, en particular la seguridad alimentaria y el acceso a la electricidad. Se prevé que la población urbana mundial que sufre escasez de agua se duplique, pasando de 930 millones en 2016 a 1.700-2.400 millones de personas en 2050. La creciente incidencia de sequías extremas y prolongadas también está estresando los ecosistemas, con consecuencias nefastas para las especies vegetales y animales”, (UNESCO, 2023).
 
