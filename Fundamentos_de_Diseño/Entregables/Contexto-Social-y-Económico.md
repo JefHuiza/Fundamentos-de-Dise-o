@@ -29,7 +29,7 @@ Fuente: UNESCO, 2023
  
      Fuente: Programa Mundial de Evaluación de los Recursos Hídricos (WWAP, 2020) 
 
-La demanda de agua está creciendo a un ritmo alarmante. Para 2030, se espera que el uso del agua aumente en un 40%, impulsado por una combinación de factores, como el cambio climático, la acción humana y el crecimiento demográfico. Sin embargo, ya hoy en día, el consumo excesivo de agua es una norma en algunas ciudades (FAO, año).
+- La demanda de agua está creciendo a un ritmo alarmante. Para 2030, se espera que el uso del agua aumente en un 40%, impulsado por una combinación de factores, como el cambio climático, la acción humana y el crecimiento demográfico. Sin embargo, ya hoy en día, el consumo excesivo de agua es una norma en algunas ciudades (FAO, año).
 
 ![Imagen6](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/b0e52c15-b073-4178-8679-e9ba28d89c50)
 
