@@ -28,7 +28,7 @@ Imagen 2. La imagen muestra la dificultad de conseguir agua en otras regiones. F
 
  
 ![GRAFICA 2](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/97f8aefe-1d00-4a4c-b9b5-7eaa468e248c)
-[Gráfica 2. La gráfica es una estimación de escasez de agua hasta el 2050.Fuente: Programa de las Naciones Unidas para el Desarrollo, 2023](https://www.undp.org/es/agua)[](url)
+Gráfica 2. La gráfica es una estimación de escasez de agua hasta el 2050.[Fuente: Programa de las Naciones Unidas para el Desarrollo, 2023](https://www.undp.org/es/agua)[](url)
 
 “Entre 2.000 y 3.000 millones de personas sufren escasez de agua durante al menos un mes al año, lo que supone graves riesgos para sus medios de subsistencia, en particular la seguridad alimentaria y el acceso a la electricidad. Se prevé que la población urbana mundial que sufre escasez de agua se duplique, pasando de 930 millones en 2016 a 1.700-2.400 millones de personas en 2050. La creciente incidencia de sequías extremas y prolongadas también está estresando los ecosistemas, con consecuencias nefastas para las especies vegetales y animales”, (UNESCO, 2023).
 
