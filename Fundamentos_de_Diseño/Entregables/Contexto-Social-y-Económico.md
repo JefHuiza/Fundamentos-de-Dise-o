@@ -136,31 +136,35 @@ Imagen 3. La imagen representa la dependencia del crecimiento económico con res
 
 ## Contexto regional
 ### **Ecuador**
-Para el año 2011, el servicio de agua potable tuvo una cobertura del 35.4% en el ámbito rural, mientras que en el área urbana fue del 93.2%, una de las situaciones más críticas que existe en el ecuador es respecto al alcantarillado, ya que solo tiene una cobertura rural del 18.3% mientras que el urbano es del 86.5%. Cabe resaltar que en las comunidades rurales, tanto como en las ciudades, la pobreza extrema y la desigualdad son una realidad, eso muy aparte de que hubo una reducción del 6% en la NBI. La pobreza por NBI es de 4.3 veces mayor que en la zonas rurales, ejemplo de ello es que se realizó una comparación con lo hogares urbanos donde la incidencia fue mayor en los hogares de la Amazonia con un total del 50.7% en el año 2012, mientras que en la Sierra centro se identificó tres ciudades tales como, Bolívar con un 57.1%, Chimborazo con 50.9% y la ciudad de Cotopaxi con un total de 48%, adicional a ello algunas provincias de Manabí en un 57.8%, Los Ríos con un 57.3%, Esmeraldas con 52.1% y Santo Domingo con un total de 49.5%. En 2012, se transfirieron 57,65 millones de dólares a 23 GADP’s para realizar una inversión, gasto corriente y mantenimiento de proyectos que iban a ejecutarse durante ese año (Senplades, 2014) en la Figura 1 nos  muestra los valores transferidos al GADP’s a través de la competencia en riego y drenaje que se emplearon en Ecuador.
+Para el año 2011, el servicio de agua potable tuvo una cobertura del 35.4% en el ámbito rural, mientras que en el área urbana fue del 93.2%, una de las situaciones más críticas que existe en el ecuador es respecto al alcantarillado, ya que solo tiene una cobertura rural del 18.3% mientras que el urbano es del 86.5%. Cabe resaltar que en las comunidades rurales, tanto como en las ciudades, la pobreza extrema y la desigualdad son una realidad, eso muy aparte de que hubo una reducción del 6% en la NBI. La pobreza por NBI es de 4.3 veces mayor que en la zonas rurales, ejemplo de ello es que se realizó una comparación con lo hogares urbanos donde la incidencia fue mayor en los hogares de la Amazonia con un total del 50.7% en el año 2012, mientras que en la Sierra centro se identificó tres ciudades tales como, Bolívar con un 57.1%, Chimborazo con 50.9% y la ciudad de Cotopaxi con un total de 48%, adicional a ello algunas provincias de Manabí en un 57.8%, Los Ríos con un 57.3%, Esmeraldas con 52.1% y Santo Domingo con un total de 49.5%. En 2012, se transfirieron 57,65 millones de dólares a 23 GADP’s para realizar una inversión, gasto corriente y mantenimiento de proyectos que iban a ejecutarse durante ese año (Senplades, 2014) en el gráfico 6 nos  muestra los valores transferidos al GADP’s a través de la competencia en riego y drenaje que se emplearon en Ecuador.
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/d9da78f1-ecf3-4b63-bf47-52c53a68729a" width="80%">
+</p>
+<div align="center">Gráfico 6: Montos transferidos a los GADP´s por concepto de competencia de riego y drenaje año 2012, Ecuador. Fuente: SENPLADES, 2014.</div>
+</p>
 
-![Imagen de WhatsApp 2024-01-15 a las 03 56 51_cfc069b9](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/d9da78f1-ecf3-4b63-bf47-52c53a68729a)
-
-**Figura 1:**  Montos transferidos a los GADP´s por concepto de competencia de riego y drenaje año 2012, Ecuador. Fuente: SENPLADES, 2014.
-
-Mientras que en el 2013, el monto de transferencia de 23 GADP’s fue de 59,15 millones de dólares, como se muestra en la Figura 2. Este monto incluyó el valor de la inversión, los costos generales y de mantenimiento de los proyectos que se iban a ejecutar cada año, además, se puede observar que estos valores son muy mínimos con respecto a cada requerimiento según cada PPRD en Ecuador (Senplades, 2014).
-
-![Imagen de WhatsApp 2024-01-15 a las 03 57 11_ebc624f9](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/7a487f4d-7f50-49b1-a503-0bd62c044e3b)
-
-**Figura 2.** Montos transferidos a los GADP´s por concepto de competencia de riego y drenaje año 2013, Ecuador. Fuente: SENPLADES, 2014.
+Mientras que en el 2013, el monto de transferencia de 23 GADP’s fue de 59,15 millones de dólares, como se muestra en el gráfico 7. Este monto incluyó el valor de la inversión, los costos generales y de mantenimiento de los proyectos que se iban a ejecutar cada año, además, se puede observar que estos valores son muy mínimos con respecto a cada requerimiento según cada PPRD en Ecuador (Senplades, 2014).
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/7a487f4d-7f50-49b1-a503-0bd62c044e3b" width="80%">
+</p>
+<div align="center">Gráfico 7: Montos transferidos a los GADP´s por concepto de competencia de riego y drenaje año 2013, Ecuador. Fuente: SENPLADES, 2014..</div>
+</p>
 
 ### **Chile**
 Un tercio de la población chilena vive en Santiago y produce el 42 % del PIB, otro ejemplo que se ilustra frente a la escasez institucional de agua, debido a las formas institucionales inadecuadas de gestión, serían los siguientes, “pozo profundo del  APR de Pilpilcahuin” que fue inaugurado en el año 2010 con una inversión de 300 millones de pesos, ya que buscaba dar solución a la escasez de agua que existía, pero de acuerdo a datos proporcionados se informó que dichos recursos se perdieron, dado que con 120 metros de profundidad el pozo nunca encontró agua. Pasando a otro plano por el año 2015 la dirección de vialidad del Ministerio de Obras Públicas (MOP) inició las obras de mejoramiento de la ruta T-80 con una inversión total de 3.270.283.412 millones de pesos, pero a causa de la mala coordinación e información, este proyecto no resultó como se esperaba, ya que los corte de agua eran muy frecuentes en distintos punto de cañerías de la red de agua potable por chile, por tal motivo los costos se triplicaban por consumo energético de las bombas de agua, donde al 30 de marzo del 2016 las entidades encargadas no tomaron cartas en el asunto para resolver ese problema, además , no hubo ningún tipo de compensación por el proyecto fallido haciendo perder más de cuatro millones de pesos al país (Oppliger, Höhl, & Fragkou, 2019).
-
-![Imagen de WhatsApp 2024-01-15 a las 03 56 14_5652eace](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/17006401-7cd7-4ba1-be20-a8ae85e1f308)
-
-**Imagen 3.** Red hídrica Río Bueno en chile. Fuente: Ministerio de obras públicas
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/17006401-7cd7-4ba1-be20-a8ae85e1f308" width="80%">
+</p>
+<div align="center">Mapa 6: Red hídrica Río Bueno en chile. Fuente: Ministerio de obras públicas</div>
+</p>
 
 ### **México**
-Según Arroyo Victor (2015) en México el 77% de la población, el 88% de la actividad económica y el 82 % del área irrigada se centran en las altiplanicies central y norte con más de 1000 m de elevación, mientras que el 72% de la disponibilidad hídrica se encuentra al sur del país muy por debajo de dicha altitud( Figur 1). Los principales impulsores financieros de la población son particularmente de la concentración de las inversiones, por lo tanto el crecimiento económico en estas áreas  conlleva  a la creación de empleo en mejores condiciones de vida para la población mexicana.
-
-![Imagen de WhatsApp 2024-01-15 a las 03 57 37_f7d5297e](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/265bcc2f-45ef-43b9-9be0-085e62d7ade0)
-
-**Figura 4:** México. Aportes al PIB Nacional de las diferentes regiones hidrológicas administrativas y su relación con la disponibilidad hídrica. Fuente: :Estadísticas del Agua en México, 2010. CONAGUA
+Según Arroyo Victor (2015) en México el 77% de la población, el 88% de la actividad económica y el 82 % del área irrigada se centran en las altiplanicies central y norte con más de 1000 m de elevación, mientras que el 72% de la disponibilidad hídrica se encuentra al sur del país muy por debajo de dicha altitud(mapa 7). Los principales impulsores financieros de la población son particularmente de la concentración de las inversiones, por lo tanto el crecimiento económico en estas áreas  conlleva  a la creación de empleo en mejores condiciones de vida para la población mexicana.
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/265bcc2f-45ef-43b9-9be0-085e62d7ade0" width="80%">
+</p>
+<div align="center">Mapa 7: México. Aportes al PIB Nacional de las diferentes regiones hidrológicas administrativas y su relación con la disponibilidad hídrica. Fuente: :Estadísticas del Agua en México, 2010. CONAGUA.</div>
+</p>
 
 ## Nivel nacional
 
