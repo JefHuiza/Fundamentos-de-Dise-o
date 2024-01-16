@@ -1,6 +1,6 @@
 ## Tabla de contenidos
-- [CONTEXTO_SOCIAL](#CONTEXTO_SOCIAL)
-- [CONTEXTO_ECONÓMICO](#CONTEXTO_ECONÓMICO)
+- [CONTEXTO SOCIAL](#CONTEXTO_SOCIAL)
+- [CONTEXTO ECONÓMICO](#CONTEXTO_ECONÓMICO)
 - [Participantes](#participantes)
 - [Docentes del curso](#docentes_del_curso)
 
