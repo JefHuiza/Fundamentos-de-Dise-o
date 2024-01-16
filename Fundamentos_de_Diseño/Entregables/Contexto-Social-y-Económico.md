@@ -123,7 +123,7 @@ Pero, por otra parte, es muy importante tomar en cuenta que la agricultura es un
 <div align="center">Tabla 02: Demanda de agua agropecuaria. Fuente: Plan de gestión de Recursos Hídricos de la Cuenca, 2014.</div>
 </p>
 
-# Contexto Económico
+# **CONTEXTO ECONÓMICO**
 ## Contexto mundial
 Según el Banco Mundial, el crecimiento económico depende en gran medida del agua. El agua es un factor vital para la producción, por lo que la reducción de las reservas puede traducirse en una desaceleración del crecimiento que empañará las perspectivas económicas, la escasez de agua provocada por el clima podría afectar en hasta un 6 % la tasa de crecimiento económico de algunas regiones.
 <p align="center">
@@ -202,7 +202,7 @@ El sector agrario es el que consume la mayor cantidad de agua en un área agríc
 
 El agua es importante para diversas actividades en la minería, la minería formal consume en la actualidad 46,46 millones de metros cúbicos de agua de fuentes naturales y 31,53 millones de agua de reúso proveniente de las aguas tratadas de la ciudad de Arequipa.
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/dcd527bb-7ac7-4890-aa91-528df64988f7" width="80%">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/0dc22b1d-bd9a-4c84-9778-9a2bd009bc6d" width="70%">
 </p>
 <div align="center">Tabla 4. Demanda de agua en la minería de Arequipa. Fuente: Plan de gestión de Recursos Hídricoss de la cuenca, 2014.</div>
 </p>
