@@ -6,12 +6,12 @@
 </p>
 <div align="center">Imagen 1. El agua en el mundo. Fuente: Nacional Geographic, 2017. </div>
  <p align="center">
-![Imagen2](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/d14eb56e-7ea3-45e7-845c-d853129d36da)
+  ![Imagen2](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/d14eb56e-7ea3-45e7-845c-d853129d36da)
 
 Fuente: Arne Hoel, fotografía publicada en el BIRF, UN, LA-NETWORK  (27/08/2015) [https://www.un.org/sustainabledevelopment/es/2015/08/agua-saneamiento-e-higiene-un-plan-de-la-oms-contra-las-enfermedades-tropicales-desatendidas/08-27-2015watersanitation7799/](url)
 
  <p align="center">
-![GRAFICA](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/531b6624-60aa-4c9c-949a-3f388cd150ab)
+  ![GRAFICA](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/531b6624-60aa-4c9c-949a-3f388cd150ab)
 _[Fuente: BIRF, 28/07/2023]_
 [https://www.bancomundial.org/es/topic/water/overview](url)
 
