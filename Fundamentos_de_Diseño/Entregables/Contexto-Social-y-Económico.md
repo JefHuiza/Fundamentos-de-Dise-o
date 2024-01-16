@@ -2,8 +2,7 @@
 ## Contexto mundial
 -	El agua se ha convertido prácticamente en un lujo en diferentes lugares del mundo, a pesar de que la gran mayoría del agua en el planeta es salada. Según datos de National Geographic, solo el 3,5% del agua en la Tierra es dulce y solo el 0,025% es potable. Esta distribución desigual del agua potable preocupa a los gobiernos de todo el mundo.
 
--	“Alrededor de 2000 millones de personas en todo el mundo no tienen acceso a servicios de agua potable gestionados de manera segura, 3600 millones no cuentan con servicios de saneamiento seguros y 2300 millones carecen de instalaciones básicas para lavarse las manos.” (Banco Mundial, BIRF). #Falta su año de la cita y elimina una de las imaganes que consideres que no sea tan necesaria
-
+-	“Alrededor de 2000 millones de personas en todo el mundo no tienen acceso a servicios de agua potable gestionados de manera segura, 3600 millones no cuentan con servicios de saneamiento seguros y 2300 millones carecen de instalaciones básicas para lavarse las manos.” (Banco Mundial y BIRF, año ). 
   
       **Gráfica 01: Cantidad de personas afectadas por la mala gestón del agua en todo el mundo** 
 
