@@ -147,7 +147,7 @@ Mientras que en el 2013, el monto de transferencia de 23 GADP’s fue de 59,15 m
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/7a487f4d-7f50-49b1-a503-0bd62c044e3b" width="80%">
 </p>
-<div align="center">Gráfico 7: Montos transferidos a los GADP´s por concepto de competencia de riego y drenaje año 2013, Ecuador. Fuente: SENPLADES, 2014..</div>
+<div align="center">Gráfico 7: Montos transferidos a los GADP´s por concepto de competencia de riego y drenaje año 2013, Ecuador. Fuente: SENPLADES, 2014.</div>
 </p>
 
 ### **Chile**
@@ -179,23 +179,26 @@ Sin embargo, este crecimiento económico se enfrenta a una serie de desafíos, e
   de agua en comparación con lo que obtendrían mediante una conexión domiciliaria, y todo ello a un costo más elevado. Esta realidad no solo implica una pérdida
   de eficiencia económica, ya que se consume menos agua a un precio más alto, sino que también destaca la importancia crítica de mejorar la infraestructura de servicios
   hídricos para garantizar un acceso equitativo y eficiente al recurso vital.
-  
-![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/2ec5ed81-9172-402f-b12b-fed1c994276e)
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/2ec5ed81-9172-402f-b12b-fed1c994276e" width="80%">
+</p>
+<div align="center">Imagen 4. Riesgos hídricos en el secctor de Lima Y Callao. Fuente: Aquafondo, 2020.</div>
+</p>
 
-Fuente: Aquafondo, 2020
-  
-![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/3b7bd2e8-cb0f-48a0-bbbe-d103f51027f1)
-
-Fuente: Stakeholders, 2020
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/3b7bd2e8-cb0f-48a0-bbbe-d103f51027f1" width="80%">
+</p>
+<div align="center">Imagen 5. ¿Cómo afrontaría Lima una crisis hídrica severa?. Fuente: Stakeholders, 2020.</div>
+</p>
 
 ### Arequipa 
 La escasez de agua en Arequipa tiene un impacto negativo en la economía regional. El sector agrícola es el más afectado, ya que la agricultura representa el 13% del PBI regional. La escasez de agua está afectando a la productividad agrícola, lo que está reduciendo los ingresos de los agricultores y las exportaciones agrícolas.
 El sector agrario es el que consume la mayor cantidad de agua en un área agrícola de 47 081 has, esta actividad utiliza 1041,40 millones de metros cúbicos. Sin embargo, hay que hacer notar que solo 671,15 millones de metros cúbicos se encuentran con licencia de uso de agua, el resto es utilizado sin la formalidad de la licencia. Uno de los sembríos más representativos en el Departamento de Arequipa es la alfalfa (30 % de la superficie agrícola cultivada) que es sembrado con fines forrajeros, pero es uno de los sembríos con un uso intensivo de agua, otros sembríos son el ajo, la cebolla, la papa y hortalizas.
-
-Producción Agrícola Nacional y de Arequipa
-
-![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/a2f84be2-6174-4ec6-ae48-9e15b8553cbb)
-Fuente: Instituto Nacional de Estadística e Informática- DNCN (mayo 2016)
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/a2f84be2-6174-4ec6-ae48-9e15b8553cbb" width="80%">
+</p>
+<div align="center">Tabla 3. Producción Agrícola Nacional y de Arequipa. Fuente: Instituto Nacional de Estadística e Informática- DNCN (mayo 2016).</div>
+</p>
 
 El agua es importante para diversas actividades en la minería, la minería formal consume en la actualidad 46,46 millones de metros cúbicos de agua de fuentes naturales y 31,53 millones de agua de reúso proveniente de las aguas tratadas de la ciudad de Arequipa.
 
