@@ -5,8 +5,11 @@
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/12618ba1-3318-4f08-a0fd-7cfc745c44d3" alt="Texto Alternativo" width="60%">
 </p>
 <div align="center">Imagen 1. El agua en el mundo. Fuente: Nacional Geographic, 2017. </div>
+</p>
 
-![Imagen2](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/d14eb56e-7ea3-45e7-845c-d853129d36da)
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/d14eb56e-7ea3-45e7-845c-d853129d36da" alt="Texto Alternativo" width="60%">
+</p>
 
 Fuente: Arne Hoel, fotografía publicada en el BIRF, UN, LA-NETWORK  (27/08/2015) [https://www.un.org/sustainabledevelopment/es/2015/08/agua-saneamiento-e-higiene-un-plan-de-la-oms-contra-las-enfermedades-tropicales-desatendidas/08-27-2015watersanitation7799/](url)
 
@@ -81,18 +84,20 @@ Cabe destacar que el Ecuador creó un plan de gobernanza sobre el agua, donde su
 
 ### **CHILE**
 
-En Chile se ha estado presentando en los últimos años una alteración frente a los recursos hídricos, por ende, ha logrado ser reconocida por el gobierno actual como uno de los problemas que sufre el país (Bachelet, 2015). Dada su extensión se identificó que este problema afecta a las regiones vecinas como la de los ríos con el cual cuenta en su territorio, donde el estado chileno atribuyó que la escasez del agua se daba principalmente por el cambio climático, por lo que, las causas de dicha escasez en la gestión o distribución de estos recursos no eran consideradas antiguamente de manera eficiente, es por esa razón en los años 2011, 2012 hasta el 2016 se obtuvo información acerca de tres grupos de actores principales que estaban vinculados al problema que fueron identificados como la gestión del agua, escasez y recurso forestal, siendo estos tres tal como se mencionó anteriormente los actores principales de escasez, estos mismos factores eran representado por los mismo habitantes del país, a lo que se menciona es que las localidades rurales eran abastecidas por camiones aljibes, mostrando así todos los lugares involucrados que eran abastecidos y los que contaban con escasez (Imagen 3).
+En Chile se ha estado presentando en los últimos años una alteración frente a los recursos hídricos, por ende, ha logrado ser reconocida por el gobierno actual como uno de los problemas que sufre el país (Bachelet, 2015). Dada su extensión se identificó que este problema afecta a las regiones vecinas como la de los ríos con el cual cuenta en su territorio, donde el estado chileno atribuyó que la escasez del agua se daba principalmente por el cambio climático, por lo que, las causas de dicha escasez en la gestión o distribución de estos recursos no eran consideradas antiguamente de manera eficiente, es por esa razón en los años 2011, 2012 hasta el 2016 se obtuvo información acerca de tres grupos de actores principales que estaban vinculados al problema que fueron identificados como la gestión del agua, escasez y recurso forestal, siendo estos tres tal como se mencionó anteriormente los actores principales de escasez, estos mismos factores eran representado por los mismo habitantes del país, a lo que se menciona es que las localidades rurales eran abastecidas por camiones aljibes, mostrando así todos los lugares involucrados que eran abastecidos y los que contaban con escasez (Mapa 4).
 
-![Imagen de WhatsApp 2024-01-15 a las 03 13 14_5f09d02b](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/d7386516-70f5-479c-83d6-fe5df6a3033c)
+<p align="center">
+  <img src=""https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/6833efed-194e-46a6-ad16-836dec96713e" alt="Texto Alternativo" width="60%">
+</p>
+<div align="center">Mapa 4. Localidades rurales del área de estudio con escasez de agua en los años 2011 hasta el 2016. Sección baja de la cuenca del río Bueno en Chile. Fuente: Oppliger, 2019.</div>
+</p>
 
-**Imagen 3**. Localidades rurales del área de estudio con escasez de agua en los años 2011 hasta el 2016. Sección baja de la cuenca del río Bueno en Chile. Fuente: Oppliger, 2019.
-
-Además, de ello se dio a entender que la escasez en dichas zonas no eran únicamente causa físicas, sino que también eran causas antrópicas (Oppliger, Höhl, & Fragkou, 2019). Para ese entonces se habían identificado algunas tipologías de escasez en el agua, donde en términos generales se encontró dos grandes vertientes que definen la escasez hídrica en chile: que es la “escasez física o sequía” (Esparza, 2014) y la “escasez social” (Cooley et al., 2014) y dentro de cada una de ellas se encuentra una gran subdivisión de factores que ayudan a entender mejor el problema con el que cuenta, para ello te invito a que visualices la imagen 4 que te mostrará más resumidamente de las tipologías de escasez de agua en Chile. 
-
-![Imagen de WhatsApp 2024-01-15 a las 03 13 33_e5b8d2bc](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/6833efed-194e-46a6-ad16-836dec96713e)
-
-**Imagen 4**. Tipologías de escasez del agua en Chile. Fuente: Oppliger, 2019.
-
+Además, de ello se dio a entender que la escasez en dichas zonas no eran únicamente causa físicas, sino que también eran causas antrópicas (Oppliger, Höhl, & Fragkou, 2019). Para ese entonces se habían identificado algunas tipologías de escasez en el agua, donde en términos generales se encontró dos grandes vertientes que definen la escasez hídrica en chile: que es la “escasez física o sequía” (Esparza, 2014) y la “escasez social” (Cooley et al., 2014) y dentro de cada una de ellas se encuentra una gran subdivisión de factores que ayudan a entender mejor el problema con el que cuenta, para ello te invito a que visualices el imagen 6 que te mostrará más resumidamente de las tipologías de escasez de agua en Chile. 
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/d7386516-70f5-479c-83d6-fe5df6a3033c" alt="Texto Alternativo" width="60%">
+</p>
+<div align="center">Imagen 6. Tipologías de escasez del agua en Chile. Fuente: Oppliger, 2019.</div>
+</p>
 ### **MÉXICO**
 México es uno de los países de Latinoamérica que cuenta con ríos y lagos importantes en su territorio, pero que también enfrenta problemas de escasez de agua potable, donde nos indica que al menos el 94% de sus aguas se encuentran contaminadas (Nietos, 2011). Por otro lado, existe la sobreexplotación de 102 acuíferos que existen alrededor del país que se identificaron en el año 2008 (Figura 3). Adicionalmente a ello se identificó que en México existen 5 lagunas que desaparecieron a causa de la contaminación, por lo que 38 ciudades del territorio azteca han sido gravemente afectadas frente al abasto de agua potable. Hay que tener en cuenta que el suministro de agua en este país es bastante complejo, ya que el 77% de su población viven en zonas áridas y semiáridas, es decir, más de 11 millones de pobladores especialmente de zonas rurales no cuentan con acceso a agua potable (Esparza, 2014). Asimismo, se  identificó que el país presentaba problemas en la gestión del líquido, donde el 50% del agua era desperdiciada y alrededor  del 70% de aguas residuales no presentaban ningún tipo de tratamiento (Angelica, 2006), actualmente casi cerca de los 25 millones de mexicanos que radican en 23 ciudades, presentan estas dificultades para obtener agua potable, adicional a ello se logró estimar que en un 40% el agua es desperdiciada a causa de fugas que se presentan en la ciudad.
 
