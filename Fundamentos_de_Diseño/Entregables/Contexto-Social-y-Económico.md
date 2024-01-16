@@ -11,7 +11,7 @@ Fuente: Arne Hoel, fotografía publicada en el BIRF, UN, LA-NETWORK  (27/08/2015
 
 
 ![GRAFICA](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/531b6624-60aa-4c9c-949a-3f388cd150ab)
-_[Fuente: BIRF, 28/07/2023](https://www.bancomundial.org/es/topic/water/overview)_
+_[Fuente: BIRF, 28/07/2023]_
 [https://www.bancomundial.org/es/topic/water/overview](url)
 -	“Alrededor de 2000 millones de personas en todo el mundo no tienen acceso a servicios de agua potable gestionados de manera segura, 3600 millones no cuentan con servicios de saneamiento seguros y 2300 millones carecen de instalaciones básicas para lavarse las manos.” (Banco Mundial y BIRF, año ). 
   
