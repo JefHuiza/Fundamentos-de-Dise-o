@@ -141,7 +141,7 @@ Fuente: Plan de gestión de Recursos Hídricos de la Cuenca
 Según el Banco Mundial, el crecimiento económico depende en gran medida del agua. El agua es un factor vital para la producción, por lo que la reducción de las reservas puede traducirse en una desaceleración del crecimiento que empañará las perspectivas económicas, la escasez de agua provocada por el clima podría afectar en hasta un 6 % la tasa de crecimiento económico de algunas regiones.
  ![Imagen8](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/9dce4efd-d13d-401a-a5d5-e9cf90d45d9b)
 
-Fuente: Informe del Grupo del Banco Mundial (High and Dry: Climate Change, Water and The Economy — En dique seco: Cambio climático, agua y la economía
+Imagen 1. La imagen representa la dependencia del crecimiento económico con respecto al agua, en el Perú el porcentaje de 6%. Fuente: Informe del Grupo del Banco Mundial (High and Dry: Climate Change, Water and The Economy — En dique seco: Cambio climático, agua y la economía
 
 
 
