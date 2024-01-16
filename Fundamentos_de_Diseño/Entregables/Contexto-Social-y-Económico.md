@@ -49,9 +49,8 @@ La demanda de agua está creciendo a un ritmo alarmante. Para 2030, se espera qu
 
 ![Imagen7](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/e0af07c4-3e2d-47c6-9b36-2103fe4e3612)
 
-Fuente: IPCC Fourth Assessment Report: Climate Change 2007 [https://archive.ipcc.ch/publications_and_data/ar4/wg2/es/figure-ts-5.html](url)
 
-**_**Mapa representativo de los efectos del cambio climático futuro en el agua dulce que amenazan el desarrollo sostenible de las regiones afectadas. Los antecedentes muestran el cambio en la media de la escorrentía anual, reflejada en %, entre el presente (1981-2000) y 2081-2100 para el escenario de emisiones**_**
+**_**Mapa representativo de los efectos del cambio climático futuro en el agua dulce que amenazan el desarrollo sostenible de las regiones afectadas. Los antecedentes muestran el cambio en la media de la escorrentía anual, reflejada en %, entre el presente (1981-2000) y 2081-2100 para el escenario de emisiones, IPCC Fourth Assessment Report: Climate Change 2007 [https://archive.ipcc.ch/publications_and_data/ar4/wg2/es/figure-ts-5.html](url)**_**
 
 
 ## Contexto regional
