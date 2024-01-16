@@ -25,7 +25,7 @@ Imagen 2. La imagen muestra la dificultad de conseguir agua en otras regiones. F
 
 “Alrededor de 2000 millones de personas en todo el mundo no tienen acceso a servicios de agua potable gestionados de manera segura, 3600 millones no cuentan con servicios de saneamiento seguros y 2300 millones carecen de instalaciones básicas para lavarse las manos.” (Banco Mundial y BIRF, año ).
  <p align="center">
-  <img src="(https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/97f8aefe-1d00-4a4c-b9b5-7eaa468e248c" alt="Texto Alternativo" width="80%">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/97f8aefe-1d00-4a4c-b9b5-7eaa468e248c" alt="Texto Alternativo" width="80%">
  </p>
 
 Gráfica 2. La gráfica es una estimación de escasez de agua hasta el 2050.[Fuente: Programa de las Naciones Unidas para el Desarrollo, 2023](https://www.undp.org/es/agua)[](url)
