@@ -2,10 +2,11 @@
 ## Contexto mundial
 -	El agua se ha convertido prácticamente en un lujo en diferentes lugares del mundo, a pesar de que la gran mayoría del agua en el planeta es salada. Según datos de National Geographic, solo el 3,5% del agua en la Tierra es dulce y solo el 0,025% es potable. Esta distribución desigual del agua potable preocupa a los gobiernos de todo el mundo.
 
+![Imagen2](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/d14eb56e-7ea3-45e7-845c-d853129d36da)
+Fuente: Arne Hoel, fotografía publicada en el BIRF, UN, LA-NETWORK  (27/08/2015) [https://www.un.org/sustainabledevelopment/es/2015/08/agua-saneamiento-e-higiene-un-plan-de-la-oms-contra-las-enfermedades-tropicales-desatendidas/08-27-2015watersanitation7799/](url)
+
 -	“Alrededor de 2000 millones de personas en todo el mundo no tienen acceso a servicios de agua potable gestionados de manera segura, 3600 millones no cuentan con servicios de saneamiento seguros y 2300 millones carecen de instalaciones básicas para lavarse las manos.” (Banco Mundial y BIRF, año ). 
   
- ![Imagen3](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/8dd2b0e6-4e4a-4d64-90bd-2b0c58702a16)
-
 
 - “Entre 2.000 y 3.000 millones de personas sufren escasez de agua durante al menos un mes al año, lo que supone graves riesgos para sus medios de subsistencia, en particular la seguridad alimentaria y el acceso a la electricidad. Se prevé que la población urbana mundial que sufre escasez de agua se duplique, pasando de 930 millones en 2016 a 1.700-2.400 millones de personas en 2050. La creciente incidencia de sequías extremas y prolongadas también está estresando los ecosistemas, con consecuencias nefastas para las especies vegetales y animales”, (UNESCO, 2023).
 
