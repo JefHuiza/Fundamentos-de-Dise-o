@@ -35,7 +35,7 @@ Fuente: UNESCO, 2023
 
      ![Población y extracción de agua mundiales en el tiempo](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/2f006906-84ec-4c26-a727-9bdde266cfb6)
  
-     Fuente: (FA0, 2015)
+     Fuente: (FAO, 2015)
 
  ¿Cómo afecta el cambio climático a la escasez de agua?
 
