@@ -4,11 +4,7 @@
 
 -	“Alrededor de 2000 millones de personas en todo el mundo no tienen acceso a servicios de agua potable gestionados de manera segura, 3600 millones no cuentan con servicios de saneamiento seguros y 2300 millones carecen de instalaciones básicas para lavarse las manos.” (Banco Mundial y BIRF, año ). 
   
-      **Gráfica 01: Cantidad de personas afectadas por la mala gestón del agua en todo el mundo** 
-
  ![Imagen3](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/8dd2b0e6-4e4a-4d64-90bd-2b0c58702a16)
-
-Fuente: Banco Mundial y BIRF, año (Elaboración propia)
 
 
 - “Entre 2.000 y 3.000 millones de personas sufren escasez de agua durante al menos un mes al año, lo que supone graves riesgos para sus medios de subsistencia, en particular la seguridad alimentaria y el acceso a la electricidad. Se prevé que la población urbana mundial que sufre escasez de agua se duplique, pasando de 930 millones en 2016 a 1.700-2.400 millones de personas en 2050. La creciente incidencia de sequías extremas y prolongadas también está estresando los ecosistemas, con consecuencias nefastas para las especies vegetales y animales”, (UNESCO, 2023).
