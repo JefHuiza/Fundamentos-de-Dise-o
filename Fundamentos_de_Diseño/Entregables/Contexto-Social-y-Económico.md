@@ -37,7 +37,7 @@ Fuente: UNESCO, 2023
  
      Fuente: (FAO, 2015)
 
- ¿Cómo afecta el cambio climático a la escasez de agua?
+ **¿Cómo afecta el cambio climático a la escasez de agua?**
 
 1.	Se prevé que los suministros de agua almacenados en los glaciares y la capa de nieve disminuyan aún más durante este siglo, lo que reducirá la disponibilidad de agua durante los períodos cálidos y secos en las regiones abastecidas por el agua derretida de las principales cadenas montañosas (IPCC, año).
 
