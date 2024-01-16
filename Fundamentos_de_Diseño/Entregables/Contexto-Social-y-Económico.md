@@ -153,10 +153,6 @@ Según UNDRR, se registraron 7,348 desastres en todo el mundo en EM-DAT,1 una de
 
 Imagen 2. En la imagen 2 se muestran los efectos de los desastres, en el ámbito económico se perdieron 2.97 billones de dólares entre el año 2000 y 2019. Fuente: UNDRR (Oficina de las Naciones Unidas para la Reducción del Riesgo de Desastres).
  
-![Imagen11](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/ffee1692-afb0-4a84-8437-9ca0c61a454b)
-
-Fuente: UNDRR (Oficina de las Naciones Unidas para la Reducción del Riesgo de Desastres), en la imagen, se muestra el total de situaciones de desastres por tipo: 1980-1999 vs. 2000-2019
-
 
 ## Contexto regional
 ### **Ecuador**
