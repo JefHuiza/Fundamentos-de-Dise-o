@@ -8,7 +8,7 @@
 
  ![Imagen3](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/8dd2b0e6-4e4a-4d64-90bd-2b0c58702a16)
 
-Fuente: Banco Mundial, BIRF (Elaboración propia)
+Fuente: Banco Mundial y BIRF, año (Elaboración propia)
 
 
 - “Entre 2.000 y 3.000 millones de personas sufren escasez de agua durante al menos un mes al año, lo que supone graves riesgos para sus medios de subsistencia, en particular la seguridad alimentaria y el acceso a la electricidad. Se prevé que la población urbana mundial que sufre escasez de agua se duplique, pasando de 930 millones en 2016 a 1.700-2.400 millones de personas en 2050. La creciente incidencia de sequías extremas y prolongadas también está estresando los ecosistemas, con consecuencias nefastas para las especies vegetales y animales”, (UNESCO, 2023).
@@ -17,7 +17,7 @@ Fuente: Banco Mundial, BIRF (Elaboración propia)
 
 ![Escacez del agua a nivel mundial](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/b8db7165-f420-45f2-a411-cda4bccf3a54)
  
-Fuente: Unesco, 2023 
+Fuente: UNESCO, 2023 
 
 **Estrés hídrico y escasez de agua:**
 
