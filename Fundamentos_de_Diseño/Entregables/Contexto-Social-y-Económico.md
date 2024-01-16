@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/d14eb56e-7ea3-45e7-845c-d853129d36da" alt="Texto Alternativo" width="60%">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/d14eb56e-7ea3-45e7-845c-d853129d36da" alt="Texto Alternativo" width="80%">
 </p>
 
 Imagen 2. La imagen muestra la dificultad de conseguir agua en otras regiones. Fuente: Arne Hoel, fotografía publicada en el BIRF, UN, LA-NETWORK  (27/08/2015) [https://www.un.org/sustainabledevelopment/es/2015/08/agua-saneamiento-e-higiene-un-plan-de-la-oms-contra-las-enfermedades-tropicales-desatendidas/08-27-2015watersanitation7799/](url)
