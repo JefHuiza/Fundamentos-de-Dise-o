@@ -1,9 +1,3 @@
-## Tabla de contenidos
-- [CONTEXTO SOCIAL](#CONTEXTO_SOCIAL)
-- [CONTEXTO ECONÓMICO](#CONTEXTO_ECONÓMICO)
-- [Participantes](#participantes)
-- [Docentes del curso](#docentes_del_curso)
-
 # **CONTEXTO SOCIAL**
 ## Contexto mundial
 
