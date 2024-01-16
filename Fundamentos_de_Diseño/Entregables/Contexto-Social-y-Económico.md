@@ -22,12 +22,6 @@ _[Fuente: BIRF, 28/07/2023]_
 
 “Entre 2.000 y 3.000 millones de personas sufren escasez de agua durante al menos un mes al año, lo que supone graves riesgos para sus medios de subsistencia, en particular la seguridad alimentaria y el acceso a la electricidad. Se prevé que la población urbana mundial que sufre escasez de agua se duplique, pasando de 930 millones en 2016 a 1.700-2.400 millones de personas en 2050. La creciente incidencia de sequías extremas y prolongadas también está estresando los ecosistemas, con consecuencias nefastas para las especies vegetales y animales”, (UNESCO, 2023).
 
-     **Gráfica 02: Personas que sufren escacez de agua en el mundo 2016 y pronósticos al 2050**
-
-![Escacez del agua a nivel mundial](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/b8db7165-f420-45f2-a411-cda4bccf3a54)
- 
-Fuente: UNESCO, 2023 
-
 **Estrés hídrico y escasez de agua:**
 
 - Según el Programa Mundial de Evaluación de los Recursos Hídricos (WWAP), los hidrólogos miden la escasez de agua a través de la relación agua/población. Una zona experimentará estrés hídrico cuando su suministro anual de agua caiga por debajo de los 1.700 m3 por persona. Cuando ese mismo suministro anual cae por debajo de los 1.000 m3 por persona, entonces se habla de escasez de agua y de escasez absoluta de agua es cuando la tasa es menor a 500 m3.
