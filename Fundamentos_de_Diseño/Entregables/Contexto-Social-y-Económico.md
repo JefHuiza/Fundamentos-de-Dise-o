@@ -1,7 +1,8 @@
 # Contexto Social
 ## Contexto mundial
-- El agua se ha convertido prácticamente en un lujo. El planeta está compuesto en un 70% por agua, pero, según datos de National Geographic, sólo el 3,5% es dulce y el 0,025% potable. De ahí que la distribución desigual de este recurso preocupa a los gobiernos de todo el mundo.
-- “Alrededor de 2000 millones de personas en todo el mundo no tienen acceso a servicios de agua potable gestionados de manera segura, 3600 millones no cuentan con servicios de saneamiento seguros y 2300 millones carecen de instalaciones básicas para lavarse las manos.” (Banco Mundial, BIRF).
+-	El agua se ha convertido prácticamente en un lujo en diferentes lugares del mundo, a pesar de que la gran mayoría del agua en el planeta es salada. Según datos de National Geographic, solo el 3,5% del agua en la Tierra es dulce y solo el 0,025% es potable. Esta distribución desigual del agua potable preocupa a los gobiernos de todo el mundo.
+
+-	“Alrededor de 2000 millones de personas en todo el mundo no tienen acceso a servicios de agua potable gestionados de manera segura, 3600 millones no cuentan con servicios de saneamiento seguros y 2300 millones carecen de instalaciones básicas para lavarse las manos.” (Banco Mundial, BIRF). #Falta su año de la cita
 
  ![Imagen2](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/79bc7c9a-4394-4675-9fd1-801e7d75cc8f)
 
