@@ -3,9 +3,10 @@
 -	El agua se ha convertido prácticamente en un lujo en diferentes lugares del mundo, a pesar de que la gran mayoría del agua en el planeta es salada. Según datos de National Geographic, solo el 3,5% del agua en la Tierra es dulce y solo el 0,025% es potable. Esta distribución desigual del agua potable preocupa a los gobiernos de todo el mundo (Imagen 1).
    
  <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/12618ba1-3318-4f08-a0fd-7cfc745c44d3" alt="Texto Alternativo" width="50%">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/12618ba1-3318-4f08-a0fd-7cfc745c44d3" alt="Texto Alternativo" width="60%">
 </p>
 <div align="center">Imagen 1. El agua en el mundo. Fuente: Nacional Geographic, 2017. </div>
+
 
 ![Imagen2](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/d14eb56e-7ea3-45e7-845c-d853129d36da)
 
