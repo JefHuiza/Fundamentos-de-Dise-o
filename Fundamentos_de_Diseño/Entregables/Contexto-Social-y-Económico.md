@@ -1,18 +1,12 @@
 # **CONTEXTO SOCIAL**
 ## Contexto mundial
--	El agua se ha convertido prácticamente en un lujo en diferentes lugares del mundo, a pesar de que la gran mayoría del agua en el planeta es salada. Según datos de National Geographic, solo el 3,5% del agua en la Tierra es dulce y solo el 0,025% es potable. Esta distribución desigual del agua potable preocupa a los gobiernos de todo el mundo (Imagen 1). 
- <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/12618ba1-3318-4f08-a0fd-7cfc745c44d3" alt="Texto Alternativo" width="60%">
- </p>
- 
-  Imagen 1. El agua en el mundo. Fuente: Nacional Geographic, 2017.[https://agua.org.mx/en-el-planeta/](url)
 
 
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/d14eb56e-7ea3-45e7-845c-d853129d36da" alt="Texto Alternativo" width="90%">
 </p>
 
-Imagen 2. La imagen muestra la dificultad de conseguir agua en otras regiones. Fuente: Arne Hoel, fotografía publicada en el BIRF, UN, LA-NETWORK  (27/08/2015) [https://www.un.org/sustainabledevelopment/es/2015/08/agua-saneamiento-e-higiene-un-plan-de-la-oms-contra-las-enfermedades-tropicales-desatendidas/08-27-2015watersanitation7799/](url)
+Imagen 1. La imagen muestra la dificultad de conseguir agua en otras regiones. Fuente: Arne Hoel, fotografía publicada en el BIRF, UN, LA-NETWORK  (27/08/2015) [https://www.un.org/sustainabledevelopment/es/2015/08/agua-saneamiento-e-higiene-un-plan-de-la-oms-contra-las-enfermedades-tropicales-desatendidas/08-27-2015watersanitation7799/](url)
 
 
   
