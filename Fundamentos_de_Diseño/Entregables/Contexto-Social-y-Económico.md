@@ -41,22 +41,6 @@ Gráfica 2. La gráfica es una estimación de escasez de agua hasta el 2050.[Fue
 Mapa 1. El mapa muestra la escasez física o económica del agua, por ejemplo, el Perú sufre una escasez económica del agua. Fuente: Programa Mundial de Evaluación de los Recursos Hídricos (WWAP, 2020) [https://www.un.org/spanish/waterforlifedecade/scarcity.shtml](url)
 
 Según el Programa Mundial de Evaluación de los Recursos Hídricos (WWAP), los hidrólogos miden la escasez de agua a través de la relación agua/población. Una zona experimentará estrés hídrico cuando su suministro anual de agua caiga por debajo de los 1.700 m3 por persona. Cuando ese mismo suministro anual cae por debajo de los 1.000 m3 por persona, entonces se habla de escasez de agua y de escasez absoluta de agua es cuando la tasa es menor a 500 m3.
- 
-**¿Cómo afecta el cambio climático a la escasez de agua?**
-
-1.	Se prevé que los suministros de agua almacenados en los glaciares y la capa de nieve disminuyan aún más durante este siglo, lo que reducirá la disponibilidad de agua durante los períodos cálidos y secos en las regiones abastecidas por el agua derretida de las principales cadenas montañosas (IPCC, año).
-
-2.	Se prevé que el aumento del nivel del mar amplíe la salinización de las aguas subterráneas, disminuyendo la disponibilidad de agua dulce para los seres humanos y los ecosistemas presentes en las zonas costeras (IPCC, año).
-
-3.	Limitar el calentamiento global a 1,5 °C en vez de hacerlo a 2 °C reduciría aproximadamente a la mitad la proporción de la población mundial que se espera que sufra escasez de agua, aunque cabe destacar que existe una variabilidad considerable entre regiones (IPCC, año).
- 
-4.	La calidad del agua también se ve afectada por el cambio climático, ya que se prevé que las temperaturas más altas del agua y las inundaciones y sequías más frecuentes agraven muchas formas de contaminación del agua, desde sedimentos hasta patógenos y pesticidas (IPCC, año).
- <p align="center">
-  
-![Imagen7](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/e0af07c4-3e2d-47c6-9b36-2103fe4e3612)
-
-
-Mapa 2. Representación de los efectos del cambio climático futuro en el agua dulce que amenazan el desarrollo sostenible de las regiones afectadas. Los antecedentes muestran el cambio en la media de la escorrentía anual, reflejada en %, entre el presente (1981-2000) y 2081-2100 para el escenario de emisiones, IPCC Fourth Assessment Report: Climate Change 2007 [https://archive.ipcc.ch/publications_and_data/ar4/wg2/es/figure-ts-5.html](url)
 
 
 ## Contexto regional
