@@ -51,7 +51,7 @@ Fuente: UNESCO, 2023
 
 ![Imagen7](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/e0af07c4-3e2d-47c6-9b36-2103fe4e3612)
 
-Fuente Panel Intergubernamental del Cambio Climático (IPCC, año) 
+Fuente: Panel Intergubernamental del Cambio Climático (IPCC, año) 
 El color azul indica aumento de la escorrentía, y el rojo disminución de la escorrentía.
 
 ## Contexto regional
