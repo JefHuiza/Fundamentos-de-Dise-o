@@ -28,7 +28,7 @@ Fuente: Unesco, 2023
 
   ![Imagen5](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/44cd12ea-dc64-490b-8125-c818bdf089a6)
  
-Fuente: Programa Mundial de Evaluación de los Recursos Hídricos (WWAP, 2020) 
+     Fuente: Programa Mundial de Evaluación de los Recursos Hídricos (WWAP, 2020) 
 
 La demanda está creciendo y el consumo excesivo es la norma
 Para el 2030 se espera que el uso del agua aumente en un 40% gracias a una combinación de factores como el cambio climático, la acción humana y el crecimiento demográfico, aunque hoy en día ya es excesivo en algunas ciudades (FAO).
