@@ -238,8 +238,7 @@ http://documentos.senplades.gob.ec/Plan%20Nacional%20Buen%20Vivir%202013-2017.pd
 - 	Nieto, N. (2011). La gestión del agua: tensiones globales y latinoamericanas. Política y cultura, (36), 157-176. https://www.scielo.org.mx/scielo.php?pid=S0188-77422011000200007&script=sci_arttext
   
 - 	Maripaz. (2019). La escasez de agua y sus efectos sobre la economía global – Natural Capital Summit. https://naturalcapitalsummit.com/2016/08/24/la-escasez-de-agua-y-sus-efectos-sobre-la-economia-global/
-- 	
-MIDAGRI. (18 de Setiembre de 2023). Gobierno del Perú. Gobierno del Perú: https://www.gob.pe/institucion/midagri/noticias/835945-ministra-jennifer-contreras-se-aprueba-decreto-supremo-para-atender-emergencia-por-deficit-hidrico
+- MIDAGRI. (18 de Setiembre de 2023). Gobierno del Perú. Gobierno del Perú: https://www.gob.pe/institucion/midagri/noticias/835945-ministra-jennifer-contreras-se-aprueba-decreto-supremo-para-atender-emergencia-por-deficit-hidrico
   
 - Oppliger, A., Höhl, J., & Fragkou, M. (2019). Escasez de agua: develando sus orígenes híbridos en la cuenca del Río Bueno, Chile. Revista de Geografía Norte Grande, (73), 9-27. https://www.scielo.cl/scielo.php?pid=S0718-34022019000200009&script=sci_arttext
  
