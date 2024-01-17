@@ -95,14 +95,14 @@ Durante estos últimos años se ha ido evidenciado el aumento y la preocupación
 </p>
 
 ### Lima
-- La escasez de agua ha llevado al gobierno a asumir la responsabilidad de distribuir el recurso para satisfacer la demanda de la población. Sin embargo, se ha observado un problema crítico en este proceso: los tanques de los camiones cisterna, utilizados para transportar el agua, presentan serias deficiencias en términos de contaminación. Esta situación representa un riesgo significativo para la salud de los consumidores, ya que los camiones cisterna suelen cargar agua de fuentes diversas y no siempre seguras. Además, se agrava la problemática al constatar que los tanques no son desinfectados de manera regular, lo que facilita la acumulación de bacterias y otros contaminantes.
+- La escasez de agua ha llevado al gobierno a asumir la responsabilidad de distribuir el recurso para satisfacer la demanda de la población. Sin embargo, se ha observado un problema crítico en este proceso: los tanques de los camiones cisterna, utilizados para transportar el agua, presentan serias deficiencias en términos de contaminación. Esta situación representa un riesgo significativo para la salud de los consumidores, ya que los camiones cisterna suelen cargar agua de fuentes diversas y no siempre seguras. Además, se agrava la problemática al constatar que los tanques no son desinfectados de manera regular, lo que facilita la acumulación de bacterias y otros contaminantes (Cogorno, 2019).
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/3daf68ed-7825-4745-9e02-c57bf54de200" width="60%">
 </p>
 <div align="center">Imagen 2. Consumo excesivo de agua en Lima. Fuente: Aquafondo, 2020</div>
 </p>
 
-- En el lapso comprendido entre 2001 y 2018 en el Perú, se registró un aumento significativo de 68,000 hectáreas de nuevo suelo urbano, con una población adicional de 3.5 millones de habitantes que ocuparon alrededor de 940,000 viviendas. Este incremento representó un 47 % más en comparación con los datos reportados en el año 2000, según indican Espinoza y Fort (2020). Este fenómeno ha tenido repercusiones notables en los Humedales Villa Chorrillos, manifestándose en cambios sustanciales en las características fisicoquímicas del agua y, como consecuencia, afectando la biodiversidad y los hábitats de esta área.
+- En el lapso comprendido entre 2001 y 2018 en el Perú, se registró un aumento significativo de 68,000 hectáreas de nuevo suelo urbano, con una población adicional de 3.5 millones de habitantes que ocuparon alrededor de 940,000 viviendas. Este incremento representó un 47 % más en comparación con los datos reportados en el año 2000, según indican Espinoza y Fort (2020). Este fenómeno ha tenido repercusiones notables en los Humedales Villa Chorrillos, manifestándose en cambios sustanciales en las características fisicoquímicas del agua y, como consecuencia, afectando la biodiversidad y los hábitats de esta área (Vda, 2022).
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/db47ab0c-a10a-46de-ac06-1701355d71de" width="60%">
 </p>
@@ -180,7 +180,7 @@ Sin embargo, este crecimiento económico se enfrenta a una serie de desafíos, e
   de servicios hídricos eficiente. Por ejemplo, al adquirir agua a través de camiones cisterna, los consumidores terminan recibiendo una cantidad inferior
   de agua en comparación con lo que obtendrían mediante una conexión domiciliaria, y todo ello a un costo más elevado. Esta realidad no solo implica una pérdida
   de eficiencia económica, ya que se consume menos agua a un precio más alto, sino que también destaca la importancia crítica de mejorar la infraestructura de servicios
-  hídricos para garantizar un acceso equitativo y eficiente al recurso vital.
+  hídricos para garantizar un acceso equitativo y eficiente al recurso vital (Bonifaz & Aragón, 2008).
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/2ec5ed81-9172-402f-b12b-fed1c994276e" width="50%">
 </p>
