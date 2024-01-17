@@ -91,7 +91,7 @@ Durante estos últimos años se ha ido evidenciado el aumento y la preocupación
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/852bf88e-093b-43de-a876-88e278761afb" width="60%">
 </p>
-<div align="center">Mapa 5. Peligro por déficit hídrico ante condiciones El Niño para el periodo lluvioso 2023 – 2024. Fuente: SENAMHI & ANA, 2023, elaborado por CENEPRED.</div>
+<div align="center">Mapa 5. Peligro por déficit hídrico ante condiciones El Niño para el periodo lluvioso 2023 – 2024. Fuente: SENAMHI & ANA, 2023, elaborado por CENEPRED,2023.</div>
 </p>
 
 ### Lima
