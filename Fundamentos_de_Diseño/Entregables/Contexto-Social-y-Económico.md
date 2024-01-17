@@ -206,7 +206,7 @@ El agua es importante para diversas actividades en la minería, la minería form
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/0dc22b1d-bd9a-4c84-9778-9a2bd009bc6d" width="60%">
 </p>
-<div align="center">Tabla 4. Demanda de agua en la minería de Arequipa. Fuente: Plan de gestión de Recursos Hídricoss de la cuenca, 2014.</div>
+<div align="center">Tabla 4. Demanda de agua en la minería de Arequipa. Fuente: Plan de gestión de Recursos Hídricos de la cuenca, 2014.</div>
 </p>
 
 La minería en la región Arequipa ha generado un valor agregado que representa el 26 % durante el periodo 2007 al 2014, esta participación corresponde solo a las actividades primarias (extracción de minerales y obtención de concentrados), sin considerar el efecto indirecto por la demanda de bienes y servicios conexos (bienes industriales intermedios, transporte, comunicaciones, agua, electricidad y otros).  
