@@ -7,3 +7,4 @@
 ## Referencias Bibliográficas
 - Sunass Perú, (15 de Febrero de 2023). Escasez en Lima-Perú. https://www.youtube.com/watch?v=TFiehwaMiYo&t=84s
 - La República, (29 de Agosto de 2023). Distritos de Lima con poco abastecimiento de agua potable. https://larepublica.pe/sociedad/2023/08/29/habra-escasez-de-agua-en-lima-en-lo-que-queda-del-2023-sunass-responde-548100
+- Ioris, A. A. (2018). 5 Los servicios de agua en Lima, Perú. Agua y Ciudades en América Latina, 84. https://books.google.es/books?hl=es&lr=&id=p-aGDwAAQBAJ&oi=fnd&pg=PA84&dq=Ioris,+A.+A.+(2018).+5+Los+servicios+de+agua+en+Lima,+Per%C3%BA.+Agua+y+Ciudades+en+Am%C3%A9rica%C2%A0Latina,%C2%A084.&ots=yS69pK_8BK&sig=HqrdfFX0YRXcATBRs8eABXWwpic
