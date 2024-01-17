@@ -194,7 +194,7 @@ Sin embargo, este crecimiento económico se enfrenta a una serie de desafíos, e
 </p>
 
 ### Arequipa 
-La escasez de agua en Arequipa tiene un impacto negativo en la economía regional. El sector agrícola es el más afectado, ya que la agricultura representa el 13% del PBI regional. La escasez de agua está afectando a la productividad agrícola, lo que está reduciendo los ingresos de los agricultores y las exportaciones agrícolas.
+- La escasez de agua en Arequipa tiene un impacto negativo en la economía regional. El sector agrícola es el más afectado, ya que la agricultura representa el 13% del PBI regional. La escasez de agua está afectando a la productividad agrícola, lo que está reduciendo los ingresos de los agricultores y las exportaciones agrícolas.
 El sector agrario es el que consume la mayor cantidad de agua en un área agrícola de 47 081 has, esta actividad utiliza 1041,40 millones de metros cúbicos. Sin embargo, hay que hacer notar que solo 671,15 millones de metros cúbicos se encuentran con licencia de uso de agua, el resto es utilizado sin la formalidad de la licencia. Uno de los sembríos más representativos en el Departamento de Arequipa es la alfalfa (30 % de la superficie agrícola cultivada) que es sembrado con fines forrajeros, pero es uno de los sembríos con un uso intensivo de agua, otros sembríos son el ajo, la cebolla, la papa y hortalizas.
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/a2f84be2-6174-4ec6-ae48-9e15b8553cbb" width="60%">
@@ -202,14 +202,15 @@ El sector agrario es el que consume la mayor cantidad de agua en un área agríc
 <div align="center">Tabla 3. Producción Agrícola Nacional y de Arequipa. Fuente: Instituto Nacional de Estadística e Informática- DNCN (mayo 2016).</div>
 </p>
 
-El agua es importante para diversas actividades en la minería, la minería formal consume en la actualidad 46,46 millones de metros cúbicos de agua de fuentes naturales y 31,53 millones de agua de reúso proveniente de las aguas tratadas de la ciudad de Arequipa.
+- El agua es importante para diversas actividades en la minería, la minería formal consume en la actualidad 46,46 millones de metros cúbicos de agua de fuentes naturales y 31,53 millones de agua de reúso proveniente de las aguas tratadas de la ciudad de Arequipa.
+- La minería en la región Arequipa ha generado un valor agregado que representa el 26 % durante el periodo 2007 al 2014, esta participación corresponde solo a las actividades primarias (extracción de minerales y obtención de concentrados), sin considerar el efecto indirecto por la demanda de bienes y servicios conexos (bienes industriales intermedios, transporte, comunicaciones, agua, electricidad y otros).
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/0dc22b1d-bd9a-4c84-9778-9a2bd009bc6d" width="60%">
 </p>
 <div align="center">Tabla 4. Demanda de agua en la minería de Arequipa. Fuente: Plan de gestión de Recursos Hídricos de la cuenca, 2014.</div>
 </p>
 
-La minería en la región Arequipa ha generado un valor agregado que representa el 26 % durante el periodo 2007 al 2014, esta participación corresponde solo a las actividades primarias (extracción de minerales y obtención de concentrados), sin considerar el efecto indirecto por la demanda de bienes y servicios conexos (bienes industriales intermedios, transporte, comunicaciones, agua, electricidad y otros).  
+
 
 # Referencias
 ## Bibliografía:
