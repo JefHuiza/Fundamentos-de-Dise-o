@@ -226,6 +226,9 @@ La minería en la región Arequipa ha generado un valor agregado que representa 
 - Cogorno Ventura, G. R. (2019). Caos hídrico: el acceso al agua en el humedal “Los Pantanos de Villa” en Chorrillos, (Lima) https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/18156
   
 - Esparza, M. (2014). La sequía y la escasez de agua en México: Situación actual y perspectivas futuras. Secuencia, (89), 193-219. https://www.scielo.org.mx/scielo.php?pid=S0186-03482014000200008&script=sci_arttext
+
+- Galárraga, R. (2000).Recuperado el 15 de Mayo de 2015, de
+http://documentos.senplades.gob.ec/Plan%20Nacional%20Buen%20Vivir%202013-2017.pdf
   
 - National Geographic. (2024). ESCASEZ DE AGUA: UNO DE LOS MAYORES DESAFÍOS DEL SIGLO XXI. En Org.pe. Susan Goldberg. https://www.nationalgeographic.com.es/ciencia/propiedades-que-hacen-que-agua-sea-tan-especial_14052
   
@@ -238,6 +241,9 @@ La minería en la región Arequipa ha generado un valor agregado que representa 
 - Ramírez, R. A. M., Yerovi, A. B. P., & Castro, D. A. T. (2017). La gobernanza del agua para riego en el Ecuador contemporáneo. Mikarimin. Revista Científica Multidisciplinaria. e-ISSN 2528-7842, 3(1), 09-24. https://core.ac.uk/download/pdf/235988438.pdf
 
 - Senplades, (2014). Informe del Estado de la Transferencia de la Competencia de Riego y Drenaje. Quito: Senplades. Recuperado el 30 de julio de 2015, de http://www.planificacion.gob.ec/wpcontent/uploads/downloads/2015/04/Informe-del-estado-de-transferencia-de-la-competencia-de-riego-y
+
+- Senagua. (9 de Noviembre de 2012). Potencial de los recursos hídricos del Ecuador. Recuperado el 3 de Octubre de 
+2015, de http://www.agua.gob.ec/wp-content/uploads/downloads/2012/09/Presentaci%C3%B3n-Megaproyectos2016-11-09-2012_2.pdf
 
 -	UNESCO. (2015, diciembre 11). Abordar la escasez y la calidad del agua. https://es.unesco.org/themes/garantizar-suministro-agua/hidrologia/escasez-calidad
   
