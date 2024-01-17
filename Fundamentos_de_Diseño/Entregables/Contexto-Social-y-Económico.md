@@ -217,7 +217,7 @@ La minería en la región Arequipa ha generado un valor agregado que representa 
   
 - Arroyo, V., Ballestero, M., & Mejía, A. (2015). Inseguridad Económica del Agua en Latinoamérica: de la abundancia a la inseguridad. https://scioteca.caf.com/handle/123456789/787
 
-- BACHELET, M. Discurso de S.E. La Presidenta de la República, Michelle Bachelet, al anunciar plan nacional en la perspectiva de asegurar el agua para Chile, 2015. Disponible en internet: https://www.google.cl/#q=DISCURSO+DE+S.E.+LA+PRESIDENTA+DE+LA+REP%C3%9ABLICA%2C+MICHELLE+BACHELET%2C+AL+ANUNCIAR+PLAN+NACIONAL+EN+LA+PERSPECTIVA+DE+ASEGURAR+EL+AGUA+PARA+CHILE
+- BACHELET, M. (2015). Discurso de S.E. La Presidenta de la República, Michelle Bachelet, al anunciar plan nacional en la perspectiva de asegurar el agua para Chile, 2015. Disponible en internet: https://www.google.cl/#q=DISCURSO+DE+S.E.+LA+PRESIDENTA+DE+LA+REP%C3%9ABLICA%2C+MICHELLE+BACHELET%2C+AL+ANUNCIAR+PLAN+NACIONAL+EN+LA+PERSPECTIVA+DE+ASEGURAR+EL+AGUA+PARA+CHILE
   
 - Bonifaz, J. L., & Aragón, G. (2008). Sobrecostos por la falta de infraestructura en agua potable: una aproximación empírica. https://repositorio.up.edu.pe/handle/11354/345
   
