@@ -4,6 +4,6 @@
 ![6](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/a39fbe47-315f-4f9f-a2ae-ffcefb8f8f3e)
 ![7](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/8b96afcb-df8b-452b-a6ba-e3ba3f2bff26)
 
-##Referencias Bibliográficas
+## Referencias Bibliográficas
 - Sunass Perú, (15 de Febrero de 2023). Escasez en Lima-Perú. https://www.youtube.com/watch?v=TFiehwaMiYo&t=84s
 - La República, (29 de Agosto de 2023). Distritos de Lima con poco abastecimiento de agua potable. https://larepublica.pe/sociedad/2023/08/29/habra-escasez-de-agua-en-lima-en-lo-que-queda-del-2023-sunass-responde-548100
