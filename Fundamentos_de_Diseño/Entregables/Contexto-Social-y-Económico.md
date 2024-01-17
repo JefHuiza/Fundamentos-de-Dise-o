@@ -110,15 +110,15 @@ Durante estos últimos años se ha ido evidenciado el aumento y la preocupación
 </p>
 
 ### **Arequipa**
-Según un reciente informe del Ministerio de Vivienda, Construcción y Saneamiento (MVCS) , la región de Arequipa se encuentra en una situación de emergencia hídrica. El informe señala que la región cuenta con una disponibilidad promedio de agua de 1.000 metros cúbicos por habitante al año, que es inferior a la media nacional, que es de 1.200 metros cúbicos por habitante al año, siendo una diferencia muy preocupante. 
+- Según un reciente informe del Ministerio de Vivienda, Construcción y Saneamiento (MVCS) , la región de Arequipa se encuentra en una situación de emergencia hídrica. El informe señala que la región cuenta con una disponibilidad promedio de agua de 1.000 metros cúbicos por habitante al año, que es inferior a la media nacional, que es de 1.200 metros cúbicos por habitante al año, siendo una diferencia muy preocupante. 
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/6a90d3ca-8fdb-4b9c-8707-368a3838f32c" width="60%">
 </p>
 <div align="center">Tabla 01: Demanda de agua para uso poblacional, Cuenca Quilca Chili. Fuente: Tomado del Plan de Gestión de Recursos Hídricos de la Cuenca (2014).</div>
 </p>
 
-Por otro lado, según un estudio meteorológico sobre los efectos del cambio climático en los próximos 40 años reveló que entre los años 2023 y 2024 habrá una escasez de agua en la región de Arequipa, ante ello el gerente regional de Agricultura, José Paredes Sánchez, ha recomendado a los agricultores de la región que utilicen solo el 70% de sus tierras como medida provisional. Pero tener en cuenta que la región cuenta con 130 mil hectáreas de cultivo, y aproximadamente 20 mil hectáreas deberían quedar sin cultivar, lo que representa el 30%.
-Pero, por otra parte, es muy importante tomar en cuenta que la agricultura es una actividad que genera un mayor uso de mano laboral, dando oportunidad de trabajo a los sectores más pobres de la región, el suministro de agua afecta directamente en la cantidad de empleo que se usa. Lo que significa una decisión razonable por estos problemas, pero no considero para los trabajadores de dicho sector. 
+- El director zonal del Senamhi de Arequipa, Guillermo Gutiérrez, confirmó el pronóstico de una sequía inminente en la región, reiterando que el 98% de la población y la agricultura serían afectadas por la falta de agua.
+- El gerente regional de Agricultura, José Paredes Sánchez, ha recomendado a los agricultores de la región que utilicen solo el 70% de sus tierras como medida provisional. Tener en cuenta que la región cuenta con 130 mil hectáreas de cultivo, y aproximadamente 20 mil hectáreas deberían quedar sin cultivar, lo que representa el 30%. Por otro lado, es muy importante tomar en cuenta que la agricultura es una actividad que genera un mayor uso de mano laboral, dando oportunidad de trabajo a los sectores más pobres de la región, el suministro de agua afecta directamente en la cantidad de empleo que se usa. Lo que significa una decisión razonable por estos problemas, pero no considero para los trabajadores de dicho sector.
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/4fa9dbb2-ae03-47f5-8d86-5946bf0a6de3" width="60%">
 </p>
