@@ -83,8 +83,9 @@ México es uno de los países de Latinoamérica que cuenta con ríos y lagos imp
 
 ## Nivel nacional
 
-El Perú es considerado uno de los países con una gran riqueza natural, pero también con un grave problema de escasez de agua. Según la United Nations Office for Project Servicies (UNOPS) menciona que estos problemas se deben al uso indebido durante estos años de los recursos hídricos por parte de la industria fabril, los efectos del cambio climático, crecimiento poblacional y prácticas inadecuadas en la agricultura, siendo obstáculos para un desarrollo sostenible. Además, de la mala una mala gestión en la distribución del agua a nivel nacional (UNOPS, 2023)
-Durante estos últimos años se ha ido evidenciado el aumento y la preocupación de la escasez hídrica en el Perú, ante esta situación el Consejo de ministros declaró en estado de emergencia hídrica en algunas provincias de los departamentos de Áncash, Apurímac, Arequipa, Ayacucho, Cusco, Huancavelica, Huánuco, Ica, Junín, La Libertad, Lima, Pasco, Puno y Tacna por peligro (MIDAGRI, 2023)
+El Perú es considerado uno de los países con una gran riqueza natural, pero también con un grave problema de escasez de agua. Según la United Nations Office for Project Servicies (UNOPS) menciona que estos problemas se deben al uso indebido durante estos años de los recursos hídricos por parte de la industria fabril, los efectos del cambio climático, crecimiento poblacional y prácticas inadecuadas en la agricultura, siendo obstáculos para un desarrollo sostenible. Además, de la mala una mala gestión en la distribución del agua a nivel nacional (UNOPS, 2023).
+
+Durante estos últimos años se ha ido evidenciado el aumento y la preocupación de la escasez hídrica en el Perú, ante esta situación el Consejo de ministros declaró en estado de emergencia hídrica en algunas provincias de los departamentos de Áncash, Apurímac, Arequipa, Ayacucho, Cusco, Huancavelica, Huánuco, Ica, Junín, La Libertad, Lima, Pasco, Puno y Tacna por peligro (MIDAGRI, 2023).
 
 
 <p align="center">
