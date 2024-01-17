@@ -117,7 +117,7 @@ Según un reciente informe del Ministerio de Vivienda, Construcción y Saneamien
 <div align="center">Tabla 01: Demanda de agua para uso poblacional, Cuenca Quilca Chili. Fuente: Tomado del Plan de Gestión de Recursos Hídricos de la Cuenca (2014).</div>
 </p>
 
-Por otro lado, según un estudio meteorológico sobre los efectos del cambio climático en los próximos 40 años reveló que entre los años 2023 y 2024 habrá una escasez de agua en la región de Arequipa [3], ante ello el gerente regional de Agricultura, José Paredes Sánchez, ha recomendado a los agricultores de la región que utilicen solo el 70% de sus tierras como medida provisional. Pero tener en cuenta que la región cuenta con 130 mil hectáreas de cultivo, y aproximadamente 20 mil hectáreas deberían quedar sin cultivar, lo que representa el 30%.
+Por otro lado, según un estudio meteorológico sobre los efectos del cambio climático en los próximos 40 años reveló que entre los años 2023 y 2024 habrá una escasez de agua en la región de Arequipa, ante ello el gerente regional de Agricultura, José Paredes Sánchez, ha recomendado a los agricultores de la región que utilicen solo el 70% de sus tierras como medida provisional. Pero tener en cuenta que la región cuenta con 130 mil hectáreas de cultivo, y aproximadamente 20 mil hectáreas deberían quedar sin cultivar, lo que representa el 30%.
 Pero, por otra parte, es muy importante tomar en cuenta que la agricultura es una actividad que genera un mayor uso de mano laboral, dando oportunidad de trabajo a los sectores más pobres de la región, el suministro de agua afecta directamente en la cantidad de empleo que se usa. Lo que significa una decisión razonable por estos problemas, pero no considero para los trabajadores de dicho sector. 
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/4fa9dbb2-ae03-47f5-8d86-5946bf0a6de3" width="60%">
@@ -224,6 +224,7 @@ La minería en la región Arequipa ha generado un valor agregado que representa 
 - Banco Internacional de Reconstrucción y Fomento (BIRF). (28 de Julio del 2023). Panorama general del agua [Data set]. https://doi.org/worldbank.org
 
 - BIRF. (05 de oct de 2022). Banco Mundial – Desarrollo sostenible, resiliencia y crecimiento económico. Entiendo la pobreza. https://www.bancomundial.org/es/home
+- CENEPRED. (2023). ESCENARIO DE RIESGO POR DÉFICIT HÍDRICO ANTE CONDICIONES EL NIÑO (ACTUALIZACIÓN ENERO 2024) . Centro Nacional de Estimación, Prevención y Reducción del Riesgo de Desastres, Dirección de Gestión de Procesos (DGP) - Subdirección de Gestión de la Información, Lima. https://sigrid.cenepred.gob.pe/sigridv3/storage/biblioteca//17021_escenario-de-riesgo-por-deficit-hidrico-ante-condiciones-el-nino-para-el-periodo-de-lluvias-2023-2024-actualizacion-enero-2024.pdf
   
 - Cogorno Ventura, G. R. (2019). Caos hídrico: el acceso al agua en el humedal “Los Pantanos de Villa” en Chorrillos, (Lima) https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/18156
   
@@ -237,6 +238,8 @@ http://documentos.senplades.gob.ec/Plan%20Nacional%20Buen%20Vivir%202013-2017.pd
 - 	Nieto, N. (2011). La gestión del agua: tensiones globales y latinoamericanas. Política y cultura, (36), 157-176. https://www.scielo.org.mx/scielo.php?pid=S0188-77422011000200007&script=sci_arttext
   
 - 	Maripaz. (2019). La escasez de agua y sus efectos sobre la economía global – Natural Capital Summit. https://naturalcapitalsummit.com/2016/08/24/la-escasez-de-agua-y-sus-efectos-sobre-la-economia-global/
+- 	
+MIDAGRI. (18 de Setiembre de 2023). Gobierno del Perú. Gobierno del Perú: https://www.gob.pe/institucion/midagri/noticias/835945-ministra-jennifer-contreras-se-aprueba-decreto-supremo-para-atender-emergencia-por-deficit-hidrico
   
 - Oppliger, A., Höhl, J., & Fragkou, M. (2019). Escasez de agua: develando sus orígenes híbridos en la cuenca del Río Bueno, Chile. Revista de Geografía Norte Grande, (73), 9-27. https://www.scielo.cl/scielo.php?pid=S0718-34022019000200009&script=sci_arttext
  
@@ -249,4 +252,8 @@ http://documentos.senplades.gob.ec/Plan%20Nacional%20Buen%20Vivir%202013-2017.pd
 
 -	UNESCO. (2015, diciembre 11). Abordar la escasez y la calidad del agua. https://es.unesco.org/themes/garantizar-suministro-agua/hidrologia/escasez-calidad
   
+-	UNOPS. (16 de Diciembre de 2023). United Nations Office for Project Servicies. United Nations Office for Project Servicies: https://www.unops.org/es/news-and-stories/stories/combating-water-scarcity-in-peru
+  
 - Vda, R. R. C. Z. (2022). Expansión urbana y sostenibilidad de humedales naturales. Caso: Humedales de Villa, Chorrillos, Lima, Perú 2010-2020. http://190.12.84.13:8080/handle/20.500.13084/6332
+  
+
