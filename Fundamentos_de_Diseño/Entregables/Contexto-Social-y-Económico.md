@@ -239,4 +239,4 @@ La minería en la región Arequipa ha generado un valor agregado que representa 
   
 -	UNESCO. (2015, diciembre 11). Abordar la escasez y la calidad del agua. https://es.unesco.org/themes/garantizar-suministro-agua/hidrologia/escasez-calidad
   
-- Vda, R. R. C. Z. (2022). Expansión urbana y sostenibilidad de humedales naturales. Caso: Humedales de Villa, Chorrillos, Lima, Perú 2010-2020. 
+- Vda, R. R. C. Z. (2022). Expansión urbana y sostenibilidad de humedales naturales. Caso: Humedales de Villa, Chorrillos, Lima, Perú 2010-2020. http://190.12.84.13:8080/handle/20.500.13084/6332
