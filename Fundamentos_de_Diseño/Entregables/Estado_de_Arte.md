@@ -4,7 +4,7 @@
 
 ### **ARTÍCULOS CIENTÍFICOS** 
 
-#### ~**Artículo científico N°1:**~
+#### _**Artículo científico N°1:**_
 
 **Título**: IoT - based drinking water quality measurement: systematic literature review
 
@@ -22,7 +22,7 @@ El futuro sostenible de nuestro planeta depende de varios elementos, siendo el m
 
 En este contexto, el Internet de las Cosas (IoT) y los sensores modernos están tomando protagonismo. Este artículo revisa las tecnologías más recientes para monitorear y evaluar la calidad del agua utilizando IoT. Su objetivo es proporcionar una visión general de las últimas innovaciones en este campo, identificando áreas prometedoras para futuras investigaciones.
 
-#### **Artículo científico N°2:**
+#### _**Artículo científico N°2:**_
 
 **Título**: Sistema de monitoreo doméstico para consumo de agua (Domestic monitoring system for water consumption)
 
@@ -39,7 +39,7 @@ En este contexto, el Internet de las Cosas (IoT) y los sensores modernos están 
 
 El artículo describe un sistema de monitoreo en tiempo real para el consumo de agua en viviendas, utilizando tecnologías inalámbricas y una aplicación móvil. El sistema incluyó un sensor de flujo YF-S201 en la tubería principal de cada vivienda para medir el caudal de agua consumida. Los datos de este sensor se enviaban a una tarjeta de Arduino para calcular el volumen y el costo del agua consumida, que se mide en litros y metros cúbicos. Los datos se enviaban inalámbricamente a través de un módulo Bluetooth HC-05 a un teléfono inteligente donde se ejecutaba en la aplicación desarrollada con MIT App Inventor. La aplicación permitía al usuario registrarse, iniciar sesión y visualizar los datos de consumo y costo, además, de generar reportes en Excel y recibir alertas de excesos de consumo. Los costos se adaptaban a las tarifas domésticas T-2 de la empresa CAPDAM en Manzanillo, Colima. El objetivo de por si era proporcionar una solución de bajo costo y fácil de manipular para monitorear el consumo diario de agua, promoviendo un uso más eficiente y responsable de este recurso hídrico.
 
-#### ~**Artículo científico N°3**~
+#### _**Artículo científico N°3**_
 
 **Título:** Aplicación de técnicas de machine learning para la detección de fugas en una tubería horizontal que transporta una mezcla de agua y glicerol
 
