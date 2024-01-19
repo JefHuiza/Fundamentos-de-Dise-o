@@ -1,6 +1,6 @@
 # 👨‍🔬 ESTADO DE ARTE: CONTEXTO CIENTÍFICO Y COMERCIAL 🧪
 
-## Contexto Científico
+## 1. CONTEXTO CIENTÍFICO 🔬
 
 ### Artículos Científicos
 
@@ -27,7 +27,7 @@ En este contexto, el Internet de las Cosas (IoT) y los sensores modernos están 
 #### Artículo científico N°3
 #### Artículo científico N°4 
 
-## Contexto Comercial
+## 2. CONTEXTO COMERCIAL 🛒 
 
 ### Dispositivos en el Mercado
 
