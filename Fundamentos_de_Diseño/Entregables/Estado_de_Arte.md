@@ -2,7 +2,7 @@
 
 ## 1. CONTEXTO CIENTÍFICO 🔬
 
-## Artículos Científicos
+###ARTÍCULOS CIENTÍFICOS 
 
 #### Artículo científico N°1 
 
@@ -42,7 +42,7 @@ El artículo describe un sistema de monitoreo en tiempo real para el consumo de 
 
 ## 2. CONTEXTO COMERCIAL 🛒 
 
-## Dispositivos en el Mercado
+### DISPOSITIVOS DE MERCADO
 
 #### Dispositivo de mercado N°1 
 #### Dispositivo de mercado N°2 
@@ -61,7 +61,7 @@ El Dxmic es un localizador de fugas de agua de alta precisión y fácil uso, con
 #### Dispositivo de mercado N°3 
 #### Dispositivo de mercado N°4
 
-## Patentes
+### PATENTES
 
 #### Patente N°1 
 #### Patente N°2 
