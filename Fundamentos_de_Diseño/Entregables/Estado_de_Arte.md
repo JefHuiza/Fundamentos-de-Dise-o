@@ -21,7 +21,7 @@
 
 El futuro sostenible de nuestro planeta depende de varios elementos, siendo el medio ambiente uno de los más críticos. La industrialización y los cambios en el uso del suelo han aumentado la contaminación del agua, un problema que requiere nuestra atención. Los Objetivos de Desarrollo Sostenible (ODS) destacan la necesidad de métodos innovadores para monitorear la calidad del agua y garantizar su acceso y gestión sostenible. Hoy en día, se buscan tecnologías que permitan monitorizar en tiempo real la calidad de las aguas subterráneas y superficiales, especialmente en zonas rurales y áreas de difícil acceso.
 
-En este contexto, el Internet de las Cosas (IoT) y los sensores modernos están tomando protagonismo. Este artículo revisa las tecnologías más recientes para monitorear y evaluar la calidad del agua utilizando IoT. Su objetivo es proporcionar una visión general de las últimas innovaciones en este campo, identificando áreas prometedoras para futuras investigaciones.   
+En este contexto, el Internet de las Cosas (IoT) y los sensores modernos están tomando protagonismo. Este artículo revisa las tecnologías más recientes para monitorear y evaluar la calidad del agua utilizando IoT. Su objetivo es proporcionar una visión general de las últimas innovaciones en este campo, identificando áreas prometedoras para futuras investigaciones. [Ver Artículo](https://ijeecs.iaescore.com/index.php/IJEECS/article/view/27929/16718)  
 
 #### _**Artículo científico N°2:**_
 
@@ -82,7 +82,8 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
 - Cuenta con una pantalla LCD retroiluminada que muestra información clara y concisa sobre la ubicación y el tamaño de la fuga.
 - Incluye una función de reducción de ruido que ayuda a aislar el sonido de la fuga del ruido ambiental.
  Es compatible con una amplia gama de accesorios, incluyendo auriculares, cables y sondas.
-- Es fácil de usar y no requiere experiencia previa [Ver producto](https://redes.mejoras-energeticas.com/producto/dxmic-localizador-de-fugas-de-agua/) 
+- Es fácil de usar y no requiere experiencia previa [Ver producto](https://www.detectoresindustriales.com/deteccion-de-fugas-de-agua/94-detector-de-fugas-de-agua-dxmic.html
+) 
 
 #### _*Dispositivo de mercado N°2:*_
 
@@ -142,7 +143,8 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
 
 **Resumen:**
 
-Este invento es un pequeño dispositivo en forma de esfera que flota en el agua. Tiene un hidrófono (un tipo de micrófono de agua) que se conecta a un procesador que almacena información en una tarjeta de memoria. Este procesador también tiene un reloj que registra cuánto tiempo ha estado navegando el dispositivo. Esto ayuda a determinar dónde se han detectado fugas o problemas en las tuberías. El dispositivo también utiliza sincronizadores externos para corregir cualquier error de ubicación. Este dispositivo es sencillo, económico, resistente, duradero y muy efectivo para detectar fugas de agua en las tuberías.
+Este invento es un pequeño dispositivo en forma de esfera que flota en el agua. Tiene un hidrófono (un tipo de micrófono de agua) que se conecta a un procesador que almacena información en una tarjeta de memoria. Este procesador también tiene un reloj que registra cuánto tiempo ha estado navegando el dispositivo. Esto ayuda a determinar dónde se han detectado fugas o problemas en las tuberías. El dispositivo también utiliza sincronizadores externos para corregir cualquier error de ubicación. Este dispositivo es sencillo, económico, resistente, duradero y muy efectivo para detectar fugas de agua en las tuberías. [Ver Patente](https://patentimages.storage.googleapis.com/d1/ca/ec/ab97fb2347a4bf/ES2588214B1.pdf
+)
 
 #### Patente N°2:
 
