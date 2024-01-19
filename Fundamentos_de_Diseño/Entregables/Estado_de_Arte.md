@@ -15,13 +15,24 @@
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/967b3733-6bd7-4184-804b-4e0227c41bd1" alt="Imagen1">
 </p>
+
 **Resúmen:**
 
 El futuro sostenible de nuestro planeta depende de varios elementos, siendo el medio ambiente uno de los más críticos. La industrialización y los cambios en el uso del suelo han aumentado la contaminación del agua, un problema que requiere nuestra atención. Los Objetivos de Desarrollo Sostenible (ODS) destacan la necesidad de métodos innovadores para monitorear la calidad del agua y garantizar su acceso y gestión sostenible. Hoy en día, se buscan tecnologías que permitan monitorizar en tiempo real la calidad de las aguas subterráneas y superficiales, especialmente en zonas rurales y áreas de difícil acceso.
 
 En este contexto, el Internet de las Cosas (IoT) y los sensores modernos están tomando protagonismo. Este artículo revisa las tecnologías más recientes para monitorear y evaluar la calidad del agua utilizando IoT. Su objetivo es proporcionar una visión general de las últimas innovaciones en este campo, identificando áreas prometedoras para futuras investigaciones.
 
-#### Artículo científico N°2 
+#### **Artículo científico N°2:**
+
+**Título**: Sistema de monitoreo doméstico para consumo de agua (Domestic monitoring system for water consumption)
+
+**Autores**: Janeth Alcalá-Rodríguez, Juan C. Barbosa-García, Manuel J. Contreras-Guzmán, Jorge Gudiño-Lau, Saida M. Charre-Ibarra, Daniel Vélez-Díaz
+
+**Fecha**: Accepted. Enero 5, 2022
+
+**Resumen:**
+
+El artículo describe un sistema de monitoreo en tiempo real para el consumo de agua en viviendas, utilizando tecnologías inalámbricas y una aplicación móvil. El sistema incluyó un sensor de flujo YF-S201 en la tubería principal de cada vivienda para medir el caudal de agua consumida. Los datos de este sensor se enviaban a una tarjeta de Arduino para calcular el volumen y el costo del agua consumida, que se mide en litros y metros cúbicos. Los datos se enviaban inalámbricamente a través de un módulo Bluetooth HC-05 a un teléfono inteligente donde se ejecutaba en la aplicación desarrollada con MIT App Inventor. La aplicación permitía al usuario registrarse, iniciar sesión y visualizar los datos de consumo y costo, además, de generar reportes en Excel y recibir alertas de excesos de consumo. Los costos se adaptaban a las tarifas domésticas T-2 de la empresa CAPDAM en Manzanillo, Colima. El objetivo de por si era proporcionar una solución de bajo costo y fácil de manipular para monitorear el consumo diario de agua, promoviendo un uso más eficiente y responsable de este recurso hídrico.
 
 #### Artículo científico N°3
 #### Artículo científico N°4 
