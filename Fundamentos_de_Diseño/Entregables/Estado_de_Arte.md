@@ -30,7 +30,7 @@ En este contexto, el Internet de las Cosas (IoT) y los sensores modernos están 
 
 **Fecha**: Accepted. Enero 5, 2022
  <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/9989f8ae-2379-4e38-b177-bd483b6926fc" alt="Texto Alternativo" width="70%">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/9989f8ae-2379-4e38-b177-bd483b6926fc" alt="Texto Alternativo" width="80%">
 </p>
 <div align="center">Gráfico 3. Uso del Agua en el Ecuador. Fuente: SENAGUA, 2017.</div>
 </p>
