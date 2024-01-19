@@ -28,9 +28,8 @@ En este contexto, el Internet de las Cosas (IoT) y los sensores modernos están 
 **Autores**: Janeth Alcalá-Rodríguez, Juan C. Barbosa-García, Manuel J. Contreras-Guzmán, Jorge Gudiño-Lau, Saida M. Charre-Ibarra, Daniel Vélez-Díaz
 
 **Fecha**: Accepted. Enero 5, 2022
- <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/9989f8ae-2379-4e38-b177-bd483b6926fc" alt="Texto Alternativo" width="60%">
-</p>
+
+![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/784e5aa2-089b-4ae0-83d9-7814277e9c4e)
 
 [Articulo 2: Domestic monitoring system for water consumption](https://repository.uaeh.edu.mx/revistas/index.php/xikua/article/view/8049/8629) 
 
