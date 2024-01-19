@@ -11,9 +11,8 @@
 **Autores**: Yulieth Carriazo-Regino, Rubén Baena-Navarro, Francisco Torres-Hoyos, Juan Vergara-Villadiego, Sebastián Roa-Prada
 
 **Fecha**: Accepted. June 30, 2022
-
-<p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/967b3733-6bd7-4184-804b-4e0227c41bd1" alt="Imagen1">
+ <p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/967b3733-6bd7-4184-804b-4e0227c41bd1" alt="Texto Alternativo" width="60%">
 </p>
 
 **Resúmen:**
@@ -30,8 +29,10 @@ En este contexto, el Internet de las Cosas (IoT) y los sensores modernos están 
 
 **Fecha**: Accepted. Enero 5, 2022
  <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/9989f8ae-2379-4e38-b177-bd483b6926fc" alt="Texto Alternativo" width="80%">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/9989f8ae-2379-4e38-b177-bd483b6926fc" alt="Texto Alternativo" width="60%">
 </p>
+
+[Articulo 2: Domestic monitoring system for water consumption](https://repository.uaeh.edu.mx/revistas/index.php/xikua/article/view/8049/8629) 
 
 **Resumen:**
 
