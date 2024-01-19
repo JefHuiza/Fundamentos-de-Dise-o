@@ -61,7 +61,7 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
 
 ### **DISPOSITIVOS DE MERCADO**
 
-#### Dispositivo de mercado N°1:
+#### _*Dispositivo de mercado N°1:*
 **Nombre del dispositivo**: Detector de fugas de agua DXmic, es un detector para localizar fugas de agua, ofrece un sistema de registro de actividades realizadas, además de crear ficheros de sonidos y guardar las medidas tomadas.
 
 **Costo**: 4.650,00 €
@@ -79,27 +79,23 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
  Es compatible con una amplia gama de accesorios, incluyendo auriculares, cables y sondas.
 - Es fácil de usar y no requiere experiencia previa
 
-#### Dispositivo de mercado N°2: 
+####_*Dispositivo de mercado N°2:* 
 
 **Nombre del dispositivo**: Sensor de nivel de agua para el hogar, driver WiFi con alarma de fuga y alarma de inundación, detector de flujo de tanque
 
 **Costo**: $ 1,485.82
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/43d71206-4eff-4db9-b3e4-1801382fed0a" alt="Texto Alternativo" width="40%">
 
 **Descripción del dispositivo:**
 
 - El equipo puede ser configurado para realizar un monitoreo remoto de la reposición del agua y drenaje, asimismo, recepciona notificaciones de alarma de alto y bajo nivel del agua a través de una  APLICACIÓN.
-
 - El producto es adecuado para diversas ocasiones que requieren un cierto nivel de control del agua, como sistemas HVAC, procesos de agua caliente, drenaje municipal, calderas, torres de agua, tanques de almacenamiento de agua, etc.
-
 - La aplicación con la que se utiliza proporciona la visualización del nivel del agua en tiempo real, y este es expresado en cinco niveles (0%, 25%, 50%, 75%, 100%).
-
 - El dispositivo tiene dos salidas de relé, donde el primero está conectado a la bomba de agua para lograr controlar su encendido y apagado, mientras el segundo se utiliza para evitar el calentamiento en seco.
-
 - Proporciona dos modos preestablecidos de "agregar agua" o "bomba de agua", que pueden cambiar automáticamente el relé 1 de acuerdo con el valor preestablecido del nivel de agua.
-
 - Cuando se alcanzan los límites superior e inferior del nivel de agua, el dispositivo envía una notificación de alarma en tiempo real al teléfono inteligente del usuario.
-
-
+  
 #### _*Dispositivo de mercado N°3:*_
 
 **Nombre del dispositivo:** Detector de Fugas de Agua PQWT-QD50 Sensor de Fugas de Agua subterráneo Detector de Fugas de Agua Uso domésticopara tuberías subterráneas Detector de Fugas de Agua para Profundidad 0.5 M
@@ -112,14 +108,8 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
 **Descripción del dispositivo:**
 
 - El detector de fugas de agua doméstica QD50 es un dispositivo portátil que utiliza dos sensores de alta sensibilidad para detectar fugas en tuberías interiores de agua corriente y tuberías de calefacción por suelo radiante.
-
 - El detector funciona recopilando y analizando el sonido y la señal de fuga de agua. El ruido ambiental se puede reducir con una tecla, lo que facilita el análisis de los resultados de la prueba. El detector también cuenta con una pantalla que muestra los resultados de la prueba, así como una función de escucha que permite al usuario escuchar el sonido de la fuga.
-
 - El detector es adecuado para una amplia gama de aplicaciones, incluyendo tuberías de acero, PVC, PE y PEX. Es un dispositivo ligero y portátil que se puede transportar fácilmente.
-
-
-
-#### Dispositivo de mercado N°4:
 
 ### **PATENTES**
 
