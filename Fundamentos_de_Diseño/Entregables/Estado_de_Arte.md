@@ -121,7 +121,7 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
 
 **Nombre del dispositivo:** Detector de Fugas de Agua PQWT-QD50 Sensor de Fugas de Agua subterráneo Detector de Fugas de Agua Uso domésticopara tuberías subterráneas Detector de Fugas de Agua para Profundidad 0.5 M
 
-**Costo:** $ 21 122
+**Costo:** $21,122.76
 
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/4338899b-d0ca-49b3-a825-148afc465ab5" alt="Texto Alternativo" width="40%">
