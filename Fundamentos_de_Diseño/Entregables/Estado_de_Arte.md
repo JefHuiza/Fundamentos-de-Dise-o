@@ -55,13 +55,13 @@ El artículo describe un sistema de monitoreo en tiempo real para el consumo de 
 El artículo destaca la importancia de detectar fugas en tuberías de manera oportuna, ya que su resolución temprana ayuda a prevenir pérdidas económicas y ambientales. Algunas empresas optan por implementar políticas de control de fugas, sistemas de detección en centros de control y brigadas de operarios en terreno. Sin embargo, estas estrategias no permiten una detección rápida y precisa de las fugas en tiempo real, por lo que podrían no ser la mejor opción. Este artículo, por su parte, presenta una manera rápida y precisa para localizar fugas en tuberías, utilizando técnicas de aprendizaje automático que analizan datos del proceso, conocimiento del sistema y software inteligente (machine learning). Asimismo, presenta diferentes maneras de solución a las fugas de tuberías que existen, entre ellas están: medidores de flujo y  presión, vibradores, cámaras termográficas, escáner de humedad y equipos de escucha. En este caso, se utilizarán sensores de flujo y presión para mejorar la recolección de datos en el sistema.
 
 
-#### Artículo científico N°4 
+#### _*Artículo científico N°4*_ 
 
 ## 2. CONTEXTO COMERCIAL 🛒 
 
 ### **DISPOSITIVOS DE MERCADO**
 
-#### _*Dispositivo de mercado N°1:*
+#### _*Dispositivo de mercado N°1:*_
 **Nombre del dispositivo**: Detector de fugas de agua DXmic, es un detector para localizar fugas de agua, ofrece un sistema de registro de actividades realizadas, además de crear ficheros de sonidos y guardar las medidas tomadas.
 
 **Costo**: 4.650,00 €
@@ -79,7 +79,7 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
  Es compatible con una amplia gama de accesorios, incluyendo auriculares, cables y sondas.
 - Es fácil de usar y no requiere experiencia previa
 
-####_*Dispositivo de mercado N°2:* 
+#### _*Dispositivo de mercado N°2:*_
 
 **Nombre del dispositivo**: Sensor de nivel de agua para el hogar, driver WiFi con alarma de fuga y alarma de inundación, detector de flujo de tanque
 
