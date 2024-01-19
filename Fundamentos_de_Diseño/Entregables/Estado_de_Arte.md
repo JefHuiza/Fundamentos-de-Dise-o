@@ -1,15 +1,17 @@
-# Contexto Científico
+# Estado de Arte
 
-## Artículos Científicos
+## Contexto Científico
+
+### Artículos Científicos
 
 Aquí puedes agregar la información e imágenes relacionadas con los artículos científicos.
 
-# Contexto Comercial
+## Contexto Comercial
 
-## Dispositivos en el Mercado
+### Dispositivos en el Mercado
 
 Aquí puedes agregar la información e imágenes relacionadas con los dispositivos en el mercado.
 
-## Patentes
+### Patentes
 
 Aquí puedes agregar la información e imágenes relacionadas con las patentes.
