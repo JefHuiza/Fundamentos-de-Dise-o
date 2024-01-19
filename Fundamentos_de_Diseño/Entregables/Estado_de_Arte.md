@@ -225,6 +225,8 @@ El detector consta de los siguientes elementos:
 - Alcalá-Rodríguez, J., Barbosa-García, J. C., Contreras-Guzmán, M. J., Gudiño-Lau, J., Charre-Ibarra, S. M., & Vélez-Díaz, D. (2022). Sistema de monitoreo doméstico para consumo de agua. XIKUA Boletín Científico de la Escuela Superior de Tlahuelilpan, 10(19), 17-23. https://repository.uaeh.edu.mx/revistas/index.php/xikua/article/view/8049
 
 - Carriazo, R. Y., Baena, N. R., Torres, H. F., Juan Vergara, V. J., & Sebastián Roa, P. S. (2022). IoT - based drinking water quality measurement: systematic literature review. https://ijeecs.iaescore.com/index.php/IJEECS/article/view/27929/16718
+  
+- Gámez De León, A. (2021). Aplicación de técnicas de machine Learning para la detección de fugas en una tubería horizontal que transporta una mezcla de agua y glicerol. Corporación Universidad de la Costa.https://repositorio.cuc.edu.co/handle/11323/8874
 
 - García, J. M., & Martínez, J. A. (2017) Dispositivo Detector De Fugas de agua en tuberías y procedimiento para la detección de fugas. Oficina Española de Patentes y Marcas. https://patentimages.storage.googleapis.com/d1/ca/ec/ab97fb2347a4bf/ES2588214B1.pdf
 
