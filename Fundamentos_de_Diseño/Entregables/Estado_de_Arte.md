@@ -93,10 +93,9 @@ El Dxmic es un localizador de fugas de agua de alta precisión y fácil uso, con
 **Fecha de publicación**: 05.09.2017
 
 **País de publicación:** España
+
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/6a68abb2-3f81-4906-b5c0-170ed5a1f545" alt="Texto Alternativo" width="50%">
-</p>
-<p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/f5e3ada0-234a-47c8-bd4d-4415ffc21dff" alt="Texto Alternativo" width="50%">
 </p>
 
