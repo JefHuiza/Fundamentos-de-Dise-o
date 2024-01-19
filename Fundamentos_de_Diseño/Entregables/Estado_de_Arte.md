@@ -56,7 +56,7 @@ El artículo describe un sistema de monitoreo en tiempo real para el consumo de 
 
 **Resumen:**
  
-El artículo destaca la importancia de detectar fugas en tuberías de manera oportuna, ya que su resolución temprana ayuda a prevenir pérdidas económicas y ambientales. Algunas empresas optan por implementar políticas de control de fugas, sistemas de detección en centros de control y brigadas de operarios en terreno. Sin embargo, estas estrategias no permiten una detección rápida y precisa de las fugas en tiempo real, por lo que podrían no ser la mejor opción. Este artículo, por su parte, presenta una manera rápida y precisa para localizar fugas en tuberías, utilizando técnicas de aprendizaje automático que analizan datos del proceso, conocimiento del sistema y software inteligente (machine learning). Asimismo, presenta diferentes maneras de solución a las fugas de tuberías que existen, entre ellas están: medidores de flujo y  presión, vibradores, cámaras termográficas, escáner de humedad y equipos de escucha. En este caso, se utilizarán sensores de flujo y presión para mejorar la recolección de datos en el sistema.
+El artículo destaca la importancia de detectar fugas en tuberías de manera oportuna, ya que su resolución temprana ayuda a prevenir pérdidas económicas y ambientales. Algunas empresas optan por implementar políticas de control de fugas, sistemas de detección en centros de control y brigadas de operarios en terreno. Sin embargo, estas estrategias no permiten una detección rápida y precisa de las fugas en tiempo real, por lo que podrían no ser la mejor opción. Este artículo, por su parte, presenta una manera rápida y precisa para localizar fugas en tuberías, utilizando técnicas de aprendizaje automático que analizan datos del proceso, conocimiento del sistema y software inteligente (machine learning). Asimismo, presenta diferentes maneras de solución a las fugas de tuberías que existen, entre ellas están: medidores de flujo y  presión, vibradores, cámaras termográficas, escáner de humedad y equipos de escucha. En este caso, se utilizarán sensores de flujo y presión para mejorar la recolección de datos en el sistema. [Ver Artículo](https://repositorio.cuc.edu.co/handle/11323/8874) 
 
 ## _**Revisión sistematica:**_
 
@@ -176,4 +176,10 @@ Este dispositivo es un sistema de monitoreo para todas las redes de distribució
 
 - Alcalá-Rodríguez, J., Barbosa-García, J. C., Contreras-Guzmán, M. J., Gudiño-Lau, J., Charre-Ibarra, S. M., & Vélez-Díaz, D. (2022). Sistema de monitoreo doméstico para consumo de agua. XIKUA Boletín Científico de la Escuela Superior de Tlahuelilpan, 10(19), 17-23. https://repository.uaeh.edu.mx/revistas/index.php/xikua/article/view/8049
 
+- Carriazo, R. Y., Baena, N. R., Torres, H. F., Juan Vergara, V. J., & Sebastián Roa, P. S. (2022). IoT - based drinking water quality measurement: systematic literature review. https://ijeecs.iaescore.com/index.php/IJEECS/article/view/27929/16718
+
+- García, J. M., & Martínez, J. A. (2017) Dispositivo Detector De Fugas de agua en tuberías y procedimiento para la detección de fugas. Oficina Española de Patentes y Marcas. https://patentimages.storage.googleapis.com/d1/ca/ec/ab97fb2347a4bf/ES2588214B1.pdf
+
 - García, J. M., & Martínez, J. A. (2019). Sistema de monitorización de red de agua. Oficina Española de Patentes y Marcas. https://patentimages.storage.googleapis.com/7f/49/79/26639d07a9ceb3/ES2903401T3.pdf
+  
+- Gámez De León, A. (2021). Aplicación de técnicas de machine Learning para la detección de fugas en una tubería horizontal que transporta una mezcla de agua y glicerol. https://repositorio.cuc.edu.co/handle/11323/8874
