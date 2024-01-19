@@ -233,9 +233,9 @@ El detector consta de los siguientes elementos:
 - García, J. M., & Martínez, J. A. (2019). Sistema de monitorización de red de agua. Oficina Española de Patentes y Marcas. https://patentimages.storage.googleapis.com/7f/49/79/26639d07a9ceb3/ES2903401T3.pdf
   
 - Gámez De León, A. (2021). Aplicación de técnicas de machine Learning para la detección de fugas en una tubería horizontal que transporta una mezcla de agua y glicerol. https://repositorio.cuc.edu.co/handle/11323/8874
+  
+- Hunan Puqi Geologic Exploration Equipment Institut. (2022, Noviembre 07). Amazon. Amazon: https://www.amazon.com.mx/sp?ie=UTF8&seller=A3V5LAY4JHVT72
 
 - Zulkifli, C. Z., Garfan, S., Talal, M., Alamoodi, A. H., Alamleh, A., Ahmaro, I. Y., ... & Chiang, H. H. (2022). IoT-based water monitoring systems: a systematic review. Water, 14(22), 3621.
 https://www.mdpi.com/2073-4441/14/22/3621
-
-- Hunan Puqi Geologic Exploration Equipment Institut. (2022, Noviembre 07). Amazon. Amazon: https://www.amazon.com.mx/sp?ie=UTF8&seller=A3V5LAY4JHVT72
 
