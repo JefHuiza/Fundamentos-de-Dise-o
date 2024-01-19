@@ -77,7 +77,23 @@ El Dxmic es un localizador de fugas de agua de alta precisión y fácil uso, con
 
 #### Dispositivo de mercado N°2: 
 
-#### Dispositivo de mercado N°3:
+#### _*Dispositivo de mercado N°3:*_
+
+**Nombre del dispositivo:** Detector de Fugas de Agua PQWT-QD50 Sensor de Fugas de Agua subterráneo Detector de Fugas de Agua Uso domésticopara tuberías subterráneas Detector de Fugas de Agua para Profundidad 0.5 M
+
+**Costo:** $ 21 122
+
+![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/4338899b-d0ca-49b3-a825-148afc465ab5)
+
+**Descripción del dispositivo:**
+
+- El detector de fugas de agua doméstica QD50 es un dispositivo portátil que utiliza dos sensores de alta sensibilidad para detectar fugas en tuberías interiores de agua corriente y tuberías de calefacción por suelo radiante.
+
+- El detector funciona recopilando y analizando el sonido y la señal de fuga de agua. El ruido ambiental se puede reducir con una tecla, lo que facilita el análisis de los resultados de la prueba. El detector también cuenta con una pantalla que muestra los resultados de la prueba, así como una función de escucha que permite al usuario escuchar el sonido de la fuga.
+
+- El detector es adecuado para una amplia gama de aplicaciones, incluyendo tuberías de acero, PVC, PE y PEX. Es un dispositivo ligero y portátil que se puede transportar fácilmente.
+
+
 
 #### Dispositivo de mercado N°4:
 
