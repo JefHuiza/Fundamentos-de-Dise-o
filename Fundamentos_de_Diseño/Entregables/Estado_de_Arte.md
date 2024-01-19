@@ -135,6 +135,8 @@ Este invento es un pequeño dispositivo en forma de esfera que flota en el agua.
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/8dc46b32-effa-4bca-a73b-287a37dbc004" width="70%">
 </p>
 
+[Patente 2: Sistema de monitorización de red de agua](https://patents.google.com/patent/ES2903401T3/es?q=(detector+de+fugas+del+agua)&oq=detector+de+fugas+del+agua) 
+
 #### Patente N°3:
 
 #### Patente N°4:
