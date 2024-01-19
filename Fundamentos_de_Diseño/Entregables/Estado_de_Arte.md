@@ -4,14 +4,24 @@
 
 ### Artículos Científicos
 
-Aquí puedes agregar la información e imágenes relacionadas con los artículos científicos.
+#### Artículo científico N°1 
+#### Artículo científico N°2 
+#### Artículo científico N°3
+#### Artículo científico N°4 
 
 ## Contexto Comercial
 
 ### Dispositivos en el Mercado
 
-Aquí puedes agregar la información e imágenes relacionadas con los dispositivos en el mercado.
+#### Dispositivo de mercado N°1 
+#### Dispositivo de mercado N°2 
+#### Dispositivo de mercado N°3 
+#### Dispositivo de mercado N°4
 
 ### Patentes
 
-Aquí puedes agregar la información e imágenes relacionadas con las patentes.
+#### Patente N°1 
+#### Patente N°2 
+#### Patente N°3 
+#### Patente N°4
+
