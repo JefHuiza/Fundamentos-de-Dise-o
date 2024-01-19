@@ -47,6 +47,8 @@ El artículo describe un sistema de monitoreo en tiempo real para el consumo de 
 
 **Fecha:** 2021
 
+ <p align="center">
+  <img src=¨https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/5772866e-15b1-43f1-ac3b-079cfec27e86¨ alt="Texto Alternativo" width="60%">
 
 
 **Resumen:**
