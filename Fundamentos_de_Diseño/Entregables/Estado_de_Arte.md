@@ -77,9 +77,7 @@ El Dxmic es un localizador de fugas de agua de alta precisión y fácil uso, con
 
 ### **PATENTES**
 
-#### Patente N°1 
-#### Patente N°2 
-
+#### Patente N°1:
 **ES 2 588 214 B1** - Dispositivo Detector de Fugas de Agua en tuberías y procedimiento para la detección de fugas. 
 
 **Inventor/es**: Ramírez García, Agustín
@@ -101,6 +99,10 @@ País de publicación: España
 **Resumen:**
 
 Este invento es un pequeño dispositivo en forma de esfera que flota en el agua. Tiene un hidrófono (un tipo de micrófono de agua) que se conecta a un procesador que almacena información en una tarjeta de memoria. Este procesador también tiene un reloj que registra cuánto tiempo ha estado navegando el dispositivo. Esto ayuda a determinar dónde se han detectado fugas o problemas en las tuberías. El dispositivo también utiliza sincronizadores externos para corregir cualquier error de ubicación. Este dispositivo es sencillo, económico, resistente, duradero y muy efectivo para detectar fugas de agua en las tuberías.
-#### Patente N°3 
-#### Patente N°4
+
+#### Patente N°2:
+
+#### Patente N°3:
+
+#### Patente N°4:
 
