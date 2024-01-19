@@ -11,9 +11,9 @@
 **Autores**: Yulieth Carriazo-Regino, Rubén Baena-Navarro, Francisco Torres-Hoyos, Juan Vergara-Villadiego, Sebastián Roa-Prada
 
 **Fecha**: Accepted. June 30, 2022
-
-![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/68033596-6145-4803-a46b-92b43e1cf571)
-
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/68033596-6145-4803-a46b-92b43e1cf571" alt="Texto Alternativo" width="80%">
+</p>
 
 **Resúmen:**
 
@@ -28,8 +28,9 @@ En este contexto, el Internet de las Cosas (IoT) y los sensores modernos están 
 **Autores**: Janeth Alcalá-Rodríguez, Juan C. Barbosa-García, Manuel J. Contreras-Guzmán, Jorge Gudiño-Lau, Saida M. Charre-Ibarra, Daniel Vélez-Díaz
 
 **Fecha**: Accepted. Enero 5, 2022
-
-![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/784e5aa2-089b-4ae0-83d9-7814277e9c4e)
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/784e5aa2-089b-4ae0-83d9-7814277e9c4e" alt="Texto Alternativo" width="80%">
+</p>
 
 [Articulo 2: Domestic monitoring system for water consumption](https://repository.uaeh.edu.mx/revistas/index.php/xikua/article/view/8049/8629) 
 
@@ -45,7 +46,9 @@ El artículo describe un sistema de monitoreo en tiempo real para el consumo de 
 
 **Fecha:** 2021
 
-![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/35a3cb5b-4615-4c31-9ded-d9530e37184c)
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/35a3cb5b-4615-4c31-9ded-d9530e37184c" alt="Texto Alternativo" width="80%">
+</p>
 
 **Resumen:**
  
@@ -87,13 +90,11 @@ El Dxmic es un localizador de fugas de agua de alta precisión y fácil uso, con
 **Fecha de publicación**: 05.09.2017
 
 País de publicación: España
-
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/6a68abb2-3f81-4906-b5c0-170ed5a1f545" alt="Imagen2">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/6a68abb2-3f81-4906-b5c0-170ed5a1f545" alt="Texto Alternativo" width="60%">
 </p>
-
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/f5e3ada0-234a-47c8-bd4d-4415ffc21dff" alt="Imagen3">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/f5e3ada0-234a-47c8-bd4d-4415ffc21dff" alt="Texto Alternativo" width="70%">
 </p>
 
 **Resumen:**
