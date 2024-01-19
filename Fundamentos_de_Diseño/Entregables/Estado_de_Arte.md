@@ -236,3 +236,6 @@ El detector consta de los siguientes elementos:
 
 - Zulkifli, C. Z., Garfan, S., Talal, M., Alamoodi, A. H., Alamleh, A., Ahmaro, I. Y., ... & Chiang, H. H. (2022). IoT-based water monitoring systems: a systematic review. Water, 14(22), 3621.
 https://www.mdpi.com/2073-4441/14/22/3621
+
+- Hunan Puqi Geologic Exploration Equipment Institut. (2022, Noviembre 07). Amazon. Amazon: https://www.amazon.com.mx/sp?ie=UTF8&seller=A3V5LAY4JHVT72
+
