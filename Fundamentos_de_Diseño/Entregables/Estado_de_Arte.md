@@ -19,6 +19,7 @@
 **Resúmen:**
 
 El futuro sostenible de nuestro planeta depende de varios elementos, siendo el medio ambiente uno de los más críticos. La industrialización y los cambios en el uso del suelo han aumentado la contaminación del agua, un problema que requiere nuestra atención. Los Objetivos de Desarrollo Sostenible (ODS) destacan la necesidad de métodos innovadores para monitorear la calidad del agua y garantizar su acceso y gestión sostenible. Hoy en día, se buscan tecnologías que permitan monitorizar en tiempo real la calidad de las aguas subterráneas y superficiales, especialmente en zonas rurales y áreas de difícil acceso.
+
 En este contexto, el Internet de las Cosas (IoT) y los sensores modernos están tomando protagonismo. Este artículo revisa las tecnologías más recientes para monitorear y evaluar la calidad del agua utilizando IoT. Su objetivo es proporcionar una visión general de las últimas innovaciones en este campo, identificando áreas prometedoras para futuras investigaciones.
 
 #### **Artículo científico N°2:**
