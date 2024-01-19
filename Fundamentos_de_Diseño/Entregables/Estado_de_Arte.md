@@ -81,6 +81,25 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
 
 #### Dispositivo de mercado N°2: 
 
+**Nombre del dispositivo**: Sensor de nivel de agua para el hogar, driver WiFi con alarma de fuga y alarma de inundación, detector de flujo de tanque
+
+**Costo**: $ 1,485.82
+
+**Descripción del dispositivo:**
+
+- El equipo puede ser configurado para realizar un monitoreo remoto de la reposición del agua y drenaje, asimismo, recepciona notificaciones de alarma de alto y bajo nivel del agua a través de una  APLICACIÓN.
+
+- El producto es adecuado para diversas ocasiones que requieren un cierto nivel de control del agua, como sistemas HVAC, procesos de agua caliente, drenaje municipal, calderas, torres de agua, tanques de almacenamiento de agua, etc.
+
+- La aplicación con la que se utiliza proporciona la visualización del nivel del agua en tiempo real, y este es expresado en cinco niveles (0%, 25%, 50%, 75%, 100%).
+
+- El dispositivo tiene dos salidas de relé, donde el primero está conectado a la bomba de agua para lograr controlar su encendido y apagado, mientras el segundo se utiliza para evitar el calentamiento en seco.
+
+- Proporciona dos modos preestablecidos de "agregar agua" o "bomba de agua", que pueden cambiar automáticamente el relé 1 de acuerdo con el valor preestablecido del nivel de agua.
+
+- Cuando se alcanzan los límites superior e inferior del nivel de agua, el dispositivo envía una notificación de alarma en tiempo real al teléfono inteligente del usuario.
+
+
 #### _*Dispositivo de mercado N°3:*_
 
 **Nombre del dispositivo:** Detector de Fugas de Agua PQWT-QD50 Sensor de Fugas de Agua subterráneo Detector de Fugas de Agua Uso domésticopara tuberías subterráneas Detector de Fugas de Agua para Profundidad 0.5 M
