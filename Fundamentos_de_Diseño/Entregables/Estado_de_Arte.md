@@ -215,7 +215,7 @@ El detector consta de los siguientes elementos:
 
 - 	Guía de inserción: Se introduce en la tubería para aplicar la corriente eléctrica.
 
-**El dispositivo puede ser usado en diferentes aplicaciones entre las principales son :  sistemas de suministro de agua, redes de riego y sistemas industriales.**
+**El dispositivo puede ser usado en diferentes aplicaciones entre las principales son :  sistemas de suministro de agua, redes de riego y sistemas industriales.** [Ver Patente](https://patentimages.storage.googleapis.com/d5/b3/8c/997fa0308361dc/ES2358822B1.pdf) 
 
 
 #### Patente N°4:
