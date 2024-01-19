@@ -14,7 +14,8 @@
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/68033596-6145-4803-a46b-92b43e1cf571" alt="Texto Alternativo" width="80%">
 </p>
-
+<div align="center">Imagen 1: Art. systematic literature review.</div>
+</p>
 **Resúmen:**
 
 El futuro sostenible de nuestro planeta depende de varios elementos, siendo el medio ambiente uno de los más críticos. La industrialización y los cambios en el uso del suelo han aumentado la contaminación del agua, un problema que requiere nuestra atención. Los Objetivos de Desarrollo Sostenible (ODS) destacan la necesidad de métodos innovadores para monitorear la calidad del agua y garantizar su acceso y gestión sostenible. Hoy en día, se buscan tecnologías que permitan monitorizar en tiempo real la calidad de las aguas subterráneas y superficiales, especialmente en zonas rurales y áreas de difícil acceso.
@@ -31,7 +32,7 @@ En este contexto, el Internet de las Cosas (IoT) y los sensores modernos están 
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/784e5aa2-089b-4ae0-83d9-7814277e9c4e" alt="Texto Alternativo" width="80%">
 </p>
-<div align="center">Imagen 2: Domestic monitoring system for water consumption.</div>
+<div align="center">Imagen 2: Art. Domestic monitoring system for water consumption.</div>
 </p>
 
 **Resumen:**
@@ -51,7 +52,8 @@ El artículo describe un sistema de monitoreo en tiempo real para el consumo de 
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/35a3cb5b-4615-4c31-9ded-d9530e37184c" alt="Texto Alternativo" width="80%">
 </p>
-
+<div align="center">Imagen 3: Art. Detector de fugas en una tubería horizontal que transporta una mezcla de agua y glicerol.</div>
+</p>
 **Resumen:**
  
 El artículo destaca la importancia de detectar fugas en tuberías de manera oportuna, ya que su resolución temprana ayuda a prevenir pérdidas económicas y ambientales. Algunas empresas optan por implementar políticas de control de fugas, sistemas de detección en centros de control y brigadas de operarios en terreno. Sin embargo, estas estrategias no permiten una detección rápida y precisa de las fugas en tiempo real, por lo que podrían no ser la mejor opción. Este artículo, por su parte, presenta una manera rápida y precisa para localizar fugas en tuberías, utilizando técnicas de aprendizaje automático que analizan datos del proceso, conocimiento del sistema y software inteligente (machine learning). Asimismo, presenta diferentes maneras de solución a las fugas de tuberías que existen, entre ellas están: medidores de flujo y  presión, vibradores, cámaras termográficas, escáner de humedad y equipos de escucha. En este caso, se utilizarán sensores de flujo y presión para mejorar la recolección de datos en el sistema.
@@ -136,7 +138,8 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/f5e3ada0-234a-47c8-bd4d-4415ffc21dff" alt="Texto Alternativo" width="40%">
 </p>
-
+<div align="center">Imagen 7: Prototipo de detección de Fugas en Tuberias.</div>
+</p>
 **Resumen:**
 
 Este invento es un pequeño dispositivo en forma de esfera que flota en el agua. Tiene un hidrófono (un tipo de micrófono de agua) que se conecta a un procesador que almacena información en una tarjeta de memoria. Este procesador también tiene un reloj que registra cuánto tiempo ha estado navegando el dispositivo. Esto ayuda a determinar dónde se han detectado fugas o problemas en las tuberías. El dispositivo también utiliza sincronizadores externos para corregir cualquier error de ubicación. Este dispositivo es sencillo, económico, resistente, duradero y muy efectivo para detectar fugas de agua en las tuberías.
