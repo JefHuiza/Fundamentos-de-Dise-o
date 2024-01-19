@@ -84,6 +84,7 @@ El Dxmic es un localizador de fugas de agua de alta precisión y fácil uso, con
 ### **PATENTES**
 
 #### Patente N°1:
+
 **ES 2 588 214 B1** - Dispositivo Detector de Fugas de Agua en tuberías y procedimiento para la detección de fugas. 
 
 **Inventor/es**: Ramírez García, Agustín
@@ -94,7 +95,7 @@ El Dxmic es un localizador de fugas de agua de alta precisión y fácil uso, con
 
 **País de publicación:** España
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/f5e3ada0-234a-47c8-bd4d-4415ffc21dff" alt="Texto Alternativo" width="50%">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/f5e3ada0-234a-47c8-bd4d-4415ffc21dff" alt="Texto Alternativo" width="40%">
 </p>
 
 **Resumen:**
@@ -102,6 +103,7 @@ El Dxmic es un localizador de fugas de agua de alta precisión y fácil uso, con
 Este invento es un pequeño dispositivo en forma de esfera que flota en el agua. Tiene un hidrófono (un tipo de micrófono de agua) que se conecta a un procesador que almacena información en una tarjeta de memoria. Este procesador también tiene un reloj que registra cuánto tiempo ha estado navegando el dispositivo. Esto ayuda a determinar dónde se han detectado fugas o problemas en las tuberías. El dispositivo también utiliza sincronizadores externos para corregir cualquier error de ubicación. Este dispositivo es sencillo, económico, resistente, duradero y muy efectivo para detectar fugas de agua en las tuberías.
 
 #### Patente N°2:
+
 **Es 2 903 401 T3** - Sistema de monitorización de red de agua
 
 **Inventores:** Sajwaj, Todd; Bermingham, Louise y Carrel, Andrew, Dr.
@@ -113,7 +115,7 @@ Este invento es un pequeño dispositivo en forma de esfera que flota en el agua.
 **País de Publicación:** España
 
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/75020721-4bb0-40e0-a4ff-e675eb9cfc8f)" width="70%">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/8dc46b32-effa-4bca-a73b-287a37dbc004" width="70%">
 </p>
 
 #### Patente N°3:
