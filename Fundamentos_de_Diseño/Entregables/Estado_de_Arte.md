@@ -6,22 +6,22 @@
 
 #### _**Artículo científico N°1:**_
 
-**Título**: IoT - based drinking water quality measurement: systematic literature review
+**Título:** AI-based acoustic leak detection in water distribution systems
 
-**Autores**: Yulieth Carriazo-Regino, Rubén Baena-Navarro, Francisco Torres-Hoyos, Juan Vergara-Villadiego, Sebastián Roa-Prada
+**Autores:** Rangsarit Vanijjirattikhana, Sunisa Khomsaya, Nathavuth Kitbutrawata, Kittipong Khomsaya, Unpong Supakchukula, Sasiya 
+Udomsuka, Jittiwut Suwatthikula, Nutthaphan Oumtrakulb, Kanchanapun Anusartb
 
-**Fecha**: Accepted. June 30, 2022
+**Fecha:** 2022
+
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/68033596-6145-4803-a46b-92b43e1cf571" alt="Texto Alternativo" width="80%">
-</p>
-<div align="center">Imagen 1: Art. systematic literature review.</div>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/49d8d75c-16c2-4b90-953b-ee2d53f6bc4d" alt="Captura de pantalla 2024-01-19 073941">
 </p>
 
-**Resúmen:**
+<p align="center">Imagen 1. Arte. Revisión sistemática de literatura.</p>
 
-El futuro sostenible de nuestro planeta depende de varios elementos, siendo el medio ambiente uno de los más críticos. La industrialización y los cambios en el uso del suelo han aumentado la contaminación del agua, un problema que requiere nuestra atención. Los Objetivos de Desarrollo Sostenible (ODS) destacan la necesidad de métodos innovadores para monitorear la calidad del agua y garantizar su acceso y gestión sostenible. Hoy en día, se buscan tecnologías que permitan monitorizar en tiempo real la calidad de las aguas subterráneas y superficiales, especialmente en zonas rurales y áreas de difícil acceso.
+**Resumen:**
 
-En este contexto, el Internet de las Cosas (IoT) y los sensores modernos están tomando protagonismo. Este artículo revisa las tecnologías más recientes para monitorear y evaluar la calidad del agua utilizando IoT. Su objetivo es proporcionar una visión general de las últimas innovaciones en este campo, identificando áreas prometedoras para futuras investigaciones. [Ver Artículo](https://ijeecs.iaescore.com/index.php/IJEECS/article/view/27929/16718)  
+El artículo examina un sistema basado en inteligencia artificial y almacenamiento en la nube para detectar fugas de agua. Su objetivo principal es recopilar y gestionar de manera eficiente los sonidos de las fugas para crear un modelo que pueda clasificarlas. Este sistema está diseñado para ayudar a los operadores novatos en la localización de fugas, brindándoles orientación y minimizando los errores causados por la fatiga. El artículo describe en detalle el diseño del sistema, así como los resultados experimentales del dispositivo de detección de fugas basado en inteligencia artificial. Se evaluaron los algoritmos SVM, DNN y CNN, y se encontró que el algoritmo DNN fue el más preciso. Se realizaron pruebas de campo para comparar la precisión del sistema con la de los operadores profesionales, y se encontró que el sistema basado en inteligencia artificial tuvo una precisión similar. Para mejorar aún más el sistema, se planea realizar más pruebas y recopilar más datos. En resumen, este sistema representa un avance innovador en la gestión sostenible de los recursos hídricos al reducir la pérdida de agua y mejorar el bienestar ambiental y humano. [Ver Artículo](https://www.sciencedirect.com/science/article/pii/S2590123022002274)  
 
 #### _**Artículo científico N°2:**_
 
