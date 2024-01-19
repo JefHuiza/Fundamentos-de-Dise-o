@@ -8,4 +8,5 @@ Los entregables se subdividen a las vez las siguientes secciones:
 - [Definición_del_problema](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/507316da3b31cd48a533597adc40d76e28dcd76e/Fundamentos_de_Dise%C3%B1o/Entregables/Definici%C3%B3n-del-Problema.md)
 - [Contexto social y economico del problema](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/main/Fundamentos_de_Dise%C3%B1o/Entregables/Contexto-Social-y-Econ%C3%B3mico.md)
 - [Estado del arte](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/b808e377a76c393e321289f731b03e8199c5c3bd/Fundamentos_de_Dise%C3%B1o/Entregables/Estado_de_Arte.md)
+- [Lista de Requerimientos](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/a413958f6a6a3e6ec56ab080e221bc032a60fc37/Fundamentos_de_Dise%C3%B1o/Entregables/Lista_de_Requerimientos.md)
 - [Informe Taller equipo10 laboratorio](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/main/Fundamentos_de_Dise%C3%B1o/Entregables/Informe-Taller-equipo10-Lab.md)
