@@ -32,11 +32,12 @@ En este contexto, el Internet de las Cosas (IoT) y los sensores modernos están 
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/784e5aa2-089b-4ae0-83d9-7814277e9c4e" alt="Texto Alternativo" width="80%">
 </p>
 
-[Articulo 2: Domestic monitoring system for water consumption](https://repository.uaeh.edu.mx/revistas/index.php/xikua/article/view/8049/8629) 
 
 **Resumen:**
 
 El artículo describe un sistema de monitoreo en tiempo real para el consumo de agua en viviendas, utilizando tecnologías inalámbricas y una aplicación móvil. El sistema incluyó un sensor de flujo YF-S201 en la tubería principal de cada vivienda para medir el caudal de agua consumida. Los datos de este sensor se enviaban a una tarjeta de Arduino para calcular el volumen y el costo del agua consumida, que se mide en litros y metros cúbicos. Los datos se enviaban inalámbricamente a través de un módulo Bluetooth HC-05 a un teléfono inteligente donde se ejecutaba en la aplicación desarrollada con MIT App Inventor. La aplicación permitía al usuario registrarse, iniciar sesión y visualizar los datos de consumo y costo, además, de generar reportes en Excel y recibir alertas de excesos de consumo. Los costos se adaptaban a las tarifas domésticas T-2 de la empresa CAPDAM en Manzanillo, Colima. El objetivo de por si era proporcionar una solución de bajo costo y fácil de manipular para monitorear el consumo diario de agua, promoviendo un uso más eficiente y responsable de este recurso hídrico.
+
+[Articulo 2: Domestic monitoring system for water consumption](https://repository.uaeh.edu.mx/revistas/index.php/xikua/article/view/8049/8629) 
 
 #### _**Artículo científico N°3**_
 
@@ -147,6 +148,8 @@ Este invento es un pequeño dispositivo en forma de esfera que flota en el agua.
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/8dc46b32-effa-4bca-a73b-287a37dbc004" width="70%">
 </p>
+**Resumen:**
+Este dispositivo es un sistema de monitoreo para todas las redes de distribución de agua, que tiene como fin detectar las fugas, además de estimar la probabilidad de que éstas ocurran. Si bien es cierto existen problemas importantes de pérdida de agua potable en las redes de distribución, debido a las fugas en las tuberías que se presentan, donde actualmente se ha estado implementando métodos limitados para lograr identificar estas fugas, principalmente en las zonas rurales, es por ese motivo que este sistema monitorea las redes de agua mediante observaciones terrestres y conocimientos de la red. De por sí el sistema busca índices de fugas activas y cambios en el terreno que podrían causar fallos en la red, lo que permite detectarlas y repararlas de manera eficiente, especialmente en zonas rurales. El objetivo de este prototipo fue desarrollar un mejor sistema de monitoreo para lograr reducir las pérdidas de agua potable en todas las redes de distribución.
 
 [Patente 2: Sistema de monitorización de red de agua](https://patentimages.storage.googleapis.com/7f/49/79/26639d07a9ceb3/ES2903401T3.pdf) 
 
