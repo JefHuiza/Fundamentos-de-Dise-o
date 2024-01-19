@@ -60,6 +60,9 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
 
 ## _**Revisión sistematica:**_
 
+![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/b73cde88-a715-4877-95cb-fe2aa73fc1b0)
+
+
 ## 2. CONTEXTO COMERCIAL 🛒 
 
 ### **DISPOSITIVOS DE MERCADO**
