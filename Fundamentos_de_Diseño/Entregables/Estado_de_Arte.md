@@ -29,6 +29,11 @@ En este contexto, el Internet de las Cosas (IoT) y los sensores modernos están 
 **Autores**: Janeth Alcalá-Rodríguez, Juan C. Barbosa-García, Manuel J. Contreras-Guzmán, Jorge Gudiño-Lau, Saida M. Charre-Ibarra, Daniel Vélez-Díaz
 
 **Fecha**: Accepted. Enero 5, 2022
+ <p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/a42b4707-8b20-481a-98d4-7740e2d1fc5e" alt="Texto Alternativo" width="60%">
+</p>
+<div align="center">Gráfico 3. Uso del Agua en el Ecuador. Fuente: SENAGUA, 2017.</div>
+</p>
 
 **Resumen:**
 
