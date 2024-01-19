@@ -31,7 +31,8 @@ En este contexto, el Internet de las Cosas (IoT) y los sensores modernos están 
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/784e5aa2-089b-4ae0-83d9-7814277e9c4e" alt="Texto Alternativo" width="80%">
 </p>
-
+<div align="center">Imagen 2: Domestic monitoring system for water consumption.</div>
+</p>
 
 **Resumen:**
 
@@ -105,7 +106,9 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
 
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/4338899b-d0ca-49b3-a825-148afc465ab5" alt="Texto Alternativo" width="40%">
-
+</p>
+<div align="center">Imagen 6: Sensor de nivel de agua para el hogar. Fuente: Amazon</div>
+</p>
 **Descripción del dispositivo:**
 
 - El detector de fugas de agua doméstica QD50 es un dispositivo portátil que utiliza dos sensores de alta sensibilidad para detectar fugas en tuberías interiores de agua corriente y tuberías de calefacción por suelo radiante.
@@ -148,7 +151,8 @@ Este invento es un pequeño dispositivo en forma de esfera que flota en el agua.
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/8dc46b32-effa-4bca-a73b-287a37dbc004" width="70%">
 </p>
-
+<div align="center">Imagen 8: Esquema del sistema de detección de red de agua.</div>
+</p>
 **Resumen:**
 
 Este dispositivo es un sistema de monitoreo para todas las redes de distribución de agua, que tiene como fin detectar las fugas, además de estimar la probabilidad de que éstas ocurran. Si bien es cierto existen problemas importantes de pérdida de agua potable en las redes de distribución, debido a las fugas en las tuberías que se presentan, donde actualmente se ha estado implementando métodos limitados para lograr identificar estas fugas, principalmente en las zonas rurales, es por ese motivo que este sistema monitorea las redes de agua mediante observaciones terrestres y conocimientos de la red. De por sí el sistema busca índices de fugas activas y cambios en el terreno que podrían causar fallos en la red, lo que permite detectarlas y repararlas de manera eficiente, especialmente en zonas rurales. El objetivo de este prototipo fue desarrollar un mejor sistema de monitoreo para lograr reducir las pérdidas de agua potable en todas las redes de distribución.
