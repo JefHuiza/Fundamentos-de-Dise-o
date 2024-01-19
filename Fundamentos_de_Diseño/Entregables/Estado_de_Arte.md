@@ -67,8 +67,7 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
 **Costo**: 4.650,00 €
 
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/49f33a88-eb51-442e-bdc2-f597b1769fe8" alt="Imagen4">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/cc48f208-2a4a-4bb2-8e27-df0a6fe27639" alt="Imagen5">
+![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/f3f99c0d-9fcb-4fb3-9871-658384c6145e)
 </p>
 
 **Descripción del dispositivo:**
