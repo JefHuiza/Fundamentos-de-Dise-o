@@ -72,7 +72,7 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/f3f99c0d-9fcb-4fb3-9871-658384c6145e" alt="Texto Alternativo" width="40%">
 </p>
-<div align="center">Imagen 4: Detector de fugas de agua DXmic. Fuente: AliExpress</div>
+<div align="center">Imagen 4: Detector de fugas de agua DXmic. Fuente: Redes-Mejoras-Energeticas</div>
 </p>
 
 **Descripción del dispositivo:**
@@ -82,7 +82,7 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
 - Cuenta con una pantalla LCD retroiluminada que muestra información clara y concisa sobre la ubicación y el tamaño de la fuga.
 - Incluye una función de reducción de ruido que ayuda a aislar el sonido de la fuga del ruido ambiental.
  Es compatible con una amplia gama de accesorios, incluyendo auriculares, cables y sondas.
-- Es fácil de usar y no requiere experiencia previa
+- Es fácil de usar y no requiere experiencia previa [Ver producto](https://redes.mejoras-energeticas.com/producto/dxmic-localizador-de-fugas-de-agua/) 
 
 #### _*Dispositivo de mercado N°2:*_
 
@@ -119,7 +119,7 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
 
 - El detector de fugas de agua doméstica QD50 es un dispositivo portátil que utiliza dos sensores de alta sensibilidad para detectar fugas en tuberías interiores de agua corriente y tuberías de calefacción por suelo radiante.
 - El detector funciona recopilando y analizando el sonido y la señal de fuga de agua. El ruido ambiental se puede reducir con una tecla, lo que facilita el análisis de los resultados de la prueba. El detector también cuenta con una pantalla que muestra los resultados de la prueba, así como una función de escucha que permite al usuario escuchar el sonido de la fuga.
-- El detector es adecuado para una amplia gama de aplicaciones, incluyendo tuberías de acero, PVC, PE y PEX. Es un dispositivo ligero y portátil que se puede transportar fácilmente.
+- El detector es adecuado para una amplia gama de aplicaciones, incluyendo tuberías de acero, PVC, PE y PEX. Es un dispositivo ligero y portátil que se puede transportar fácilmente. [Ver producto](https://www.amazon.com.mx/PQWT-QD50-subterr%C3%A1neo-dom%C3%A9sticopara-subterr%C3%A1neas-Profundidad/dp/B0BLNF8KQK?th=1) 
 
 ### **PATENTES**
 
