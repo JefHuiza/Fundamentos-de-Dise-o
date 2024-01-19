@@ -40,6 +40,28 @@ En este contexto, el Internet de las Cosas (IoT) y los sensores modernos están 
 
 #### Patente N°1 
 #### Patente N°2 
+
+**ES 2 588 214 B1** - Dispositivo Detector de Fugas de Agua en tuberías y procedimiento para la detección de fugas. 
+
+**Inventor/es**: Ramírez García, Agustín
+
+**Agente Representante**: Sirimarco, Andrea
+
+**Fecha de publicación**: 05.09.2017
+
+País de publicación: España
+
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/6a68abb2-3f81-4906-b5c0-170ed5a1f545" alt="Imagen2">
+</p>
+
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/f5e3ada0-234a-47c8-bd4d-4415ffc21dff" alt="Imagen3">
+</p>
+
+**Resumen:**
+
+Este invento es un pequeño dispositivo en forma de esfera que flota en el agua. Tiene un hidrófono (un tipo de micrófono de agua) que se conecta a un procesador que almacena información en una tarjeta de memoria. Este procesador también tiene un reloj que registra cuánto tiempo ha estado navegando el dispositivo. Esto ayuda a determinar dónde se han detectado fugas o problemas en las tuberías. El dispositivo también utiliza sincronizadores externos para corregir cualquier error de ubicación. Este dispositivo es sencillo, económico, resistente, duradero y muy efectivo para detectar fugas de agua en las tuberías.
 #### Patente N°3 
 #### Patente N°4
 
