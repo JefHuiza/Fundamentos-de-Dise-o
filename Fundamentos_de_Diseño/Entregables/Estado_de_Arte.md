@@ -83,7 +83,8 @@ El Dxmic es un localizador de fugas de agua de alta precisión y fácil uso, con
 
 **Costo:** $ 21 122
 
-![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/4338899b-d0ca-49b3-a825-148afc465ab5)
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/4338899b-d0ca-49b3-a825-148afc465ab5" alt="Texto Alternativo" width="40%">
 
 **Descripción del dispositivo:**
 
