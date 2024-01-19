@@ -12,10 +12,6 @@
 
 **Fecha**: Accepted. June 30, 2022
 
-<p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/967b3733-6bd7-4184-804b-4e0227c41bd1" alt="Texto Alternativo" width="60%">
-</p>
-
 ![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/68033596-6145-4803-a46b-92b43e1cf571)
 
 
