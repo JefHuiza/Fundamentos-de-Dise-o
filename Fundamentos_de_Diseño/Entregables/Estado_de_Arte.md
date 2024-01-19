@@ -72,7 +72,12 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
 
 **Descripción del dispositivo:**
 
-El Dxmic es un localizador de fugas de agua de alta precisión y fácil uso, con un sensor piezoeléctrico sensible y procesamiento de datos digital. Tiene una autonomía de 25 horas y una entrada USB para transferir datos al ordenador. Es compatible con los sensores del modelo XMIC y todos sus accesorios son inalámbricos, utilizando tecnología Bluetooth para una comunicación sin interrupciones. Incluye auriculares acolchados con protección auditiva y eliminación de ruido exterior. Sus características destacadas son la protección auditiva de tres niveles, la grabación de niveles mínimos de ruido para una localización efectiva de la fuga, el análisis automático de frecuencias, y la conversión de bajas frecuencias en espectro audible para mejorar la detección en tuberías plásticas. El Dxmic tiene una pantalla LCD retroiluminada, volumen y sensibilidad ajustables, configuración de filtros ajustable, indicador de nivel de batería y almacenamiento de medidas y datos. Sus ventajas incluyen una pantalla LCD de 5" con gráficos multifuncionales, baterías recargables de Ion-litio, una aplicación móvil para el tratamiento de datos, conexión USB para actualizaciones, compatibilidad con sensores inalámbricos de nueva generación, memoria SD y conexión inalámbrica para transferencia de datos y análisis.
+- El detector de fugas de agua DXMIC es un dispositivo profesional que permite localizar fugas de agua de manera rápida y precisa.
+- Incorpora un sensor piezoeléctrico de alta sensibilidad que permite detectar fugas de hasta 0,001 galones por minuto.
+- Cuenta con una pantalla LCD retroiluminada que muestra información clara y concisa sobre la ubicación y el tamaño de la fuga.
+- Incluye una función de reducción de ruido que ayuda a aislar el sonido de la fuga del ruido ambiental.
+ Es compatible con una amplia gama de accesorios, incluyendo auriculares, cables y sondas.
+- Es fácil de usar y no requiere experiencia previa
 
 #### Dispositivo de mercado N°2: 
 
