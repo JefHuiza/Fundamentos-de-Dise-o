@@ -2,9 +2,9 @@
 
 ## 1. CONTEXTO CIENTÍFICO 🔬
 
-###ARTÍCULOS CIENTÍFICOS 
+### **Artículos científicos**
 
-#### Artículo científico N°1 
+#### Artículo científico N°1
 
 **Título**: IoT - based drinking water quality measurement: systematic literature review
 
@@ -42,7 +42,7 @@ El artículo describe un sistema de monitoreo en tiempo real para el consumo de 
 
 ## 2. CONTEXTO COMERCIAL 🛒 
 
-### DISPOSITIVOS DE MERCADO
+### **Dispositivos de mercado**
 
 #### Dispositivo de mercado N°1 
 #### Dispositivo de mercado N°2 
@@ -61,7 +61,7 @@ El Dxmic es un localizador de fugas de agua de alta precisión y fácil uso, con
 #### Dispositivo de mercado N°3 
 #### Dispositivo de mercado N°4
 
-### PATENTES
+### **Patentes**
 
 #### Patente N°1 
 #### Patente N°2 
