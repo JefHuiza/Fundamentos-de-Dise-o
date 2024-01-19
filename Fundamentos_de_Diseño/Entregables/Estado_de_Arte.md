@@ -94,7 +94,6 @@ El Dxmic es un localizador de fugas de agua de alta precisión y fácil uso, con
 
 **País de publicación:** España
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/6a68abb2-3f81-4906-b5c0-170ed5a1f545" alt="Texto Alternativo" width="50%">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/f5e3ada0-234a-47c8-bd4d-4415ffc21dff" alt="Texto Alternativo" width="50%">
 </p>
 
@@ -116,6 +115,7 @@ Este invento es un pequeño dispositivo en forma de esfera que flota en el agua.
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/75020721-4bb0-40e0-a4ff-e675eb9cfc8f)" width="70%">
 </p>
+
 #### Patente N°3:
 
 #### Patente N°4:
