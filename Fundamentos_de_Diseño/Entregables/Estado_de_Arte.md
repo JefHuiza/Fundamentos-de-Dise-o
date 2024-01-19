@@ -148,7 +148,9 @@ Este invento es un pequeño dispositivo en forma de esfera que flota en el agua.
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/8dc46b32-effa-4bca-a73b-287a37dbc004" width="70%">
 </p>
+
 **Resumen:**
+
 Este dispositivo es un sistema de monitoreo para todas las redes de distribución de agua, que tiene como fin detectar las fugas, además de estimar la probabilidad de que éstas ocurran. Si bien es cierto existen problemas importantes de pérdida de agua potable en las redes de distribución, debido a las fugas en las tuberías que se presentan, donde actualmente se ha estado implementando métodos limitados para lograr identificar estas fugas, principalmente en las zonas rurales, es por ese motivo que este sistema monitorea las redes de agua mediante observaciones terrestres y conocimientos de la red. De por sí el sistema busca índices de fugas activas y cambios en el terreno que podrían causar fallos en la red, lo que permite detectarlas y repararlas de manera eficiente, especialmente en zonas rurales. El objetivo de este prototipo fue desarrollar un mejor sistema de monitoreo para lograr reducir las pérdidas de agua potable en todas las redes de distribución.
 
 [Patente 2: Sistema de monitorización de red de agua](https://patentimages.storage.googleapis.com/7f/49/79/26639d07a9ceb3/ES2903401T3.pdf) 
