@@ -67,7 +67,7 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
 **Fecha:** 2023
 
 <p align="center">
-  <img src="![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/b73cde88-a715-4877-95cb-fe2aa73fc1b0)" width="80%">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/8b9cc90f-09dd-449e-9afa-7527226bbb5f" alt="Texto Alternativo" width="80%">
 </p>
 <div align="center">Imagen 3: Art. Smart water networks.</div>
 </p>
