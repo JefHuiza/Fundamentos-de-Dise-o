@@ -2,7 +2,7 @@
 
 ## 1. CONTEXTO CIENTÍFICO 🔬
 
-### **Artículos científicos**
+### ARTÍCULOS CIENTÍFICOS 
 
 #### Artículo científico N°1
 
