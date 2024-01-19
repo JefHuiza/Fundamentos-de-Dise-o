@@ -177,3 +177,9 @@ Este dispositivo es un sistema de monitoreo para todas las redes de distribució
 #### Patente N°4:
 
 ## Lista de Requerimientos:
+
+## Referencias Bibliográficas
+
+- Alcalá-Rodríguez, J., Barbosa-García, J. C., Contreras-Guzmán, M. J., Gudiño-Lau, J., Charre-Ibarra, S. M., & Vélez-Díaz, D. (2022). Sistema de monitoreo doméstico para consumo de agua. XIKUA Boletín Científico de la Escuela Superior de Tlahuelilpan, 10(19), 17-23. https://repository.uaeh.edu.mx/revistas/index.php/xikua/article/view/8049
+
+- García, J. M., & Martínez, J. A. (2019). Sistema de monitorización de red de agua. Oficina Española de Patentes y Marcas. https://patentimages.storage.googleapis.com/7f/49/79/26639d07a9ceb3/ES2903401T3.pdf
