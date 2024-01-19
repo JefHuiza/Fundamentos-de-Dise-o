@@ -196,7 +196,7 @@ Este dispositivo es un sistema de monitoreo para todas las redes de distribució
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/35b305bf-80bb-4e2e-8366-b723ee6f6a54" width="70%">
 </p>
-<div align="center">Imagen 9: Esquema del dispositivo que detecte gugas de agua con corriente eléctrica.</div>
+<div align="center">Imagen 9: Esquema del dispositivo que detecte fugas de agua con corriente eléctrica.</div>
 </p>
 
 **Resumen:**
@@ -228,11 +228,11 @@ El detector consta de los siguientes elementos:
   
 - Gámez De León, A. (2021). Aplicación de técnicas de machine Learning para la detección de fugas en una tubería horizontal que transporta una mezcla de agua y glicerol. Corporación Universidad de la Costa.https://repositorio.cuc.edu.co/handle/11323/8874
 
+- García, J. M., & Martínez, J. A. (2011). Detector de fugas de agua. (ES2358822B1). Oficina Española de Patentes y Marcas. https://patentimages.storage.googleapis.com/d5/b3/8c/997fa0308361dc/ES2358822B1.pdf
+  
 - García, J. M., & Martínez, J. A. (2017) Dispositivo Detector De Fugas de agua en tuberías y procedimiento para la detección de fugas. Oficina Española de Patentes y Marcas. https://patentimages.storage.googleapis.com/d1/ca/ec/ab97fb2347a4bf/ES2588214B1.pdf
 
 - García, J. M., & Martínez, J. A. (2019). Sistema de monitorización de red de agua. Oficina Española de Patentes y Marcas. https://patentimages.storage.googleapis.com/7f/49/79/26639d07a9ceb3/ES2903401T3.pdf
-  
-- Gámez De León, A. (2021). Aplicación de técnicas de machine Learning para la detección de fugas en una tubería horizontal que transporta una mezcla de agua y glicerol. https://repositorio.cuc.edu.co/handle/11323/8874
   
 - Hunan Puqi Geologic Exploration Equipment Institut. (2022, Noviembre 07). Amazon. Amazon: https://www.amazon.com.mx/sp?ie=UTF8&seller=A3V5LAY4JHVT72
 
