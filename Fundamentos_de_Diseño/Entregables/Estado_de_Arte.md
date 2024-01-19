@@ -16,6 +16,7 @@
 </p>
 <div align="center">Imagen 1: Art. systematic literature review.</div>
 </p>
+
 **Resúmen:**
 
 El futuro sostenible de nuestro planeta depende de varios elementos, siendo el medio ambiente uno de los más críticos. La industrialización y los cambios en el uso del suelo han aumentado la contaminación del agua, un problema que requiere nuestra atención. Los Objetivos de Desarrollo Sostenible (ODS) destacan la necesidad de métodos innovadores para monitorear la calidad del agua y garantizar su acceso y gestión sostenible. Hoy en día, se buscan tecnologías que permitan monitorizar en tiempo real la calidad de las aguas subterráneas y superficiales, especialmente en zonas rurales y áreas de difícil acceso.
@@ -54,6 +55,7 @@ El artículo describe un sistema de monitoreo en tiempo real para el consumo de 
 </p>
 <div align="center">Imagen 3: Art. Detector de fugas en una tubería horizontal que transporta una mezcla de agua y glicerol.</div>
 </p>
+
 **Resumen:**
  
 El artículo destaca la importancia de detectar fugas en tuberías de manera oportuna, ya que su resolución temprana ayuda a prevenir pérdidas económicas y ambientales. Algunas empresas optan por implementar políticas de control de fugas, sistemas de detección en centros de control y brigadas de operarios en terreno. Sin embargo, estas estrategias no permiten una detección rápida y precisa de las fugas en tiempo real, por lo que podrían no ser la mejor opción. Este artículo, por su parte, presenta una manera rápida y precisa para localizar fugas en tuberías, utilizando técnicas de aprendizaje automático que analizan datos del proceso, conocimiento del sistema y software inteligente (machine learning). Asimismo, presenta diferentes maneras de solución a las fugas de tuberías que existen, entre ellas están: medidores de flujo y  presión, vibradores, cámaras termográficas, escáner de humedad y equipos de escucha. En este caso, se utilizarán sensores de flujo y presión para mejorar la recolección de datos en el sistema.
@@ -75,7 +77,6 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
 </p>
 <div align="center">Imagen 4: Detector de fugas de agua DXmic. Fuente: AliExpress</div>
 </p>
-**Descripción del dispositivo:**
 
 **Descripción del dispositivo:**
 
@@ -96,6 +97,7 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
 </p>
 <div align="center">Imagen 5: Sensor de nivel de agua para el hogar. Fuente: Amazon</div>
 </p>
+
 **Descripción del dispositivo:**
 
 - El equipo puede ser configurado para realizar un monitoreo remoto de la reposición del agua y drenaje, asimismo, recepciona notificaciones de alarma de alto y bajo nivel del agua a través de una  APLICACIÓN.
@@ -116,6 +118,7 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
 </p>
 <div align="center">Imagen 6: Detector de Fugas de Agua PQWT-QD50. Fuente: Amazon</div>
 </p>
+
 **Descripción del dispositivo:**
 
 - El detector de fugas de agua doméstica QD50 es un dispositivo portátil que utiliza dos sensores de alta sensibilidad para detectar fugas en tuberías interiores de agua corriente y tuberías de calefacción por suelo radiante.
@@ -140,6 +143,7 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
 </p>
 <div align="center">Imagen 7: Prototipo de detección de Fugas en Tuberias.</div>
 </p>
+
 **Resumen:**
 
 Este invento es un pequeño dispositivo en forma de esfera que flota en el agua. Tiene un hidrófono (un tipo de micrófono de agua) que se conecta a un procesador que almacena información en una tarjeta de memoria. Este procesador también tiene un reloj que registra cuánto tiempo ha estado navegando el dispositivo. Esto ayuda a determinar dónde se han detectado fugas o problemas en las tuberías. El dispositivo también utiliza sincronizadores externos para corregir cualquier error de ubicación. Este dispositivo es sencillo, económico, resistente, duradero y muy efectivo para detectar fugas de agua en las tuberías.
@@ -161,6 +165,7 @@ Este invento es un pequeño dispositivo en forma de esfera que flota en el agua.
 </p>
 <div align="center">Imagen 8: Esquema del sistema de detección de red de agua.</div>
 </p>
+
 **Resumen:**
 
 Este dispositivo es un sistema de monitoreo para todas las redes de distribución de agua, que tiene como fin detectar las fugas, además de estimar la probabilidad de que éstas ocurran. Si bien es cierto existen problemas importantes de pérdida de agua potable en las redes de distribución, debido a las fugas en las tuberías que se presentan, donde actualmente se ha estado implementando métodos limitados para lograr identificar estas fugas, principalmente en las zonas rurales, es por ese motivo que este sistema monitorea las redes de agua mediante observaciones terrestres y conocimientos de la red. De por sí el sistema busca índices de fugas activas y cambios en el terreno que podrían causar fallos en la red, lo que permite detectarlas y repararlas de manera eficiente, especialmente en zonas rurales. El objetivo de este prototipo fue desarrollar un mejor sistema de monitoreo para lograr reducir las pérdidas de agua potable en todas las redes de distribución.
