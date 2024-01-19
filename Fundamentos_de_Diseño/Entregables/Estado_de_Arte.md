@@ -233,6 +233,8 @@ El detector consta de los siguientes elementos:
 - García, J. M., & Martínez, J. A. (2017) Dispositivo Detector De Fugas de agua en tuberías y procedimiento para la detección de fugas. Oficina Española de Patentes y Marcas. https://patentimages.storage.googleapis.com/d1/ca/ec/ab97fb2347a4bf/ES2588214B1.pdf
 
 - García, J. M., & Martínez, J. A. (2019). Sistema de monitorización de red de agua. Oficina Española de Patentes y Marcas. https://patentimages.storage.googleapis.com/7f/49/79/26639d07a9ceb3/ES2903401T3.pdf
+
+- Gómez Hernández, G., & García fraile, F. (2011, Diciembre 30). España Patent No. ES 2 358 822 B1. https://patentimages.storage.googleapis.com/d5/b3/8c/997fa0308361dc/ES2358822B1.pdf
   
 - Hunan Puqi Geologic Exploration Equipment Institut. (2022, Noviembre 07). Amazon. Amazon: https://www.amazon.com.mx/sp?ie=UTF8&seller=A3V5LAY4JHVT72
 
