@@ -232,7 +232,7 @@ El detector consta de los siguientes elementos:
   
 - Gámez De León, A. (2021). Aplicación de técnicas de machine Learning para la detección de fugas en una tubería horizontal que transporta una mezcla de agua y glicerol. Corporación Universidad de la Costa.https://repositorio.cuc.edu.co/handle/11323/8874
 
-- García, J. M., & Martínez, J. A. (2011). Detector de fugas de agua. (ES2358822B1). Oficina Española de Patentes y Marcas. https://patentimages.storage.googleapis.com/d5/b3/8c/997fa0308361dc/ES2358822B1.pdf
+- Gómez Hernández, G., & García fraile, F. (30 de Diciembre de 2011). España Patente nº ES 2 358 822 B1. https://patentimages.storage.googleapis.com/d5/b3/8c/997fa0308361dc/ES2358822B1.pdf
   
 - García, J. M., & Martínez, J. A. (2017) Dispositivo Detector De Fugas de agua en tuberías y procedimiento para la detección de fugas. Oficina Española de Patentes y Marcas. https://patentimages.storage.googleapis.com/d1/ca/ec/ab97fb2347a4bf/ES2588214B1.pdf
 
