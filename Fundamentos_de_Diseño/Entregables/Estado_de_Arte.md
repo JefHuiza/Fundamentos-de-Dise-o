@@ -4,7 +4,7 @@
 
 ### **ARTÍCULOS CIENTÍFICOS** 
 
-#### **Artículo científico N°1:**
+#### ~**Artículo científico N°1:**~
 
 **Título**: IoT - based drinking water quality measurement: systematic literature review
 
@@ -39,7 +39,21 @@ En este contexto, el Internet de las Cosas (IoT) y los sensores modernos están 
 
 El artículo describe un sistema de monitoreo en tiempo real para el consumo de agua en viviendas, utilizando tecnologías inalámbricas y una aplicación móvil. El sistema incluyó un sensor de flujo YF-S201 en la tubería principal de cada vivienda para medir el caudal de agua consumida. Los datos de este sensor se enviaban a una tarjeta de Arduino para calcular el volumen y el costo del agua consumida, que se mide en litros y metros cúbicos. Los datos se enviaban inalámbricamente a través de un módulo Bluetooth HC-05 a un teléfono inteligente donde se ejecutaba en la aplicación desarrollada con MIT App Inventor. La aplicación permitía al usuario registrarse, iniciar sesión y visualizar los datos de consumo y costo, además, de generar reportes en Excel y recibir alertas de excesos de consumo. Los costos se adaptaban a las tarifas domésticas T-2 de la empresa CAPDAM en Manzanillo, Colima. El objetivo de por si era proporcionar una solución de bajo costo y fácil de manipular para monitorear el consumo diario de agua, promoviendo un uso más eficiente y responsable de este recurso hídrico.
 
-#### Artículo científico N°3
+#### ~**Artículo científico N°3**~
+
+**Título:** Aplicación de técnicas de machine learning para la detección de fugas en una tubería horizontal que transporta una mezcla de agua y glicerol
+
+**Autores:** Adalberto Gámez de León
+
+**Fecha:** 2021
+
+
+
+**Resumen:**
+ 
+El artículo destaca la importancia de detectar fugas en tuberías de manera oportuna, ya que su resolución temprana ayuda a prevenir pérdidas económicas y ambientales. Algunas empresas optan por implementar políticas de control de fugas, sistemas de detección en centros de control y brigadas de operarios en terreno. Sin embargo, estas estrategias no permiten una detección rápida y precisa de las fugas en tiempo real, por lo que podrían no ser la mejor opción. Este artículo, por su parte, presenta una manera rápida y precisa para localizar fugas en tuberías, utilizando técnicas de aprendizaje automático que analizan datos del proceso, conocimiento del sistema y software inteligente (machine learning). Asimismo, presenta diferentes maneras de solución a las fugas de tuberías que existen, entre ellas están: medidores de flujo y  presión, vibradores, cámaras termográficas, escáner de humedad y equipos de escucha. En este caso, se utilizarán sensores de flujo y presión para mejorar la recolección de datos en el sistema.
+
+
 #### Artículo científico N°4 
 
 ## 2. CONTEXTO COMERCIAL 🛒 
