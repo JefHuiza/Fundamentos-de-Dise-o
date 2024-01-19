@@ -170,6 +170,31 @@ Este dispositivo es un sistema de monitoreo para todas las redes de distribució
 
 #### Patente N°3:
 
+**ES 2 358 822 B1- Detector de fugas de agua.**
+
+**Inventor/es:* *Gómez Hernández, Guillermo y García fraile, Fernando
+
+**Agente Representante:** No consta
+
+**Fecha de publicación:** 30/12/2011
+
+**País de publicación:** España
+
+![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/35b305bf-80bb-4e2e-8366-b723ee6f6a54)
+
+
+La presente patente consiste en un dispositivo que permite detectar fugas de agua en tuberías soterradas de naturaleza no metálica, como tuberías de PVC. El dispositivo consta de un equipo medidor, una guía conductora y una toma de tierra. El equipo medidor aplica una corriente eléctrica a la guía, que se introduce en la tubería. La resistencia de la tubería disminuye en el punto de la fuga, por lo que la corriente eléctrica fluirá más fácilmente por ese punto. El equipo medidor mide la corriente eléctrica y muestra el resultado en una pantalla. El punto de la fuga se localiza en el punto donde la lectura de la corriente eléctrica es máxima. Se esta manera, cumple su objetivo de detectar información de forma fácil, rápida y sencilla, siendo el punto exacto de la fuga a lo largo de la conducción. 
+
+El detector consta de los siguientes elementos:
+•	Fuente de alimentación: Proporciona la corriente eléctrica que se aplica a la tubería.
+•	Dispositivo medidor de intensidad: Mide la caída de tensión en la tubería.
+•	Interfaz de monitorización: Muestra los resultados de la prueba.
+•	Conector para toma de tierra: Conecta el detector a una toma de tierra.
+•	Guía de inserción: Se introduce en la tubería para aplicar la corriente eléctrica.
+
+**El dispositivo puede ser usado en diferentes aplicaciones entre las principales son :  sistemas de suministro de agua, redes de riego y sistemas industriales.**
+
+
 #### Patente N°4:
 
 ## Referencias Bibliográficas
