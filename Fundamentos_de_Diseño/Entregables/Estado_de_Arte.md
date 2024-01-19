@@ -60,16 +60,16 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
 
 ## _**Revisión sistematica:**_
 
-**Título:** Smart water networks: A systematic review of applications using high-frequency pressure and acoustic sensors in real water distribution systems
+**Título:** IoT-Based Water Monitoring Systems: A Systematic Review
 
-**Autores:** Rousso, B. Z., Lambert, M., & Gong, J.
+**Autores:** Che Zalina Zulkifli, Salem Garfan, Mohammed Talal, H. Alamoodi, Amneh Alamleh, Ibraheem Y. Y. Ahmaro, Suliana Sulaiman, Abu Bakar Ibrahim, B. B. Zaidan, Amelia Ritahani Ismail, O. S. Albahri, A. S. Albahri, Chin Fhong Soon, Nor Hazlyna Harun, Ho Hong Chiang
 
-**Fecha:** 2023
+**Fecha:** 10-11-2022
 
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/8b9cc90f-09dd-449e-9afa-7527226bbb5f" alt="Texto Alternativo" width="80%">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/f547041b-d181-431b-83a0-31d8b87b313e" width="80%">
 </p>
-<div align="center">Imagen 3: Art. Smart water networks.</div>
+<div align="center">Imagen 3: Art. IoT-Based Water Monitoring Systems.</div>
 </p>
 
 
@@ -233,3 +233,6 @@ El detector consta de los siguientes elementos:
 - García, J. M., & Martínez, J. A. (2019). Sistema de monitorización de red de agua. Oficina Española de Patentes y Marcas. https://patentimages.storage.googleapis.com/7f/49/79/26639d07a9ceb3/ES2903401T3.pdf
   
 - Gámez De León, A. (2021). Aplicación de técnicas de machine Learning para la detección de fugas en una tubería horizontal que transporta una mezcla de agua y glicerol. https://repositorio.cuc.edu.co/handle/11323/8874
+
+- Zulkifli, C. Z., Garfan, S., Talal, M., Alamoodi, A. H., Alamleh, A., Ahmaro, I. Y., ... & Chiang, H. H. (2022). IoT-based water monitoring systems: a systematic review. Water, 14(22), 3621.
+https://www.mdpi.com/2073-4441/14/22/3621
