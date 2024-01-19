@@ -16,6 +16,9 @@
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/967b3733-6bd7-4184-804b-4e0227c41bd1" alt="Texto Alternativo" width="60%">
 </p>
 
+![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/68033596-6145-4803-a46b-92b43e1cf571)
+
+
 **Resúmen:**
 
 El futuro sostenible de nuestro planeta depende de varios elementos, siendo el medio ambiente uno de los más críticos. La industrialización y los cambios en el uso del suelo han aumentado la contaminación del agua, un problema que requiere nuestra atención. Los Objetivos de Desarrollo Sostenible (ODS) destacan la necesidad de métodos innovadores para monitorear la calidad del agua y garantizar su acceso y gestión sostenible. Hoy en día, se buscan tecnologías que permitan monitorizar en tiempo real la calidad de las aguas subterráneas y superficiales, especialmente en zonas rurales y áreas de difícil acceso.
