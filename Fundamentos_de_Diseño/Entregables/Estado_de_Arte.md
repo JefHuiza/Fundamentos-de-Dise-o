@@ -60,7 +60,17 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
 
 ## _**Revisión sistematica:**_
 
-![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/b73cde88-a715-4877-95cb-fe2aa73fc1b0)
+**Título:** Smart water networks: A systematic review of applications using high-frequency pressure and acoustic sensors in real water distribution systems
+
+**Autores:** Rousso, B. Z., Lambert, M., & Gong, J.
+
+**Fecha:** 2023
+
+<p align="center">
+  <img src="![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/b73cde88-a715-4877-95cb-fe2aa73fc1b0)" width="80%">
+</p>
+<div align="center">Imagen 3: Art. Smart water networks.</div>
+</p>
 
 
 ## 2. CONTEXTO COMERCIAL 🛒 
