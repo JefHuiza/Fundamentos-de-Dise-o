@@ -72,6 +72,10 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
 <div align="center">Imagen 3: Art. IoT-Based Water Monitoring Systems.</div>
 </p>
 
+**Resumen:**
+
+Este artículo describe varios métodos para monitorear la calidad del agua, incluidos sensores de pH, turbidez y conductividad, entre otros. Además, se consideran enfoques basados ​​en inteligencia artificial, como algoritmos de aprendizaje automático y redes neuronales, para analizar datos de monitoreo del agua. Una conclusión importante es que ningún modelo por sí solo puede medir con precisión las propiedades del agua en diferentes lugares, períodos de tiempo y tipos de sitios. El documento también destaca el uso de algoritmos de aprendizaje automático como K-Means para monitorear la calidad del agua y detectar anomalías en los datos de los sensores de turbidez, conductividad y pH implementados en dispositivos IoT. Este enfoque permite el procesamiento inmediato de datos para identificar posibles problemas de calidad del agua. Además, se identifican lagunas de investigación y recomendaciones para la investigación en esta área. [Ver Artículo]([https://repositorio.cuc.edu.co/handle/11323/8874](https://www.mdpi.com/2073-4441/14/22/3621)) 
+
 
 ## 2. CONTEXTO COMERCIAL 🛒 
 
