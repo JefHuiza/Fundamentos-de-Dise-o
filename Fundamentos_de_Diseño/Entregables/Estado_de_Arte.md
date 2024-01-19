@@ -7,10 +7,9 @@
 #### **Artículo científico N°1:**
 
 **Título**: IoT - based drinking water quality measurement: systematic literature review
-
 **Autores**: Yulieth Carriazo-Regino, Rubén Baena-Navarro, Francisco Torres-Hoyos, Juan Vergara-Villadiego, Sebastián Roa-Prada
-
 **Fecha**: Accepted. June 30, 2022
+
  <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/967b3733-6bd7-4184-804b-4e0227c41bd1" alt="Texto Alternativo" width="60%">
 </p>
