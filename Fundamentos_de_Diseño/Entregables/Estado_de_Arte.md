@@ -70,7 +70,10 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
 
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/f3f99c0d-9fcb-4fb3-9871-658384c6145e" alt="Texto Alternativo" width="40%">
-
+</p>
+<div align="center">Imagen 4: Detector de fugas de agua DXmic. Fuente: AliExpress</div>
+</p>
+**Descripción del dispositivo:**
 
 **Descripción del dispositivo:**
 
@@ -88,7 +91,9 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
 **Costo**: $ 1,485.82
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/43d71206-4eff-4db9-b3e4-1801382fed0a" alt="Texto Alternativo" width="40%">
-
+</p>
+<div align="center">Imagen 5: Sensor de nivel de agua para el hogar. Fuente: Amazon</div>
+</p>
 **Descripción del dispositivo:**
 
 - El equipo puede ser configurado para realizar un monitoreo remoto de la reposición del agua y drenaje, asimismo, recepciona notificaciones de alarma de alto y bajo nivel del agua a través de una  APLICACIÓN.
@@ -107,7 +112,7 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/4338899b-d0ca-49b3-a825-148afc465ab5" alt="Texto Alternativo" width="40%">
 </p>
-<div align="center">Imagen 6: Sensor de nivel de agua para el hogar. Fuente: Amazon</div>
+<div align="center">Imagen 6: Detector de Fugas de Agua PQWT-QD50. Fuente: Amazon</div>
 </p>
 **Descripción del dispositivo:**
 
