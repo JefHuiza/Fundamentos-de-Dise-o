@@ -4,7 +4,7 @@
 
 ### ARTÍCULOS CIENTÍFICOS 
 
-#### Artículo científico N°1
+#### **Artículo científico N°1:**
 
 **Título**: IoT - based drinking water quality measurement: systematic literature review
 
