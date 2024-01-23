@@ -17,5 +17,14 @@
 •	Multímetro
 
 ##  **3.  TEORÍA FUNDAMENTAL 🔎**
+
+### **Protoboard: Una herramienta para probar circuitos**
+
+Las protoboards son placas de pruebas que permiten conectar componentes electrónicos de forma temporal, sin necesidad de soldadura. Son una herramienta práctica para proyectos electrónicos, ya que permiten probar diferentes configuraciones y modificaciones de forma rápida y sencilla.
+
+La zona central de la protoboard es donde se colocan los componentes. Los orificios de esta zona están conectados horizontalmente. La zona de alimentación, situada en los laterales, tiene los orificios conectados verticalmente.
+
+Las protoboards son una herramienta esencial para cualquier persona que quiera aprender sobre electrónica o diseñar circuitos. Son fáciles de usar y permiten crear prototipos de circuitos rápidamente.
+
 ##  **4.	DESARROLLO DE LAS ACTIVIDADES 🔎**
 
