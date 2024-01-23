@@ -55,7 +55,7 @@ En esta actividad, calculamos la resistencia equivalente de cada circuito. Para 
 
 _Nota: Para poder lograr el objetivo en esta actividad fue muy importante recordar algunos conceptos de Física para ingeniería 3 (Tema: Circuitos RC)_
 
-**Ejercicios nivel  pollito 🐣**
+## **Ejercicios nivel  pollito 🐣**
 <table style="width: 100%;">
     <tr>
         <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
@@ -81,7 +81,7 @@ _Nota: Para poder lograr el objetivo en esta actividad fue muy importante record
 En dicho ejercicio, lo primero que hicimos fue calcular la resistencia equivalente de manera manual. El resultado fue de 6.6 kΩ, con un valor de 10 kΩ de cada resistencia. Para comparar experimentalmente este resultado, utilizamos un multímetro. El valor obtenido con el multímetro fue de 6.58 kΩ. Por lo tanto, el margen de error es mínimo, de solo 0.02.
 </p>
 
-**Ejercicios nivel  gato 😺**
+## **Ejercicios nivel  gato 😺**
 <table style="width: 100%;">
     <tr>
         <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
@@ -108,7 +108,7 @@ En dicho ejercicio, lo primero que hicimos fue calcular la resistencia equivalen
 En dicho ejercicio, se realiza el mismo paso de calcular la resistencia equivalente de manera manual. El resultado fue de 4 kΩ, con un valor de 10 kΩ  de cada resistencia. Para comparar experimentalmente este resultado, utilizamos un multímetro. El valor obtenido con el multímetro fue de 3.924 kΩ. Por lo tanto, el margen de error es mínimo, de solo 0.076
 </p>
 
-**Ejercicio nivel dragón 🐉**
+## **Ejercicio nivel dragón 🐉**
 <table style="width: 100%;">
     <tr>
         <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
@@ -140,7 +140,7 @@ En dicho ejercicio, se realiza el mismo paso de calcular la resistencia equivale
 **Circuito Divisor de Tensión**
 Es un circuito sencillo donde se aplica laley de Ohm, para obtener el voltaje desalida (Vout) reducido en una resistencia.
 
-## - **Primer experimento:**
+##  **Primer experimento:**
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/522c7fff-1649-4bf2-87ea-3d283847cef7" width="650px"/>
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/dcf54982-fb7d-4599-8a1a-bfc9e6e8155d" width="300px"/>
@@ -150,7 +150,7 @@ Es un circuito sencillo donde se aplica laley de Ohm, para obtener el voltaje de
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/21a2d018-e6b6-4578-81d5-83fefec5875e" alt="Texto Alternativo" width="95%">
 </p>
 
-## - **Segundo experimento:**
+## **Segundo experimento:**
 
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/522c7fff-1649-4bf2-87ea-3d283847cef7" width="650px"/>
@@ -161,6 +161,7 @@ Es un circuito sencillo donde se aplica laley de Ohm, para obtener el voltaje de
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/e869407d-ad67-4893-9ec9-1050bfc78fd5" alt="Texto Alternativo" width="95%">
 </p>
 **Análisis de resultados del experimento 1 y 2:**
+
 <p align="justif">
 En el primer experimento, de acuerdo a la relación de R1 y R2 de 3.54, nos salió teóricamente que R1 debería ser 3.5 kΩ para obtener un vout de 1.1 V. En el cual, después de crear una resistencia que se acercara a dicho valor para reemplazar a R1 y se obtuviera 1.1 V, se realizó una prueba con el multímetro dando como resultado experimental de 1.13 V. Lo que significa que existe una pequeña diferencia de 0.02.
 Asimismo, después de tantos intentos, tratamos de realizar otro circuito que cumpliera lo mencionado de aproximarse a 1.1 V de vout. En el cual nos salió una diferencia de -0.006, siendo un error menor a diferencia de otro (valor experimental es 1.094). Sin embargo, en dicho experimento hemos realizado un cambio de la relación que existe entre R1 y R2 para que nos saliera dicho resultado. Lo que significa que estos resultados pueden depender mucho de la relación que existen entre R1 y R2 para obtener un vout deseado.
