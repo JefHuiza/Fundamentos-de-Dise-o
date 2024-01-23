@@ -160,3 +160,8 @@ Es un circuito sencillo donde se aplica laley de Ohm, para obtener el voltaje de
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/e869407d-ad67-4893-9ec9-1050bfc78fd5" alt="Texto Alternativo" width="95%">
 </p>
+**Análisis de resultados del experimento 1 y 2:**
+<p align="justif">
+En el primer experimento, de acuerdo a la relación de R1 y R2 de 3.54, nos salió teóricamente que R1 debería ser 3.5 kΩ para obtener un vout de 1.1 V. En el cual, después de crear una resistencia que se acercara a dicho valor para reemplazar a R1 y se obtuviera 1.1 V, se realizó una prueba con el multímetro dando como resultado experimental de 1.13 V. Lo que significa que existe una pequeña diferencia de 0.02.
+Asimismo, después de tantos intentos, tratamos de realizar otro circuito que cumpliera lo mencionado de aproximarse a 1.1 V de vout. En el cual nos salió una diferencia de -0.006, siendo un error menor a diferencia de otro (valor experimental es 1.094). Sin embargo, en dicho experimento hemos realizado un cambio de la relación que existe entre R1 y R2 para que nos saliera dicho resultado. Lo que significa que estos resultados pueden depender mucho de la relación que existen entre R1 y R2 para obtener un vout deseado.
+</p>
