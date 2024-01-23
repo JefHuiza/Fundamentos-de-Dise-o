@@ -49,9 +49,19 @@ En esta actividad, calculamos la resistencia equivalente de cada circuito. Para 
 _Nota: Para poder lograr el objetivo en esta actividad fue muy importante recordar algunos conceptos de Física para ingeniería 3 (Tema: Circuitos RC)_
 
 **Ejercicios nivel  pollito**
-<p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/5859c23e-de68-467e-bf2f-2afdcb23f51e" width="40%">
-</p>
+<table style="width: 100%;">
+    <tr>
+        <td style="border: 0px solid #ddd; padding: 4px; text-align: center;">
+            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/5859c23e-de68-467e-bf2f-2afdcb23f51e" alt="" style="width: 100%; max-width: 100px; display: block; margin: auto;">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 4px; text-align: center;">
+            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/5859c23e-de68-467e-bf2f-2afdcb23f51e" alt="" style="width: 70%; max-width: 50px; display: block; margin: auto;">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 4px; text-align: center;">
+            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/5859c23e-de68-467e-bf2f-2afdcb23f51e" alt="" style="width: 70%; max-width: 50px; display: block; margin: auto;">
+        </td>
+    </tr>
+</table>
 
 **Ejercicios nivel  gato**
 <p align="center">
