@@ -50,9 +50,11 @@ _Nota: Para poder lograr el objetivo en esta actividad fue muy importante record
 
 **Ejercicios nivel pollito – gato**
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/de0af85d-7ead-4560-8166-b6b14c4c9b0b" alt="Texto Alternativo" width="40%">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/5859c23e-de68-467e-bf2f-2afdcb23f51e" width="40%">
 </p>
-
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/74bc674b-dbe9-484f-810b-7f77900cc181" width="40%">
+</p>
 **Ejercicio nivel dragón**
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/341a7c33-216a-4c88-9fea-282236c6ff90" alt="Texto Alternativo" width="40%">
