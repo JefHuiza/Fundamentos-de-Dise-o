@@ -114,6 +114,7 @@ _Nota: Para poder lograr el objetivo en esta actividad fue muy importante record
 **Circuito Divisor de Tensión**
 Es un circuito sencillo donde se aplica laley de Ohm, para obtener el voltaje desalida (Vout) reducido en una resistencia.
 
+## - **Primer experimento:**
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/522c7fff-1649-4bf2-87ea-3d283847cef7" alt="Texto Alternativo" width="70%">
 </p>
@@ -121,7 +122,8 @@ Es un circuito sencillo donde se aplica laley de Ohm, para obtener el voltaje de
  <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/21a2d018-e6b6-4578-81d5-83fefec5875e" alt="Texto Alternativo" width="100%">
 </p>
- 
+## - **Segundo experimento:**
 
-
-
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/9bb2a4f6-1dc8-4043-bbe6-6d3fdd22b8cd" alt="Texto Alternativo" width="100%">
+</p>
