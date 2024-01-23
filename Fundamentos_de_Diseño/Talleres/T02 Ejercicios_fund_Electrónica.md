@@ -55,6 +55,7 @@ _Nota: Para poder lograr el objetivo en esta actividad fue muy importante record
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/74bc674b-dbe9-484f-810b-7f77900cc181" width="40%">
 </p>
+
 **Ejercicio nivel dragón**
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/341a7c33-216a-4c88-9fea-282236c6ff90" alt="Texto Alternativo" width="40%">
