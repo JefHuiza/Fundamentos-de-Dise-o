@@ -133,8 +133,8 @@ Es un circuito sencillo donde se aplica laley de Ohm, para obtener el voltaje de
 ## - **Segundo experimento:**
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/522c7fff-1649-4bf2-87ea-3d283847cef7" width="650px"/>
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/57588192-0016-4237-96ee-bb0aa61db4c9" width="300px"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/522c7fff-1649-4bf2-87ea-3d283847cef7" width="640px"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/57588192-0016-4237-96ee-bb0aa61db4c9" width="290px"/>
 </div>
 
 <p align="center">
