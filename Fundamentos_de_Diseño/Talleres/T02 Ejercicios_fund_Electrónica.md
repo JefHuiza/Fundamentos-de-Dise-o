@@ -162,7 +162,13 @@ Es un circuito sencillo donde se aplica laley de Ohm, para obtener el voltaje de
 </p>
 
 **Análisis de resultados del experimento 1 y 2:**
-<p align="justif">
+<p align="justify">
 En el primer experimento, de acuerdo a la relación de R1 y R2 de 3.54, nos salió teóricamente que R1 debería ser 3.5 kΩ para obtener un vout de 1.1 V. En el cual, después de crear una resistencia que se acercara a dicho valor para reemplazar a R1 y se obtuviera 1.1 V, se realizó una prueba con el multímetro dando como resultado experimental de 1.13 V. Lo que significa que existe una pequeña diferencia de 0.02.
 Asimismo, después de tantos intentos, tratamos de realizar otro circuito que cumpliera lo mencionado de aproximarse a 1.1 V de vout. En el cual nos salió una diferencia de -0.006, siendo un error menor a diferencia de otro (valor experimental es 1.094). Sin embargo, en dicho experimento hemos realizado un cambio de la relación que existe entre R1 y R2 para que nos saliera dicho resultado. Lo que significa que estos resultados pueden depender mucho de la relación que existen entre R1 y R2 para obtener un vout deseado.
+</p>
+
+## **CONCLUSIÓN**
+
+<p align="justif">
+En conclusión, el presente laboratorio fue muy importante para nosotros, ya que nos permitió aprender nuevos conceptos de la electrónica que nos servirán como base para crear nuestro prototipo final en nuestro proyecto. En los experimentos, creamos circuitos en el protoboard, lo que requirió de los conceptos aprendidos en el curso de física para ingeniería 3 frente al tema de circuitos. Todos los objetivos del laboratorio se lograron exitosamente.
 </p>
