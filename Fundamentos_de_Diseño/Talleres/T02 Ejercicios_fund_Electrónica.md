@@ -160,6 +160,7 @@ Es un circuito sencillo donde se aplica laley de Ohm, para obtener el voltaje de
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/e869407d-ad67-4893-9ec9-1050bfc78fd5" alt="Texto Alternativo" width="95%">
 </p>
+
 **Análisis de resultados del experimento 1 y 2:**
 
 <p align="justif">
