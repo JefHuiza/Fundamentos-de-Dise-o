@@ -105,7 +105,7 @@ En dicho ejercicio, lo primero que hicimos fue calcular la resistencia equivalen
     </tr>
     <tr>
         <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
-            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/74bc674b-dbe9-484f-810b-7f77900cc181" alt="" style="width: 100%; display: block; margin: auto;">
+            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/67383995-3202-4d2e-9f1d-c5de07df4851" alt="" style="width: 100%; display: block; margin: auto;">
         </td>
         <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
             <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/f4fe402d-27a8-44c5-b75a-2b0323e470f6" alt="" style="width: 100%; display: block; margin: auto;">
@@ -137,5 +137,5 @@ Es un circuito sencillo donde se aplica laley de Ohm, para obtener el voltaje de
 </div>
 
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/a142ac22-3470-4148-9cfa-6ef41bcad2f9" alt="Texto Alternativo" width="100%">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/e869407d-ad67-4893-9ec9-1050bfc78fd5" alt="Texto Alternativo" width="100%">
 </p>
