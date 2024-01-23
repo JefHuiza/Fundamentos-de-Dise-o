@@ -42,14 +42,23 @@ Las protoboards se pueden utilizar en una amplia variedad de proyectos electrón
 
 ### **4.1 Manejo de protoboard**
 
-_**Descrpción de la actividad:**_
+_**Descripción de la actividad:**_
 
 En esta actividad, calculamos la resistencia equivalente de cada circuito. Para ello, los profesores nos proporcionaron un conjunto de resistencias de diferentes valores. Nosotros escogimos las resistencias que deseamos para nuestros circuitos y las montamos en un protoboard.
+
+_Nota: Para poder lograr el objetivo en esta actividad fue muy importante recordar algunos conceptos de Física para ingeniería 3 (Tema: Circuitos RC)_
 
 **Ejercicios nivel pollito – gato**
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/de0af85d-7ead-4560-8166-b6b14c4c9b0b" alt="Texto Alternativo" width="40%">
 </p>
+
+**Ejercicio nivel dragón**
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/341a7c33-216a-4c88-9fea-282236c6ff90" alt="Texto Alternativo" width="40%">
+</p>
+
+
 
 
 
