@@ -23,10 +23,10 @@ Millones de peruanos acceden a agua potable a través de camiones cisternas. | F
 
 ## 🌱 Descripición_de_los_archivos
 
--	[Documentos](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/main/Documentos): Documentos en formato de pdf y/o imagenes  relacionados al tema a presentar en el proyecto. 
--	[Hardware](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/main/Hardware): El archivo de diseño del modelado de 3D, diagrama esquemático del circuito, lista de materiales, entre otros.
--	[Software](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/main/Software): El código fuente del software, documentación sobre como utilizar el software, entre otros.
--	[Fundamentos de diseño](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/main/Fundamentos_de_Dise%C3%B1o): Actividades del curso como entregables, hitos e informes.
+-	[Documentos](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/main/Documentos): Documentos técnicos, artículos científicos, patentes, etc., que proporcionan información sobre el estado actual del arte en el campo de la IoT, así como sobre las aplicaciones específicas de la IoT en el proyecto.
+-	[Hardware](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/main/Hardware): Archivos de diseño de modelado 3D, diagramas esquemáticos de los circuitos, listas de materiales, instrucciones de montaje, etc., que se utilizan para construir el prototipo del sistema de IoT.
+-	[Software](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/main/Software): Código fuente del software, documentación de usuario, pruebas de software, etc., que se utilizan para controlar el hardware del sistema de IoT.
+-	[Fundamentos de diseño](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/main/Fundamentos_de_Dise%C3%B1o): Entregables del curso, como proyectos, informes y presentaciones, hitos del curso, como fechas de entrega y plazos, informes del curso, como evaluaciones y calificaciones, etc., que proporcionan información sobre los requisitos del curso y progreso.
 
 ## 🌱 Participantes:
 - Jefferson Juvenal Huiza Quispe                           jefferson.huiza@upch.pe  
@@ -37,8 +37,9 @@ Millones de peruanos acceden a agua potable a través de camiones cisternas. | F
 Si deseas saber más sobre nosotros, ingresa al siguiente link: [Enlace a Sobre Nosotros](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/main/Fundamentos_de_Dise%C3%B1o/Entregables/Sobre_nosotros.md)
 
 ## 🌱 Docentes_del_curso:
-- Harry Anderson Rivera Tito
-- Paulo Camilo Alberto Vela Anton
-- Moises Stevend Meza Rodriguez
-- Renzo Jose Chan Rios
-- Juan Manuel Zuñiga Mamani
+- Mg. Umbert Lewis De la Cruz Rodriguez                    umbert.de.la.cruz@upch.pe
+- Mg. Paulo Camilo Vela Antón                              paulo.vela@upch.pe
+- Mg. Moises Stevend Meza Rodriguez                        moises.meza@upch.pe
+- Dr. Harry Anderson Rivera Tito                           harry.rivera@upch.pe
+- Ing. Juan Manuel Zúñiga Maman                            juan.zuniga@upch.pe
+- Ing. Renzo José Chan Ríos                                renzo.chan@upch.pe
