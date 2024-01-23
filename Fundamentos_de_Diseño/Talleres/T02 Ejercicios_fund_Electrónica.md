@@ -115,7 +115,7 @@ _Nota: Para poder lograr el objetivo en esta actividad fue muy importante record
 Es un circuito sencillo donde se aplica laley de Ohm, para obtener el voltaje desalida (Vout) reducido en una resistencia.
 
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/bd81ec10-98cc-4664-a9f1-f86c60b09e1e" alt="Texto Alternativo" width="70%">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/522c7fff-1649-4bf2-87ea-3d283847cef7" alt="Texto Alternativo" width="70%">
 </p>
 
  <p align="center">
