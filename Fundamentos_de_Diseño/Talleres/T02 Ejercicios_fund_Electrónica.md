@@ -109,7 +109,7 @@ _Nota: Para poder lograr el objetivo en esta actividad fue muy importante record
 </table>
 
 
-### **4.2 Circuitos utiles**
+## **4.2 Circuitos utiles**
 
 **Circuito Divisor de Tensión**
 Es un circuito sencillo donde se aplica laley de Ohm, para obtener el voltaje desalida (Vout) reducido en una resistencia.
