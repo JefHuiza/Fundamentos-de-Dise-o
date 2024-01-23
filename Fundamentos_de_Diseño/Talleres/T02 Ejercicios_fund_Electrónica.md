@@ -167,7 +167,7 @@ En el primer experimento, de acuerdo a la relación de R1 y R2 de 3.54, nos sali
 Asimismo, después de tantos intentos, tratamos de realizar otro circuito que cumpliera lo mencionado de aproximarse a 1.1 V de vout. En el cual nos salió una diferencia de -0.006, siendo un error menor a diferencia de otro (valor experimental es 1.094). Sin embargo, en dicho experimento hemos realizado un cambio de la relación que existe entre R1 y R2 para que nos saliera dicho resultado. Lo que significa que estos resultados pueden depender mucho de la relación que existen entre R1 y R2 para obtener un vout deseado.
 </p>
 
-## **CONCLUSIÓN**
+## **5. CONCLUSIÓN**
 
 <p align="justify">
 En conclusión, el presente laboratorio fue muy importante para nosotros, ya que nos permitió aprender nuevos conceptos de la electrónica que nos servirán como base para crear nuestro prototipo final en nuestro proyecto. En los experimentos, creamos circuitos en el protoboard, lo que requirió de los conceptos aprendidos en el curso de física para ingeniería 3 frente al tema de circuitos. Todos los objetivos del laboratorio se lograron exitosamente.
