@@ -83,7 +83,7 @@ _Nota: Para poder lograr el objetivo en esta actividad fue muy importante record
             <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/74bc674b-dbe9-484f-810b-7f77900cc181" alt="" style="width: 100%; display: block; margin: auto;">
         </td>
         <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
-            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/74bc674b-dbe9-484f-810b-7f77900cc181" alt="" style="width: 100%; display: block; margin: auto;">
+            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/958f6794-3c6e-4d76-93f3-517d72d89472" alt="" style="width: 100%; display: block; margin: auto;">
         </td>
     </tr>
 </table>
