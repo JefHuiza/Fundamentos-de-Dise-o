@@ -48,7 +48,7 @@ En esta actividad, calculamos la resistencia equivalente de cada circuito. Para 
 
 _Nota: Para poder lograr el objetivo en esta actividad fue muy importante recordar algunos conceptos de Física para ingeniería 3 (Tema: Circuitos RC)_
 
-**Ejercicios nivel  pollito**
+**Ejercicios nivel  pollito 🐣**
 <table style="width: 100%;">
     <tr>
         <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
@@ -69,9 +69,9 @@ _Nota: Para poder lograr el objetivo en esta actividad fue muy importante record
 </table>
 
 **Análisis del resultado:**
-En dicho ejercicio, lo primero que hicimos fue calcular la resistencia equivalente de manera manual. El resultado fue de 6.6 kΩ, con un valor de 10 kΩ de cada resistencia. Para comparar experimentalmente este resultado, utilizamos un multímetro. El valor obtenido con el multímetro fue de 6.58 kΩ. Por lo tanto, el margen de error es mínimo, de solo 0.08.
+En dicho ejercicio, lo primero que hicimos fue calcular la resistencia equivalente de manera manual. El resultado fue de 6.6 kΩ, con un valor de 10 kΩ de cada resistencia. Para comparar experimentalmente este resultado, utilizamos un multímetro. El valor obtenido con el multímetro fue de 6.58 kΩ. Por lo tanto, el margen de error es mínimo, de solo 0.02.
 
-**Ejercicios nivel  gato**
+**Ejercicios nivel  gato 😺**
 <table style="width: 100%;">
     <tr>
         <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
@@ -91,7 +91,9 @@ En dicho ejercicio, lo primero que hicimos fue calcular la resistencia equivalen
     </tr>
 </table>
 
-**Ejercicio nivel dragón**
+**Análisis del resultado:** En dicho ejercicio, se realiza el mismo paso de calcular la resistencia equivalente de manera manual. El resultado fue de 6.6 kΩ, con un valor de 10 kΩ de cada resistencia. Para comparar experimentalmente este resultado, utilizamos un multímetro. El valor obtenido con el multímetro fue de 6.56 kΩ. Por lo tanto, el margen de error es mínimo, de solo 0.04
+
+**Ejercicio nivel dragón 🐉**
 <table style="width: 100%;">
     <tr>
         <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
