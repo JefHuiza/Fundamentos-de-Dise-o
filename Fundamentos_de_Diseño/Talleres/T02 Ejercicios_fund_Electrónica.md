@@ -19,10 +19,13 @@
 ##  **3.  TEORÍA FUNDAMENTAL 🔎**
 
 ### **Protoboard: Una herramienta para probar circuitos**
-
+<p align="justify">
 Las protoboards son placas de pruebas que permiten conectar componentes electrónicos de forma temporal, sin necesidad de soldadura. Son una herramienta práctica para proyectos electrónicos, ya que permiten probar diferentes configuraciones y modificaciones de forma rápida y sencilla.
+</p>
 
+<p align="justify">
 La zona central de la protoboard es donde se colocan los componentes. Los orificios de esta zona están conectados horizontalmente. La zona de alimentación, situada en los laterales, tiene los orificios conectados verticalmente.
+</p>
 
 Las protoboards son una herramienta esencial para cualquier persona que quiera aprender sobre electrónica o diseñar circuitos. Son fáciles de usar y permiten crear prototipos de circuitos rápidamente.
 
@@ -44,7 +47,9 @@ Las protoboards se pueden utilizar en una amplia variedad de proyectos electrón
 
 _**Descripción de la actividad:**_
 
+<p align="justify">
 En esta actividad, calculamos la resistencia equivalente de cada circuito. Para ello, los profesores nos proporcionaron un conjunto de resistencias de diferentes valores. Nosotros escogimos las resistencias que deseamos para nuestros circuitos y las montamos en un protoboard.
+</p>
 
 _Nota: Para poder lograr el objetivo en esta actividad fue muy importante recordar algunos conceptos de Física para ingeniería 3 (Tema: Circuitos RC)_
 
@@ -69,7 +74,10 @@ _Nota: Para poder lograr el objetivo en esta actividad fue muy importante record
 </table>
 
 **Análisis del resultado:**
+
+<p align="justify">
 En dicho ejercicio, lo primero que hicimos fue calcular la resistencia equivalente de manera manual. El resultado fue de 6.6 kΩ, con un valor de 10 kΩ de cada resistencia. Para comparar experimentalmente este resultado, utilizamos un multímetro. El valor obtenido con el multímetro fue de 6.58 kΩ. Por lo tanto, el margen de error es mínimo, de solo 0.02.
+</p>
 
 **Ejercicios nivel  gato 😺**
 <table style="width: 100%;">
@@ -91,7 +99,9 @@ En dicho ejercicio, lo primero que hicimos fue calcular la resistencia equivalen
     </tr>
 </table>
 
+<p align="justify">
 **Análisis del resultado:** En dicho ejercicio, se realiza el mismo paso de calcular la resistencia equivalente de manera manual. El resultado fue de 4 kΩ, con un valor de 10 kΩ  de cada resistencia. Para comparar experimentalmente este resultado, utilizamos un multímetro. El valor obtenido con el multímetro fue de 3.924 kΩ. Por lo tanto, el margen de error es mínimo, de solo 0.076
+</p>
 
 **Ejercicio nivel dragón 🐉**
 <table style="width: 100%;">
@@ -113,7 +123,9 @@ En dicho ejercicio, lo primero que hicimos fue calcular la resistencia equivalen
     </tr>
 </table>
 
+<p align="justify">
 **Análisis del resultado:** En dicho ejercicio, se realiza el mismo paso de calcular la resistencia equivalente de manera manual. El resultado fue de 6.6 kΩ, con un valor de 10 kΩ de cada resistencia. Para comparar experimentalmente este resultado, utilizamos un multímetro. El valor obtenido con el multímetro fue de 6.56 kΩ. Por lo tanto, el margen de error es mínimo, de solo 0.04
+</p>
 
 ## **4.2 Circuitos utiles**
 
