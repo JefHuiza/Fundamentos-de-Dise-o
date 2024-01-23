@@ -32,6 +32,11 @@ Las protoboards son una herramienta esencial para cualquier persona que quiera a
 <div align="center">Imagen 1: Estructura de un protoboard| Fuente: VÖBU .</div>
 </p>
 
+Las protoboards se pueden utilizar en una amplia variedad de proyectos electrónicos, incluyendo:
+
+- Conexión de sensores y actuadores
+- Diseño de circuitos de control
+- Producción de prototipos
 
 ##  **4.	DESARROLLO DE LAS ACTIVIDADES 🔎**
 
