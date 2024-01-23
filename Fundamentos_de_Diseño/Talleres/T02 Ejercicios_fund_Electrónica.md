@@ -26,7 +26,11 @@ La zona central de la protoboard es donde se colocan los componentes. Los orific
 
 Las protoboards son una herramienta esencial para cualquier persona que quiera aprender sobre electrónica o diseñar circuitos. Son fáciles de usar y permiten crear prototipos de circuitos rápidamente.
 
-![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/4d5872be-7cfb-4223-9e61-2d1ce4164d07)
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/4d5872be-7cfb-4223-9e61-2d1ce4164d07)" alt="Texto Alternativo" width="40%">
+</p>
+<div align="center">Imagen 1: Estructura de un protoboard| Fuente: VÖBU .</div>
+</p>
 
 
 ##  **4.	DESARROLLO DE LAS ACTIVIDADES 🔎**
