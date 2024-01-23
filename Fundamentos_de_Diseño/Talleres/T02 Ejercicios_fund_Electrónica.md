@@ -114,7 +114,10 @@ _Nota: Para poder lograr el objetivo en esta actividad fue muy importante record
 **Circuito Divisor de Tensión**
 Es un circuito sencillo donde se aplica laley de Ohm, para obtener el voltaje desalida (Vout) reducido en una resistencia.
 
-   ![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/bd81ec10-98cc-4664-a9f1-f86c60b09e1e)
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/bd81ec10-98cc-4664-a9f1-f86c60b09e1e" alt="Texto Alternativo" width="70%">
+</p>
+ 
   ![Imagen de WhatsApp 2024-01-23 a las 01 01 22_35808342](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/21a2d018-e6b6-4578-81d5-83fefec5875e)
 
 
