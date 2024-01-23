@@ -1,5 +1,7 @@
 # 🌱🔬¡Bienvenidos a AmbienteTech! 🌱🔬
 
+![Imagen de WhatsApp 2024-01-22 a las 20 33 23_19ff204d](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/8798b03a-1161-44de-8db5-451e631184a3)
+
 Me complace darles la bienvenida a AmbienteTech, somos un grupo de estudiantes de la Universidad Peruana Cayetano Heredia que realizamos un proyecto de creación de IoT como solución a un problema ambiental relacionado a un Objetivo de Desarrollo Sostenible (ODS). Este proyecto es una oportunidad única para nosotros como estudiantes para poder aplicar todos nuestros conocimientos adquiridos de Ingeniería Ambiental e Ingeniería Informática buscando resolver un problema real que afecta a nuestro país. 
 
 El tema del proyecto es de suma importancia ya que contaminación ambiental es un problema global que tiene impactos negativos en la salud y el medio ambiente. Por ello, nosotros como estudiantes buscamos aportar por lo menos con un granito creando una solución que ayude al planeta y mejorar la calidad de vida de nuestra población.
