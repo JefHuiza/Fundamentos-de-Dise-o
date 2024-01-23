@@ -134,10 +134,18 @@ Este artículo describe varios métodos para monitorear la calidad del agua, inc
 
 <p align="justify">
 - El equipo puede ser configurado para realizar un monitoreo remoto de la reposición del agua y drenaje, asimismo, recepciona notificaciones de alarma de alto y bajo nivel del agua a través de una  APLICACIÓN.
+</p>
+<p align="justify">
 - El producto es adecuado para diversas ocasiones que requieren un cierto nivel de control del agua, como sistemas HVAC, procesos de agua caliente, drenaje municipal, calderas, torres de agua, tanques de almacenamiento de agua, etc.
+</p>
+<p align="justify">
 - La aplicación con la que se utiliza proporciona la visualización del nivel del agua en tiempo real, y este es expresado en cinco niveles (0%, 25%, 50%, 75%, 100%).
+</p>
+<p align="justify">
 - El dispositivo tiene dos salidas de relé, donde el primero está conectado a la bomba de agua para lograr controlar su encendido y apagado, mientras el segundo se utiliza para evitar el calentamiento en seco.
 - Proporciona dos modos preestablecidos de "agregar agua" o "bomba de agua", que pueden cambiar automáticamente el relé 1 de acuerdo con el valor preestablecido del nivel de agua.
+</p>
+<p align="justify">
 - Cuando se alcanzan los límites superior e inferior del nivel de agua, el dispositivo envía una notificación de alarma en tiempo real al teléfono inteligente del usuario.
 </p>
 
@@ -159,7 +167,11 @@ Este artículo describe varios métodos para monitorear la calidad del agua, inc
 
 <p align="justify">
 - El detector de fugas de agua doméstica QD50 es un dispositivo portátil que utiliza dos sensores de alta sensibilidad para detectar fugas en tuberías interiores de agua corriente y tuberías de calefacción por suelo radiante.
+</p>
+<p align="justify">
 - El detector funciona recopilando y analizando el sonido y la señal de fuga de agua. El ruido ambiental se puede reducir con una tecla, lo que facilita el análisis de los resultados de la prueba. El detector también cuenta con una pantalla que muestra los resultados de la prueba, así como una función de escucha que permite al usuario escuchar el sonido de la fuga.
+</p>
+<p align="justify">
 - El detector es adecuado para una amplia gama de aplicaciones, incluyendo tuberías de acero, PVC, PE y PEX. Es un dispositivo ligero y portátil que se puede transportar fácilmente.
 </p>
 
