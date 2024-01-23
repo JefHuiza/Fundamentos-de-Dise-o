@@ -51,32 +51,63 @@ _Nota: Para poder lograr el objetivo en esta actividad fue muy importante record
 **Ejercicios nivel  pollito**
 <table style="width: 100%;">
     <tr>
-        <td style="border: 3px solid #ddd; padding: 7px; text-align: center;">
-            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/5859c23e-de68-467e-bf2f-2afdcb23f51e" alt="" style="width: 100%; max-width: 100px; display: block; margin: auto;">
+        <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
+            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/5859c23e-de68-467e-bf2f-2afdcb23f51e" alt="" style="width: 100%; display: block; margin: auto;">
         </td>
-        <td style="border: 3px solid #ddd; padding: 7px; text-align: center;">
-            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/5859c23e-de68-467e-bf2f-2afdcb23f51e" alt="" style="width: 100%; max-width: 100px; display: block; margin: auto;">
+        <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
+            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/5859c23e-de68-467e-bf2f-2afdcb23f51e" alt="" style="width: 100%; display: block; margin: auto;">
         </td>
     </tr>
     <tr>
-        <td style="border: 3px solid #ddd; padding: 7px; text-align: center;">
-            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/5859c23e-de68-467e-bf2f-2afdcb23f51e" alt="" style="width: 100%; max-width: 100px; display: block; margin: auto;">
+        <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
+            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/5859c23e-de68-467e-bf2f-2afdcb23f51e" alt="" style="width: 100%; display: block; margin: auto;">
         </td>
-        <td style="border: 3px solid #ddd; padding: 7px; text-align: center;">
-            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/5859c23e-de68-467e-bf2f-2afdcb23f51e" alt="" style="width: 100%; max-width: 100px; display: block; margin: auto;">
+        <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
+            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/5859c23e-de68-467e-bf2f-2afdcb23f51e" alt="" style="width: 100%; display: block; margin: auto;">
         </td>
     </tr>
 </table>
 
 **Ejercicios nivel  gato**
-<p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/74bc674b-dbe9-484f-810b-7f77900cc181" width="40%">
-</p>
+<table style="width: 100%;">
+    <tr>
+        <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
+            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/74bc674b-dbe9-484f-810b-7f77900cc181" alt="" style="width: 100%; display: block; margin: auto;">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
+            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/74bc674b-dbe9-484f-810b-7f77900cc181" alt="" style="width: 100%; display: block; margin: auto;">
+        </td>
+    </tr>
+    <tr>
+        <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
+            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/74bc674b-dbe9-484f-810b-7f77900cc181" alt="" style="width: 100%; display: block; margin: auto;">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
+            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/74bc674b-dbe9-484f-810b-7f77900cc181" alt="" style="width: 100%; display: block; margin: auto;">
+        </td>
+    </tr>
+</table>
 
 **Ejercicio nivel dragón**
-<p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/341a7c33-216a-4c88-9fea-282236c6ff90" alt="Texto Alternativo" width="40%">
-</p>
+<table style="width: 100%;">
+    <tr>
+        <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
+            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/341a7c33-216a-4c88-9fea-282236c6ff90" alt="" style="width: 100%; display: block; margin: auto;">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
+            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/74bc674b-dbe9-484f-810b-7f77900cc181" alt="" style="width: 100%; display: block; margin: auto;">
+        </td>
+    </tr>
+    <tr>
+        <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
+            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/74bc674b-dbe9-484f-810b-7f77900cc181" alt="" style="width: 100%; display: block; margin: auto;">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
+            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/74bc674b-dbe9-484f-810b-7f77900cc181" alt="" style="width: 100%; display: block; margin: auto;">
+        </td>
+    </tr>
+</table>
+
 
 ### **4.2 Circuitos utiles**
 
