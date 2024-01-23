@@ -284,6 +284,8 @@ El sector agrario es el que consume la mayor cantidad de agua en un área agríc
 
 # Referencias
 ## Bibliografía:
+
+<p align="justify">
 - Agua en el planeta. (2017, marzo 17). Agua.org.mx. https://agua.org.mx/en-el-planeta/
   
 - Arroyo, V., Ballestero, M., & Mejía, A. (2015). Inseguridad Económica del Agua en Latinoamérica: de la abundancia a la inseguridad. https://scioteca.caf.com/handle/123456789/787
@@ -325,5 +327,6 @@ http://documentos.senplades.gob.ec/Plan%20Nacional%20Buen%20Vivir%202013-2017.pd
 -	UNOPS. (16 de Diciembre de 2023). United Nations Office for Project Servicies. United Nations Office for Project Servicies: https://www.unops.org/es/news-and-stories/stories/combating-water-scarcity-in-peru
   
 - Vda, R. R. C. Z. (2022). Expansión urbana y sostenibilidad de humedales naturales. Caso: Humedales de Villa, Chorrillos, Lima, Perú 2010-2020. http://190.12.84.13:8080/handle/20.500.13084/6332
+</p>
   
 
