@@ -40,3 +40,11 @@ Las protoboards se pueden utilizar en una amplia variedad de proyectos electrón
 
 ##  **4.	DESARROLLO DE LAS ACTIVIDADES 🔎**
 
+### **4.1 Ejercicios nivel pollito – gato**
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/de0af85d-7ead-4560-8166-b6b14c4c9b0b" alt="Texto Alternativo" width="40%">
+</p>
+
+Descripción de la actividad:
+
+
