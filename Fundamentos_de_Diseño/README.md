@@ -9,4 +9,5 @@ Los entregables se subdividen a las vez las siguientes secciones:
 - [Contexto social y economico del problema](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/main/Fundamentos_de_Dise%C3%B1o/Entregables/Contexto-Social-y-Econ%C3%B3mico.md)
 - [Estado del arte](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/b808e377a76c393e321289f731b03e8199c5c3bd/Fundamentos_de_Dise%C3%B1o/Entregables/Estado_de_Arte.md)
 - [Lista de Requerimientos](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/a413958f6a6a3e6ec56ab080e221bc032a60fc37/Fundamentos_de_Dise%C3%B1o/Entregables/Lista_de_Requerimientos.md)
-- [Informe Taller equipo10 laboratorio](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/main/Fundamentos_de_Dise%C3%B1o/Entregables/Informe-Taller-equipo10-Lab.md)
+- [Informe Taller equipo10 laboratorio 2](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/main/Fundamentos_de_Dise%C3%B1o/Entregables/Informe-Taller-equipo10-Lab.md)
+- [Informe Taller equipo10 laboratorio 3](https://github.com/JefHuiza/Fundamentos-de-Diseo/blob/403f559342b355ff7d93d291e6eb9c3d3e08f941/Fundamentos_de_Dise%C3%B1o/Talleres/T02%20Ejercicios_fund_Electr%C3%B3nica.md)
