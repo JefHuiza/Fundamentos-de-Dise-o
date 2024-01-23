@@ -1,4 +1,4 @@
-# **🧑🏻‍🔬🔌 GUÍA N° 2 – EJERCICIOS DE FUNDAMENTOS DE DISEÑO 👩🏻‍🔬⚡** 
+# **🧑🏻‍🔬🔌 GUÍA N° 2 – EJERCICIOS DE FUNDAMENTOS DE ELECTRÓNICA 👩🏻‍🔬⚡** 
 
 ##  **1.	OBJETIVOS ESPECÍFICOS DE LA PRÁCTICA 🔎**
 
@@ -61,7 +61,9 @@ _Nota: Para poder lograr el objetivo en esta actividad fue muy importante record
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/341a7c33-216a-4c88-9fea-282236c6ff90" alt="Texto Alternativo" width="40%">
 </p>
 
+### **4.2 Circuitos utiles**
 
+**Circuito Divisor de Tensión**
 
 
 
