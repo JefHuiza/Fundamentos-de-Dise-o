@@ -21,7 +21,11 @@ Udomsuka, Jittiwut Suwatthikula, Nutthaphan Oumtrakulb, Kanchanapun Anusartb
 
 **Resumen:**
 
-El artículo examina un sistema basado en inteligencia artificial y almacenamiento en la nube para detectar fugas de agua. Su objetivo principal es recopilar y gestionar de manera eficiente los sonidos de las fugas para crear un modelo que pueda clasificarlas. Este sistema está diseñado para ayudar a los operadores novatos en la localización de fugas, brindándoles orientación y minimizando los errores causados por la fatiga. El artículo describe en detalle el diseño del sistema, así como los resultados experimentales del dispositivo de detección de fugas basado en inteligencia artificial. Se evaluaron los algoritmos SVM, DNN y CNN, y se encontró que el algoritmo DNN fue el más preciso. Se realizaron pruebas de campo para comparar la precisión del sistema con la de los operadores profesionales, y se encontró que el sistema basado en inteligencia artificial tuvo una precisión similar. Para mejorar aún más el sistema, se planea realizar más pruebas y recopilar más datos. En resumen, este sistema representa un avance innovador en la gestión sostenible de los recursos hídricos al reducir la pérdida de agua y mejorar el bienestar ambiental y humano. [Ver Artículo](https://www.sciencedirect.com/science/article/pii/S2590123022002274)  
+<p align="justify">
+El artículo examina un sistema basado en inteligencia artificial y almacenamiento en la nube para detectar fugas de agua. Su objetivo principal es recopilar y gestionar de manera eficiente los sonidos de las fugas para crear un modelo que pueda clasificarlas. Este sistema está diseñado para ayudar a los operadores novatos en la localización de fugas, brindándoles orientación y minimizando los errores causados por la fatiga. El artículo describe en detalle el diseño del sistema, así como los resultados experimentales del dispositivo de detección de fugas basado en inteligencia artificial. Se evaluaron los algoritmos SVM, DNN y CNN, y se encontró que el algoritmo DNN fue el más preciso. Se realizaron pruebas de campo para comparar la precisión del sistema con la de los operadores profesionales, y se encontró que el sistema basado en inteligencia artificial tuvo una precisión similar. Para mejorar aún más el sistema, se planea realizar más pruebas y recopilar más datos. En resumen, este sistema representa un avance innovador en la gestión sostenible de los recursos hídricos al reducir la pérdida de agua y mejorar el bienestar ambiental y humano.
+</p>
+
+[Ver Artículo](https://www.sciencedirect.com/science/article/pii/S2590123022002274)  
 
 #### _**Artículo científico N°2:**_
 
@@ -38,7 +42,11 @@ El artículo examina un sistema basado en inteligencia artificial y almacenamien
 
 **Resumen:**
 
-El artículo describe un sistema de monitoreo en tiempo real para el consumo de agua en viviendas, utilizando tecnologías inalámbricas y una aplicación móvil. El sistema incluyó un sensor de flujo YF-S201 en la tubería principal de cada vivienda para medir el caudal de agua consumida. Los datos de este sensor se enviaban a una tarjeta de Arduino para calcular el volumen y el costo del agua consumida, que se mide en litros y metros cúbicos. Los datos se enviaban inalámbricamente a través de un módulo Bluetooth HC-05 a un teléfono inteligente donde se ejecutaba en la aplicación desarrollada con MIT App Inventor. La aplicación permitía al usuario registrarse, iniciar sesión y visualizar los datos de consumo y costo, además, de generar reportes en Excel y recibir alertas de excesos de consumo. Los costos se adaptaban a las tarifas domésticas T-2 de la empresa CAPDAM en Manzanillo, Colima. El objetivo de por si era proporcionar una solución de bajo costo y fácil de manipular para monitorear el consumo diario de agua, promoviendo un uso más eficiente y responsable de este recurso hídrico. [Ver Artículo](https://repository.uaeh.edu.mx/revistas/index.php/xikua/article/view/8049/8629) 
+<p align="justify">
+El artículo describe un sistema de monitoreo en tiempo real para el consumo de agua en viviendas, utilizando tecnologías inalámbricas y una aplicación móvil. El sistema incluyó un sensor de flujo YF-S201 en la tubería principal de cada vivienda para medir el caudal de agua consumida. Los datos de este sensor se enviaban a una tarjeta de Arduino para calcular el volumen y el costo del agua consumida, que se mide en litros y metros cúbicos. Los datos se enviaban inalámbricamente a través de un módulo Bluetooth HC-05 a un teléfono inteligente donde se ejecutaba en la aplicación desarrollada con MIT App Inventor. La aplicación permitía al usuario registrarse, iniciar sesión y visualizar los datos de consumo y costo, además, de generar reportes en Excel y recibir alertas de excesos de consumo. Los costos se adaptaban a las tarifas domésticas T-2 de la empresa CAPDAM en Manzanillo, Colima. El objetivo de por si era proporcionar una solución de bajo costo y fácil de manipular para monitorear el consumo diario de agua, promoviendo un uso más eficiente y responsable de este recurso hídrico.
+</p>
+
+[Ver Artículo](https://repository.uaeh.edu.mx/revistas/index.php/xikua/article/view/8049/8629) 
 
 #### _**Artículo científico N°3**_
 
@@ -55,8 +63,12 @@ El artículo describe un sistema de monitoreo en tiempo real para el consumo de 
 </p>
 
 **Resumen:**
- 
-El artículo destaca la importancia de detectar fugas en tuberías de manera oportuna, ya que su resolución temprana ayuda a prevenir pérdidas económicas y ambientales. Algunas empresas optan por implementar políticas de control de fugas, sistemas de detección en centros de control y brigadas de operarios en terreno. Sin embargo, estas estrategias no permiten una detección rápida y precisa de las fugas en tiempo real, por lo que podrían no ser la mejor opción. Este artículo, por su parte, presenta una manera rápida y precisa para localizar fugas en tuberías, utilizando técnicas de aprendizaje automático que analizan datos del proceso, conocimiento del sistema y software inteligente (machine learning). Asimismo, presenta diferentes maneras de solución a las fugas de tuberías que existen, entre ellas están: medidores de flujo y  presión, vibradores, cámaras termográficas, escáner de humedad y equipos de escucha. En este caso, se utilizarán sensores de flujo y presión para mejorar la recolección de datos en el sistema. [Ver Artículo](https://repositorio.cuc.edu.co/handle/11323/8874) 
+
+ <p align="justify">
+El artículo destaca la importancia de detectar fugas en tuberías de manera oportuna, ya que su resolución temprana ayuda a prevenir pérdidas económicas y ambientales. Algunas empresas optan por implementar políticas de control de fugas, sistemas de detección en centros de control y brigadas de operarios en terreno. Sin embargo, estas estrategias no permiten una detección rápida y precisa de las fugas en tiempo real, por lo que podrían no ser la mejor opción. Este artículo, por su parte, presenta una manera rápida y precisa para localizar fugas en tuberías, utilizando técnicas de aprendizaje automático que analizan datos del proceso, conocimiento del sistema y software inteligente (machine learning). Asimismo, presenta diferentes maneras de solución a las fugas de tuberías que existen, entre ellas están: medidores de flujo y  presión, vibradores, cámaras termográficas, escáner de humedad y equipos de escucha. En este caso, se utilizarán sensores de flujo y presión para mejorar la recolección de datos en el sistema.
+</p>
+
+[Ver Artículo](https://repositorio.cuc.edu.co/handle/11323/8874) 
 
 ## _**Revisión sistematica:**_
 
@@ -74,7 +86,11 @@ El artículo destaca la importancia de detectar fugas en tuberías de manera opo
 
 **Resumen:**
 
-Este artículo describe varios métodos para monitorear la calidad del agua, incluidos sensores de pH, turbidez y conductividad, entre otros. Además, se consideran enfoques basados ​​en inteligencia artificial, como algoritmos de aprendizaje automático y redes neuronales, para analizar datos de monitoreo del agua. Una conclusión importante es que ningún modelo por sí solo puede medir con precisión las propiedades del agua en diferentes lugares, períodos de tiempo y tipos de sitios. El documento también destaca el uso de algoritmos de aprendizaje automático como K-Means para monitorear la calidad del agua y detectar anomalías en los datos de los sensores de turbidez, conductividad y pH implementados en dispositivos IoT. Este enfoque permite el procesamiento inmediato de datos para identificar posibles problemas de calidad del agua. Además, se identifican lagunas de investigación y recomendaciones para la investigación en esta área. [Ver Artículo](https://www.mdpi.com/2073-4441/14/22/3621)
+<p align="justify">
+Este artículo describe varios métodos para monitorear la calidad del agua, incluidos sensores de pH, turbidez y conductividad, entre otros. Además, se consideran enfoques basados ​​en inteligencia artificial, como algoritmos de aprendizaje automático y redes neuronales, para analizar datos de monitoreo del agua. Una conclusión importante es que ningún modelo por sí solo puede medir con precisión las propiedades del agua en diferentes lugares, períodos de tiempo y tipos de sitios. El documento también destaca el uso de algoritmos de aprendizaje automático como K-Means para monitorear la calidad del agua y detectar anomalías en los datos de los sensores de turbidez, conductividad y pH implementados en dispositivos IoT. Este enfoque permite el procesamiento inmediato de datos para identificar posibles problemas de calidad del agua. Además, se identifican lagunas de investigación y recomendaciones para la investigación en esta área. 
+</p>
+
+[Ver Artículo](https://www.mdpi.com/2073-4441/14/22/3621)
 
 
 ## 2. CONTEXTO COMERCIAL 🛒 
@@ -93,6 +109,7 @@ Este artículo describe varios métodos para monitorear la calidad del agua, inc
 </p>
 
 **Descripción del dispositivo:**
+
 
 - El detector de fugas de agua DXMIC es un dispositivo profesional que permite localizar fugas de agua de manera rápida y precisa.
 - Incorpora un sensor piezoeléctrico de alta sensibilidad que permite detectar fugas de hasta 0,001 galones por minuto.
@@ -115,12 +132,17 @@ Este artículo describe varios métodos para monitorear la calidad del agua, inc
 
 **Descripción del dispositivo:**
 
+<p align="justify">
 - El equipo puede ser configurado para realizar un monitoreo remoto de la reposición del agua y drenaje, asimismo, recepciona notificaciones de alarma de alto y bajo nivel del agua a través de una  APLICACIÓN.
 - El producto es adecuado para diversas ocasiones que requieren un cierto nivel de control del agua, como sistemas HVAC, procesos de agua caliente, drenaje municipal, calderas, torres de agua, tanques de almacenamiento de agua, etc.
 - La aplicación con la que se utiliza proporciona la visualización del nivel del agua en tiempo real, y este es expresado en cinco niveles (0%, 25%, 50%, 75%, 100%).
 - El dispositivo tiene dos salidas de relé, donde el primero está conectado a la bomba de agua para lograr controlar su encendido y apagado, mientras el segundo se utiliza para evitar el calentamiento en seco.
 - Proporciona dos modos preestablecidos de "agregar agua" o "bomba de agua", que pueden cambiar automáticamente el relé 1 de acuerdo con el valor preestablecido del nivel de agua.
-- Cuando se alcanzan los límites superior e inferior del nivel de agua, el dispositivo envía una notificación de alarma en tiempo real al teléfono inteligente del usuario. [Ver producto](https://www.amazon.com.mx/Tuya-Smart-Home-inundaci%C3%B3n-protecci%C3%B3n/dp/B0B6HX65X3) 
+- Cuando se alcanzan los límites superior e inferior del nivel de agua, el dispositivo envía una notificación de alarma en tiempo real al teléfono inteligente del usuario.
+</p>
+
+[Ver producto](https://www.amazon.com.mx/Tuya-Smart-Home-inundaci%C3%B3n-protecci%C3%B3n/dp/B0B6HX65X3) 
+
 #### _*Dispositivo de mercado N°3:*_
 
 **Nombre del dispositivo:** Detector de Fugas de Agua PQWT-QD50 Sensor de Fugas de Agua subterráneo Detector de Fugas de Agua Uso domésticopara tuberías subterráneas Detector de Fugas de Agua para Profundidad 0.5 M
@@ -135,9 +157,13 @@ Este artículo describe varios métodos para monitorear la calidad del agua, inc
 
 **Descripción del dispositivo:**
 
+<p align="justify">
 - El detector de fugas de agua doméstica QD50 es un dispositivo portátil que utiliza dos sensores de alta sensibilidad para detectar fugas en tuberías interiores de agua corriente y tuberías de calefacción por suelo radiante.
 - El detector funciona recopilando y analizando el sonido y la señal de fuga de agua. El ruido ambiental se puede reducir con una tecla, lo que facilita el análisis de los resultados de la prueba. El detector también cuenta con una pantalla que muestra los resultados de la prueba, así como una función de escucha que permite al usuario escuchar el sonido de la fuga.
-- El detector es adecuado para una amplia gama de aplicaciones, incluyendo tuberías de acero, PVC, PE y PEX. Es un dispositivo ligero y portátil que se puede transportar fácilmente. [Ver producto](https://www.amazon.com.mx/PQWT-QD50-subterr%C3%A1neo-dom%C3%A9sticopara-subterr%C3%A1neas-Profundidad/dp/B0BLNF8KQK?th=1) 
+- El detector es adecuado para una amplia gama de aplicaciones, incluyendo tuberías de acero, PVC, PE y PEX. Es un dispositivo ligero y portátil que se puede transportar fácilmente.
+</p>
+
+[Ver producto](https://www.amazon.com.mx/PQWT-QD50-subterr%C3%A1neo-dom%C3%A9sticopara-subterr%C3%A1neas-Profundidad/dp/B0BLNF8KQK?th=1) 
 
 ### **PATENTES**
 
@@ -160,8 +186,11 @@ Este artículo describe varios métodos para monitorear la calidad del agua, inc
 
 **Resumen:**
 
-Este invento es un pequeño dispositivo en forma de esfera que flota en el agua. Tiene un hidrófono (un tipo de micrófono de agua) que se conecta a un procesador que almacena información en una tarjeta de memoria. Este procesador también tiene un reloj que registra cuánto tiempo ha estado navegando el dispositivo. Esto ayuda a determinar dónde se han detectado fugas o problemas en las tuberías. El dispositivo también utiliza sincronizadores externos para corregir cualquier error de ubicación. Este dispositivo es sencillo, económico, resistente, duradero y muy efectivo para detectar fugas de agua en las tuberías. [Ver Patente](https://patentimages.storage.googleapis.com/d1/ca/ec/ab97fb2347a4bf/ES2588214B1.pdf
-)
+<p align="justify">
+Este invento es un pequeño dispositivo en forma de esfera que flota en el agua. Tiene un hidrófono (un tipo de micrófono de agua) que se conecta a un procesador que almacena información en una tarjeta de memoria. Este procesador también tiene un reloj que registra cuánto tiempo ha estado navegando el dispositivo. Esto ayuda a determinar dónde se han detectado fugas o problemas en las tuberías. El dispositivo también utiliza sincronizadores externos para corregir cualquier error de ubicación. Este dispositivo es sencillo, económico, resistente, duradero y muy efectivo para detectar fugas de agua en las tuberías.
+</p>
+
+[Ver Patente](https://patentimages.storage.googleapis.com/d1/ca/ec/ab97fb2347a4bf/ES2588214B1.pdf)
 
 #### Patente N°2:
 
@@ -183,7 +212,11 @@ Este invento es un pequeño dispositivo en forma de esfera que flota en el agua.
 
 **Resumen:**
 
-Este dispositivo es un sistema de monitoreo para todas las redes de distribución de agua, que tiene como fin detectar las fugas, además de estimar la probabilidad de que éstas ocurran. Si bien es cierto existen problemas importantes de pérdida de agua potable en las redes de distribución, debido a las fugas en las tuberías que se presentan, donde actualmente se ha estado implementando métodos limitados para lograr identificar estas fugas, principalmente en las zonas rurales, es por ese motivo que este sistema monitorea las redes de agua mediante observaciones terrestres y conocimientos de la red. De por sí el sistema busca índices de fugas activas y cambios en el terreno que podrían causar fallos en la red, lo que permite detectarlas y repararlas de manera eficiente, especialmente en zonas rurales. El objetivo de este prototipo fue desarrollar un mejor sistema de monitoreo para lograr reducir las pérdidas de agua potable en todas las redes de distribución. [Ver Patente](https://patentimages.storage.googleapis.com/7f/49/79/26639d07a9ceb3/ES2903401T3.pdf) 
+<p align="justify">
+Este dispositivo es un sistema de monitoreo para todas las redes de distribución de agua, que tiene como fin detectar las fugas, además de estimar la probabilidad de que éstas ocurran. Si bien es cierto existen problemas importantes de pérdida de agua potable en las redes de distribución, debido a las fugas en las tuberías que se presentan, donde actualmente se ha estado implementando métodos limitados para lograr identificar estas fugas, principalmente en las zonas rurales, es por ese motivo que este sistema monitorea las redes de agua mediante observaciones terrestres y conocimientos de la red. De por sí el sistema busca índices de fugas activas y cambios en el terreno que podrían causar fallos en la red, lo que permite detectarlas y repararlas de manera eficiente, especialmente en zonas rurales. El objetivo de este prototipo fue desarrollar un mejor sistema de monitoreo para lograr reducir las pérdidas de agua potable en todas las redes de distribución. 
+</p>
+
+[Ver Patente](https://patentimages.storage.googleapis.com/7f/49/79/26639d07a9ceb3/ES2903401T3.pdf) 
 
 #### Patente N°3:
 
@@ -205,7 +238,9 @@ Este dispositivo es un sistema de monitoreo para todas las redes de distribució
 
 **Resumen:**
 
-La presente patente consiste en un dispositivo que permite detectar fugas de agua en tuberías soterradas de naturaleza no metálica, como tuberías de PVC. El dispositivo consta de un equipo medidor, una guía conductora y una toma de tierra. El equipo medidor aplica una corriente eléctrica a la guía, que se introduce en la tubería. La resistencia de la tubería disminuye en el punto de la fuga, por lo que la corriente eléctrica fluirá más fácilmente por ese punto. El equipo medidor mide la corriente eléctrica y muestra el resultado en una pantalla. El punto de la fuga se localiza en el punto donde la lectura de la corriente eléctrica es máxima. Se esta manera, cumple su objetivo de detectar información de forma fácil, rápida y sencilla, siendo el punto exacto de la fuga a lo largo de la conducción. 
+<p align="justify">
+La presente patente consiste en un dispositivo que permite detectar fugas de agua en tuberías soterradas de naturaleza no metálica, como tuberías de PVC. El dispositivo consta de un equipo medidor, una guía conductora y una toma de tierra. El equipo medidor aplica una corriente eléctrica a la guía, que se introduce en la tubería. La resistencia de la tubería disminuye en el punto de la fuga, por lo que la corriente eléctrica fluirá más fácilmente por ese punto. El equipo medidor mide la corriente eléctrica y muestra el resultado en una pantalla. El punto de la fuga se localiza en el punto donde la lectura de la corriente eléctrica es máxima. Se esta manera, cumple su objetivo de detectar información de forma fácil, rápida y sencilla, siendo el punto exacto de la fuga a lo largo de la conducción.
+</p>
 
 El detector consta de los siguientes elementos:
 
