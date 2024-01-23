@@ -48,7 +48,7 @@ En esta actividad, calculamos la resistencia equivalente de cada circuito. Para 
 
 _Nota: Para poder lograr el objetivo en esta actividad fue muy importante recordar algunos conceptos de Física para ingeniería 3 (Tema: Circuitos RC)_
 
-**Ejercicios nivel del pollito **
+**Ejercicios nivel del pollito**
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/5859c23e-de68-467e-bf2f-2afdcb23f51e" width="40%">
 </p>
