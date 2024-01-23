@@ -60,6 +60,9 @@ _Nota: Para poder lograr el objetivo en esta actividad fue muy importante record
         <td style="border: 0px solid #ddd; padding: 7px; text-align: center;">
             <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/5859c23e-de68-467e-bf2f-2afdcb23f51e" alt="" style="width: 100%; max-width: 100px; display: block; margin: auto;">
         </td>
+      <td style="border: 0px solid #ddd; padding: 7px; text-align: center;">
+            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/5859c23e-de68-467e-bf2f-2afdcb23f51e" alt="" style="width: 100%; max-width: 100px; display: block; margin: auto;">
+        </td>
     </tr>
 </table>
 
