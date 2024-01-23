@@ -30,7 +30,7 @@ Millones de peruanos acceden a agua potable a través de camiones cisternas. | F
 
 ## 🌱 Participantes:
 - Jefferson Juvenal Huiza Quispe                           jefferson.huiza@upch.pe  
-- Lizzeth Rossmery Quispe Mamani (Representante del grupo) lizzeth.quispe@upch.pe  
+- Lizzeth Rossmery Quispe Mamani ** (Representante del grupo)** lizzeth.quispe@upch.pe  
 - Nardy Liz Condori Mamani                                 nardy.condori@upch.pe                                
 - Edithson Ricardo Aybar Escobar                           edithson.aybar@upch.pe 
 
