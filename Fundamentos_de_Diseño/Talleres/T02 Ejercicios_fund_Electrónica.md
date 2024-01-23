@@ -68,6 +68,9 @@ _Nota: Para poder lograr el objetivo en esta actividad fue muy importante record
     </tr>
 </table>
 
+**Análisis del resultado:**
+En dicho ejercicio, lo primero que hicimos fue calcular la resistencia equivalente de manera manual. El resultado fue de 6.6 kΩ, con un valor de 10 kΩ de cada resistencia. Para comparar experimentalmente este resultado, utilizamos un multímetro. El valor obtenido con el multímetro fue de 6.58 kΩ. Por lo tanto, el margen de error es mínimo, de solo 0.08.
+
 **Ejercicios nivel  gato**
 <table style="width: 100%;">
     <tr>
