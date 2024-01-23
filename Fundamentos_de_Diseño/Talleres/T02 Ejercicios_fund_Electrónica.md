@@ -127,7 +127,7 @@ Es un circuito sencillo donde se aplica laley de Ohm, para obtener el voltaje de
 </div>
 
  <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/21a2d018-e6b6-4578-81d5-83fefec5875e" alt="Texto Alternativo" width="100%">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/21a2d018-e6b6-4578-81d5-83fefec5875e" alt="Texto Alternativo" width="90%">
 </p>
 
 ## - **Segundo experimento:**
