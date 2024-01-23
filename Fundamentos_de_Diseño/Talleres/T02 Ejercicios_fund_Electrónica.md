@@ -116,7 +116,7 @@ Es un circuito sencillo donde se aplica laley de Ohm, para obtener el voltaje de
 
 ## - **Primer experimento:**
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/522c7fff-1649-4bf2-87ea-3d283847cef7" width="600px"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/522c7fff-1649-4bf2-87ea-3d283847cef7" width="650px"/>
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/dcf54982-fb7d-4599-8a1a-bfc9e6e8155d" width="300px"/>
 </div>
 
