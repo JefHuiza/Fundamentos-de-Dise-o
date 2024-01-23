@@ -27,7 +27,9 @@ Las protoboards son placas de pruebas que permiten conectar componentes electró
 La zona central de la protoboard es donde se colocan los componentes. Los orificios de esta zona están conectados horizontalmente. La zona de alimentación, situada en los laterales, tiene los orificios conectados verticalmente.
 </p>
 
+<p align="justify">
 Las protoboards son una herramienta esencial para cualquier persona que quiera aprender sobre electrónica o diseñar circuitos. Son fáciles de usar y permiten crear prototipos de circuitos rápidamente.
+</p>
 
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/4d5872be-7cfb-4223-9e61-2d1ce4164d07)" alt="Texto Alternativo" width="40%">
@@ -99,8 +101,11 @@ En dicho ejercicio, lo primero que hicimos fue calcular la resistencia equivalen
     </tr>
 </table>
 
+
+**Análisis del resultado:**
+
 <p align="justify">
-**Análisis del resultado:** En dicho ejercicio, se realiza el mismo paso de calcular la resistencia equivalente de manera manual. El resultado fue de 4 kΩ, con un valor de 10 kΩ  de cada resistencia. Para comparar experimentalmente este resultado, utilizamos un multímetro. El valor obtenido con el multímetro fue de 3.924 kΩ. Por lo tanto, el margen de error es mínimo, de solo 0.076
+En dicho ejercicio, se realiza el mismo paso de calcular la resistencia equivalente de manera manual. El resultado fue de 4 kΩ, con un valor de 10 kΩ  de cada resistencia. Para comparar experimentalmente este resultado, utilizamos un multímetro. El valor obtenido con el multímetro fue de 3.924 kΩ. Por lo tanto, el margen de error es mínimo, de solo 0.076
 </p>
 
 **Ejercicio nivel dragón 🐉**
@@ -123,8 +128,11 @@ En dicho ejercicio, lo primero que hicimos fue calcular la resistencia equivalen
     </tr>
 </table>
 
-<p align="justify">
-**Análisis del resultado:** En dicho ejercicio, se realiza el mismo paso de calcular la resistencia equivalente de manera manual. El resultado fue de 6.6 kΩ, con un valor de 10 kΩ de cada resistencia. Para comparar experimentalmente este resultado, utilizamos un multímetro. El valor obtenido con el multímetro fue de 6.56 kΩ. Por lo tanto, el margen de error es mínimo, de solo 0.04
+
+**Análisis del resultado:** 
+  
+<p align="justif">
+En dicho ejercicio, se realiza el mismo paso de calcular la resistencia equivalente de manera manual. El resultado fue de 6.6 kΩ, con un valor de 10 kΩ de cada resistencia. Para comparar experimentalmente este resultado, utilizamos un multímetro. El valor obtenido con el multímetro fue de 6.56 kΩ. Por lo tanto, el margen de error es mínimo, de solo 0.04
 </p>
 
 ## **4.2 Circuitos utiles**
