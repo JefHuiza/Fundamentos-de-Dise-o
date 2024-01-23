@@ -55,7 +55,7 @@ _Nota: Para poder lograr el objetivo en esta actividad fue muy importante record
             <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/69233155-bf59-40df-92bc-dd6744bd4475" alt="" style="width: 100%; display: block; margin: auto;">
         </td>
         <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
-            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/8a40fbee-8d32-411a-9c46-b93ad34d61af" alt="" style="width: 100%; display: block; margin: auto;">
+            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/69233155-bf59-40df-92bc-dd6744bd4475" alt="" style="width: 100%; display: block; margin: auto;">
         </td>
     </tr>
     <tr>
@@ -63,7 +63,7 @@ _Nota: Para poder lograr el objetivo en esta actividad fue muy importante record
             <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/69233155-bf59-40df-92bc-dd6744bd4475" alt="" style="width: 100%; display: block; margin: auto;">
         </td>
         <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
-            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/074230a5-7caa-4ce4-b332-56d100c29145" alt="" style="width: 100%; display: block; margin: auto;">
+            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/69233155-bf59-40df-92bc-dd6744bd4475" alt="" style="width: 100%; display: block; margin: auto;">
         </td>
     </tr>
 </table>
