@@ -9,6 +9,13 @@
 •	Desarrollar la capacidad de resolver problemas de electrónica.
 
 ##  **2.	MATERIALES Y EQUIPOS 🔎**
+
+•	Fuente de alimentación 
+
+•	Kit de electrónica B
+
+•	Multímetro
+
 ##  **3.  TEORÍA FUNDAMENTAL 🔎**
 ##  **4.	DESARROLLO DE LAS ACTIVIDADES 🔎**
 
