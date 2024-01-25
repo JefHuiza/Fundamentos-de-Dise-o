@@ -241,17 +241,15 @@ Si bien es cierto y hay que mencionarlo es que habia 2 actividades más que debi
 <p align="justify">
 En conclusión, se desarrollaron los ejercicios propuestos para obtener conocimientos básicos de programación C. Se lograron cumplir algunos de los objetivos propuestos, pero se enfrentaron dificultades que impidieron completarlos todos.
  <p align="justify"> 
-- En el objetivo 1, se logró medir correctamente la temperatura y la humedad en la plataforma Arduino y en la pantalla Arduino MK 1010.
+-	En el objetivo 1, se logró medir correctamente la temperatura y la humedad en la plataforma Arduino y en la pantalla Arduino MK 1010.
  <p align="justify"> 
-- En el objetivo 2, se logró mostrar los valores de temperatura en Celsius, Fahrenheit y Kelvin en la pantalla de Arduino IDE y en la pantalla MKR IoT Carrier, a partir de toques en la superficie de indicación del MKR IoT Carrier.
+-	 En el objetivo 2, se logró mostrar los valores de temperatura en Celsius, Fahrenheit y Kelvin en la pantalla de Arduino IDE y en la pantalla MKR IoT Carrier, a partir de toques en la superficie de indicación del MKR IoT Carrier.
 <p align="justify">  
-- En el objetivo 3, se intentó incorporar una alarma utilizando un sensor PIR, pero no se pudo completar debido a la demora en la ejecución del objetivo 1. Esta experiencia nos servirá para mejorar nuestra rapidez de entendimiento de los problemas y para gestionar mejor el tiempo.
+-	En el objetivo 3, se intentó incorporar una alarma utilizando un sensor PIR, pero no se pudo completar debido a la demora en la ejecución del objetivo 1. Esta experiencia nos servirá para mejorar nuestra rapidez de entendimiento de los problemas y para gestionar mejor el tiempo.
 <p align="justify">  
 A pesar de los desafíos, el equipo pudo hacer ajustes sobre la ejecución de código y aprender de las dificultades encontradas. Las lecciones aprendidas y los resultados encontrados son muy cruciales para mejorar una futura integración en las tecnologías de IoT frente a las mediciones de humedad y temperatura con sensores climáticos.
 <p align="justify">
 La reflexión sobre los desafíos no sólo promueve el crecimiento personal, sino que también ayuda a fortalecer el equipo para proyectos futuros. Esta experiencia es una base muy valiosa para resolver eficazmente los problemas similares que se pueden presentar al diseñar o implementar soluciones de monitoreo climático utilizando las tecnologías de IoT.
 <p align="justify">
 A pesar de los desafíos que se presentaron, nuestro equipo logró hacer ajustes sobre la ejecución de código y aprender de las dificultades encontradas. Las lecciones aprendidas y los resultados encontrados son muy cruciales para mejorar una futura integración en las tecnologías de IoT frente las mediciones de humedad y temperatura con sensores climáticos. Poder reflexionar sobre los desafíos no sólo promueve el crecimiento personal, sino que también nos ayuda a fortalecer el equipo para proyectos futuros. Esta experiencia es una base muy valiosa para resolver eficazmente los problemas similares que se nos pueden presentar al diseñar o implementar soluciones de monitoreo climático utilizando las tecnologías de IoT.
-  
-</p>
 
