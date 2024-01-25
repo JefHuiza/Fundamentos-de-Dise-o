@@ -239,8 +239,9 @@ Si bien es cierto y hay que mencionarlo es que habia 2 actividades más que debi
 
 <p align="justify">
 En conclusión, se desarrollaron los ejercicios propuestos que estaban diseñados para obtener conocimientos básicos de programación C, donde se lograron cumplir con algunos de los objetivos propuestos inicialmente y, entre todas las dificultades que se presentaron, cumplimos con uno de los objetivos de manera efetiva. En el objetivo 1 necesitabamos observar el valor de la humedad (valor positivo) y la temperatura (Celsius) en la plataforma Arduino y en la pantalla Arduino MK 1010, para los datos mostrados en la medición la temperatura resulto ser correcta, como tambien de la humedad. En el segundo objetivo, mostramos los valores de temperatura en la pantalla de Arduino IDE y en la pantalla MKR IoT Carrier, presentando sucesivamente los valores en Celsius, Fahrenheit y Kelvin, a partir de toques en la superficie de indicación del MKR IoT Carrier, lo cual se logró de manera satisfactoria. En el tercer objetivo, utilizamos un Pir para lograr incorporar una alarma, pero que no lo logramos terminar, dado que demoramos mucho en la ejecución del primer objetivo al tener problemas con el arduino cloud, lo que afecto negativamente en la ejecución de las actividades 3 y 4 propuestas en clase.
-
+  
+<p align="justify">
 A pesar de los desafíos que se presentaron, nuestro equipo logró hacer ajustes sobre la ejecución de código y aprender de las dificultades encontradas. Las lecciones aprendidas y los resultados encontrados son muy cruciales para mejorar una futura integración en las tecnologías de IoT frente las mediciones de humedad y temperatura con sensores climáticos. Poder reflexionar sobre los desafíos no sólo promueve el crecimiento personal, sino que también nos ayuda a fortalecer el equipo para proyectos futuros. Esta experiencia es una base muy valiosa para resolver eficazmente los problemas similares que se nos pueden presentar al diseñar o implementar soluciones de monitoreo climático utilizando las tecnologías de IoT.
-
+  
 </p>
 
