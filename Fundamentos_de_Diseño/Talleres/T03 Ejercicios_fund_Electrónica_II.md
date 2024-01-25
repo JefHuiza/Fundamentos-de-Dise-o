@@ -46,7 +46,7 @@ El Internet de las cosas (IoT) se ha convertido en un catalizador del cambio en 
 
 ### **Implementación del código de inicio, conoce el kit**
 
-- _**Descripción de la actividad:**_
+- _**Descripción de la actividad 1:**_
 
 <p align="justify">
 En esta actividad, vamos a realizar la implementación del codigo incial del kit, el cual se base en poder ejercutar correctamente un código correctamente en arduino, el cual permitira obtener la humedad y la temperatura del ambiente y mostrarlo en la pantalla del MKR Iot Carrier, intercalando entre humedad y temperatura al presionar un determinado boton táctil.
@@ -153,7 +153,7 @@ void loop() {
 
 ### **Implementación de código para cambiar la escala de la temperatura**
 
-- _**Descripción de la actividad:**_
+- _**Descripción de la actividad 2:**_
 <p align="justify">
 Se harán modificaciones al código anterior para que al momento de hacer click en boton táctil relacionado a la temperatura se cambie la escala de medición de la temperatura, entre celsius, fahrenheit y kelvin.
 </p>
@@ -220,8 +220,8 @@ void printTemperature() {
 
 **Análisis de resultados**
 <p align="justify">
-En el primer experimento,
-</p>
+En el segundo experimento, de la actividad 2, se realizó algunos cambios frente a la actividad número 1, donde el objetivo de este era lograr que el MKR IoT Carrier mostrara en su pantalla la temperatura en Celsius, Fahrenheit y Kelvin sucesivamente yendo en ese orden cada ves que se hiciera un "touch" en el sensor HTS221 (sensor de humedad y temperatura), por el cual cabe recalcar que si se logró cumplir este objtivo frente al cambio de temperatura con el código de Arduino, ya que se implementaron líneas de código que permitía mostrar estos datos, el cual estaba denotada con una función como se mostró en la parte superior de esta actividad. Adicional a ello, cabe especificar que los touch que se utilizaron en esta actividad fueron las siguientes: TOUCH 0 y TOUCH 3, que fueron los botones principales para hacer los cambios de temperatura que se solicitaron. Finalmente en esta actividad, es fundamental comentar que las implementaciones que se realizarón fueron muy necesarias para lograr mostrar las temperaturas sucesivamente tal como se solicitaron en diferentes escalas en la pantalla del MKR IoT Carrier, asimismo, las imágenes adjuntas en la pantalla nos proporcionaron los resultados visuales del código modificado, ofreciendo un mapeo claro de todos los datos recolectados.
+/p>
 
 ## **5. CONCLUSIÓN**
 
