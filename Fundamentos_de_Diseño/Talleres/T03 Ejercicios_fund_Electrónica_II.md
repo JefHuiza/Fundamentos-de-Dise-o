@@ -1,6 +1,6 @@
 # **🔌 GUÍA N° 4 – EJERCICIOS DE FUNDAMENTOS DE ELECTRÓNICA II⚡** 
 
-## **INTRODUCCIÓN**
+## **1. INTRODUCCIÓN**
 <p align="justify">
 Hoy en día, con herramientas como Internet de las cosas, el acceso a los datos climáticos se ha vuelto más asequible. Por ello, con una implementación experimental básica y simplificada, en este informe se realizó una simulación capturando la temperatura y humedad local utilizando el sensor HTS221 integrado en el MKR IoT Carrier a través de un interesante y educativo kit. En este caso, nuestros tres objetivos claros fueron los siguientes:
   
@@ -13,7 +13,7 @@ Hoy en día, con herramientas como Internet de las cosas, el acceso a los datos 
 En resumen, esperamos demostrar la implementación precisa de los tres objetivos propuestos, seguido de un análisis detallado de cada objetivo y conclusiones generales que resuman el conocimiento adquirido en esta práctica.
 </p>
 
-##  **1.	MATERIALES Y EQUIPOS 🔎**
+##  **2.	MATERIALES Y EQUIPOS 🔎**
 - Arduino MKR WiFi 1010
 - MKR ioT Carrier
 - Módulo Sensor PIR HC-SR501
@@ -24,7 +24,7 @@ En resumen, esperamos demostrar la implementación precisa de los tres objetivos
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/ea2c22cc-a651-4332-a26f-b81d5f194868" width="200px"/>
 </div>
 
-##  **2.  TEORÍA FUNDAMENTAL 🔎**
+##  **3.  TEORÍA FUNDAMENTAL 🔎**
 <p align="justify">
 El Internet de las cosas (IoT) se ha convertido en un catalizador del cambio en la era digital, mejorando nuestra vida diaria con dispositivos inteligentes y conectados; cambiando la forma en que interactuamos con el entorno. Permite conectar objetos físicos con capacidades de comunicación y sensores para crear redes más inteligentes que no solo simplifican las tareas sino que también abren más oportunidades de innovación y eficiencia.
 </p>
@@ -42,7 +42,7 @@ El Internet de las cosas (IoT) se ha convertido en un catalizador del cambio en 
 - *Mejorar la seguridad:* el IoT desempeña un papel fundamental a la hora de permitir un control y una protección más eficaces de los dispositivos conectados.
 
 
-##  **3.	DESARROLLO DE LAS ACTIVIDADES 🔎**
+##  **4.	DESARROLLO DE LAS ACTIVIDADES 🔎**
 
 ### **Implementación del código de inicio, conoce el kit**
 
@@ -223,7 +223,7 @@ void printTemperature() {
 En el primer experimento,
 </p>
 
-## **4. CONCLUSIÓN**
+## **5. CONCLUSIÓN**
 
 <p align="justify">
 En conclusión, 
