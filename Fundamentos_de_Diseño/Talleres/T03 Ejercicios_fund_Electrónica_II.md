@@ -1,6 +1,6 @@
 # **🔌 GUÍA N° 4 – INTERNET DE LAS COSAS (IoT)⚡** 
 
-## **1. INTRODUCCIÓN**
+## **1. INTRODUCCIÓN 🔎**
 <p align="justify">
 Hoy en día, con herramientas como Internet de las cosas, el acceso a los datos climáticos se ha vuelto más asequible. Por ello, con una implementación experimental básica y simplificada, en este informe se realizó una simulación capturando la temperatura y humedad local utilizando el sensor HTS221 integrado en el MKR IoT Carrier a través de un interesante y educativo kit. En este caso, nuestros tres objetivos claros fueron los siguientes:
   
