@@ -32,7 +32,7 @@ El Internet de las cosas (IoT) se ha convertido en un catalizador del cambio en 
 
 ##  **3.	DESARROLLO DE LAS ACTIVIDADES 🔎**
 
-### **Implementacion del codigo de inicio, conoce el kit**
+### **Implementación del código de inicio, conoce el kit**
 
 - _**Descripción de la actividad:**_
 
@@ -139,121 +139,76 @@ void loop() {
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/4a2e2200-0305-490e-8779-f8aad7847995" width="400px"/>
 </div>
 
+### **Implementación de código para cambiar la escala de la temperatura**
 
-<table style="width: 100%;">
-    <tr>
-        <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
-            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/6e471378-b1a1-4f09-b406-7ed1496d9497" alt="" style="width: 100%; display: block; margin: auto;">
-        </td>
-        <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
-            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/c096ac67-c91e-4c43-95f2-16387252dcfb" alt="" style="width: 100%; display: block; margin: auto;">
-        </td>
-    </tr>
-    <tr>
-        <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
-            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/920b02f7-0772-40e9-85c7-de02e03f0cae" alt="" style="width: 100%; display: block; margin: auto;">
-        </td>
-        <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
-            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/ab3a5944-a45a-43f8-9177-873931537b03" alt="" style="width: 100%; display: block; margin: auto;">
-        </td>
-    </tr>
-</table>
-
-**Análisis del resultado:**
-
+- _**Descripción de la actividad:**_
 <p align="justify">
-En dicho ejercicio, lo primero que hicimos fue calcular la resistencia equivalente de manera manual. El resultado fue de 6.6 kΩ, con un valor de 10 kΩ de cada resistencia. Para comparar experimentalmente este resultado, utilizamos un multímetro. El valor obtenido con el multímetro fue de 6.58 kΩ. Por lo tanto, el margen de error es mínimo, de solo 0.02.
+Se harán modificaciones al código anterior para que al momento de hacer click en boton táctil relacionado a la temperatura se cambie la escala de medición de la temperatura, entre celsius, fahrenheit y kelvin.
 </p>
 
-## **Ejercicios nivel  gato 😺**
-<table style="width: 100%;">
-    <tr>
-        <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
-            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/f6b045f9-4c19-49c6-a3c3-d3308396b94f" alt="" style="width: 100%; display: block; margin: auto;">
-        </td>
-        <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
-            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/2e989a4b-50b1-40e6-bd10-c8e90caa5fc0" alt="" style="width: 100%; display: block; margin: auto;">
-        </td>
-    </tr>
-    <tr>
-        <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
-            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/cbbe6959-0eb6-400b-b8a8-0324a7c8a4aa" alt="" style="width: 100%; display: block; margin: auto;">
-        </td>
-        <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
-            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/05cb33c8-646d-425d-8b66-5e268450554d" alt="" style="width: 100%; display: block; margin: auto;">
-        </td>
-    </tr>
-</table>
-
-
-**Análisis del resultado:**
-
+- _**Cambios en el código**_
 <p align="justify">
-En dicho ejercicio, se realiza el mismo paso de calcular la resistencia equivalente de manera manual. El resultado fue de 4 kΩ, con un valor de 10 kΩ  de cada resistencia. Para comparar experimentalmente este resultado, utilizamos un multímetro. El valor obtenido con el multímetro fue de 3.924 kΩ. Por lo tanto, el margen de error es mínimo, de solo 0.076.
+Se añadira la variable count que perimirira realizar el cambio en la escala de medición
 </p>
 
-## **Ejercicio nivel dragón 🐉**
-<table style="width: 100%;">
-    <tr>
-        <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
-            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/6d683bd7-2c16-4ea8-ad87-bef2b73d7f8f" alt="" style="width: 100%; display: block; margin: auto;">
-        </td>
-        <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
-            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/592b2cc9-07b3-472e-a38e-84124a647a7b" alt="" style="width: 100%; display: block; margin: auto;">
-        </td>
-    </tr>
-    <tr>
-        <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
-            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/67383995-3202-4d2e-9f1d-c5de07df4851" alt="" style="width: 100%; display: block; margin: auto;">
-        </td>
-        <td style="border: 0px solid #ddd; padding: 3px; text-align: center;">
-            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/f4fe402d-27a8-44c5-b75a-2b0323e470f6" alt="" style="width: 100%; display: block; margin: auto;">
-        </td>
-    </tr>
-</table>
-
-
-**Análisis del resultado:** 
-  
-<p align="justif">
-En dicho ejercicio, se realiza el mismo paso de calcular la resistencia equivalente de manera manual. El resultado fue de 6.6 kΩ, con un valor de 10 kΩ de cada resistencia. Para comparar experimentalmente este resultado, utilizamos un multímetro. El valor obtenido con el multímetro fue de 6.56 kΩ. Por lo tanto, el margen de error es mínimo, de solo 0.04.
+```cpp
+int count = 0;
+```
+<p align="justify">
+Para realizar el cambio añadiremos condicionales if, elif y else dentro de la función printTemperature(), donde estableceremos, en caso de que count sea 0, este en escala celsius, en caso count sea 1, la escala sea fahrenheit, y en caso no sea ninguno, la escala sea kelvin.
 </p>
 
-## **3.2 Circuitos utiles**
-
-**Circuito Divisor de Tensión**
-Es un circuito sencillo donde se aplica laley de Ohm, para obtener el voltaje desalida (Vout) reducido en una resistencia.
-
-##  **Primer experimento:**
-<div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/522c7fff-1649-4bf2-87ea-3d283847cef7" width="650px"/>
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/dcf54982-fb7d-4599-8a1a-bfc9e6e8155d" width="300px"/>
-</div>
-
- <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/21a2d018-e6b6-4578-81d5-83fefec5875e" alt="Texto Alternativo" width="95%">
-</p>
-
-## **Segundo experimento:**
-
-<div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/522c7fff-1649-4bf2-87ea-3d283847cef7" width="650px"/>
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/57588192-0016-4237-96ee-bb0aa61db4c9" width="300px"/>
-</div>
-
-<p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/e869407d-ad67-4893-9ec9-1050bfc78fd5" alt="Texto Alternativo" width="95%">
-</p>
+```cpp
+void printTemperature() {
+  //configuring display, setting background color, text size and text color
+  if (count == 0) {
+  carrier.display.fillScreen(ST77XX_RED); //red background
+  carrier.display.setTextColor(ST77XX_WHITE); //white text
+  carrier.display.setTextSize(6); //large sized text
+ 
+  carrier.display.setCursor(30, 50); //sets position for printing (x and y)
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4); //decreasing text size
+  carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
+  carrier.display.print(temperature);
+  carrier.display.print(" C");
+  count++;
+  } else if (count == 1){
+  carrier.display.fillScreen(ST77XX_RED); //red background
+  carrier.display.setTextColor(ST77XX_WHITE); //white text
+  carrier.display.setTextSize(6); //large sized text
+ 
+  carrier.display.setCursor(30, 50); //sets position for printing (x and y)
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4); //decreasing text size
+  carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
+  carrier.display.print(temperature*1.8 + 32);
+  carrier.display.print(" F");
+  count++;
+  } else {
+  carrier.display.fillScreen(ST77XX_RED); //red background
+  carrier.display.setTextColor(ST77XX_WHITE); //white text
+  carrier.display.setTextSize(6); //large sized text
+ 
+  carrier.display.setCursor(30, 50); //sets position for printing (x and y)
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4); //decreasing text size
+  carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
+  carrier.display.print(temperature + 273);
+  carrier.display.print(" K");
+  count=0;
+  }
+}
+```
 
 **Análisis de resultados del experimento 1 y 2:**
 <p align="justify">
-En el primer experimento, de acuerdo a la relación de R1 y R2 de 3.54, nos salió teóricamente que R1 debería ser 3.5 kΩ para obtener un vout de 1.1 V. En el cual, después de crear una resistencia que se acercara a dicho valor para reemplazar a R1 y se obtuviera 1.1 V, se realizó una prueba con el multímetro dando como resultado experimental de 1.13 V. Lo que significa que existe una pequeña diferencia de 0.02.
-Asimismo, después de tantos intentos, tratamos de realizar otro circuito que cumpliera lo mencionado de aproximarse a 1.1 V de vout. En el cual nos salió una diferencia de -0.006, siendo un error menor a diferencia de otro (valor experimental es 1.094). Sin embargo, en dicho experimento hemos realizado un cambio de la relación que existe entre R1 y R2 para que nos saliera dicho resultado. Lo que significa que estos resultados pueden depender mucho de la relación que existen entre R1 y R2 para obtener un vout deseado.
+En el primer experimento,
 </p>
 
 ## **4. CONCLUSIÓN**
 
 <p align="justify">
-En conclusión, el presente laboratorio fue muy importante para nosotros, ya que nos permitió aprender nuevos conceptos de la electrónica que nos servirán como base para crear nuestro prototipo final en nuestro proyecto. En los experimentos, creamos circuitos en el protoboard, lo que requirió de los conceptos aprendidos en el curso de física para ingeniería 3 frente al tema de circuitos. Todos los objetivos del laboratorio se lograron exitosamente.
+En conclusión, 
 </p>
 
