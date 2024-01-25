@@ -44,7 +44,7 @@ El Internet de las cosas (IoT) se ha convertido en un catalizador del cambio en 
 
 ##  **4.	DESARROLLO DE LAS ACTIVIDADES 🔎**
 
-### **4.1 Implementación del código de inicio, conoce el kit**
+### **4.1 Implementación del código de inicio, conoce el kit (Actividad 1)**
 
 - _**Descripción de la actividad 1:**_
 
@@ -151,7 +151,12 @@ void loop() {
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/4a2e2200-0305-490e-8779-f8aad7847995" width="400px"/>
 </div>
 
-### **4.2 Implementación de código para cambiar la escala de la temperatura**
+_**Análisis de resultados de la actividad 1:**_
+
+<p align="justify">
+En el primer experimento de la actividad 1, se realizó la determinación de la humedad y la temperatura, donde dichos datos serían mostrados en la pantalla de MKR IoT Carrier, para que logre tener una buena visualización y funcionalidad, para ello, se nos dio una breve introducción acerca de los Kits a utilizar, además de que se nos proporcionó un código de Arduino, el cual se puede visualizar en la parte superior en la actividad número 1. En este experimento los touchs que se utilizaron fueron los siguientes: el TOUCH 0 y TOUCH 3, donde estos botones nos sirvieron para realizar los cambios correspondientes frente a las funciones con el que cuenta el MKR IoT Carrier, en este caso para poder diferenciar estos datos en el dispositivo es mediante un fondo de pantalla, ya que para la temperatura su fondo es de color rojo mientras que para visualizar la humedad es de color azul, adicional a ello, también se diferencian por el tamaño de letra, mientras que en la temperatura contiene un tamaño más legible, la de humedad son más pequeñas, por lo cual de acuerdo a los datos presentados en la pantalla del MKR IoT Carrier, analizamos que los datos proporcinados de la temperatura es precisa, ya que su lectura es en tiempo real dentro del entorno en el que nos encontramos, asimismo, los datos encontrados de la humedad también resultaron ser precisas al momento de realizar el experimento con código.
+
+### **4.2 Implementación de código para cambiar la escala de la temperatura (Actividad 2)**
 
 - _**Descripción de la actividad 2:**_
 <p align="justify">
@@ -219,21 +224,24 @@ void printTemperature() {
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/c7d43715-5e42-421d-ace3-85b418d224d9" width="400px"/>
 </div>
 
-### **Análisis de resultados**
 
-*Análisis de resultados de la actividad 1:*
+_**Análisis de resultados de la actividad 2:**_
 
-<p align="justify">
-En el primer experimento de la actividad 1, se realizó la determinación de la humedad y la temperatura, donde dichos datos serían mostrados en la pantalla de MKR IoT Carrier, para que logre tener una buena visualización y funcionalidad, para ello, se nos dio una breve introducción acerca de los Kits a utilizar, además de que se nos proporcionó un código de Arduino, el cual se puede visualizar en la parte superior en la actividad número 1. En este experimento los touchs que se utilizaron fueron los siguientes: el TOUCH 0 y TOUCH 3, donde estos botones nos sirvieron para realizar los cambios correspondientes frente a las funciones con el que cuenta el MKR IoT Carrier, en este caso para poder diferenciar estos datos en el dispositivo es mediante un fondo de pantalla, ya que para la temperatura su fondo es de color rojo mientras que para visualizar la humedad es de color azul, adicional a ello, también se diferencian por el tamaño de letra, mientras que en la temperatura contiene un tamaño más legible, la de humedad son más pequeñas, por lo cual de acuerdo a los datos presentados en la pantalla del MKR IoT Carrier, analizamos que los datos proporcinados de la temperatura es precisa, ya que su lectura es en tiempo real dentro del entorno en el que nos encontramos, asimismo, los datos encontrados de la humedad también resultaron ser precisas al momento de realizar el experimento con código. 
-
-*Análisis de resultados de la actividad 2:*
 <p align="justify">
 En el segundo experimento de la actividad 2, se realizó algunos cambios frente a la actividad número 1, donde el objetivo de este era lograr que el MKR IoT Carrier mostrara en su pantalla la temperatura en Celsius, Fahrenheit y Kelvin sucesivamente yendo en ese orden cada ves que se hiciera un "touch" en el sensor HTS221 (sensor de humedad y temperatura), por el cual cabe recalcar que si se logró cumplir este objetivo frente al cambio de temperatura con el código de Arduino, ya que se implementaron líneas de código que permitía mostrar estos datos, el cual estaba denotada con una función como se mostró en la parte superior de esta actividad. Adicional a ello, cabe especificar que los touch que se utilizaron en esta actividad fueron las siguientes: TOUCH 0 y TOUCH 3, que fueron los botones principales para hacer los cambios de temperatura que se solicitaron. Finalmente en esta actividad, es fundamental comentar que las implementaciones que se realizarón fueron muy necesarias para lograr mostrar las temperaturas sucesivamente tal como se solicitaron en diferentes escalas en la pantalla del MKR IoT Carrier, asimismo, las imágenes adjuntas en la pantalla nos proporcionaron los resultados visuales del código modificado, ofreciendo un mapeo claro de todos los datos recolectados.
 
-### **4.3 Encendido de las leds del opla IoT, por detección de movimiento mediante el sensor PIR y cambio de color de acuerdo a la temperatura registrada en el ambiente**
+### **4.3 Encendido de las leds del opla IoT, por detección de movimiento mediante el sensor PIR y cambio de color de acuerdo a la temperatura registrada en el ambiente (Actividad 3 y 4)**
+
+_**Análisis de resultados de la actividad 3 y 4:**_
 
 <p align="justify">
-Si bien es cierto y hay que mencionarlo es que habia 2 actividades más que debieron haberse llevado a cabo, pero a causa de presentar problemas con el arduino cloud, realizamos una perdida de tiempo innecesaria al momento de realizar los experimentos, donde lamentablemente no pudimos realizar el ejercicio de la actividad 3, ya que se debia realizar usando el Opla Iot y el sensor pir (sensor de movimiento) para que detectará un movimento y encediera una alarma, dado que el Opla contiene 5 LEDS alrededor de la pantalla LCD, que cuando este detectará el sensor PIR, debia encender el LED de color rojo y cuando no detectará ningún objeto dentro de un rango de 3 a 7 metros, los 5 LEDS debian apagarse. Adicional a ello, en la cuarta actividad se necesitaba obtener la temperatura inicial y crear un código que te permitiera comparar la temperatura con un umbral predefinido, es decir, si se detectaba una temperatura superior a 28 °C, se tenia que encender una luz roja señalando que hace calor, de lo contrario, si la temperatura era inferior a 28 ℃, se tenia que encender una luz azul, lo que significa que hacia frío.
+Si bien es cierto que había dos actividades más que debieron haberse llevado a cabo, no pudimos realizarlas debido a problemas con el Arduino Cloud. Esto nos generó una pérdida de tiempo innecesaria, lo que nos impidió completar los experimentos.
+<p align="justify"> 
+En la actividad 3, se debía utilizar el Opla IoT y el sensor PIR para detectar movimiento y encender una alarma. El Opla tiene cinco LED alrededor de la pantalla LCD. Cuando el sensor PIR detectaba movimiento, el LED rojo se encendía. Cuando no se detectaba ningún objeto dentro de un rango de 3 a 7 metros, los cinco LED se apagaban.
+<p align="justify">
+En la actividad 4, se debía obtener la temperatura inicial y crear un código que permitiera comparar la temperatura con un umbral predefinido. Si la temperatura era superior a 28 ℃, se encendía una luz roja para indicar que hacía calor. Si la temperatura era inferior a 28 ℃, se encendía una luz azul para indicar que hacía frío.
+<p align="justify">
+Debido a los problemas con el Arduino Cloud, no pudimos completar estas dos actividades. Sin embargo, aprendimos mucho de la experiencia y estamos motivados a seguir aprendiendo y creciendo en este campo.
 
 
 ## **5. CONCLUSIÓN 🔎**
