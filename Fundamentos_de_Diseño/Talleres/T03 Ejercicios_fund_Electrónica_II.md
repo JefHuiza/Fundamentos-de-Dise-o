@@ -218,10 +218,11 @@ void printTemperature() {
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/c7d43715-5e42-421d-ace3-85b418d224d9" width="400px"/>
 </div>
 
-**Análisis de resultados**
+### **Análisis de resultados**
+*Análisis de resultados de la actividad 1:*
+*Análisis de resultados de la actividad 2:*
 <p align="justify">
 En el segundo experimento, de la actividad 2, se realizó algunos cambios frente a la actividad número 1, donde el objetivo de este era lograr que el MKR IoT Carrier mostrara en su pantalla la temperatura en Celsius, Fahrenheit y Kelvin sucesivamente yendo en ese orden cada ves que se hiciera un "touch" en el sensor HTS221 (sensor de humedad y temperatura), por el cual cabe recalcar que si se logró cumplir este objtivo frente al cambio de temperatura con el código de Arduino, ya que se implementaron líneas de código que permitía mostrar estos datos, el cual estaba denotada con una función como se mostró en la parte superior de esta actividad. Adicional a ello, cabe especificar que los touch que se utilizaron en esta actividad fueron las siguientes: TOUCH 0 y TOUCH 3, que fueron los botones principales para hacer los cambios de temperatura que se solicitaron. Finalmente en esta actividad, es fundamental comentar que las implementaciones que se realizarón fueron muy necesarias para lograr mostrar las temperaturas sucesivamente tal como se solicitaron en diferentes escalas en la pantalla del MKR IoT Carrier, asimismo, las imágenes adjuntas en la pantalla nos proporcionaron los resultados visuales del código modificado, ofreciendo un mapeo claro de todos los datos recolectados.
-/p>
 
 ## **5. CONCLUSIÓN**
 
