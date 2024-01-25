@@ -1,4 +1,4 @@
-# **🔌 GUÍA N° 4 – EJERCICIOS DE FUNDAMENTOS DE ELECTRÓNICA II⚡** 
+# **🔌 GUÍA N° 4 – INTERNET DE LAS COSAS (IoT)⚡** 
 
 ## **1. INTRODUCCIÓN**
 <p align="justify">
