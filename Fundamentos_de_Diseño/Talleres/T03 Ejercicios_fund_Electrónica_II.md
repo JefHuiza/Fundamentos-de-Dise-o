@@ -44,7 +44,7 @@ El Internet de las cosas (IoT) se ha convertido en un catalizador del cambio en 
 
 ##  **4.	DESARROLLO DE LAS ACTIVIDADES 🔎**
 
-### **Implementación del código de inicio, conoce el kit**
+### **4.1 Implementación del código de inicio, conoce el kit **
 
 - _**Descripción de la actividad 1:**_
 
@@ -151,7 +151,7 @@ void loop() {
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/4a2e2200-0305-490e-8779-f8aad7847995" width="400px"/>
 </div>
 
-### **Implementación de código para cambiar la escala de la temperatura**
+### **4.2 Implementación de código para cambiar la escala de la temperatura**
 
 - _**Descripción de la actividad 2:**_
 <p align="justify">
