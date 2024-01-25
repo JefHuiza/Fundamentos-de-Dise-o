@@ -1,35 +1,34 @@
 # **🔌 GUÍA N° 4 – EJERCICIOS DE FUNDAMENTOS DE ELECTRÓNICA II⚡** 
 
-##  **1.	OBJETIVOS ESPECÍFICOS DE LA PRÁCTICA 🔎**
 
-•	Adquirir conocimientos sobre los fundamentos de la electrónica, como la teoría de circuitos, los componentes electrónicos y los principios de diseño.
+##  **1.	MATERIALES Y EQUIPOS 🔎**
+- Arduino MKR WiFi 1010
+- MKR ioT Carrier
+- Módulo Sensor PIR HC-SR501
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/d7dfd454-1959-446f-856f-e0c864d58831" width="200px"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/57b79b31-1503-4609-a39e-f0110b7583ba" width="200px"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/396a10e8-a4a6-4841-b3af-150e245c2099" width="200px"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/ea2c22cc-a651-4332-a26f-b81d5f194868" width="200px"/>
+</div>
 
-•	Aprender a construir y diseñar circuitos electrónicos utilizando una protoboard.
-
-•	Desarrollar la capacidad de resolver problemas de electrónica.
-
-##  **2.	MATERIALES Y EQUIPOS 🔎**
-
-•	Fuente de alimentación 
-
-•	Kit de electrónica B
-
-•	Multímetro
-
-##  **3.  TEORÍA FUNDAMENTAL 🔎**
-
-### **Protoboard: Una herramienta para probar circuitos**
+##  **2.  TEORÍA FUNDAMENTAL 🔎**
 <p align="justify">
-Las protoboards son placas de pruebas que permiten conectar componentes electrónicos de forma temporal, sin necesidad de soldadura. Son una herramienta práctica para proyectos electrónicos, ya que permiten probar diferentes configuraciones y modificaciones de forma rápida y sencilla.
+El Internet de las cosas (IoT) se ha convertido en un catalizador del cambio en la era digital, mejorando nuestra vida diaria con dispositivos inteligentes y conectados; cambiando la forma en que interactuamos con el entorno. Permite conectar objetos físicos con capacidades de comunicación y sensores para crear redes más inteligentes que no solo simplifican las tareas sino que también abren más oportunidades de innovación y eficiencia.
 </p>
 
-<p align="justify">
-La zona central de la protoboard es donde se colocan los componentes. Los orificios de esta zona están conectados horizontalmente. La zona de alimentación, situada en los laterales, tiene los orificios conectados verticalmente.
-</p>
+###  **Importancia del internet de las cosas:**
 
-<p align="justify">
-Las protoboards son una herramienta esencial para cualquier persona que quiera aprender sobre electrónica o diseñar circuitos. Son fáciles de usar y permiten crear prototipos de circuitos rápidamente.
-</p>
+- *Automatización de procesos:* La capacidad del IoT para automatizar procesos es fundamental, puede liberar tiempo y recursos humanos para iniciativas más estratégicas y creativas.
+ 
+- *Monitoreo remoto:* IoT proporciona información instantánea para tomar decisiones informadas.
+ 
+- *Análisis de decisiones preciso:* IoT no sólo recopila datos sino que también proporciona análisis en profundidad. 
+ 
+- *ahorrar recursos:* Optimizar el uso de recursos como la energía y los materiales es una contribución importante del IoT. 
+ 
+- *Mejorar la seguridad:* el IoT desempeña un papel fundamental a la hora de permitir un control y una protección más eficaces de los dispositivos conectados.
+
 
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/4d5872be-7cfb-4223-9e61-2d1ce4164d07)" alt="Texto Alternativo" width="40%">
@@ -37,15 +36,9 @@ Las protoboards son una herramienta esencial para cualquier persona que quiera a
 <div align="center">Imagen 1: Estructura de un protoboard| Fuente: VÖBU .</div>
 </p>
 
-Las protoboards se pueden utilizar en una amplia variedad de proyectos electrónicos, incluyendo:
+##  **3.	DESARROLLO DE LAS ACTIVIDADES 🔎**
 
-- Conexión de sensores y actuadores
-- Diseño de circuitos de control
-- Producción de prototipos
-
-##  **4.	DESARROLLO DE LAS ACTIVIDADES 🔎**
-
-### **4.1 Manejo de protoboard**
+### **3.1 Manejo de protoboard**
 
 _**Descripción de la actividad:**_
 
@@ -135,7 +128,7 @@ En dicho ejercicio, se realiza el mismo paso de calcular la resistencia equivale
 En dicho ejercicio, se realiza el mismo paso de calcular la resistencia equivalente de manera manual. El resultado fue de 6.6 kΩ, con un valor de 10 kΩ de cada resistencia. Para comparar experimentalmente este resultado, utilizamos un multímetro. El valor obtenido con el multímetro fue de 6.56 kΩ. Por lo tanto, el margen de error es mínimo, de solo 0.04.
 </p>
 
-## **4.2 Circuitos utiles**
+## **3.2 Circuitos utiles**
 
 **Circuito Divisor de Tensión**
 Es un circuito sencillo donde se aplica laley de Ohm, para obtener el voltaje desalida (Vout) reducido en una resistencia.
@@ -167,7 +160,7 @@ En el primer experimento, de acuerdo a la relación de R1 y R2 de 3.54, nos sali
 Asimismo, después de tantos intentos, tratamos de realizar otro circuito que cumpliera lo mencionado de aproximarse a 1.1 V de vout. En el cual nos salió una diferencia de -0.006, siendo un error menor a diferencia de otro (valor experimental es 1.094). Sin embargo, en dicho experimento hemos realizado un cambio de la relación que existe entre R1 y R2 para que nos saliera dicho resultado. Lo que significa que estos resultados pueden depender mucho de la relación que existen entre R1 y R2 para obtener un vout deseado.
 </p>
 
-## **5. CONCLUSIÓN**
+## **4. CONCLUSIÓN**
 
 <p align="justify">
 En conclusión, el presente laboratorio fue muy importante para nosotros, ya que nos permitió aprender nuevos conceptos de la electrónica que nos servirán como base para crear nuestro prototipo final en nuestro proyecto. En los experimentos, creamos circuitos en el protoboard, lo que requirió de los conceptos aprendidos en el curso de física para ingeniería 3 frente al tema de circuitos. Todos los objetivos del laboratorio se lograron exitosamente.
