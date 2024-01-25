@@ -44,7 +44,7 @@ El Internet de las cosas (IoT) se ha convertido en un catalizador del cambio en 
 
 ##  **4.	DESARROLLO DE LAS ACTIVIDADES 🔎**
 
-### **4.1 Implementación del código de inicio, conoce el kit **
+### **4.1 Implementación del código de inicio, conoce el kit**
 
 - _**Descripción de la actividad 1:**_
 
