@@ -212,6 +212,7 @@ void printTemperature() {
   }
 }
 ```
+- _**Evidencia de desarrollo**_
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/4abafed5-33fe-4f55-82e4-2a41a002cad5" width="400px"/>
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/ba339ab6-fbd8-446e-8270-f3b31e84a797" width="400px"/>
