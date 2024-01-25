@@ -155,7 +155,7 @@ Se añadira la variable count que perimirira realizar el cambio en la escala de 
 int count = 0;
 ```
 <p align="justify">
-Para realizar el cambio añadiremos condicionales if, elif y else dentro de la función printTemperature(), donde estableceremos, en caso de que count sea 0, este en escala celsius, en caso count sea 1, la escala sea fahrenheit, y en caso no sea ninguno, la escala sea kelvin.
+Para realizar el cambio de escala añadiremos condicionales if, elif y else dentro de la función printTemperature(), donde estableceremos, en caso de que count sea 0, este en escala celsius, en caso count sea 1, la escala sea fahrenheit, y en caso no sea ninguno, la escala sea kelvin.
 </p>
 
 ```cpp
@@ -200,8 +200,13 @@ void printTemperature() {
   }
 }
 ```
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/4abafed5-33fe-4f55-82e4-2a41a002cad5" width="400px"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/ba339ab6-fbd8-446e-8270-f3b31e84a797" width="400px"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/c7d43715-5e42-421d-ace3-85b418d224d9" width="400px"/>
+</div>
 
-**Análisis de resultados del experimento 1 y 2:**
+**Análisis de resultados**
 <p align="justify">
 En el primer experimento,
 </p>
