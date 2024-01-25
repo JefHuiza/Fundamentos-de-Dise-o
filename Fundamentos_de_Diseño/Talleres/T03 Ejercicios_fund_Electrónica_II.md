@@ -1,5 +1,17 @@
 # **🔌 GUÍA N° 4 – EJERCICIOS DE FUNDAMENTOS DE ELECTRÓNICA II⚡** 
 
+## **INTRODUCCIÓN**
+<p align="justify">
+Hoy en día, con herramientas como Internet de las cosas, el acceso a los datos climáticos se ha vuelto más asequible. Por ello, con una implementación experimental básica y simplificada, en este informe se realizó una simulación capturando la temperatura y humedad local utilizando el sensor HTS221 integrado en el MKR IoT Carrier a través de un interesante y educativo kit. En este caso, nuestros tres objetivos claros fueron los siguientes:
+  
+ - Observar los registros de humedad (valor positivo) y temperatura (Celsius) en la interfaz de Arduino y la pantalla Arduino MK 1010.
+   
+  - Al tocar el área indicadora del MKR IoT Carrier, el valor térmico se muestra en la pantalla del entorno de desarrollo de Arduino IDE, así como en la pantalla del MKR IoT Carrier, alternando entre Celsius, Fahrenheit y Kelvin.
+    
+  - Identificar los niveles de temperatura y humedad por color con MKR IoT Carrier.
+    
+En resumen, esperamos demostrar la implementación precisa de los tres objetivos propuestos, seguido de un análisis detallado de cada objetivo y conclusiones generales que resuman el conocimiento adquirido en esta práctica.
+</p>
 
 ##  **1.	MATERIALES Y EQUIPOS 🔎**
 - Arduino MKR WiFi 1010
