@@ -1,5 +1,5 @@
 ![4](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/f5c0483a-63e2-4913-80ed-5365e7c3916e)
 ![5](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/850ce14f-a98d-4adf-a532-d3e518f216cc)
 ![6](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/d41fcc39-ee6f-452b-9789-e7e0c0b07606)
-![7](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/a40ddd02-49d7-4201-ab69-6d2f74cbe53d)
+![Presentacion propuesta de proyecto moderno profesional blanco y negro (1)](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/3bad7197-2e02-46d4-b855-20b5cba726bc)
 ![8](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/b7467425-84d2-4814-a9bf-3eb7e0097ebe)
