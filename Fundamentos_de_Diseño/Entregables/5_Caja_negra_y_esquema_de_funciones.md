@@ -5,5 +5,6 @@
 ![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/52aa252c-8da5-42d9-8f1a-24135ba6e725)
 
 ## 2. ESQUEMA DE FUNCIONES 🔧
-![Presentacion propuesta de proyecto moderno profesional blanco y negro (1)](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/3bad7197-2e02-46d4-b855-20b5cba726bc)
-![8](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/b7467425-84d2-4814-a9bf-3eb7e0097ebe)
+![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/22deabed-2977-4e48-8370-f5c8df7aa9da)
+![image](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/2b981205-8c08-4d26-843b-8383f6219d47)
+
