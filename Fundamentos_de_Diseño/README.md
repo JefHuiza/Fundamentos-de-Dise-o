@@ -3,7 +3,7 @@ Bienvenidos!, este Repositorio forma parte del curso Fundamentos de Diseño del 
 La carpeta lleva de nombre Fundamentos de Diseño, esta contiene una subcarpeta llamada "Entregables", ahí se almacenaran semanalmente los avances que tengamos en el proyecto.
 
 Los entregables se subdividen a las vez las siguientes secciones:
-- ##vEntregales:
+- ## Entregales:
 - [1. Sobre nosotros](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/main/Fundamentos_de_Dise%C3%B1o/Entregables/Sobre_nosotros.md)
 - [2. Definición_del_problema](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/507316da3b31cd48a533597adc40d76e28dcd76e/Fundamentos_de_Dise%C3%B1o/Entregables/Definici%C3%B3n-del-Problema.md)
 - [3. Contexto social y economico del problema](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/main/Fundamentos_de_Dise%C3%B1o/Entregables/Contexto-Social-y-Econ%C3%B3mico.md)
