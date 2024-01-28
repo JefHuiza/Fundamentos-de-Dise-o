@@ -279,7 +279,7 @@ El detector consta de los siguientes elementos:
 - ### NO FUNCIONALES
 
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/b0f8eae4-42be-4b14-9a4d-f084b654d5f7" alt="Texto Alternativo" width="100%">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/255a21d8-b55a-4000-b50f-5214fedd1b82" alt="Texto Alternativo" width="100%">
 </p>
 
 
