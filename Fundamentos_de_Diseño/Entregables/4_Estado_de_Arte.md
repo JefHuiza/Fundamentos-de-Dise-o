@@ -273,7 +273,7 @@ El detector consta de los siguientes elementos:
 - ### FUNCIONALES
 
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/2918653a-00cd-461f-b35b-8c3f44375f90" alt="Texto Alternativo" width="100%">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/e143cc4f-0ea9-4b41-ba07-41fe217c52da" alt="Texto Alternativo" width="100%">
 </p>
 
 - ### NO FUNCIONALES
