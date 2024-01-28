@@ -3,10 +3,13 @@
 ![Imagen de WhatsApp 2024-01-22 a las 20 33 23_19ff204d](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/8798b03a-1161-44de-8db5-451e631184a3)
 Estudiantes que conforman el grupo AmbienteTech. | Fuente: Creación propia
 
+<p align="justify">
 Me complace darles la bienvenida a AmbienteTech, somos un grupo de estudiantes de la Universidad Peruana Cayetano Heredia que realizamos un proyecto de creación de IoT como solución a un problema ambiental relacionado a un Objetivo de Desarrollo Sostenible (ODS). Este proyecto es una oportunidad única para nosotros como estudiantes para poder aplicar todos nuestros conocimientos adquiridos de Ingeniería Ambiental e Ingeniería Informática buscando resolver un problema real que afecta a nuestro país. 
+</p>
 
+<p align="justify">
 El tema del proyecto es de suma importancia ya que contaminación ambiental es un problema global que tiene impactos negativos en la salud y el medio ambiente. Por ello, nosotros como estudiantes buscamos aportar por lo menos con un granito creando una solución que ayude al planeta y mejorar la calidad de vida de nuestra población.
-
+</p>
 
 ## Tabla de contenidos
 - [Descripción del problema](#descripción_del_problema)
@@ -16,7 +19,9 @@ El tema del proyecto es de suma importancia ya que contaminación ambiental es u
 
 ## Descripción_del_problema 
 
+<p align="justify">
 El Perú tiene una escasez de agua en muchas partes del país, especialmente en las zonas rurales y desérticas. Esta escasez se debe a diferentes factores, como el cambio climático, la sequía y la sobreexplotación de los recursos hídricos. Siendo un problema de mucha preocupación ya que el ser humano vive del agua sin agua no es posible nuestra existencia, por ello nosotros nos hemos enfocado en dicha problemática para buscar una solución. La problemática mencionada hace referencia a un problema del objetivo 6 de la ODS. 
+</p>
 
 ![Imagen de WhatsApp 2024-01-11 a las 21 20 21_39e83d44](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/0aa1cf80-5955-49b1-9f62-8239b605e96a)
 Millones de peruanos acceden a agua potable a través de camiones cisternas. | Fuente: RPP / Foto: Andina
