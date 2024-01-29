@@ -1,4 +1,4 @@
-#  🔧 ENTREGABLE 05: CAJA NEGRA Y ESQUEMA DE FUNCIONES 📦
+#  🔧 ENTREGABLE 06: Ma 📦
 ## 1. CAJA NEGRA 📦
 ![4](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/160ef517-8c44-43df-b2fc-66004329ef16)
 ![5](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/ee1956a4-863d-4d52-b740-840382f9b274)
