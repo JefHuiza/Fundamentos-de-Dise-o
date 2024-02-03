@@ -106,7 +106,7 @@ En el transcurso de nuestra actividad de modelado 3D, llevamos a cabo tres tarea
 
 ### **3.1 Diseño de cilindro**
 
-\`\`\`
+
 Para llevar a cabo este ejercicio, hemos seguido estos pasos:
 
 1. Iniciamos seleccionando la parte superior (Top) en el plano y hacemos clic en 'Sketch'.
@@ -119,8 +119,7 @@ Para llevar a cabo este ejercicio, hemos seguido estos pasos:
 4. Seleccionamos la parte superior del cilindro, hacemos clic en 'Shell' y establecemos un espesor de 2mm.
 5. Seleccionamos la parte superior e inferior del cilindro (trabajando por partes), hacemos clic en 'Fillet' y asignamos un radio de 8mm.
 6. Finalmente, vamos a 'Parts', hacemos clic en 'Edit Appearance' para cambiar el color.
-7. ¡Y ya tenemos nuestro primer modelo listo!
-\`\`\`
+
 
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/e8932948-eff5-489f-8981-ac502605a11a" width="700px"/>
