@@ -162,6 +162,21 @@ Ajustar los parámetros en el  programa de laminación según las necesidades de
 <p align="center">Imagen 17: construimos los 4 circulos con una altura de 10 mm, que servira para acomodar al Arduino UNO| Foto: Propia</p>
 
 ## **4. EDIVENCIA DE LA PARTICIPACIÓN DEL TALLER🔎**
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/fd9844e0-e9ea-4bfd-8960-33bb9bd1a6de" width="700px">
+</p>
+
+<p align="center">Imagen 18:Construcción del soporte del arduino| Foto: Propia</p>
+
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/2e8c24a5-e7c2-47b7-8fc0-2c02d33efdc5" width="700px">
+
+<p align="center">Imagen 19:Construcción del soporte del arduino| Foto: Propia</p>
+
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/c698591a-49e8-4169-8e87-71f2637556dc" width="700px">
+
+<p align="center">Imagen 20:Maquina para la creación 3D| Foto: Propia</p>
 
 
 ## **5. CONCLUSIÓN 🔎**
