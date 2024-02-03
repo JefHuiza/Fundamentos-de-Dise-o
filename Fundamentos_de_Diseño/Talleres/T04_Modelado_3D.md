@@ -39,7 +39,7 @@ Y en este informe se podrá visualizar como usamos esta herramienta para la crea
 
 
 
-## **2. MATERIALES Y TEORíA FUNDAMENTAL 🔎**
+## **2. MATERIALES Y TEORÍA FUNDAMENTAL 🔎**
 
 ###  **2.1 Materiales:**
 - Laptop
