@@ -3,7 +3,8 @@
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/d3c66dfb-5faa-419b-bf1b-d897ea110ce7" width="90%">
 </p>
 
-## **Facultad de Ciencias e ingeniería “Alberto Cazorla Talleri”**
+<p align="center">
+  <img src=" ## **Facultad de Ciencias e ingeniería “Alberto Cazorla Talleri”**" width="90%">
 
 # **🔌 GUÍA N° 5 – MODELADO 3D⚡** 
 
