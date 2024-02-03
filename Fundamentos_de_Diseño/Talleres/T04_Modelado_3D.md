@@ -3,7 +3,8 @@
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/d3c66dfb-5faa-419b-bf1b-d897ea110ce7" width="90%">
 </p>
 
-## **Facultad de Ciencias e ingeniería“Alberto Cazorla Talleri”**
+<div align="center">## **Facultad de Ciencias e ingeniería“Alberto Cazorla Talleri”**</div>
+</p>
 
 # **🔌 GUÍA N° 5 – MODELADO 3D⚡** 
 
@@ -46,24 +47,23 @@ Y en este informe se podrá visualizar como usamos esta herramienta para la crea
 
 ### **2.2 Teoría fundamental**
 
-- **¿Qué es una impresión 3D?**
+- **¿QUÉ ES LA IMPRESIÓN 3D?**
 
 La impresión 3D es una técnica para crear objetos tridimensionales a partir de un diseño digital. Consiste en añadir capas sucesivas de material siguiendo las secciones transversales de un modelo 3D.Una impresora 3D es una máquina que realiza este proceso, transformando archivos de 2D en prototipos reales de 3D. Las aleaciones de plástico y metal son los materiales más utilizados para la impresión 3D.
 
-- **¿Para que sirve una impresión 3D?**
+- **¿PARA QUÉ SIRVE LA IMPRESIÓN 3D?**
 
 Las aplicaciones de la impresión 3D son diversas:
 
-- Medicina: Se utilizan para fabricar prótesis personalizadas, modelos anatómicos para cirugías e incluso órganos artificiales.
-- Arquitectura e ingeniería: Pueden crear maquetas y prototipos de edificios y estructuras.
-- Moda: Diseñadores pueden imprimir accesorios, joyería y piezas de moda.
-- Educación: Las impresoras 3D son herramientas valiosas en entornos educativos para enseñar conceptos de diseño y fabricación.
+ **Medicina:** Se utilizan para fabricar prótesis personalizadas, modelos anatómicos para cirugías e incluso órganos artificiales.
 
-<p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/dfb0535f-f71b-4ad0-8a6e-5282b0749b1b" width="700px">
+ **Arquitectura e ingeniería:** Pueden crear maquetas y prototipos de edificios y estructuras.
 
+ **Moda:** Diseñadores pueden imprimir accesorios, joyería y piezas de moda.
 
-- ¿Cómo hacer una imprsión 3D?
+ **Educación:** Las impresoras 3D son herramientas valiosas en entornos educativos para enseñar conceptos de diseño y fabricación.
+
+- **¿CÓMO HACER IMPRESIÓN 3D?**
 
 **1. Obtención del Modelo 3D:**
 
@@ -72,6 +72,10 @@ El primer paso para la impresión 3D o fabricación aditiva, es obtener un model
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/78db6752-7179-4d6a-883c-c6293bb3aba5" width="700px">
 
+<div align="center">Imagen 1: Instrucciones de como se realiza una impresión 3D| Foto: Propia.</div>
+</p>
+
+
 
 **2. Elección de Materiales:**
 
@@ -79,6 +83,9 @@ Al seleccionar el modelo que deseas imprimir, considera el material en el que se
 
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/b95001b1-3233-46a2-8f2a-3266c7520319" width="700px">
+<div align="center">Imagen 2: Instrucciones de como se realiza una impresión 3D| Foto: Propia.</div>
+</p>
+
 
 
 **3. Configuración de la Impresora 3D:**
@@ -87,6 +94,8 @@ Ajustar los parámetros en el  programa de laminación según las necesidades de
 
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/02cb723d-8d19-4234-ab3b-c789b3900c9b" width="700px">
+<div align="center">Imagen 3: Instrucciones de como se realiza una impresión 3D| Foto: Propia.</div>
+</p>
 
 
 ## **3. DESARROLLO DE ACTIVIDADES 🔎**
@@ -94,63 +103,63 @@ Ajustar los parámetros en el  programa de laminación según las necesidades de
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/e8932948-eff5-489f-8981-ac502605a11a" width="700px"/>
 </p>
-<p align="center">Imagen 1. Creación de un circulo en el centro del boceto del plano frontal</p>
+<p align="center">Imagen 4. Creación de un circulo en el centro del boceto del plano frontal</p>
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/96c114ee-53ce-4436-910b-c222a3e660ec" width="700px">
 </p>
-<p align="center">Imagen 2. Extruimos el círculo para formar un cilindro de 80 mm</p>
+<p align="center">Imagen 5. Extruimos el círculo para formar un cilindro de 80 mm</p>
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/d7c9b7f0-9ac4-4a8b-b306-23e354a26b74" width="700px">
 </p>
-<p align="center">Imagen 3. Hacemos el cilindro hueco quitandole la cara superior, con paredes de grosor 3 mm</p>
+<p align="center">Imagen 6. Hacemos el cilindro hueco quitandole la cara superior, con paredes de grosor 3 mm</p>
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/67ba559d-1215-4afe-861e-9674bb7266e4" width="700px">
 </p>
-<p align="center">Imagen 4. Redondeamos las esquinas exteriores del cilindro con un radio de curvatura de 5 mm</p>
+<p align="center">Imagen 7. Redondeamos las esquinas exteriores del cilindro con un radio de curvatura de 5 mm</p>
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/dbaae0fd-c2f3-472e-9a95-aaecb458a0b2" width="700px">
 </p>
-<p align="center">Imagen 5. Cambiamos el color del cilindro</p>
+<p align="center">Imagen 8. Cambiamos el color del cilindro</p>
 
 ### **3.2 Diseño de vaso**
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/8ea6a179-a265-4f61-afe5-bfca0a60db4e" width="700px"/>
 </p>
-<p align="center">Imagen 6. Formamos un trapecio que asemeja la vista bidimensional de la mitad de un vaso</p>
+<p align="center">Imagen 9. Formamos un trapecio que asemeja la vista bidimensional de la mitad de un vaso</p>
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/aa047d18-1c3a-478e-8b62-8d118e9958d3" width="700px">
 </p>
-<p align="center">Imagen 7. Usamos la herramienta girar para generar un cono tridimencional</p>
+<p align="center">Imagen 10. Usamos la herramienta girar para generar un cono tridimencional</p>
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/e769f6af-d2d3-4fd9-8eba-c5ab746889d5" width="700px">
 </p>
-<p align="center">Imagen 8. Hacemos que el cono sea hueco, quitándole la cara circular más grande, con paredes de grosor de 2 mm para asemejar a un vaso</p>
+<p align="center">Imagen 11. Hacemos que el cono sea hueco, quitándole la cara circular más grande, con paredes de grosor de 2 mm para asemejar a un vaso</p>
 
 ### **3.3 Diseño de soporte para Arduino UNO**
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/b084ce3f-a695-404c-b2eb-2e44f7ae2357" width="700px"/>
 </p>
-<p align="center">Imagen 9. Creamos un cuadrilatero con medidas superiores pero similares a la del Arduino UNO y otro cuadrilatero que sirve como borde, con esquinas redondeadas de radio 9 mm</p>
+<p align="center">Imagen 12. Creamos un cuadrilatero con medidas superiores pero similares a la del Arduino UNO y otro cuadrilatero que sirve como borde, con esquinas redondeadas de radio 9 mm</p>
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/2e4097c1-06bd-4f69-b665-f257cac5a6e6" width="700px">
 </p>
-<p align="center">Imagen 10. Extruimos la parte del segundo cuadrilatero que no coincide con el primer cuadrilatero con una altura de 10 mm, y creamos un pano en una de las caras del modelos 3D</p>
+<p align="center">Imagen 13. Extruimos la parte del segundo cuadrilatero que no coincide con el primer cuadrilatero con una altura de 10 mm, y creamos un pano en una de las caras del modelos 3D</p>
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/65e1c505-89c8-4c96-9b34-fb8d8c2952a8" width="700px">
 </p>
-<p align="center">Imagen 11. Creamos una base para el modelo 3D con una altura de 5 mm</p>
+<p align="center">Imagen 14. Creamos una base para el modelo 3D con una altura de 5 mm</p>
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/861c402d-6f31-4917-bdea-057ca7cc0576" width="700px">
 </p>
-<p align="center">Imagen 12. Redondeamos los bordes exteriores y creamos un plano en la parte interior hueca del modelo 3D</p>
+<p align="center">Imagen 15. Redondeamos los bordes exteriores y creamos un plano en la parte interior hueca del modelo 3D</p>
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/8779dd08-9034-4405-bd2f-edf48479ddec" width="700px">
 </p>
-<p align="center">Imagen 13. Hacemos 4 circulos de 3 mm de diametro, cuya distancia y disposicion coinciden con los huecos que tiene la placa de Arduino UNO</p>
+<p align="center">Imagen 16. Hacemos 4 circulos de 3 mm de diametro, cuya distancia y disposicion coinciden con los huecos que tiene la placa de Arduino UNO</p>
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/4dfc417c-37d5-4291-9220-26d69c188e34" width="700px">
 </p>
-<p align="center">Imagen 14. Extruimos los 4 circulos con una altura de 10 mm, que servira para acomodar al Arduino UNO</p>
+<p align="center">Imagen 17. Extruimos los 4 circulos con una altura de 10 mm, que servira para acomodar al Arduino UNO</p>
 
 
 ## **4. CONCLUSIÓN 🔎**
