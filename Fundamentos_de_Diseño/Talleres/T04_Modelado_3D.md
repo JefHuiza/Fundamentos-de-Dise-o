@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/d3c66dfb-5faa-419b-bf1b-d897ea110ce7" width="90%">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/d3c66dfb-5faa-419b-bf1b-d897ea110ce7" width="70%">
 </p>
 
    ## **FACULTAD DE CIENCIAS E INGENIERÍA "ALBERTO CAZORLA TALLERI"**
@@ -48,8 +48,10 @@ Y en este informe se podrá visualizar como usamos esta herramienta para la crea
 ### **2.2 Teoría fundamental**
 
 - **¿QUÉ ES LA IMPRESIÓN 3D?**
-
+  
+<p align="justify">
 La impresión 3D es una técnica para crear objetos tridimensionales a partir de un diseño digital. Consiste en añadir capas sucesivas de material siguiendo las secciones transversales de un modelo 3D (Euroinnova, s.f).Además,realiza la transformación de archivos de 2D en prototipos reales de 3D. Las aleaciones de plástico y metal son los materiales más utilizados para la impresión 3D
+</p>
 
 - **¿PARA QUÉ SIRVE LA IMPRESIÓN 3D?**
 
