@@ -221,6 +221,11 @@ Durante el desarrollo de esta actividad, seguimos los siguientes pasos:
 <p align="center">Imagen 20:Maquina para la creación 3D| Foto: Propia</p>
 
 ## **5. IMPRESIÓN 3D**
+En esta etapa, el modelo impreso encajó exactamente con los orificios del procesador Arduino Uno, sin embargo, quedaron pequeños espacios libres, dado que el Arduino no es del todo rectangular.
+
+![WhatsApp Image 2024-02-03 at 8 42 36 AM](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/657b41f7-383b-4301-9fd6-dc648de267c1)
+
+
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/cfd78bb7-bfef-4dae-bcd0-75dc6799f0b3" width="700px">
 <p align="center">Imagen 21:Evidencia del soporte para el Arduino UNO| Foto: Propia</p>
