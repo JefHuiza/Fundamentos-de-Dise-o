@@ -144,7 +144,7 @@ Para llevar a cabo este ejercicio, hemos seguido estos pasos:
 
 ### **3.2 Diseño de vaso**
 
-Al crear una representación 3D de un vaso a partir de líneas, iniciamos con la vista "frontal" y esbozamos la mitad del vaso en 2D dentro de un boceto, agregando líneas. Con las habilidades adquiridas en el primer ejercicio, convertimos este boceto 2D en un modelo 3D. Las herramientas utilizadas nos permitieron extruir y moldear el vaso 2D, resultando en la representación final en 3D, como se aprecia en la segunda imagen.
+Al crear una representación 3D de un vaso a partir de líneas, iniciamos con la vista "frontal" y esbozamos la mitad del vaso en 2D dentro de un boceto, agregando líneas. Con las habilidades adquiridas en el primer ejercicio, convertimos este boceto 2D en un modelo 3D. Las herramientas utilizadas nos permitieron extruir y moldear el vaso 2D, resultando en la representación final en 3D, como se aprecia en la tercera imagen.
 
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/8ea6a179-a265-4f61-afe5-bfca0a60db4e" width="700px"/>
