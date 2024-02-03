@@ -1,3 +1,17 @@
 # **🔌 GUÍA N° 5 – MODELADO 3D⚡** 
 
 ## **1. INTRODUCCIÓN 🔎**
+
+
+
+## **2. MATERIALES Y TEORIA FUNDAMENTAL 🔎**
+
+
+
+
+## **3. DESARROLLO DE ACTIVIDADES 🔎**
+
+
+
+
+## **4. CONCLUSIÓN 🔎**
