@@ -7,7 +7,7 @@ Los entregables se subdividen a las vez las siguientes secciones:
 - [1. Sobre nosotros](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/713c3d64705b1d83d734590f8a90be5f386fafc8/Fundamentos_de_Dise%C3%B1o/Entregables/1_Sobre_nosotros.md)
 - [2. Definición_del_problema](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/8a8d8bd106f3b230844d2c3a5286c91796f1ab0e/Fundamentos_de_Dise%C3%B1o/Entregables/3_Definici%C3%B3n-del-Problema.md)
 - [3. Contexto social y economico del problema](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/8a8d8bd106f3b230844d2c3a5286c91796f1ab0e/Fundamentos_de_Dise%C3%B1o/Entregables/2_Contexto-Social-y-Econ%C3%B3mico.md)
-- [4. Estado del arte](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/b808e377a76c393e321289f731b03e8199c5c3bd/Fundamentos_de_Dise%C3%B1o/Entregables/Estado_de_Arte.md)
+- [4. Estado del arte](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/8a8d8bd106f3b230844d2c3a5286c91796f1ab0e/Fundamentos_de_Dise%C3%B1o/Entregables/4_Estado_de_Arte.md)
 - [5. Caja Negra y Esquema de Funciones](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/20b0a503cb57f85f0c1cd52307df44ae525e807d/Fundamentos_de_Dise%C3%B1o/Entregables/5_Caja_negra_y_esquema_de_funciones.md)
 - [6. Matriz Morfológica y Tabla de Valoración](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/44fb8dcbc852b33608fbd24ee1df589af0a96b89/Fundamentos_de_Dise%C3%B1o/Entregables/6_Matriz_morfol%C3%B3gica_y_tabla_de_valoraci%C3%B3n.md)
 
