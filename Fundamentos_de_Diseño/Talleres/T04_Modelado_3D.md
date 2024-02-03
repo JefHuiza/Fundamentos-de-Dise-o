@@ -160,6 +160,17 @@ Al crear una representación 3D de un vaso a partir de líneas, iniciamos con la
 <p align="center">Imagen 11: Hacemos que el cono sea hueco, quitándole la cara circular más grande, con paredes de grosor de 2 mm para asemejar a un vaso| Foto: Propia</p>
 
 ### **3.3 Diseño de soporte para Arduino UNO**
+
+Durante el desarrollo de esta actividad, seguimos los siguientes pasos:
+
+1. Insertamos una imagen con las dimensiones del Arduino UNO.
+2. A continuación, utilizamos la herramienta "Line" para trazar el contorno del Arduino, asegurándonos de incluir las medidas correspondientes.
+3. Luego, seleccionamos la opción "Extrude" y verificamos que esté configurada como "Solid".
+4. Después, aplicamos la función "Shell" y establecimos un contorno.
+5. Le añadimos 4 cilindros que coincidan con los agujeros del Arduino Uno.
+6. Por último, cambiamos el color del modelo yendo a "Part 1" y seleccionando "Editar apariencia".
+
+
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/b084ce3f-a695-404c-b2eb-2e44f7ae2357" width="700px"/>
 </p>
@@ -202,8 +213,9 @@ Al crear una representación 3D de un vaso a partir de líneas, iniciamos con la
 
 <p align="center">Imagen 20:Maquina para la creación 3D| Foto: Propia</p>
 
+## **5. IMPRESIÓN 3D **
 
-## **5. CONCLUSIÓN 🔎**
+## **6. CONCLUSIÓN 🔎**
 
 <p align="justify">
 En resumen, en este laboratorio de modelado 3D fue una experiencia enriquecedora para nostros, ya que nos permitió explorar esta tecnología de manera más práctica, en el cual hemos llegado a comprender de la gran importancia que tiene el diseño y la configuración de manera precisa para una impresión exitosa. Es muy fundamental prestar especial atención a la geometría y a los requisitos específicos de los cuales se  debe emplear al momento de realizar un modelado 3D, un ejemplo de ello es dejar un espacio para la impresión que es de 0.1 mm para que esta no salga imperfecta. En el laboratorio, nosotros como equipo enfatizamos la relevancia de la configuración de la impresión como el modelado, desde la selección de materiales hasta la calibración precisa para realizar la impresión y el diseño. La impresora que se utilizó para imprimir nuestro modelado 3D es llamada Bambu Lab P1P que se puede utilizar a velocidades de hasta 500 mm/s, ya que según información que se nos proporcinó es la más rápida que existe en la actualidad, lo que destaca la importancia de contar con las herramientas adecuadas. Entendemos que la impresión y el modelado 3D va más allá de la creación rápida de prototipos y que es una tecnología transformadora en diversos campos, siendo especialmente beneficiosa para el proyecto que estamos desarrollando. 
