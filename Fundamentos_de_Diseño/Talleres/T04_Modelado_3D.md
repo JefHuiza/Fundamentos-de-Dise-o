@@ -44,7 +44,7 @@ Y en este informe se podrá visualizar como usamos esta herramienta para la crea
 - Laptop
 - Manejo del aplicativo de Onshape
 
-### **2.2 Teoría fundamental*+
+### **2.2 Teoría fundamental**
 
 
 
