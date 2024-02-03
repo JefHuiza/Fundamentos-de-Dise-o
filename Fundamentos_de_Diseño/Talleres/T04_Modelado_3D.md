@@ -102,6 +102,8 @@ Ajustar los parámetros en el  programa de laminación según las necesidades de
 
 ## **3. DESARROLLO DE ACTIVIDADES 🔎**
 
+Comenzamos configurando el archivo para utilizar medidas estándar, como milímetros, grados y metros por segundo al cuadrado, así como también establecimos el redondeo de decimales. 
+
 En el transcurso de nuestra actividad de modelado 3D, llevamos a cabo tres tareas utilizando el software Onshape. La culminación de nuestro trabajo fue la impresión en 3D de nuestro ejercicio final.
 
 ### **3.1 Diseño de cilindro**
