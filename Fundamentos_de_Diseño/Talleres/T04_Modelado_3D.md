@@ -101,6 +101,9 @@ Ajustar los parámetros en el  programa de laminación según las necesidades de
 
 
 ## **3. DESARROLLO DE ACTIVIDADES 🔎**
+
+En el transcurso de nuestra actividad de modelado 3D, llevamos a cabo tres tareas utilizando el software Onshape. La culminación de nuestro trabajo fue la impresión en 3D de nuestro ejercicio final.
+
 ### **3.1 Diseño de cilindro**
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/e8932948-eff5-489f-8981-ac502605a11a" width="700px"/>
