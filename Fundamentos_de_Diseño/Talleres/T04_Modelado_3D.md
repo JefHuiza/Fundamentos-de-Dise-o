@@ -220,7 +220,16 @@ Durante el desarrollo de esta actividad, seguimos los siguientes pasos:
 
 <p align="center">Imagen 20:Maquina para la creación 3D| Foto: Propia</p>
 
-## **5. IMPRESIÓN 3D **
+## **5. IMPRESIÓN 3D**
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/cfd78bb7-bfef-4dae-bcd0-75dc6799f0b3" width="700px">
+<p align="center">Imagen 21:Evidencia del soporte para el Arduino UNO| Foto: Propia</p>
+
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/15fd1e37-35e7-4b34-b4f7-fe0f183cf6e6" width="700px">
+<p align="center">Imagen 22:El arduino UNO dentro del soporte| Foto: Propia</p>
+
+
 
 ## **6. CONCLUSIÓN 🔎**
 
