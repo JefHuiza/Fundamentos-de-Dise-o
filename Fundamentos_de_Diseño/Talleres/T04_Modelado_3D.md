@@ -49,11 +49,11 @@ Y en este informe se podrá visualizar como usamos esta herramienta para la crea
 
 - **¿QUÉ ES LA IMPRESIÓN 3D?**
 
-La impresión 3D es una técnica para crear objetos tridimensionales a partir de un diseño digital. Consiste en añadir capas sucesivas de material siguiendo las secciones transversales de un modelo 3D (Euroinnova,s.f).Además,realiza la transformación de archivos de 2D en prototipos reales de 3D. Las aleaciones de plástico y metal son los materiales más utilizados para la impresión 3D
+La impresión 3D es una técnica para crear objetos tridimensionales a partir de un diseño digital. Consiste en añadir capas sucesivas de material siguiendo las secciones transversales de un modelo 3D (Euroinnova, s.f).Además,realiza la transformación de archivos de 2D en prototipos reales de 3D. Las aleaciones de plástico y metal son los materiales más utilizados para la impresión 3D
 
 - **¿PARA QUÉ SIRVE LA IMPRESIÓN 3D?**
 
-Las aplicaciones de la impresión 3D son diversas (Dassault Systemes,s.f):
+Las aplicaciones de la impresión 3D son diversas (Dassault Systemes, s.f):
 
  **Medicina:** Se utilizan para fabricar prótesis personalizadas, modelos anatómicos para cirugías e incluso órganos artificiales.
 
