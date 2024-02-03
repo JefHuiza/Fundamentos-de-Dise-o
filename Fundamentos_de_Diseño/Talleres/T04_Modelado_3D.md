@@ -46,7 +46,32 @@ Y en este informe se podrá visualizar como usamos esta herramienta para la crea
 
 ### **2.2 Teoría fundamental**
 
+- ¿Qué es una impresión 3D?
+La impresión 3D es una técnica para crear objetos tridimensionales a partir de un diseño digital. Consiste en añadir capas sucesivas de material siguiendo las secciones transversales de un modelo 3D.Una impresora 3D es una máquina que realiza este proceso, transformando archivos de 2D en prototipos reales de 3D. Las aleaciones de plástico y metal son los materiales más utilizados para la impresión 3D.
 
+- ¿Para que sirve una impresión 3D?
+
+Las aplicaciones de la impresión 3D son diversas:
+
+Medicina: Se utilizan para fabricar prótesis personalizadas, modelos anatómicos para cirugías e incluso órganos artificiales.
+Arquitectura e ingeniería: Pueden crear maquetas y prototipos de edificios y estructuras.
+Moda: Diseñadores pueden imprimir accesorios, joyería y piezas de moda.
+Educación: Las impresoras 3D son herramientas valiosas en entornos educativos para enseñar conceptos de diseño y fabricación.
+
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/dfb0535f-f71b-4ad0-8a6e-5282b0749b1b" width="700px">
+
+
+- ¿Cómo hacer una imprsión 3D?
+
+1. Obtención del Modelo 3D:
+El primer paso para la producción en impresión 3D, también conocida como fabricación aditiva, es obtener un modelo 3D. Este modelo representa el producto final en formato virtual, y la impresora 3D lo utilizará para reproducirlo físicamente.
+
+2. Elección de Materiales:
+Al seleccionar el modelo que deseas imprimir, considera el material en el que se fabricará. Esto depende del uso previsto para el producto.
+
+3. Configuración de la Impresora 3D:
+Ajusta los parámetros en el Slicer o programa de laminación según las necesidades de tu impresión.
 
 ## **3. DESARROLLO DE ACTIVIDADES 🔎**
 ### **3.1 Diseño de cilindro**
