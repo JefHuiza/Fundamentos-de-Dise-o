@@ -15,3 +15,7 @@ Los entregables se subdividen a las vez las siguientes secciones:
 - [Informe Taller equipo10 laboratorio 1](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/main/Fundamentos_de_Dise%C3%B1o/Entregables/Informe-Taller-equipo10-Lab.md)
 - [Informe Taller equipo10 laboratorio 2](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/19f41eab522f964a509af359af68306e28faf45c/Fundamentos_de_Dise%C3%B1o/Talleres/T02%20Ejercicios_fund_Electr%C3%B3nica.md)
 - [Informe Taller equipo10 laboratorio 3](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/b37ac6ff50b7930de4606f1caca57c6093a5aba1/Fundamentos_de_Dise%C3%B1o/Talleres/T03%20Ejercicios_fund_Electr%C3%B3nica_II.md)
+- [Informe Taller equipo10 laboratorio 4](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/a9fac1734bc25b42dc7d55fab3e107e270b1e656/Fundamentos_de_Dise%C3%B1o/Talleres/T04_Modelado_3D.md)
+
+- ## Hitos
+- [Hito N°1]()
