@@ -1,5 +1,19 @@
 # **🔌 GUÍA N° 5 – MODELADO 3D⚡** 
 
+## Docentes:
+- Mg Umberto Lewis De La Cruz
+- Dr. Harry Anderson Rivera Tito
+- Mg. Paulo Camilo Vela Antón
+- Mg. Moisés Stevend Meza Rodríguez
+- Ing. Juan Manuel Zúñiga Mamani
+- Ing.  Renzo José Chan Ríos
+
+## Integrantes:
+- Aybar Escobar Edithson Ricardo
+- Condori Mamani Nardy Liz
+- Huiza Quispe Jefferson Juvenal
+- Quispe Mamani Lizzeth Rossmery
+
 ## **1. INTRODUCCIÓN 🔎**
 <p align="justify">
 Durante el desarrollo del presente informe se explorará el ámbito del modelado tridimensional, mediante el uso de la plataforma Onshape, una herramienta de diseño asistido por ordenador (CAD) basada en la nube. 
