@@ -223,7 +223,6 @@ Durante el desarrollo de esta actividad, seguimos los siguientes pasos:
 ## **5. IMPRESIÓN 3D**
 En esta etapa, el modelo impreso encajó exactamente con los orificios del procesador Arduino Uno, sin embargo, quedaron pequeños espacios libres, dado que el Arduino no es del todo rectangular.
 
-![WhatsApp Image 2024-02-03 at 8 42 36 AM](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/657b41f7-383b-4301-9fd6-dc648de267c1)
 
 
 <p align="center">
