@@ -222,7 +222,7 @@ Durante el desarrollo de esta actividad, seguimos los siguientes pasos:
 
 ## **5. IMPRESIÓN 3D**
 
-Después de realizar los diferentes modelos de 3D, se realizo un soporte para el arduino UNO para poner en práctica lo aprendido. En las siguientes fotos se evidencias nuestros resultados siendo resultados satisfactorios ya que nuestras medidas fueron exactas por ello el arduino UNO entra sin problemas. Además, nosotros añadimos un tamaño adicional para que el arduino entre sin dificultad lo que también se realizo exitosamente. Nos sentimos muy felices de poner haber realizo nuestro experimento bien pero asimismo nos sentimos con el compromiso de apredner bien para poner en práctica en nuestro proyecto.
+Después de realizar los diferentes modelos de 3D, se realizo un soporte para el arduino UNO para poner en práctica lo aprendido. En las siguientes fotos se evidencias nuestros resultados siendo resultados satisfactorios ya que nuestras medidas fueron exactas por ello el arduino UNO entra sin problemas. Además, nosotros añadimos un tamaño adicional para que el arduino entre sin dificultad lo que también se realizo exitosamente. Nos sentimos muy felices de poner haber realizo nuestro experimento bien pero asimismo nos sentimos con el compromiso de aprender bien para poner en práctica en nuestro proyecto.
 
 
 
