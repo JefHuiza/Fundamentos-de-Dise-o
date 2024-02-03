@@ -63,7 +63,7 @@ Las aplicaciones de la impresión 3D son diversas:
 
  **Educación:** Las impresoras 3D son herramientas valiosas en entornos educativos para enseñar conceptos de diseño y fabricación.
 
-- **¿CÓMO HACER IMPRESIÓN 3D?**
+- **¿CÓMO REALIZAR UNA IMPRESIÓN 3D?**
 
 **1. Obtención del Modelo 3D:**
 
@@ -103,66 +103,68 @@ Ajustar los parámetros en el  programa de laminación según las necesidades de
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/e8932948-eff5-489f-8981-ac502605a11a" width="700px"/>
 </p>
-<p align="center">Imagen 4. Creación de un circulo en el centro del boceto del plano frontal</p>
+<p align="center">Imagen 4: Creación de un circulo en el centro del boceto del plano frontal| Foto: Propia</p>
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/96c114ee-53ce-4436-910b-c222a3e660ec" width="700px">
 </p>
-<p align="center">Imagen 5. Extruimos el círculo para formar un cilindro de 80 mm</p>
+<p align="center">Imagen 5: Extruimos el círculo para formar un cilindro de 80 mm| Foto: Propia</p>
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/d7c9b7f0-9ac4-4a8b-b306-23e354a26b74" width="700px">
 </p>
-<p align="center">Imagen 6. Hacemos el cilindro hueco quitandole la cara superior, con paredes de grosor 3 mm</p>
+<p align="center">Imagen 6: Hacemos el cilindro hueco quitandole la cara superior, con paredes de grosor 3 mm| Foto: Propia</p>
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/67ba559d-1215-4afe-861e-9674bb7266e4" width="700px">
 </p>
-<p align="center">Imagen 7. Redondeamos las esquinas exteriores del cilindro con un radio de curvatura de 5 mm</p>
+<p align="center">Imagen 7: Redondeamos las esquinas exteriores del cilindro con un radio de curvatura de 5 mm| Foto: Propia</p>
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/dbaae0fd-c2f3-472e-9a95-aaecb458a0b2" width="700px">
 </p>
-<p align="center">Imagen 8. Cambiamos el color del cilindro</p>
+<p align="center">Imagen 8: Cambiamos el color del cilindro| Foto: Propia</p>
 
 ### **3.2 Diseño de vaso**
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/8ea6a179-a265-4f61-afe5-bfca0a60db4e" width="700px"/>
 </p>
-<p align="center">Imagen 9. Formamos un trapecio que asemeja la vista bidimensional de la mitad de un vaso</p>
+<p align="center">Imagen 9: Formamos un trapecio que asemeja la vista bidimensional de la mitad de un vaso| Foto: Propia</p>
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/aa047d18-1c3a-478e-8b62-8d118e9958d3" width="700px">
 </p>
-<p align="center">Imagen 10. Usamos la herramienta girar para generar un cono tridimencional</p>
+<p align="center">Imagen 10: Usamos la herramienta girar para generar un cono tridimencional| Foto: Propia</p>
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/e769f6af-d2d3-4fd9-8eba-c5ab746889d5" width="700px">
 </p>
-<p align="center">Imagen 11. Hacemos que el cono sea hueco, quitándole la cara circular más grande, con paredes de grosor de 2 mm para asemejar a un vaso</p>
+<p align="center">Imagen 11: Hacemos que el cono sea hueco, quitándole la cara circular más grande, con paredes de grosor de 2 mm para asemejar a un vaso| Foto: Propia</p>
 
 ### **3.3 Diseño de soporte para Arduino UNO**
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/b084ce3f-a695-404c-b2eb-2e44f7ae2357" width="700px"/>
 </p>
-<p align="center">Imagen 12. Creamos un cuadrilatero con medidas superiores pero similares a la del Arduino UNO y otro cuadrilatero que sirve como borde, con esquinas redondeadas de radio 9 mm</p>
+<p align="center">Imagen 12: Creamos un cuadrilatero con medidas superiores pero similares a la del Arduino UNO y otro cuadrilatero que sirve como borde, con esquinas redondeadas de radio 9 mm| Foto: Propia</p>
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/2e4097c1-06bd-4f69-b665-f257cac5a6e6" width="700px">
 </p>
-<p align="center">Imagen 13. Extruimos la parte del segundo cuadrilatero que no coincide con el primer cuadrilatero con una altura de 10 mm, y creamos un pano en una de las caras del modelos 3D</p>
+<p align="center">Imagen 13: Extruimos la parte del segundo cuadrilatero que no coincide con el primer cuadrilatero con una altura de 10 mm, y creamos un pano en una de las caras del modelos 3D| Foto: Propia</p>
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/65e1c505-89c8-4c96-9b34-fb8d8c2952a8" width="700px">
 </p>
-<p align="center">Imagen 14. Creamos una base para el modelo 3D con una altura de 5 mm</p>
+<p align="center">Imagen 14:Creamos una base para el modelo 3D con una altura de 5 mm| Foto: Propia</p>
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/861c402d-6f31-4917-bdea-057ca7cc0576" width="700px">
 </p>
-<p align="center">Imagen 15. Redondeamos los bordes exteriores y creamos un plano en la parte interior hueca del modelo 3D</p>
+<p align="center">Imagen 15: Redondeamos los bordes exteriores y creamos un plano en la parte interior hueca del modelo 3D| Foto: Propia</p>
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/8779dd08-9034-4405-bd2f-edf48479ddec" width="700px">
 </p>
-<p align="center">Imagen 16. Hacemos 4 circulos de 3 mm de diametro, cuya distancia y disposicion coinciden con los huecos que tiene la placa de Arduino UNO</p>
+<p align="center">Imagen 16: Hacemos 4 circulos de 3 mm de diametro, cuya distancia y disposicion coinciden con los huecos que tiene la placa de Arduino UNO| Foto: Propia</p>
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/4dfc417c-37d5-4291-9220-26d69c188e34" width="700px">
 </p>
-<p align="center">Imagen 17. Extruimos los 4 circulos con una altura de 10 mm, que servira para acomodar al Arduino UNO</p>
+<p align="center">Imagen 17: construimos los 4 circulos con una altura de 10 mm, que servira para acomodar al Arduino UNO| Foto: Propia</p>
+
+## **4. EDIVENCIA DE LA PARTICIPACIÓN DEL TALLER🔎**
 
 
-## **4. CONCLUSIÓN 🔎**
+## **5. CONCLUSIÓN 🔎**
 
 <p align="justify">
 En resumen, en este laboratorio de modelado 3D fue una experiencia enriquecedora para nostros, ya que nos permitió explorar esta tecnología de manera más práctica, en el cual hemos llegado a comprender de la gran importancia que tiene el diseño y la configuración de manera precisa para una impresión exitosa. Es muy fundamental prestar especial atención a la geometría y a los requisitos específicos de los cuales se  debe emplear al momento de realizar un modelado 3D, un ejemplo de ello es dejar un espacio para la impresión que es de 0.1 mm para que esta no salga imperfecta. En el laboratorio, nosotros como equipo enfatizamos la relevancia de la configuración de la impresión como el modelado, desde la selección de materiales hasta la calibración precisa para realizar la impresión y el diseño. La impresora que se utilizó para imprimir nuestro modelado 3D es llamada Bambu Lab P1P que se puede utilizar a velocidades de hasta 500 mm/s, ya que según información que se nos proporcinó es la más rápida que existe en la actualidad, lo que destaca la importancia de contar con las herramientas adecuadas. Entendemos que la impresión y el modelado 3D va más allá de la creación rápida de prototipos y que es una tecnología transformadora en diversos campos, siendo especialmente beneficiosa para el proyecto que estamos desarrollando. 
@@ -171,3 +173,5 @@ En resumen, en este laboratorio de modelado 3D fue una experiencia enriquecedora
 El laboratorio nos demostró que la impresión como el modelado 3D son una herramienta poderosa que puede transformar ideas en objetos tangibles, impulsando la innovación de prototipos innovadores que se pueden llegar a desarrollar. En general, esta experiencia amplió nuestra comprensión de la impresión y diseño 3D y destacó su gran potencial en nuestro entorno, marcando su relevancia como una poderosa herramienta para impulsar la creatividad y el desarrollo de proyectos futuros. Adicional a ello es muy importante mencionar que al momento de realizar nuestros modelos tuvimos algunas dificulatades como resaltar las medidas exactas para el soporte del Arduino, pero después de familiarizarnos con el sitio web, aprendimos a hacer modelos 3D y corregir las medidas que no lo habiamos realizado de manera exitosa anteriormente y asi despues realizarlo de diferentes maneras según las diferentes actividades que se nos presentó. Además, utilizando estos nuevos conocimientos podremos recrear nuestro prototipo ganador en 3D de nuestro proyecto ya de manera más consiente para no cometer errores en esos pequeños detalles.
   
 </p>
+
+## **6. REFERENCIAS BIBLOGRÁFICAS 🔎**
