@@ -23,8 +23,12 @@ Y en este informe se podrá visualizar como usamos esta herramienta para la crea
 
 
 ## **3. DESARROLLO DE ACTIVIDADES 🔎**
+### **3.1 Diseño de cilindro**
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/f938b7c7-dc14-4028-9ac2-dff27fabb184">
+</p>
 
-
+<p align="center">Imagen 1. Arte. Revisión sistemática de literatura.</p>
 
 
 ## **4. CONCLUSIÓN 🔎**
