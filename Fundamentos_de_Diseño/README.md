@@ -5,7 +5,7 @@ La carpeta lleva de nombre Fundamentos de Diseño, esta contiene una subcarpeta 
 Los entregables se subdividen a las vez las siguientes secciones:
 - ## Entregables:
 - [1. Sobre nosotros](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/713c3d64705b1d83d734590f8a90be5f386fafc8/Fundamentos_de_Dise%C3%B1o/Entregables/1_Sobre_nosotros.md)
-- [2. Definición_del_problema](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/507316da3b31cd48a533597adc40d76e28dcd76e/Fundamentos_de_Dise%C3%B1o/Entregables/Definici%C3%B3n-del-Problema.md)
+- [2. Definición_del_problema](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/8a8d8bd106f3b230844d2c3a5286c91796f1ab0e/Fundamentos_de_Dise%C3%B1o/Entregables/3_Definici%C3%B3n-del-Problema.md)
 - [3. Contexto social y economico del problema](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/main/Fundamentos_de_Dise%C3%B1o/Entregables/Contexto-Social-y-Econ%C3%B3mico.md)
 - [4. Estado del arte](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/b808e377a76c393e321289f731b03e8199c5c3bd/Fundamentos_de_Dise%C3%B1o/Entregables/Estado_de_Arte.md)
 - [5. Caja Negra y Esquema de Funciones](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/20b0a503cb57f85f0c1cd52307df44ae525e807d/Fundamentos_de_Dise%C3%B1o/Entregables/5_Caja_negra_y_esquema_de_funciones.md)
