@@ -18,4 +18,4 @@ Los entregables se subdividen a las vez las siguientes secciones:
 - [Informe Taller equipo10 laboratorio 5](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/a9fac1734bc25b42dc7d55fab3e107e270b1e656/Fundamentos_de_Dise%C3%B1o/Talleres/T04_Modelado_3D.md)
 
 - ## Hitos
-- [Hito N°1](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/e94600fcd07b2370f1263a3f3a5439b23b59582a/Fundamentos_de_Dise%C3%B1o/Entregables/Hitos/Hito_1)
+- [Hito N°1](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/e50286fde923a09a4ccc34cf96746cb812fc56b0/Fundamentos_de_Dise%C3%B1o/Entregables/Hitos/Hito_1)
