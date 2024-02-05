@@ -31,20 +31,19 @@ Para la construcción del modelo comenzamos ayudándonos y corrigiendo las medid
 <p align="center">Imagen 2. Soporte del Sistema de Fugas</p>
 
 
-[Click aquí para ver el modelo 3D](https://skfb.ly/oQEVM)
-
 
 
 
 Luego procedimos a ingresar más componentes de acuerdo a los Bocetos planificados en la anterior actividad del curso.
 
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/5bc3d290-2bef-4396-aa3f-f6009a318e4e" alt="Prototipo Finalizado">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/93ad1e62-ccb8-48c5-a430-39c53382b6db"
+">
 </p>
 
 <p align="center">Imagen 3. Modelo 3D del Prototipo</p>
 
-
+[Click aquí para ver el modelo 3D]([https://skfb.ly/oQEVM](https://skfb.ly/oQEZY))
 
 Finalmente, agregamos una lista de las partes usadas para obtener la lista de componentes.
   
@@ -54,6 +53,7 @@ Finalmente, agregamos una lista de las partes usadas para obtener la lista de co
 
 <p align="center">Imagen 4. Prototipo con Señalización de Partes</p>
 
+[Click aquí para ver el modelo 3D](https://skfb.ly/oQEVM)
 
 
 
