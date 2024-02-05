@@ -18,7 +18,7 @@ Para realizar el modelo nos ayudamos de la plataforma Onshape, usando diversas f
 
 
 
-Para la construcción del modelo comenzamos con la plataforma, ayudándonos y corrigiendo las medidas que ya teníamos del taller de impresión.
+Para la construcción del modelo comenzamos ayudándonos y corrigiendo las medidas que ya teníamos del taller de impresión.
 
 
 <p align="center">
