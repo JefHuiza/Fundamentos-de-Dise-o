@@ -59,3 +59,6 @@ Finalmente, agregamos una lista de las partes usadas para obtener la lista de co
 <h1 align="center"><b>Tabla de Componentes</b></h1>
 
 ![tabla de componente](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/2c3fcec1-e2b4-4400-93ea-26feb4e7c9a2)
+
+<p align="center">Tabla 1. Componentes del Prototipo</p>
+
