@@ -64,6 +64,8 @@ Finalmente, agregamos una lista de las partes usadas para obtener la lista de co
 
 <h1 align="center"><b>MODELO EXTERIOR DEL PROTOTIPO</b></h1>
 
+Habiendo completado el modelo interior, la parte central de nuestro proyecto, nos abocamos a la elaboración del modelo exterior. Este último, a ser presentado en la instancia final, permitirá realizar experimentos que simulen el funcionamiento de una tubería en un parque.
+
 <h1 align="center"><b>Plano  2D</b></h1>
 
 <p align="center">
