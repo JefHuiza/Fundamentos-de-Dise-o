@@ -29,7 +29,7 @@ Para la construcción del modelo comenzamos ayudándonos y corrigiendo las medid
 <p align="center">Imagen 2. Soporte del Sistema de Fugas</p>
 
 
-[Click aquí para ver el modelo 3D](https://sketchfab.com/jefferson.huiza/models)
+[Click aquí para ver el modelo 3D](https://skfb.ly/oQEVM)
 
 
 
@@ -47,7 +47,7 @@ Luego procedimos a ingresar más componentes de acuerdo a los Bocetos planificad
 Finalmente, agregamos una lista de las partes usadas para obtener la lista de componentes.
   
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/206a6942-b72b-4c59-8118-81e2409d1798" alt="Prototipo Finalizado con sus Partes">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/1a0d57e3-f60d-43c1-a668-723e451b54e8" alt="Prototipo Finalizado con sus Partes">
 </p>
 
 <p align="center">Imagen 4. Prototipo con Señalización de Partes</p>
