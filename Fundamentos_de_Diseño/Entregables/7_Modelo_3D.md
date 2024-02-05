@@ -43,7 +43,7 @@ Luego procedimos a ingresar más componentes de acuerdo a los Bocetos planificad
 
 <p align="center">Imagen 3. Modelo 3D del Prototipo</p>
 
-[Click aquí para ver el modelo 3D]([https://skfb.ly/oQEVM](https://skfb.ly/oQEZY))
+[Click aquí para ver el modelo 3D](https://skfb.ly/oQEZY)
 
 Finalmente, agregamos una lista de las partes usadas para obtener la lista de componentes.
   
