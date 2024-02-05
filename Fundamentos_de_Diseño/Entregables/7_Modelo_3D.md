@@ -69,3 +69,10 @@ Finalmente, agregamos una lista de las partes usadas para obtener la lista de co
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/ad719fc5-4bfa-47d1-a821-7a6cc21c38f9" alt="Plano del modelo 3D">
 </p>
+
+<h1 align="center"><b>Modelo 3D</b></h1>
+
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/b0e25c4b-5bab-43c7-bba5-d0ab0c7c465f" alt="Plano del modelo 3D">
+</p>
+
