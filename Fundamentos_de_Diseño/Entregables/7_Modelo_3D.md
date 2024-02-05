@@ -70,16 +70,30 @@ Habiendo completado el modelo interior, la parte central de nuestro proyecto, no
 
 <h1 align="center"><b>Plano  2D</b></h1>
 
+Se realizo este plano como guia para realizar el modelo 3D exterior
+
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/ad719fc5-4bfa-47d1-a821-7a6cc21c38f9" alt="Plano del modelo 3D">
 </p>
 
+<p align="center">Imagen 4. Diseño del modelo 2D-exterior</p>
+
 <h1 align="center"><b>Modelo 3D</b></h1>
+
+Se presenta la elaboración del modelo 3D de manera exterior como visuliación de la experimentación a realizar. 
 
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/b0e25c4b-5bab-43c7-bba5-d0ab0c7c465f" alt="Plano del modelo 3D">
 </p>
+
+<p align="center">Imagen 5. Diseño del modelo 3D-exterior</p>
+
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/c6335c39-0541-458f-b3eb-c8662f62f8e9" alt="Plano del modelo 3D">
 </p>
+
+<p align="center">Imagen 6. Diseño del modelo 3D-exterior</p>
+
+Link:https://cad.onshape.com/documents/dc07b73387a3ad7cd7e06e21/w/bf7c772045e8c83ef6a88359/e/c4531d3cb82f690eb2957807
+
 
