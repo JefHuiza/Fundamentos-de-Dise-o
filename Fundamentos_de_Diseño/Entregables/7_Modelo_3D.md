@@ -62,3 +62,7 @@ Finalmente, agregamos una lista de las partes usadas para obtener la lista de co
 
 <p align="center">Tabla 1. Componentes del Prototipo</p>
 
+<h1 align="center"><b>MODELO EXTERIOR DEL PROTOTIPO</b></h1>
+
+<h1 align="center"><b>Plano  2D</b></h1>
+
