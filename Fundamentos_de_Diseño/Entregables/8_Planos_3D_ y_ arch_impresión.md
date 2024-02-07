@@ -39,7 +39,7 @@ Seguidamente, se realizó el plano lateral 2 del soporte de componentes de nuest
 <p align="center">Imagen 3. Plano lateral 2. </p>
 
 <p align="justify">
-Posteriormente, se mando a realizar el plano de la tapa del lado de los tubos, ya que según nuestro prototipo el soporte estará atravesado por el tubo para emsamblar facilmente los componentes, basado a una escala de 1:1 y medida en mm.
+Posteriormente, se mando a realizar el plano de la tapa del lado de los tubos, ya que según nuestro prototipo el soporte estará atravesado por el tubo para ensamblar fácilmente los componentes, basado a una escala de 1:1 y medida en mm.
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ Posteriormente, se mando a realizar el plano de la tapa del lado de los tubos, y
 <p align="center">Imagen 4. Tapa del lado de los tubos. </p>
 
 <p align="justify">
-Finalmente, se realizó el plano de la tapa inferior del prototipo y al igual que las demás cuenta con sus respectivas medidas estrictamente en mm, y todos a una escala de 1:1, además, de especificar que en esta sección también se esta midiento la base para el portenta H7.
+Finalmente, se realizó el plano de la tapa inferior del prototipo y al igual que las demás cuenta con sus respectivas medidas estrictamente en mm, y todos a una escala de 1:1, además, de especificar que en esta sección también se esta midiendo la base para el portenta H7.
 </p>
 
 <p align="center">
