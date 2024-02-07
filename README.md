@@ -32,7 +32,7 @@ El Perú tiene una escasez de agua en muchas partes del país, especialmente en 
 
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/2e665f8d-e7f2-4f3a-bebf-35a345681aa1" width="600px"/>
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/6b7e2543-16d9-4be5-aa23-50255bd1be72" width="700px"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/6b7e2543-16d9-4be5-aa23-50255bd1be72" width="600px"/>
 </div>
 
 ![Imagen de WhatsApp 2024-01-11 a las 21 20 21_39e83d44](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/0aa1cf80-5955-49b1-9f62-8239b605e96a)
