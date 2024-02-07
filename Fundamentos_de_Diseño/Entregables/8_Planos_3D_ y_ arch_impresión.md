@@ -6,6 +6,9 @@
 
 <h1 align="center"><b>PLANO 2D DEL MODELO ESPECÍFICO</b></h1>
 
+En esta sección se muestra los planos específicos de nuestro modelado 3D, es decir, las característica que tendrá nuestro soporte dirigido especialmente para los componentes electrónicos, que además lo llevaremos para que se haga la respectiva impresión 3D ya con las medidas dadas en cada plano.
+
+
 <h1 align="center"><b>SIMULACIÓN IMPRESIÓN 3D - ULTIMAKER CURA</b></h1>
 
 # Laminado de Capas 🖨️
