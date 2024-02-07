@@ -15,13 +15,14 @@ En esta ocasión se presenta la elaboración del modelo 3D de manera exterior co
 </p>
 
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/b0e25c4b-5bab-43c7-bba5-d0ab0c7c465f" alt="Plano del modelo 3D">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/9f223355-3b56-47c2-8720-8619dcb624e9" alt="Plano del modelo 3D">
 </p>
+
 
 <p align="center">Imagen 1. Diseño del modelo 3D-exterior. Fuente: Elaboración propia</p>
 
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/c6335c39-0541-458f-b3eb-c8662f62f8e9" alt="Plano del modelo 3D">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/6d45dd9f-9d5c-48cb-acf9-ae6e3c479010" alt="Plano del modelo 3D">
 </p>
 
 <p align="center">Imagen 2. Diseño del modelo 3D-exterior. Fuente: Elaboración propia</p>
