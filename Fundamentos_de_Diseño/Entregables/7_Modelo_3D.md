@@ -27,7 +27,7 @@ En esta ocasión se presenta la elaboración del modelo 3D de manera exterior co
 
 <p align="center">Imagen 2. Diseño del modelo 3D-exterior. Fuente: Elaboración propia</p>
 
-[Click aquí para ver el modelo 3D Exterior](https://skfb.ly/oQHE9)
+[Click aquí para ver el modelo 3D Exterior](https://skfb.ly/oQIqs)
 
 <h1 align="center"><b>MODELO INTERIOR DEL PROTOTIPO </b></h1>
 
