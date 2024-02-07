@@ -8,7 +8,7 @@
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/8798b03a-1161-44de-8db5-451e631184a3" alt="Texto Alternativo" width="90%">
 </p>
 
-Estudiantes que conforman el grupo AmbienteTech. | Fuente: Creación propia
+<p align="center">Estudiantes que conforman el grupo AmbienteTech. | Fuente: Creación propia</p>
 
 <p align="justify">
 Me complace darles la bienvenida a AmbienteTech, somos un grupo de estudiantes de la Universidad Peruana Cayetano Heredia que realizamos un proyecto de creación de IoT como solución a un problema ambiental relacionado a un Objetivo de Desarrollo Sostenible (ODS). Este proyecto es una oportunidad única para nosotros como estudiantes para poder aplicar todos nuestros conocimientos adquiridos de Ingeniería Ambiental e Ingeniería Informática buscando resolver un problema real que afecta a nuestro país. 
@@ -30,7 +30,7 @@ El tema del proyecto es de suma importancia ya que contaminación ambiental es u
 El Perú tiene una escasez de agua en muchas partes del país, especialmente en las zonas rurales y desérticas. Esta escasez se debe a diferentes factores, como el cambio climático, la sequía y la sobreexplotación de los recursos hídricos. Siendo un problema de mucha preocupación, ya que el ser humano vive del agua sin agua no es posible nuestra existencia, por ello nosotros nos hemos enfocado en dicha problemática para buscar una solución. La problemática mencionada hace referencia a un problema del objetivo 6 de la ODS.
 
 <p align="justify">
-Por ese motivo en este proyecto se abordará temas relacionados frente al desperdicio de agua que se puede llegar a presentar mediante una fuga, además, de que es una desventaja por la parte económica, ya que, se gasta miles de soles para pagar este suministro y es uno de los factores por el cual existe escasez en otros distritos, dado que el suminitro no llega de manera efectiva, basicamente nuestro problema esta centrado en problemas de detección de fugas de agua en praques dentro de la ciudad, ya que saber y detectar donde está el problema no es tan sencillo de hallar.  
+Por ese motivo en este proyecto se abordará temas relacionados frente al desperdicio de agua que se puede llegar a presentar mediante una fuga, además, de que es una desventaja por la parte económica, ya que, se gasta miles de soles para pagar este suministro y es uno de los factores por el cual existe escasez en otros distritos, dado que el suminitro no llega de manera efectiva, basicamente nuestro problema esta centrado en problemas de detección de fugas de agua en praques dentro de la ciudad, ya que saber y detectar donde está el problema no es una tarea facil.  
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
