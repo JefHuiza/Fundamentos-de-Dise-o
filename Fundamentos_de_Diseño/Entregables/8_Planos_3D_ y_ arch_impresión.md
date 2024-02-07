@@ -8,7 +8,10 @@
 
 En esta sección se muestra los planos específicos de nuestro modelado 3D, es decir, las característica que tendrá nuestro soporte dirigido especialmente para los componentes electrónicos, que además lo llevaremos para que se haga la respectiva impresión 3D ya con las medidas dadas en cada plano.
 
-
+Primeramente, se realizo el plano lateral 1 del soporte de componentes de nuestro prototipo.
+Seguidamente, se realizó el plano lateral 2 del soporte de componentes de nuestro prototipo con sus medidas especificas.
+Posteriormente, se mando a relizar el plano de la tapa del lado de los tubos, ya que segun nuestro prototipo el soporte estará atravesado por el tubo para emsamblar facilmente los componentes.
+Finalmente, se realizó el plano de la tapa inferior del prototipo i al igual que las demás cuenta con sus respectivas medidas estrictamente en mm, todos aa una escala de
 <h1 align="center"><b>SIMULACIÓN IMPRESIÓN 3D - ULTIMAKER CURA</b></h1>
 
 # Laminado de Capas 🖨️
