@@ -11,7 +11,7 @@
 <h1 align="center"><b>Modelado 3D</b></h1>
 
 <p align="justify">
-En esta ocasión se presenta la elaboración del modelo 3D de manera exterior como visuliación del proyecto a realizar y para realizar el modelo nos ayudamos de la plataforma Onshape, usando diversas funciones para ensamblar los componente con el que ira nuestro prototipo.
+En esta ocasión se presenta la elaboración del modelo 3D de manera exterior como visualización del proyecto a realizar y para realizar el modelo nos ayudamos de la plataforma Onshape, usando diversas funciones para ensamblar los componente con el que ira nuestro prototipo.
 </p>
 
 <p align="center">
@@ -26,12 +26,14 @@ En esta ocasión se presenta la elaboración del modelo 3D de manera exterior co
 
 <p align="center">Imagen 2. Diseño del modelo 3D-exterior. Fuente: Elaboración propia</p>
 
+[Click aquí para ver el modelo 3D Exterior](https://skfb.ly/oQHE9)
+
 <h1 align="center"><b>MODELO INTERIOR DEL PROTOTIPO </b></h1>
 
 <h1 align="center"><b>Vista Cerrada</b></h1>
 
 <p align="justify">
-En esta sección, como grupo consideramos de gran importancia crear un soporte, donde deba ir los componente que vamos a utilizar, para ello utilizando la plataforma de Onsahpe logramos hacer el modelo y para lograr visualizado utilizamos la plataforma de Sketchfab, que basicamente sera el soporte de nuestro prototipo en vista cerrada.
+En esta sección, una ves de haber culminado con la parte exterior del prototipo, como grupo decidimos crear un soporte que muestre de manera interna lo que tendra nuestro proyecto, es decir, del donde debe ir los componente que vamos a utilizar, para ello utilizando la plataforma de Onsahpe logramos hacer el modelo, y para lograr visualizado utilizamos la plataforma de Sketchfab, que basicamente sera el soporte de nuestro prototipo en este caso en vista cerrada.
 </p>
 
 <p align="center">
@@ -45,7 +47,7 @@ En esta sección, como grupo consideramos de gran importancia crear un soporte, 
 <h1 align="center"><b>Vista Explosiva</b></h1>
   
 <p align="justify">
-Luego procedimos a ingresar los componentes de manera específica de acuerdo a los Bocetos planificados en la anterior actividad del curso, es decir, todo el esamblaje de los componentes electrónicos a utilizar en nuestro proyecto en vista explosiva, en otras palabras, de manera detallada agregando la lista de componentes dentro de ella.
+Luego procedimos a ingresar los componentes de manera más específica de acuerdo a los Bocetos planificados en la anterior actividad del curso, es decir, todo el esamblaje de los componentes electrónicos a utilizar en nuestro proyecto en vista explosiva, en otras palabras, de manera detallada de cada uno de los elementos a utilizar, agregando la lista de componentes que estarán dentro de ella.
 </p>
 
 <p align="center">
