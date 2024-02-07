@@ -12,6 +12,12 @@ En esta sección, se evidencia los planos generales basado en nuestro prototipo 
 Este plano general, tal como se mencionó en un inicio es dirigido a todo el prototipo en genral, incluyendo a los materiales externos que no estan incluidos para la impresión 3D, como tambien se menciono está medido en mm a una escala de 1:8, si bien es cierto en la actividad anterior se logró mostrar el modelado 3D de nuestro boceto ganador, del como seria construido para presentarlo de manera tangile, es por ese motivo que ahora de acuerdo a ello se realizó el siguiente plano con las siguientes medidas.
 </p>
 
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/9419e9f9-d76f-4b48-9b6b-c428bbe5c6f1" width="70%">
+</p>
+
+<p align="center">Imagen 1. Plano general del prototipo. </p>
+
 <h1 align="center"><b>PLANO 2D DEL MODELO ESPECÍFICO</b></h1>
 
 <p align="justify">
