@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/d3c66dfb-5faa-419b-bf1b-d897ea110ce7" width="70%">
+</p>
+
 # 🌱🔬¡Bienvenidos a AmbienteTech! 🌱🔬
 
 ![Imagen de WhatsApp 2024-01-22 a las 20 33 23_19ff204d](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/8798b03a-1161-44de-8db5-451e631184a3)
