@@ -30,16 +30,10 @@ El tema del proyecto es de suma importancia ya que contaminación ambiental es u
 El Perú tiene una escasez de agua en muchas partes del país, especialmente en las zonas rurales y desérticas. Esta escasez se debe a diferentes factores, como el cambio climático, la sequía y la sobreexplotación de los recursos hídricos. Siendo un problema de mucha preocupación ya que el ser humano vive del agua sin agua no es posible nuestra existencia, por ello nosotros nos hemos enfocado en dicha problemática para buscar una solución. La problemática mencionada hace referencia a un problema del objetivo 6 de la ODS. 
 </p>
 
-<table style="width: 100%; border-collapse: collapse; border: 1px solid #ddd;">
-    <tr>
-        <td style="border: 1px solid #ddd; padding: 3px; text-align: center;">
-            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/2e665f8d-e7f2-4f3a-bebf-35a345681aa1" alt="" style="width: 80%; height: auto; display: block; margin: 0 auto;">
-        </td>
-        <td style="border: 1px solid #ddd; padding: 3px; text-align: center;">
-            <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/6b7e2543-16d9-4be5-aa23-50255bd1be72" alt="" style="width: 100%; height: auto; display: block; margin: 0 auto;">
-        </td>
-    </tr>
-</table>
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/2e665f8d-e7f2-4f3a-bebf-35a345681aa1" width="400px"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/6b7e2543-16d9-4be5-aa23-50255bd1be72" width="400px"/>
+</div>
 
 ![Imagen de WhatsApp 2024-01-11 a las 21 20 21_39e83d44](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/0aa1cf80-5955-49b1-9f62-8239b605e96a)
 Millones de peruanos acceden a agua potable a través de camiones cisternas. | Fuente: RPP / Foto: Andina
