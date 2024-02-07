@@ -26,7 +26,7 @@ Primeramente, se realizó el plano lateral 1 del soporte de componentes de nuest
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/e4525936-a7db-4eb7-86dd-c6f283b6211b" width="70%">
 </p>
 
-<p align="center">Imagen 2. Plano Lateral 1. Fuente: Elaboración propia</p>
+<p align="center">Imagen 2. Plano Lateral 1. </p>
 
 <p align="justify">
 Seguidamente, se realizó el plano lateral 2 del soporte de componentes de nuestro prototipo con sus medidas específicas al igual que el anterior a una escala 1:1 medida en mm.
@@ -36,7 +36,7 @@ Seguidamente, se realizó el plano lateral 2 del soporte de componentes de nuest
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/9f32bca8-22dd-4d33-bb8b-e97d25c6f593" width="70%">
 </p>
 
-<p align="center">Imagen 3. Plano lateral 2. Fuente: Elaboración propia</p>
+<p align="center">Imagen 3. Plano lateral 2. </p>
 
 <p align="justify">
 Posteriormente, se mando a realizar el plano de la tapa del lado de los tubos, ya que según nuestro prototipo el soporte estará atravesado por el tubo para emsamblar facilmente los componentes, basado a una escala de 1:1 y medida en mm.
@@ -46,7 +46,7 @@ Posteriormente, se mando a realizar el plano de la tapa del lado de los tubos, y
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/f3f050b4-78f8-41fc-9af7-af7e739e9d5d" width="70%">
 </p>
 
-<p align="center">Imagen 4. Tapa del lado de los tubos. Fuente: Elaboración propia</p>
+<p align="center">Imagen 4. Tapa del lado de los tubos. </p>
 
 <p align="justify">
 Finalmente, se realizó el plano de la tapa inferior del prototipo y al igual que las demás cuenta con sus respectivas medidas estrictamente en mm, y todos a una escala de 1:1, además, de especificar que en esta sección también se esta midiento la base para el portenta H7.
@@ -56,7 +56,7 @@ Finalmente, se realizó el plano de la tapa inferior del prototipo y al igual qu
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/015b25cf-724b-43af-9d89-746e88c7a2a9" width="70%">
 </p> 
 
-<p align="center">Imagen 5. Tapa inferior del prototipo y base para la Portenta H7. Fuente: Elaboración propia</p>
+<p align="center">Imagen 5. Tapa inferior del prototipo y base para la Portenta H7.</p>
 
 <h1 align="center"><b>SIMULACIÓN IMPRESIÓN 3D - ULTIMAKER CURA</b></h1>
 
@@ -112,6 +112,10 @@ Los ajustes escogidos (que podriamos cambiarlos) son estos:
 <p align="center">Imagen 13. Laminado por partes en Ultimaker 3D</p>
 
 # Tabla de Peso y Tiempo estimado de la impresión
+
+<p align="justify">
+De acuerdo a todo lo proporcinado anteriormente en la simulación, se llegó a identificar el tiempo total que llevará en imprimir nuestro protitipo en 3D, además, de proporcionarnos el total de gramos y el peso que se ha de utilizar en nuestro soporte, lo cual lo pueden observar en la siguiente tabla:
+</p> 
 
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/4b4f6785-c32d-4b83-a7bd-b4e03257dd4e" alt="Tabla de peso y tiempo de impresión">
