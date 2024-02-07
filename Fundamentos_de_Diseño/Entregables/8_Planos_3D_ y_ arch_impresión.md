@@ -114,7 +114,7 @@ Los ajustes escogidos (que podriamos cambiarlos) son estos:
 # Tabla de Peso y Tiempo estimado de la impresión
 
 <p align="justify">
-De acuerdo a todo lo proporcinado anteriormente en la simulación, se llegó a identificar el tiempo total que llevará en imprimir nuestro protitipo en 3D, además, de proporcionarnos el total de gramos y el peso que se ha de utilizar en nuestro soporte, lo cual lo pueden observar en la siguiente tabla:
+De acuerdo a todo lo proporcinado anteriormente en la simulación, se llegó a identificar el tiempo total que llevará en imprimir nuestro prototipo en 3D, además, de proporcionarnos el total de gramos y el peso que se ha de utilizar en nuestro soporte, lo cual lo pueden observar en la siguiente tabla:
 </p> 
 
 <p align="center">
