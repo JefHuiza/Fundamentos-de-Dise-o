@@ -4,7 +4,10 @@
 
 # 🌱🔬¡Bienvenidos a AmbienteTech! 🌱🔬
 
-![Imagen de WhatsApp 2024-01-22 a las 20 33 23_19ff204d](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/8798b03a-1161-44de-8db5-451e631184a3)
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/8798b03a-1161-44de-8db5-451e631184a3" width="400px"/>
+</div>
+
 Estudiantes que conforman el grupo AmbienteTech. | Fuente: Creación propia
 
 <p align="justify">
@@ -29,7 +32,7 @@ El Perú tiene una escasez de agua en muchas partes del país, especialmente en 
 
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/074d7d9a-95e7-4f68-9131-954a80719e56" width="400px"/>
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/ca364c5c-c00a-4cbf-8d67-fc20f4240995" width="400px"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/ca364c5c-c00a-4cbf-8d67-fc20f4240995" width="800px"/>
 </div>
 
 ![Imagen de WhatsApp 2024-01-11 a las 21 20 21_39e83d44](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/0aa1cf80-5955-49b1-9f62-8239b605e96a)
