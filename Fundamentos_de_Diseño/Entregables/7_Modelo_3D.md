@@ -61,7 +61,9 @@ Luego procedimos a ingresar los componentes de manera más específica de acuerd
 <h1 align="center"><b>Tabla de Componentes</b></h1>
 
 Finalmente, agregamos la lista de componentes utilizadas de nuestro soporte en una tabla.
-  
-![tabla de componente](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/2c3fcec1-e2b4-4400-93ea-26feb4e7c9a2)
+
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/a9e9f4f6-3645-4976-a3db-b76066fae7a8" width="60%">
+</p>
 
 <p align="center">Tabla 1. Componentes del Prototipo.  Fuente: Elaboración propia</p>
