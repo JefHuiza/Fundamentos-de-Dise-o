@@ -10,7 +10,7 @@ Los entregables se subdividen a las vez las siguientes secciones:
 - [4. Estado del arte](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/8a8d8bd106f3b230844d2c3a5286c91796f1ab0e/Fundamentos_de_Dise%C3%B1o/Entregables/4_Estado_de_Arte.md)
 - [5. Caja Negra y Esquema de Funciones](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/ebdee4eea4f81ba49c34fd7d384bebb6c48fc3c2/Fundamentos_de_Dise%C3%B1o/Entregables/5_Caja_negra_y_esquema_de_funciones.md)
 - [6. Matriz Morfológica y Tabla de Valoración](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/ebdee4eea4f81ba49c34fd7d384bebb6c48fc3c2/Fundamentos_de_Dise%C3%B1o/Entregables/6_Matriz_morfol%C3%B3gica_y_tabla_de_valoraci%C3%B3n.md)
-- [7. Modelado 3D](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/5a0bd5621421080b96cb57022357aa8384ae72b4/Fundamentos_de_Dise%C3%B1o/Entregables/8_Planos_3D_%20y_%20arch_impresi%C3%B3n.md)
+- [7. Modelado 3D](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/fd35f2bb8b0818cf0a842eb6987c7fffe9df9c0f/Fundamentos_de_Dise%C3%B1o/Entregables/7_Modelo_3D.md)
 - [8. Planos de modelado 3D y archivos para impresión 3D](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/4672efd3e8f005eeecd2720bb2d1096bc4bf356f/Fundamentos_de_Dise%C3%B1o/Entregables/8_Planos_3D_%20y_%20arch_impresi%C3%B3n.md)
 
 -  ## Laboratorios:
