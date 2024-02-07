@@ -24,8 +24,7 @@ Para realizar el modelo nos ayudamos de la plataforma Onshape, usando diversas f
 
 [Click aquí para ver el modelo 3D en vista cerrada](https://skfb.ly/oQHE9)
 
-
-<h1 align="center"><b>Vista Explosiva/b></h1>
+<h1 align="center"><b>Vista Explosiva</b></h1>
   
 <p align="justify">
 Luego procedimos a ingresar los componentes de manera específica de acuerdo a los Bocetos planificados en la anterior actividad del curso, es decir, todo el esamblaje de los componentes electrónicos a utilizar en nuestro proyecto en una vista explosiva que iran dentro de nuestro soporte agregando la lista de componentes.
