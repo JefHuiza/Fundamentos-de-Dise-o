@@ -27,18 +27,21 @@ El tema del proyecto es de suma importancia ya que contaminación ambiental es u
 ## Descripción_del_problema 
 
 <p align="justify">
-El Perú tiene una escasez de agua en muchas partes del país, especialmente en las zonas rurales y desérticas. Esta escasez se debe a diferentes factores, como el cambio climático, la sequía y la sobreexplotación de los recursos hídricos. Siendo un problema de mucha preocupación ya que el ser humano vive del agua sin agua no es posible nuestra existencia, por ello nosotros nos hemos enfocado en dicha problemática para buscar una solución. La problemática mencionada hace referencia a un problema del objetivo 6 de la ODS. 
+El Perú tiene una escasez de agua en muchas partes del país, especialmente en las zonas rurales y desérticas. Esta escasez se debe a diferentes factores, como el cambio climático, la sequía y la sobreexplotación de los recursos hídricos. Siendo un problema de mucha preocupación, ya que el ser humano vive del agua sin agua no es posible nuestra existencia, por ello nosotros nos hemos enfocado en dicha problemática para buscar una solución. La problemática mencionada hace referencia a un problema del objetivo 6 de la ODS.
+
+Por ese motivo en este proyecto se abordará temas relacionados frente al desperdicio de agua que se puede llegar a presentar mediante una fuga, además, de que es una desventaja por la parte económica, ya que, se gasta miles de soles para pagar este suministro y es uno de los factores por el cual existe escasez en otros distritos, dado que el suminitro no llega de manera efectiva, basicamente nuestro problema esta centrado en problemas de detección de fugas de agua en praques dentro de la ciudad, ya que saber y detectar donde está el problema no es tan sencillo de hallar.  
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/2e665f8d-e7f2-4f3a-bebf-35a345681aa1" width="600px"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/9712c02f-b962-4026-b5f7-435a0d758116" width="600px"/>
 </div>
 
-Millones de peruanos acceden a agua potable a través de c. | Fuente: RPP / Foto: Andina
+Aniego afecto dos cuadras en centro empresarial de San Isidro. | Fuente: El Comercio / Foto: Andina
 
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/6b7e2543-16d9-4be5-aa23-50255bd1be72" width="600px"/>
 </div>
+
 San Iasidro: Tubería rota produce impresionante fuga de agua. | Fuente: RPP / Foto: Andina
 
 ## Descripición_de_los_archivos
