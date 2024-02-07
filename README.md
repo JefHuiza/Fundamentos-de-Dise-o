@@ -37,13 +37,15 @@ Por ese motivo en este proyecto se abordará temas relacionados frente al desper
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/9712c02f-b962-4026-b5f7-435a0d758116" width="600px"/>
 </div>
 
-Aniego afecto dos cuadras en centro empresarial de San Isidro. | Fuente: El Comercio / Foto: Andina
+<p align="center">Aniego afecto dos cuadras en centro empresarial de San Isidro. | Fuente: El Comercio / Foto: Andina</p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/6b7e2543-16d9-4be5-aa23-50255bd1be72" width="600px"/>
 </div>
 
-San Iasidro: Tubería rota produce impresionante fuga de agua. | Fuente: RPP / Foto: Andina
+<p align="center">San Iasidro: Tubería rota produce impresionante fuga de agua. | Fuente: RPP / Foto: Andina
+</p>
+
 
 ## Descripición_de_los_archivos
 
