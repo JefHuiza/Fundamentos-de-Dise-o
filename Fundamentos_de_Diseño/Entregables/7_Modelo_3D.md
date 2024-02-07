@@ -1,65 +1,47 @@
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/d3c66dfb-5faa-419b-bf1b-d897ea110ce7" width="70%">
+</p>
+
 <h1 align="center"><b>Modelado 3D</b></h1>
+
+<p align="justify">
+¡Estamos emocionados de poder compartir con ustedes el modelado 3D de nuestro proyecto preliminar que ha salido victorioso! 🎉 En él, podrán apreciar una vista detallada de cada uno de los elementos y características de nuetro proyecto, todos ellos cuidadosamente descritos en una tabla. ¡Espero que les guste tanto como a nosotros crearlo! 😊
+</p>
 
 <h1 align="center"><b>MODELO INTERIOR DEL PROTOTIPO </b></h1>
 
-<h1 align="center"><b>Vista Explosiva</b></h1>
+<h1 align="center"><b>Vista Cerrada</b></h1>
 
-¡Estoy emocionado de compartir con ustedes el modelado 3D de nuestro proyecto preliminar que ha salido victorioso! 🎉 En él, podrán apreciar una vista detallada de cada uno de los elementos y características, todos ellos cuidadosamente descritos en una tabla. Además, hemos incluido un plano general con todas las medidas necesarias. ¡Espero que les guste tanto como a nosotros crearlo! 😊
+<p align="justify">
+Para realizar el modelo nos ayudamos de la plataforma Onshape, usando diversas funciones para ensamblar los componente con el que ira nuestro prototipo y, para que sea visualizado utilizamos la plataforma de Sketchfab, que basicamente sera el soporte de nuestro prototipo.
+</p>
 
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/b0fb14c2-410d-47e4-88b8-7b630d66f1ef">
+</p>
 
-Para realizar el modelo nos ayudamos de la plataforma Onshape, usando diversas funciones, se imprimieron varios planos PDF de cada parte que pertenece al emsamble.
+<p align="center">Imagen 1. Modelado 3D, soporte del prototipo en vista cerrada</p>
+
+[Click aquí para ver el modelo 3D en vista cerrada](https://skfb.ly/oQHE9)
+
+<h1 align="center"><b>Vista Explosiva/b></h1>
   
-<p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/60e51cee-1b32-4360-9291-e562bffdefa7" alt="Plano del modelo 3D">
+<p align="justify">
+Luego procedimos a ingresar los componentes de manera específica de acuerdo a los Bocetos planificados en la anterior actividad del curso, es decir, todo el esamblaje de los componentes electrónicos a utilizar en nuestro proyecto en una vista explosiva que iran dentro de nuestro soporte agregando la lista de componentes.
 </p>
 
-
-<p align="center">Imagen 1. Plano 3D del prototipo</p>
-
-[PDF completo aquí](https://drive.google.com/file/d/1AU9GeaGZD8j4Qgm3WWMfOLM19_0lFGGa/view?usp=sharing)
-
-
-
-Para la construcción del modelo comenzamos ayudándonos y corrigiendo las medidas que ya teníamos del taller de impresión.
-
-
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/07686b86-0c9c-45db-995a-6e1faf2dc9af" alt="Soporte del sistema">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/73af1a4c-c815-4aa4-a34c-600102812fa1" alt="Soporte del sistema">
 </p>
 
+<p align="center">Imagen 2. Modelado 3D, Soporte del prototipo en vista explosiva</p>
 
-<p align="center">Imagen 2. Soporte del Sistema de Fugas</p>
-
-
-
-
-
-Luego procedimos a ingresar más componentes de acuerdo a los Bocetos planificados en la anterior actividad del curso.
-
-<p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/93ad1e62-ccb8-48c5-a430-39c53382b6db"
-">
-</p>
-
-<p align="center">Imagen 3. Modelo 3D del Prototipo</p>
-
-[Click aquí para ver el modelo 3D](https://skfb.ly/oQEZY)
-
-Finalmente, agregamos una lista de las partes usadas para obtener la lista de componentes.
-  
-<p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/152218004/1a0d57e3-f60d-43c1-a668-723e451b54e8" alt="Prototipo Finalizado con sus Partes">
-</p>
-
-<p align="center">Imagen 4. Prototipo con Señalización de Partes</p>
-
-[Click aquí para ver el modelo 3D](https://skfb.ly/oQEVM)
-
-
-
+[Click aquí para ver el modelo 3D en vista explosiva](https://skfb.ly/oQHEz)
 
 <h1 align="center"><b>Tabla de Componentes</b></h1>
 
+Finalmente, agregamos la lista de componentes ytuizadas en una tabla.
+  
 ![tabla de componente](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/2c3fcec1-e2b4-4400-93ea-26feb4e7c9a2)
 
 <p align="center">Tabla 1. Componentes del Prototipo</p>
