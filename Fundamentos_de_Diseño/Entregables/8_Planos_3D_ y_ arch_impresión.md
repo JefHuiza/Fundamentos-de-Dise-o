@@ -7,11 +7,11 @@
 <h1 align="center"><b>PLANO 2D DEL MODELO ESPECÍFICO</b></h1>
 
 <p align="justify">
-En esta sección se muestra los planos específicos de nuestro modelado 3D, es decir, las característica que tendrá nuestro soporte dirigido especialmente para los componentes electrónicos, que además lo llevaremos para que se haga la respectiva impresión 3D ya con las medidas dadas en cada plano.
+En esta sección se muestra los planos específicos de nuestro modelado 3D, es decir, las características que tendrá nuestro soporte dirigido especialmente para los componentes electrónicos, que además lo llevaremos para que se haga la respectiva impresión 3D ya con las medidas dadas en cada plano.
 </p>
 
 <p align="justify">
-Primeramente, se realizó el plano lateral 1 del soporte de componentes de nuestro prototipo, basad a una escala de 1:1, medida en mm. 
+Primeramente, se realizó el plano lateral 1 del soporte de componentes de nuestro prototipo, basado a una escala de 1:1, medida en mm. 
 </p>
 
 <p align="center">
@@ -21,17 +21,17 @@ Primeramente, se realizó el plano lateral 1 del soporte de componentes de nuest
 <p align="center">Imagen 1. Plano Lateral 1. Fuente: Elaboración propia</p>
 
 <p align="justify">
-Seguidamente, se realizó el plano lateral 2 del soporte de componentes de nuestro prototipo con sus medidas especificas al igual que el anterior a una escala 1:1 medida en mm.
+Seguidamente, se realizó el plano lateral 2 del soporte de componentes de nuestro prototipo con sus medidas específicas al igual que el anterior a una escala 1:1 medida en mm.
 </p>
 
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/9f32bca8-22dd-4d33-bb8b-e97d25c6f593" width="70%">
 </p>
 
-<p align="center">Imagen 1. Plano lateral 2. Fuente: Elaboración propia</p>
+<p align="center">Imagen 2. Plano lateral 2. Fuente: Elaboración propia</p>
 
 <p align="justify">
-Posteriormente, se mando a relizar el plano de la tapa del lado de los tubos, ya que según nuestro prototipo el soporte estará atravesado por el tubo para emsamblar facilmente los componentes, basado aa una escala de 1:1 y medida en mm.
+Posteriormente, se mando a relizar el plano de la tapa del lado de los tubos, ya que según nuestro prototipo el soporte estará atravesado por el tubo para emsamblar facilmente los componentes, basado a una escala de 1:1 y medida en mm.
 </p>
 
 <p align="center">
@@ -41,14 +41,14 @@ Posteriormente, se mando a relizar el plano de la tapa del lado de los tubos, ya
 <p align="center">Imagen 1. Tapa del lado de los tubos. Fuente: Elaboración propia</p>
 
 <p align="justify">
-Finalmente, se realizó el plano de la tapa inferior del prototipo y al igual que las demás cuenta con sus respectivas medidas estrictamente en mm, y todos a una escala de 1:1, además, de especificar que en esta sección también se esta midiento la base para el portenta.
+Finalmente, se realizó el plano de la tapa inferior del prototipo y al igual que las demás cuenta con sus respectivas medidas estrictamente en mm, y todos a una escala de 1:1, además, de especificar que en esta sección también se esta midiento la base para el portenta H7.
 </p>
 
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/015b25cf-724b-43af-9d89-746e88c7a2a9" width="70%">
 </p> 
 
-<p align="center">Imagen 1. Tapa inferior del protitipo y base para la Portenta H7. Fuente: Elaboración propia</p>
+<p align="center">Imagen 1. Tapa inferior del prototipo y base para la Portenta H7. Fuente: Elaboración propia</p>
 
 <h1 align="center"><b>SIMULACIÓN IMPRESIÓN 3D - ULTIMAKER CURA</b></h1>
 
