@@ -24,6 +24,7 @@ Para realizar el modelo nos ayudamos de la plataforma Onshape, usando diversas f
 
 [Click aquí para ver el modelo 3D en vista cerrada](https://skfb.ly/oQHE9)
 
+
 <h1 align="center"><b>Vista Explosiva/b></h1>
   
 <p align="justify">
@@ -40,7 +41,7 @@ Luego procedimos a ingresar los componentes de manera específica de acuerdo a l
 
 <h1 align="center"><b>Tabla de Componentes</b></h1>
 
-Finalmente, agregamos la lista de componentes ytuizadas en una tabla.
+Finalmente, agregamos la lista de componentes utilizadas de nuestro soporte en una tabla.
   
 ![tabla de componente](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/89529370/2c3fcec1-e2b4-4400-93ea-26feb4e7c9a2)
 
