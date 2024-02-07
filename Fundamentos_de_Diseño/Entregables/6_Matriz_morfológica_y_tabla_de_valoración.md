@@ -3,7 +3,7 @@
 ## 1. MATRIZ MORFOLÓGICA 🔧
 
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/dbf665ce-d1b9-4edc-bb08-6e1dd59aa89e" alt="Texto Alternativo" width="90%">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/c3de0042-740f-4d03-b54e-113549e6062a" alt="Texto Alternativo" width="90%">
 </p>
 
 ## 2. TABLA DE VALORACIÓN 🔧
