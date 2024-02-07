@@ -16,6 +16,8 @@ Este plano general, tal como se mencionó en un inicio es dirigido a todo el pro
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/9419e9f9-d76f-4b48-9b6b-c428bbe5c6f1" width="70%">
 </p>
 
+[Click aquí para ver el modelo 3D Exterior](https://cad.onshape.com/documents/dc07b73387a3ad7cd7e06e21/w/bf7c772045e8c83ef6a88359/e/c4531d3cb82f690eb2957807?renderMode=0&uiState=65c38c44c0cac6540bb4143a)
+
 <p align="center">Imagen 1. Plano general del prototipo. </p>
 
 <h1 align="center"><b>PLANO 2D DEL MODELO ESPECÍFICO</b></h1>
