@@ -4,6 +4,14 @@
 
 <h1 align="center"><b>PLANO 2D DEL MODELO GENERAL</b></h1>
 
+<p align="justify">
+En esta sección, se evidencia los planos generales basado en nuestro prototipo general del modelado 3D que se realizó en la anterior actividad del curso, donde basicamente se muestra las medidas del prototipo en sí, es decir, de todos los materiales externos que se han de utilizar en el armado, incluyendo el tamaño que va tener nuestro producto final basado en mm a una determinada escala, más que todo es mostrar aspectos especificos que tendrá el producto muy aparte que es el modelado 3D del soporte para los componentes electrónicos especificos, ya que es otro aspecto del cual tambien va ser detallado.
+</p>
+
+<p align="justify">
+Este plano general, tal como se mencionó en un inicio es dirigido a todo el prototipo en genral, incluyendo a los materiales externos que no estan incluidos para la impresión 3D, como tambien se menciono está medido en mm a una escala de 1:8, si bien es cierto en la actividad anterior se logró mostrar el modelado 3D de nuestro boceto ganador, del como seria construido para presentarlo de manera tangile, es por ese motivo que ahora de acuerdo a ello se realizó el siguiente plano con las siguientes medidas.
+</p>
+
 <h1 align="center"><b>PLANO 2D DEL MODELO ESPECÍFICO</b></h1>
 
 <p align="justify">
