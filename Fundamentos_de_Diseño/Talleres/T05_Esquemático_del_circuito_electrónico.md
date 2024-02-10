@@ -110,10 +110,20 @@ Posteriormente se realizó el ensamblaje en el circuito esquemático con los com
 
 <div align="center">Sistema en vista 3D del circuito en PCB (Botton)</div>
 </p>
+
 ## **Actividad N° 2: Diseñar un sistema para regular la intensidad de luz de un Led**
 
 <p align="justify">
-  
+En esta segunda actividad, como objetivo era implementar un ciruito electrónnico de mínimo 6 componentes para así poder diseñar su circuito esquemático y su modelo 3D. Donde su principal función es poder regular la intensidad de luz de un led, y para poder diseñar este circuito se utilizó 3 leds, 3 resistencias genéricas, un potencíometro, una placa de Arduino nano y un botón. Adicional a ello cabe mencionar que se ha logrado asegurar una integración perfecta con cada uno de los componentes, ademmás, se ha prestado una especial atención a la modularidad, lo que nos facilitó su adaptación de acuerdo a todo lo necesario para lograr diseñarlo.
 </p>
+
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen01.png" width="320px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen02.png" width="322px"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/a679d0d4-b70b-4f91-bc39-a56cc3d0a291" width="328px"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/b42e4ef4-18ac-4562-9a13-5d849909bf42" width="328px"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/264b5acd-c6af-43e7-9e48-cd336ea5425f" width="328px"/>
+</div>
+
 <h1 align="center"><b>4. CONCLUSIÓN</b></h1>
 <h1 align="center"><b>5. REREFENCIAS BIBLIOGRÁFICAS</b></h1>
