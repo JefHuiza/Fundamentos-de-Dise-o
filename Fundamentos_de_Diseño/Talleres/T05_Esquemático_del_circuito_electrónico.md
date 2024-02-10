@@ -24,9 +24,9 @@
 <h1 align="center"><b>1. INTRODUCCIÓN</b></h1>
 
 <p align="justify">
-
 En presente  informe se realizara la creación de esquemas de circuitos eléctricos explorando e utilizando  la plataforma Flux AI. Esta herramienta nos permite crear diseñar circuitos de manera rápida, sencilla y eficiente gracias a su interfaz intuitiva y las funciones que esta presenta.
 
+<p align="justify">
 El informe describe el proceso de creación de dos esquemas de circuitos eléctricos con Flux AI, los cuales servirán como base para la elaboración de un esquema de funciones relacionado con el proyecto a realizar. Se detallará  la metodología empleada, incluyendo las herramientas y técnicas utilizadas, y se presentan los resultados obtenidos, incluyendo su análisis y evaluación.
 
 </p>
@@ -177,6 +177,9 @@ Finalmente,  en esta sección muestra el modelado 3D de nuestro circuito, es dec
 [Click aquí para ver el esquemático del circuito eléctrónico en 3D](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/0948859eb612d8b64288e453724846b1c2a7d5de/Hardware/Esquem%C3%A1tico%20Electronico.stl)
   
 <h1 align="center"><b>4. CONCLUSIÓN</b></h1>
+
+<p align="justify">
+En conclusión el uso de la plataforma Flux.ai fue útil e interesante al momento de la uso creación de un circuito eléctrico. Las actividades encargadas  en clase y como ejercicio fueron un satisfactorios. La plataforma nos permitió trabajar adecuadamente, sin muchos errores y complicaciones.  Lo mejor de todo es que Flux AI es compatible con la tarjeta H7, que es la que usaremos en nuestro proyecto. Esto nos da la tranquilidad de saber que estamos trabajando con una herramienta confiable y que se ajusta a nuestras necesidades. En definitiva nos sentimos felices con la plataforma y a vez comprometidos a aprender más para un mejor uso, en nuestro esquema de circuitos eléctricos a elaborar conforme nuestro proyecto auqnue siendo realista es fundamental conocer más sobre el portenta H7. 
 
  ## **REREFENCIAS BIBLIOGRÁFICAS**
 - Muy Tecnológicos. (2020, 16 de noviembre). Circuito electrónico: ¿Qué es y cómo funciona? [Página web]. Muy Tecnológicos. https://muytecnologicos.com/diccionario-tecnologico/circuito-electronico
