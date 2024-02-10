@@ -185,4 +185,6 @@ En conclusión el uso de la plataforma Flux.ai fue útil e interesante al momen
 
 <p align="justify">
 - Muy Tecnológicos. (2020, 16 de noviembre). Circuito electrónico: ¿Qué es y cómo funciona? [Página web]. Muy Tecnológicos. https://muytecnologicos.com/diccionario-tecnologico/circuito-electronico
+
+<p align="justify">
 - Electrónica Online. (2023). Componentes electrónicos: qué son y cómo funcionan. https://electronicaonline.net/componentes-electronicos/
