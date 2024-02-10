@@ -93,12 +93,12 @@ Posteriormente se realizó el ensamblaje en el circuito esquemático con los com
 ## **VISTA PREVIA EN 3D**
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/1acbac80-69a4-4e9a-b13d-19fe39ef5896"500x"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/93703c4d-6a32-43dd-8f0c-24e186aea725"500x"/>
 
 <div align="center">Sistema en vista 3D de los componentes en el circuito PCB</div>
 </p>
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/1acbac80-69a4-4e9a-b13d-19fe39ef5896"500x"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/b6ebe95e-df5f-45f3-911e-ce9736f5797b"500x"/>
 
 <div align="center">Sistema en vista 3D del circuito en PCB</div>
 </p>
