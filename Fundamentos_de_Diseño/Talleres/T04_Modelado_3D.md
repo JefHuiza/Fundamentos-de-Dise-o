@@ -6,7 +6,7 @@
    ## **FACULTAD DE CIENCIAS E INGENIERÍA "ALBERTO CAZORLA TALLERI"**
 
 
-# **🔌 GUÍA N° 5 – MODELADO 3D⚡** 
+# **🔌 GUÍA N° 4 – MODELADO 3D⚡** 
 
 ## Docentes:
 - Mg Umberto Lewis De La Cruz
