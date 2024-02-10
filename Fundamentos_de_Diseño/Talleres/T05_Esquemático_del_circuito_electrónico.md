@@ -81,10 +81,9 @@ Posteriormente se realizó el ensamblaje en el circuito esquemático con los com
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/f5ee6474-c273-440c-8377-4f5f56b58e97" width="320px"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/f5ee6474-c273-440c-8377-4f5f56b58e97" width="500x"/>
 <p align="justify">
   
-Posteriormente se realizó el ensamblaje en el circuito esquemático con los componentes utilizados, tales como conectar los pines   
 </p>
 <h1 align="center"><b>4. CONCLUSIÓN</b></h1>
 <h1 align="center"><b>5. REREFENCIAS BIBLIOGRÁFICAS</b></h1>
