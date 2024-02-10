@@ -32,7 +32,27 @@
 <p align="justify">
 Los conjuntos de circuitos electrónicos incluyen una variedad de componentes eléctricos interconectados, como resistencias, condensadores, inductores y semiconductores, diseñados para realizar funciones específicas. Estos circuitos varían en complejidad y propósito, desde aplicaciones simples como interruptores hasta sistemas complejos utilizados en dispositivos electrónicos modernos. La interacción entre estos componentes y su disposición física dentro del circuito es fundamental para su funcionamiento y rendimiento óptimo.
 </p>
+
 ### **Características y componentes en un conjunto de circuitos electrónicos**
+
+####  **Características:**
+
+- **Versatilidad:** Los sistemas de circuitos electrónicos se pueden adaptar para realizar múltiples funciones.
+- **Eficiencia:** Tiene como objetivo optimizar el uso de la energía y los recursos.
+- **Fiabilidad:** Están diseñados para seguir funcionando de forma fiable en el tiempo.
+- **Escalabilidad:** Pueden diseñarse para adaptarse a diferentes tamaños y complejidades.
+- **Interconexión:** Los componentes están conectados entre sí para que trabajen juntos para lograr una función específica.
+**Flexibilidad:** Se pueden configurar y ajustar para cumplir con diferentes requisitos de diseño.
+
+#### **Componentes:**
+- **Resistencias:** Controla el flujo de electricidad dentro de un circuito.
+- **Condensadores:** Almacenan y liberan energía eléctrica en forma de carga eléctrica.
+- **Inductores:** Almacenan energía en forma de campos magnéticos.
+- **Semiconductores:** Incluye transistores, diodos y circuitos integrados, utilizados para controlar y amplificar la corriente eléctrica.
+- **Fuentes de Alimentación:** Proporcionan la energía necesaria para el funcionamiento del circuito.
+- **Interruptores:** Permiten controlar el flujo de electricidad dentro de un circuito.
+- **Conductor:** Es el cableado que conecta los componentes entre sí.
+- **Dispositivos de Protección:** Protegen los circuitos de sobrecargas, cortocircuitos y otras fallas.
 
 <h1 align="center"><b>3. DESARROLLO DE ACTIVIDADES</b></h1>
 <h1 align="center"><b>4. CONCLUSIÓN</b></h1>
