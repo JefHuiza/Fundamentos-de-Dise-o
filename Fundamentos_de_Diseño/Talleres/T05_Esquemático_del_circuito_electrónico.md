@@ -54,12 +54,25 @@ Los conjuntos de circuitos electrónicos incluyen una variedad de componentes el
 - **Conductor:** Es el cableado que conecta los componentes entre sí.
 - **Dispositivos de Protección:** Protegen los circuitos de sobrecargas, cortocircuitos y otras fallas.
 
-#### **¿Cuál es la importancia ee un sistema de circuito electrónico?**
+#### **¿Cuál es la importancia en un sistema de circuito electrónico?**
 
 <p align="justify">
-La importancia de los sistemas de circuitos electrónicos radica en su papel fundamental en la tecnología moderna, la innovación, la eficiencia, las comunicaciones y el avance científico. En resumen, los circuitos electrónicos son la base de la sociedad moderna e indispensables para nuestro estilo de vida actual.
+La importancia de los sistemas de circuitos electrónicos radica en su papel fundamental en la tecnología moderna, la innovación, la eficiencia, las comunicaciones y el avance científico, es decir, los circuitos electrónicos son la base de la sociedad moderna e indispensables para nuestro estilo de vida actual.
 </p>
 
 <h1 align="center"><b>3. DESARROLLO DE ACTIVIDADES</b></h1>
+
+## **Actividad N° 1: Diseñar un sistema para encender un Led**
+
+<p align="justify">
+En esta actividad con la ayuda del docente a cargo, se realizó el diseño de un sistema de circuitoen el cual tenia que escender un Led con los siguientes componentes, resistencia genérica, el Led y un botón.
+</p>
+
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen01.png" width="320px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen02.png" width="322px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen03.png" width="328px"/>
+</div>
+
 <h1 align="center"><b>4. CONCLUSIÓN</b></h1>
 <h1 align="center"><b>5. REREFENCIAS BIBLIOGRÁFICAS</b></h1>
