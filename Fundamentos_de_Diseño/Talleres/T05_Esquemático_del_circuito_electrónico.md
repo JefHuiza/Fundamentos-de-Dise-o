@@ -88,7 +88,7 @@ Posteriormente se realizó el ensamblaje en el circuito esquemático con los com
 
 ## **VISTA 2D**
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/3cd1a87c-21dc-431c-b072-df93c89b069f"400x"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/3cd1a87c-21dc-431c-b072-df93c89b069f"300x"/>
 
 <div align="center">Conexiones en Botton, y arreglado cirular de la base en el circuito PCB</div>
 </p>
@@ -96,12 +96,12 @@ Posteriormente se realizó el ensamblaje en el circuito esquemático con los com
 ## **VISTA PREVIA EN 3D**
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/93703c4d-6a32-43dd-8f0c-24e186aea725"400x"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/93703c4d-6a32-43dd-8f0c-24e186aea725"300x"/>
 
 <div align="center">Sistema en vista 3D de los componentes en el circuito PCB</div>
 </p>
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/b6ebe95e-df5f-45f3-911e-ce9736f5797b"400x"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/b6ebe95e-df5f-45f3-911e-ce9736f5797b"300x"/>
 
 <div align="center">Sistema en vista 3D del circuito en PCB (Botton)</div>
 </p>
