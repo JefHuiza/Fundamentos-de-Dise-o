@@ -179,5 +179,6 @@ Finalmente,  en esta sección muestra el modelado 3D de nuestro circuito, es dec
 
 <h1 align="center"><b>5. REREFENCIAS BIBLIOGRÁFICAS</b></h1>
 
+
 - Muy Tecnológicos. (2020, 16 de noviembre). Circuito electrónico: ¿Qué es y cómo funciona? [Página web]. Muy Tecnológicos. https://muytecnologicos.com/diccionario-tecnologico/circuito-electronico
 - Electrónica Online. (2023). Componentes electrónicos: qué son y cómo funcionan. https://electronicaonline.net/componentes-electronicos/
