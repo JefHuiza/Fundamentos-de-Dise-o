@@ -65,14 +65,18 @@ La importancia de los sistemas de circuitos electrónicos radica en su papel fun
 ## **Actividad N° 1: Diseñar un sistema para encender un Led**
 
 <p align="justify">
-En esta actividad con la ayuda del docente a cargo, se realizó el diseño de un sistema de circuitoen el cual tenia que escender un Led con los siguientes componentes, resistencia genérica, el Led y un botón.
+En esta actividad con la ayuda del docente a cargo, se realizó el diseño de un sistema de circuitoen el cual tenia que escender un Led con los siguientes componentes, resistencia genérica, Arduino nabo, el Led y un botón.
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen01.png" width="320px"/>
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen02.png" width="322px"/>
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/a679d0d4-b70b-4f91-bc39-a56cc3d0a291" width="328px"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/b42e4ef4-18ac-4562-9a13-5d849909bf42" width="328px"/>
 </div>
 
+<p align="justify">
+Posteriormente se realizó el ensamblaje en el circuito esquemático con los componentes utilizados, tales como conectar los pines   
+</p>
 <h1 align="center"><b>4. CONCLUSIÓN</b></h1>
 <h1 align="center"><b>5. REREFENCIAS BIBLIOGRÁFICAS</b></h1>
