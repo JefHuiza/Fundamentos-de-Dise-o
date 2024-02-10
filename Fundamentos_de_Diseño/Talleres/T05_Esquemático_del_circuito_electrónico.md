@@ -77,15 +77,18 @@ En esta actividad con la ayuda del docente a cargo, se realizó el diseño de un
 </div>
 
 <p align="justify">
-Posteriormente se realizó el ensamblaje en el circuito esquemático con los componentes utilizados, donde los pines  que se utilizaron fueron el D2 y D3 del puerto digital del Arduino nano, donde el pin D2 esta conectado al botón como al GND, mientras, que el pin D3 esta conectado a la resistencia y al Led con su respectiva conexión a la tierra, además, teniamos que verificar que todas las conexiones estuviesen firmes y seguras sin ningún tipo de error, por ello a continuación te presento el circuito esquemático con los componentes ya unidos.
+Posteriormente se realizó el ensamblaje en el circuito esquemático con los componentes utilizados, donde los pines que se utilizaron fueron el D2 y D3 del puerto digital del Arduino nano, donde el pin D2 esta conectado al botón como también al GND, mientras, que el pin D3 esta conectado a la resistencia y al Led con su respectiva conexión a la tierra, además, de ello teniamos que verificar que todas las conexiones estuviesen firmes y seguras sin ningún tipo de error y adicionalmente para que el circuito no estuviera en desacuerdo con el tamaño pudimos ajustarlo a un tamaño más adecuado y colocarle una base circular a todo el circuto en PBC, por ello a continuación te presento el circuito esquemático con los componentes ya unidos, asimismo en su formato 2D y 3D.
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/f5ee6474-c273-440c-8377-4f5f56b58e97" width="500x"/>
 
-### **VISTA 2D**
+<div align="center">Unión de las partes de cada componete con el Arduino nano</div>
+</p>
+
+## **VISTA 2D**
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/3cd1a87c-21dc-431c-b072-df93c89b069f"500x"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/3cd1a87c-21dc-431c-b072-df93c89b069f"400x"/>
 
 <div align="center">Conexiones en Botton, y arreglado cirular de la base en el circuito PCB</div>
 </p>
@@ -93,14 +96,14 @@ Posteriormente se realizó el ensamblaje en el circuito esquemático con los com
 ## **VISTA PREVIA EN 3D**
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/93703c4d-6a32-43dd-8f0c-24e186aea725"500x"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/93703c4d-6a32-43dd-8f0c-24e186aea725"400x"/>
 
 <div align="center">Sistema en vista 3D de los componentes en el circuito PCB</div>
 </p>
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/b6ebe95e-df5f-45f3-911e-ce9736f5797b"500x"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/b6ebe95e-df5f-45f3-911e-ce9736f5797b"400x"/>
 
-<div align="center">Sistema en vista 3D del circuito en PCB</div>
+<div align="center">Sistema en vista 3D del circuito en PCB (Botton)</div>
 </p>
 
 <p align="justify">
