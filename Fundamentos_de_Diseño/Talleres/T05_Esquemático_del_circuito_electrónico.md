@@ -4,7 +4,8 @@
 
 <h1 align="center"><b>FACULTAD DE CIENCIAS E INGENIERÍA "ALBERTO CAZORLA TALLERI</b></h1>
 
-<h1 align="center"><b>🔌 GUÍA N° 5– ESQUEMÁTICO DEL CIRCUITO ELECTRÓNICO⚡</b></h1>
+<h1 align="center"><b>🔌 GUÍA N° 5– ESQUEMÁTICO DEL CIRCUITO ELECTRÓNICO 👩🏻‍🔬
+</b></h1>
 
 ## Docentes:
 - Mg Umberto Lewis De La Cruz
