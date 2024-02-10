@@ -92,7 +92,7 @@ Posteriormente se realizó el ensamblaje en el circuito esquemático con los com
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/3cd1a87c-21dc-431c-b072-df93c89b069f" width="70%">
 </p>
 
-<div align="center">Conexiones en Botton, y arreglado cirular de la base en el circuito PCB</div>
+<div align="center">Conexiones en Bottom, y arreglado cirular de la base en el circuito PCB</div>
 </p>
 
 ## **VISTA PREVIA EN 3D**
@@ -101,14 +101,14 @@ Posteriormente se realizó el ensamblaje en el circuito esquemático con los com
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/93703c4d-6a32-43dd-8f0c-24e186aea725" width="70%">
 </p>
 
-<div align="center">Sistema en vista 3D de los componentes en el circuito PCB</div>
+<div align="center">Sistema en vista 3D de los componentes en el circuito PCB (Top)</div>
 </p>
 
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/b6ebe95e-df5f-45f3-911e-ce9736f5797b" width="70%">
 </p>
 
-<div align="center">Sistema en vista 3D del circuito en PCB (Botton)</div>
+<div align="center">Sistema en vista 3D del circuito en PCB (Bottom)</div>
 </p>
 
 ## **Actividad N° 2: Diseñar un sistema para regular la intensidad de luz de un Led**
@@ -142,24 +142,32 @@ Para dar una explicación más específica sobre nuestro circuito eletrónico, e
 
 ## **VISTA 2D**
 
+<p align="justify">
+En esta sección se muestra el circuito en vista 2D correspondiente a todas las conexiones que se esta realizando frente al BOTTOM en el circuito PCB del programa, tomando en cuenta pequeños detalles como la posición de cada componente como tambien el tamaño que debe ser optimo para todo el circuito.
+</p>
+
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/642f81df-d0fd-45c6-b782-f4f4438040f0" width="70%">
 
-<div align="center">Conexiones en Botton, y arreglado cirular de la base en el circuito PCB</div>
+<div align="center">Conexiones en Bottom, y arreglado cirular de la base en el circuito PCB</div>
 </p>
 
 ## **VISTA PREVIA EN 3D**
 
+<p align="justify">
+Finalmente,  en esta sección muestra el modelado 3D de nuestro circuito, es decir, como esta compuesto cada uno de los componentes de manera tridimensional, tanto en el TOP como en la parte BOTTOM el todo el circuito electrónico.
+</p>
+
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/8faafe1f-5ee7-492a-903b-681a9bbf4f53" width="70%">
 
-<div align="center">Sistema en vista 3D de los componentes en el circuito PCB</div>
+<div align="center">Sistema en vista 3D de los componentes en el circuito PCB (Top)</div>
 </p>
 
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/cac538f7-1f92-4af8-bc8b-5a11ffb16002" width="70%">
 
-<div align="center">Sistema en vista 3D del circuito en PCB (Botton)</div>
+<div align="center">Sistema en vista 3D del circuito en PCB (Bottom)</div>
 </p>
   
 <h1 align="center"><b>4. CONCLUSIÓN</b></h1>
