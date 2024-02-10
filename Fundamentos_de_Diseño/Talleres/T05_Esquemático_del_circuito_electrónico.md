@@ -77,6 +77,13 @@ En esta actividad con la ayuda del docente a cargo, se realizó el diseño de un
 </div>
 
 <p align="justify">
+Posteriormente se realizó el ensamblaje en el circuito esquemático con los componentes utilizados, donde los pines  que se utilizaron fueron el D2 y D3 del puerto digital del Arduino nano, donde el pin D2 esta conectado al botón como al GND, mientras, que el pin D3 esta conectado a la resistencia y al Led con su respectiva conexión a la tierra, además, teniamos que verificar que todas las conexiones estuviesen firmes y seguras sin ningún tipo de error, por ello a continuación te presento el circuito esquemático con los componentes ya unidos.
+</p>
+
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/f5ee6474-c273-440c-8377-4f5f56b58e97" width="320px"/>
+<p align="justify">
+  
 Posteriormente se realizó el ensamblaje en el circuito esquemático con los componentes utilizados, tales como conectar los pines   
 </p>
 <h1 align="center"><b>4. CONCLUSIÓN</b></h1>
