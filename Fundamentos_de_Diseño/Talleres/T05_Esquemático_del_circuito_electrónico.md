@@ -85,7 +85,7 @@ Posteriormente se realizó el ensamblaje en el circuito esquemático con los com
 
 ### **VISTA 2D**
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/df69edbf-1eed-4e34-8a5e-e8f183005664"500x"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/3cd1a87c-21dc-431c-b072-df93c89b069f"500x"/>
 
 <div align="center">Conexiones en Botton, y arreglado cirular de la base en el circuito PCB</div>
 </p>
