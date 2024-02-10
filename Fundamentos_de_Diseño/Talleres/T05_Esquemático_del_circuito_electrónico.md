@@ -114,7 +114,7 @@ Posteriormente se realizó el ensamblaje en el circuito esquemático con los com
 ## **Actividad N° 2: Diseñar un sistema para regular la intensidad de luz de un Led**
 
 <p align="justify">
-En esta segunda actividad, como objetivo era implementar un ciruito electrónnico de mínimo 6 componentes para así poder diseñar su circuito esquemático y su modelo 3D. Donde su principal función es poder regular la intensidad de luz de un led, y para poder diseñar este circuito se utilizó 3 leds, 3 resistencias genéricas, un potencíometro, una placa de Arduino nano y un botón. Adicional a ello cabe mencionar que se ha logrado asegurar una integración perfecta con cada uno de los componentes, ademmás, se ha prestado una especial atención a la modularidad, lo que nos facilitó su adaptación de acuerdo a todo lo necesario para lograr diseñarlo.
+En esta segunda actividad, como objetivo era implementar un circuito electrónnico de mínimo 6 componentes para así poder diseñar su circuito esquemático y su modelo 3D. Donde su principal función es poder regular la intensidad de luz de un led, y para poder diseñar este circuito se utilizó 3 leds, 3 resistencias genéricas, un potencíometro, una placa de Arduino nano y un botón. Adicional a ello cabe mencionar que se ha logrado asegurar una integración perfecta con cada uno de los componentes, además, se ha prestado una especial atención a la modularidad, lo que nos facilitó su adaptación de acuerdo a todo lo necesario para lograr diseñarlo.
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
@@ -125,5 +125,42 @@ En esta segunda actividad, como objetivo era implementar un ciruito electrónnic
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/264b5acd-c6af-43e7-9e48-cd336ea5425f" width="328px"/>
 </div>
 
+<p align="justify">
+Seguidamente, al ensamblar estos componentes, hemos tenido que identificar la calidad de las conexiones eléctricas, para así poder evitar cualquier error de contacto que puede llegar a afectar el rendimiento del circuito, quedando asi de la siguiente manera ya ensamblado con todos los componentes anteriormente mencionados.
+</p>
+
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/786fb518-6a4f-4a5a-80f2-943436a80561" width="70%">
+</p>
+
+<div align="center">Unión de las partes de cada componete con el Arduino nano</div>
+</p>
+
+<p align="justify">
+Para dar una explicación más específica sobre nuestro circuito eletrónico, es que se utilizó un potencíometro para poder controlar la intensidad de la luz de un led, que esta conectado al pin D5 en el puerto digital de la placa del Arduino nano a un voltaje 5V y conectado al GND correspondiente a este material. Asimismo, se utilizó un botón para poder controlar el encedido y apagado de los leds, donde este está conetado al pin D7 del puerto digital del Arduino con su respectiva conexión al GND. Mientras que cada uno de los 3 leds y las resistencias estan conectadas en los pines D8, D9 y D10 de su puerto digital con sus respectivas conexiones a la tierra.
+</p>
+
+## **VISTA 2D**
+
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/642f81df-d0fd-45c6-b782-f4f4438040f0" width="70%">
+
+<div align="center">Conexiones en Botton, y arreglado cirular de la base en el circuito PCB</div>
+</p>
+
+## **VISTA PREVIA EN 3D**
+
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/8faafe1f-5ee7-492a-903b-681a9bbf4f53" width="70%">
+
+<div align="center">Sistema en vista 3D de los componentes en el circuito PCB</div>
+</p>
+
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/cac538f7-1f92-4af8-bc8b-5a11ffb16002" width="70%">
+
+<div align="center">Sistema en vista 3D del circuito en PCB (Botton)</div>
+</p>
+  
 <h1 align="center"><b>4. CONCLUSIÓN</b></h1>
 <h1 align="center"><b>5. REREFENCIAS BIBLIOGRÁFICAS</b></h1>
