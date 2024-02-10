@@ -42,7 +42,7 @@ Los conjuntos de circuitos electrónicos incluyen una variedad de componentes el
 - **Fiabilidad:** Están diseñados para seguir funcionando de forma fiable en el tiempo.
 - **Escalabilidad:** Pueden diseñarse para adaptarse a diferentes tamaños y complejidades.
 - **Interconexión:** Los componentes están conectados entre sí para que trabajen juntos para lograr una función específica.
-**Flexibilidad:** Se pueden configurar y ajustar para cumplir con diferentes requisitos de diseño.
+- **Flexibilidad:** Se pueden configurar y ajustar para cumplir con diferentes requisitos de diseño.
 
 #### **Componentes:**
 - **Resistencias:** Controla el flujo de electricidad dentro de un circuito.
@@ -53,6 +53,12 @@ Los conjuntos de circuitos electrónicos incluyen una variedad de componentes el
 - **Interruptores:** Permiten controlar el flujo de electricidad dentro de un circuito.
 - **Conductor:** Es el cableado que conecta los componentes entre sí.
 - **Dispositivos de Protección:** Protegen los circuitos de sobrecargas, cortocircuitos y otras fallas.
+
+#### **¿Cuál es la importancia ee un sistema de circuito electrónico?**
+
+<p align="justify">
+La importancia de los sistemas de circuitos electrónicos radica en su papel fundamental en la tecnología moderna, la innovación, la eficiencia, las comunicaciones y el avance científico. En resumen, los circuitos electrónicos son la base de la sociedad moderna e indispensables para nuestro estilo de vida actual.
+</p>
 
 <h1 align="center"><b>3. DESARROLLO DE ACTIVIDADES</b></h1>
 <h1 align="center"><b>4. CONCLUSIÓN</b></h1>
