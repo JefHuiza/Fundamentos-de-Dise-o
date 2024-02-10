@@ -71,7 +71,7 @@ En esta actividad con la ayuda del docente a cargo, se realizó el diseño de un
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen01.png" width="320px"/>
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen02.png" width="322px"/>
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/8f3259e9-0407-4db0-8884-be6a7ceeab6f" width="328px"/>
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/a679d0d4-b70b-4f91-bc39-a56cc3d0a291" width="328px"/>
 </div>
 
 <h1 align="center"><b>4. CONCLUSIÓN</b></h1>
