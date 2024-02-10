@@ -25,6 +25,10 @@
 
 <p align="justify">
 
+En este informe se explora la creación de esquemas de circuitos eléctricos utilizando la plataforma Flux AI. Esta herramienta nos permite crear diseñar circuitos de manera rápida, sencilla y eficiente gracias a su interfaz intuitiva y las funciones que esta presenta.
+
+El informe describe el proceso de creación de dos esquemas de circuitos eléctricos con Flux AI, los cuales servirán como base para la elaboración de un esquema de funciones relacionado con el proyecto a realizar. Se detallará  la metodología empleada, incluyendo las herramientas y técnicas utilizadas, y se presentan los resultados obtenidos, incluyendo su análisis y evaluación.
+
 </p>
 <h1 align="center"><b>2. TEORIA FUNDAMENTAL</b></h1>
 
