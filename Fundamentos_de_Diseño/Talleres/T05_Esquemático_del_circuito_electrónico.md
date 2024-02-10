@@ -32,7 +32,8 @@
 <p align="justify">
 Los conjuntos de circuitos electrónicos incluyen una variedad de componentes eléctricos interconectados, como resistencias, condensadores, inductores y semiconductores, diseñados para realizar funciones específicas. Estos circuitos varían en complejidad y propósito, desde aplicaciones simples como interruptores hasta sistemas complejos utilizados en dispositivos electrónicos modernos. La interacción entre estos componentes y su disposición física dentro del circuito es fundamental para su funcionamiento y rendimiento óptimo.
 </p>
-### 
+### **Características y componentes en un conjunto de circuitos electrónicos**
+
 <h1 align="center"><b>3. DESARROLLO DE ACTIVIDADES</b></h1>
 <h1 align="center"><b>4. CONCLUSIÓN</b></h1>
 <h1 align="center"><b>5. REREFENCIAS BIBLIOGRÁFICAS</b></h1>
