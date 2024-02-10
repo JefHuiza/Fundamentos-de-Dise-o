@@ -110,7 +110,6 @@ Posteriormente se realizó el ensamblaje en el circuito esquemático con los com
 
 <div align="center">Sistema en vista 3D del circuito en PCB (Botton)</div>
 </p>
-
 ## **Actividad N° 2: Diseñar un sistema para regular la intensidad de luz de un Led**
 
 <p align="justify">
