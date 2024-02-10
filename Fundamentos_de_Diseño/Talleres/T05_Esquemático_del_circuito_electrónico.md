@@ -179,8 +179,10 @@ Finalmente,  en esta sección muestra el modelado 3D de nuestro circuito, es dec
 <h1 align="center"><b>4. CONCLUSIÓN</b></h1>
 
 <p align="justify">
-En conclusión el uso de la plataforma Flux.ai fue útil e interesante al momento de la uso creación de un circuito eléctrico. Las actividades encargadas  en clase y como ejercicio fueron un satisfactorios. La plataforma nos permitió trabajar adecuadamente, sin muchos errores y complicaciones.  Lo mejor de todo es que Flux AI es compatible con la tarjeta H7, que es la que usaremos en nuestro proyecto. Esto nos da la tranquilidad de saber que estamos trabajando con una herramienta confiable y que se ajusta a nuestras necesidades. En definitiva nos sentimos felices con la plataforma y a vez comprometidos a aprender más para un mejor uso, en nuestro esquema de circuitos eléctricos a elaborar conforme nuestro proyecto auqnue siendo realista es fundamental conocer más sobre el portenta H7. 
+En conclusión el uso de la plataforma Flux.ai fue útil e interesante al momento de la uso creación de un circuito eléctrico. Las actividades encargadas  en clase y como ejercicio fueron muy satisfactorios. La plataforma nos permitió trabajar adecuadamente, sin muchos errores y complicaciones.  Lo mejor de todo es que Flux AI es compatible con la tarjeta H7, que es la que usaremos en nuestro proyecto. Esto nos da la tranquilidad de saber que estamos trabajando con una herramienta confiable y que se ajusta a nuestras necesidades. En definitiva nos sentimos felices con la plataforma y a vez comprometidos a aprender más para un mejor uso, en nuestro esquema de circuitos eléctricos a elaborar conforme nuestro proyecto auqnue siendo realista es fundamental conocer más sobre el portenta H7. 
 
  ## **REREFENCIAS BIBLIOGRÁFICAS**
+
+<p align="justify">
 - Muy Tecnológicos. (2020, 16 de noviembre). Circuito electrónico: ¿Qué es y cómo funciona? [Página web]. Muy Tecnológicos. https://muytecnologicos.com/diccionario-tecnologico/circuito-electronico
 - Electrónica Online. (2023). Componentes electrónicos: qué son y cómo funcionan. https://electronicaonline.net/componentes-electronicos/
