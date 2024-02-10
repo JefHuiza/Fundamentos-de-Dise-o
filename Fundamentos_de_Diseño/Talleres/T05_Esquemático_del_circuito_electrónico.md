@@ -25,7 +25,7 @@
 <p align="justify">
 
 </p>
-<h1 align="center"><b>2. MATERIALES Y TEORIA FUNDAMENTAL</b></h1>
+<h1 align="center"><b>2. TEORIA FUNDAMENTAL</b></h1>
 <h1 align="center"><b>3. DESARROLLO DE ACTIVIDADES</b></h1>
 <h1 align="center"><b>4. CONCLUSIÓN</b></h1>
 <h1 align="center"><b>5. REREFENCIAS BIBLIOGRÁFICAS</b></h1>
