@@ -70,7 +70,7 @@ La importancia de los sistemas de circuitos electrónicos radica en su papel fun
 ## **Actividad N° 1: Diseñar un sistema para encender un Led**
 
 <p align="justify">
-En esta actividad con la ayuda del docente a cargo, se realizó el diseño de un sistema de circuitoen el cual tenia que escender un Led con los siguientes componentes, resistencia genérica, Arduino nabo, el Led y un botón.
+En esta actividad con la ayuda del docente a cargo, se realizó el diseño de un sistema de circuito en el cual tenia que escender un Led con los siguientes componentes, resistencia genérica, Arduino nabo, el Led y un botón.
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
@@ -118,7 +118,7 @@ Posteriormente se realizó el ensamblaje en el circuito esquemático con los com
 ## **Actividad N° 2: Diseñar un sistema para regular la intensidad de luz de un Led**
 
 <p align="justify">
-En esta segunda actividad, como objetivo era implementar un circuito electrónnico de mínimo 6 componentes para así poder diseñar su circuito esquemático y su modelo 3D. Donde su principal función es poder regular la intensidad de luz de un led, y para poder diseñar este circuito se utilizó 3 leds, 3 resistencias genéricas, un potencíometro, una placa de Arduino nano y un botón. Adicional a ello cabe mencionar que se ha logrado asegurar una integración perfecta con cada uno de los componentes, además, se ha prestado una especial atención a la modularidad, lo que nos facilitó su adaptación de acuerdo a todo lo necesario para lograr diseñarlo.
+En esta segunda actividad, como objetivo era implementar un circuito electrónico de mínimo 6 componentes para así poder diseñar su circuito esquemático y su modelo 3D. Donde su principal función es poder regular la intensidad de luz de un led, y para poder diseñar este circuito se utilizó 3 leds, 3 resistencias genéricas, un potencíometro, una placa de Arduino nano y un botón. Adicional a ello cabe mencionar que se ha logrado asegurar una integración perfecta con cada uno de los componentes, además, se ha prestado una especial atención a la modularidad, lo que nos facilitó su adaptación de acuerdo a todo lo necesario para lograr diseñarlo.
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
@@ -141,13 +141,13 @@ Seguidamente, al ensamblar estos componentes, hemos tenido que identificar la ca
 </p>
 
 <p align="justify">
-Para dar una explicación más específica sobre nuestro circuito eletrónico, es que se utilizó un potencíometro para poder controlar la intensidad de la luz de un led, que esta conectado al pin D5 en el puerto digital de la placa del Arduino nano a un voltaje 5V y conectado al GND correspondiente a este material. Asimismo, se utilizó un botón para poder controlar el encedido y apagado de los leds, donde este está conetado al pin D7 del puerto digital del Arduino con su respectiva conexión al GND. Mientras que cada uno de los 3 leds y las resistencias estan conectadas en los pines D8, D9 y D10 de su puerto digital con sus respectivas conexiones a la tierra.
+Para dar una explicación más específica sobre nuestro circuito electrónico, es que se utilizó un potencíometro para poder controlar la intensidad de la luz de un led, que esta conectado al pin D5 en el puerto digital de la placa del Arduino nano a un voltaje 5V y conectado al GND correspondiente a este material. Asimismo, se utilizó un botón para poder controlar el encedido y apagado de los leds, donde este está conectado al pin D7 del puerto digital del Arduino con su respectiva conexión al GND. Mientras que cada uno de los 3 leds y las resistencias estan conectadas en los pines D8, D9 y D10 de su puerto digital con sus respectivas conexiones a la tierra.
 </p>
 
 ## **VISTA 2D**
 
 <p align="justify">
-En esta sección se muestra el circuito en vista 2D correspondiente a todas las conexiones que se esta realizando frente al BOTTOM en el circuito PCB del programa, tomando en cuenta pequeños detalles como la posición de cada componente como tambien el tamaño que debe ser optimo para todo el circuito.
+En esta sección se muestra el circuito en vista 2D correspondiente a todas las conexiones que se esta realizando frente al BOTTOM en el circuito PCB del programa, tomando en cuenta pequeños detalles como la posición de cada componente, como también el tamaño que debe ser óptimo para todo el circuito.
 </p>
 
 <p align="center">
@@ -173,6 +173,7 @@ Finalmente,  en esta sección muestra el modelado 3D de nuestro circuito, es dec
 
 <div align="center">Sistema en vista 3D del circuito en PCB (Bottom)</div>
 </p>
+
   
 <h1 align="center"><b>4. CONCLUSIÓN</b></h1>
 <h1 align="center"><b>5. REREFENCIAS BIBLIOGRÁFICAS</b></h1>
