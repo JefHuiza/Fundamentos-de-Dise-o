@@ -79,6 +79,11 @@ Esta etapa, consistió en la integración del caudalímetro con la tarjeta Porte
 
 <p align="center">Imagen 6. Conexión del caudalímetro con el Portenta H7 </p>
 
+_**3. Esquema del circuito eléctrico real:**_
+
+<p align="justify">
+
+Esta sección presenta la etapa final de nuestro, donde se muestran las conexiones físicas entre los diferentes componentes eléctricos utilizados, como el protoboard, el caudalímetro, la tarjeta Portenta H7 y el buzzer. Este esquema es una representación precisa del circuito real, a diferencia del esquema del software, que se vio limitado por la falta de disponibilidad de los componentes físicos. El esquema real permite una mejor visualización y comprensión del funcionamiento del circuito, ya que muestra la disposición física de los componentes y las conexiones entre ellos.
 
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/8bd69782-1199-43da-b231-c699e7dcd014" width="70%">
