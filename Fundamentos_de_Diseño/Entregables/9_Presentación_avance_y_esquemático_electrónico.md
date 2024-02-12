@@ -52,4 +52,12 @@ Posteriormente se realizó el circuito esquemático de nuestro proyecto, donde b
 
 
 <h1 align="center"><b> 3. Avance de  nuestro prototipo </b></h1>
+
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/02a1a3da-9e5f-447a-9dd9-8bbc9bd753b4" width="70%">
+</p>
+
+<p align="center">Imagen 5. Maqueta de nuestro prototipo </p>
+
+
  
