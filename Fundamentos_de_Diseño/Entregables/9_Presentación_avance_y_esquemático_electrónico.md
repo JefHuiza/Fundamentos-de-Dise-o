@@ -35,9 +35,15 @@ Posteriormente se realizó el circuito esquemático de nuestro proyecto, donde b
 </p>
 
 <p align="center">
-  <img src="" width="70%">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/5f2cf63e-5da9-47fe-ada7-1d62ee3f2ec3" width="70%">
 </p>
 
-<p align="center">Imagen 2. Circuito Esquemático del proyecto. </p>
+<p align="center">Imagen 3. Circuito Esquemático del proyecto en vista 2D. </p>
 
-[Click aquí para ver el circuito esquemático]()
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/9f3692af-49a3-4d24-a59b-79bf463fc12a" width="70%">
+</p>
+
+<p align="center">Imagen 4. Circuito Esquemático del proyecto en vista 3D. </p>
+
+[Click aquí para ver el circuito esquemático](https://www.flux.ai/edithson/absolute-red-robot-vacuum?editor=pcb_3d)
