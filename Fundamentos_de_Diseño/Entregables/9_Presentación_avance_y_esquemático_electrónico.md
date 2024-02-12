@@ -19,3 +19,15 @@ En esta sección, presentamos el diagrama de flujo de nuestro proyecto, y para d
 [Click aquí para ver el diagrama de flujo](https://app.diagrams.net/#G1BI2dnCX4kPULV-y37qJqpu3AZyIsCm3T)
 
 <h1 align="center"><b>2. Circuito Esquemático</b></h1>
+
+<p align="justify">
+Posteriormente se realizó el circuito esquemático de nuestro proyecto, donde basicamente un diagrama de circuito es una representación gráfica de un circuito eléctrico que utiliza símbolos estandarizados para representar componentes eléctricos y las conexiones entre ellos. Este tipo de diagrama se utiliza en electrónica para describir y visualizar la disposición y las conexiones de los componentes eléctricos de un sistema, en este caso representa las conexiones de todos los materiales que vamos a utilizar en nuestro proyecto, es decir, de como se entrelasan cada uno de nuestros componentes formando un solo circuito, como por ejmeplo en que número de pines van cada componente y hacia donde esta dirigido y con quienes va conectado, por tal motivo te presentamos el siguiente esquemático para que puedan visualizarlo.
+</p>
+
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/c20e17b6-66b3-44bb-8450-b83e476347a6" width="70%">
+</p>
+
+<p align="center">Imagen 2. Circuito Esquemático del proyecto. </p>
+
+[Click aquí para ver el diagrama de flujo]()
