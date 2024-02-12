@@ -17,7 +17,7 @@ En esta sección, presentamos el diagrama de flujo de nuestro proyecto, y para d
 <p align="center">Imagen 1. Diagrama de flujo del proyecto. </p>
 
 <p align="justify">
-Seguidamente, se realizó el diagrama de flujo de la plataforma de Edge Impulse, ya que será ahí donde se guardarán los datos que se recopilen al momento de hacer las pruebas, como el sonido de las tuberias, es decir, identificar si es una tuberia con fuga o es normal, basicamente en esta plataforma de almacenaran esos datos tanto acústicos como de consumo comparando los datos para identificar esos patrones, por ese motivo ahora pueden viualizar la siguiente imagen que muestra la ecuencia de pasos que realiza la plataforma de Edge Impulse frentte al procesamiento de datos.
+Seguidamente, se realizó el diagrama de flujo de la plataforma de Edge Impulse, ya que será ahí donde se guardarán los datos que se recopilen al momento de hacer las pruebas, como el sonido de las tuberias, es decir, identificar si es una tuberia con fuga o es normal, basicamente en esta plataforma de almacenaran esos datos tanto acústicos como de consumo comparando los datos para identificar esos patrones, por ese motivo ahora pueden viualizar la siguiente imagen que muestra la ecuencia de pasos que realiza la plataforma de Edge Impulse frente al procesamiento de datos.
 </p>
 
 <p align="center">
