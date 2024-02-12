@@ -2,7 +2,7 @@
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/d3c66dfb-5faa-419b-bf1b-d897ea110ce7" width="70%">
 </p>
 
-<h1 align="center"><b>AVANCE DEL PROTOTIPO: DIAGRAMA DDE FLUJO Y CIRCUITO ESQUEMÁTICO</b></h1>
+<h1 align="center"><b>AVANCE DEL PROTOTIPO: DIAGRAMA DE FLUJO Y CIRCUITO ESQUEMÁTICO</b></h1>
 
 <h1 align="center"><b>1. Diagrama de flujo</b></h1>
 
@@ -47,3 +47,7 @@ Posteriormente se realizó el circuito esquemático de nuestro proyecto, donde b
 <p align="center">Imagen 4. Circuito Esquemático del proyecto en vista 3D. </p>
 
 [Click aquí para ver el circuito esquemático](https://www.flux.ai/edithson/absolute-red-robot-vacuum?editor=pcb_3d)
+
+
+<h1 align="center"><b> 3. Avance de  nuestro prototipo </b></h1>
+ 
