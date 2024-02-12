@@ -50,6 +50,9 @@ Posteriormente se realizó el circuito esquemático de nuestro proyecto, donde b
 
 [Click aquí para ver el circuito esquemático](https://www.flux.ai/edithson/absolute-red-robot-vacuum?editor=pcb_3d)
 
+<p align="justify">
+Si bien es cierto nuestro circuito esquemático esta conformado con la placa de Arduino Portenta H7 el cual es un material super potente que se presento hace pocos años atras, ya que consigo lleva un propio microfono incrustado como también una memoria para almacenar datos con inteligencia artificial lo cual lo hace muy interesante mas que todo en la reducción de materiales para nuestro proyecto. Pasando a otro plano cabe especificar que el circuito que se esta presentando está de manera incompleta, dado que ciertos materiales como el caudalimetro y la valvula que no se encuentran en los softwares que hemos utilizado, lo cual fue una desventaja para nosotros, más que todo para poder completar en el circuito completo con todos los componentes a utilizar en nuestro proyecto, por lo cual se hace especificar que estaremos tratando de solucionar ese inconveniente y más adelante de estará realizando las actualizaciones correspondientes.
+</p>
 
 <h1 align="center"><b> 3. Avance de  nuestro prototipo </b></h1>
 
