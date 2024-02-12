@@ -19,7 +19,7 @@ En esta sección, presentamos el diagrama de flujo de nuestro proyecto, y para d
 [Click aquí para ver el diagrama de flujo](https://app.diagrams.net/#G1BI2dnCX4kPULV-y37qJqpu3AZyIsCm3T)  
 
 <p align="justify">
-Seguidamente, se realizó el diagrama de flujo de la plataforma de Edge Impulse, ya que será ahí donde se guardarán los datos que se recopilen al momento de hacer las pruebas, como el sonido de las tuberias, es decir, identificar si es una tuberia con fuga o es normal, basicamente en esta plataforma de almacenaran esos datos tanto acústicos como de consumo comparando los datos para identificar esos patrones, por ese motivo ahora pueden viualizar la siguiente imagen que muestra la ecuencia de pasos que realiza la plataforma de Edge Impulse frente al procesamiento de datos.
+Seguidamente, se realizó el diagrama de flujo de la plataforma de Edge Impulse, ya que será ahí donde se guardarán los datos que se recopilen al momento de hacer las pruebas, como el sonido de las tuberias, es decir, identificar si es una tuberia con fuga o es normal, basicamente en esta plataforma de almacenaran esos datos tanto acústicos como de consumo comparando los datos para identificar esos patrones, por ese motivo ahora pueden visualizar la siguiente imagen que muestra la secuencia de pasos que realiza la plataforma de Edge Impulse frente al procesamiento de datos.
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ Seguidamente, se realizó el diagrama de flujo de la plataforma de Edge Impulse,
 <h1 align="center"><b>2. Circuito Esquemático</b></h1>
 
 <p align="justify">
-Posteriormente se realizó el circuito esquemático de nuestro proyecto, donde basicamente un diagrama de circuito es una representación gráfica de un circuito eléctrico que utiliza símbolos estandarizados para representar componentes eléctricos y las conexiones entre ellos. Este tipo de diagrama se utiliza en electrónica para describir y visualizar la disposición y las conexiones de los componentes eléctricos de un sistema, en este caso representa las conexiones de todos los materiales que vamos a utilizar en nuestro proyecto, es decir, de como se entrelasan cada uno de nuestros componentes formando un solo circuito, como por ejmeplo en que número de pines van cada componente y hacia donde esta dirigido y con quienes va conectado, por tal motivo te presentamos el siguiente esquemático para que puedan visualizarlo.
+Posteriormente se realizó el circuito esquemático de nuestro proyecto, donde basicamente es un diagrama de circuito que muestra una representación gráfica de un circuito eléctrico donde utiliza símbolos estandarizados para representar componentes eléctricos y las conexiones entre ellos. Este tipo de diagrama se utiliza en electrónica para describir y visualizar la disposición y las conexiones de los componentes eléctricos de un sistema, en este caso representa las conexiones de todos los materiales que vamos a utilizar en nuestro proyecto, es decir, de como se entrelasan cada uno de nuestros componentes formando un solo circuito, como por ejmeplo en que número de pines van cada componente y hacia donde esta dirigido y con quienes va conectado, por tal motivo te presentamos el siguiente esquemático para que puedan visualizarlo.
 </p>
 
 <p align="center">
