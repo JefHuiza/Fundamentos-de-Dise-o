@@ -56,6 +56,10 @@ Si bien es cierto nuestro circuito esquemático esta conformado con la placa de 
 
 <h1 align="center"><b> 3. Avance de  nuestro prototipo </b></h1>
 
+Para finalizar, presentamos imágenes que evidencian nuestros avances durante la semana anterior. A continuación, se detallan los logros que hemos obtenido:
+
+_*1. Construcción de la maqueta del prototipo:*_ Esta etapa es crucial para el desarrollo de nuestro proyecto, ya que nos permite realizar diversos experimentos para evaluar si existe fugas o no el la tubería de agua.
+
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/02a1a3da-9e5f-447a-9dd9-8bbc9bd753b4" width="70%">
 </p>
