@@ -59,8 +59,7 @@ Si bien es cierto nuestro circuito esquemático esta conformado con la placa de 
 <p align="justify">
 Para finalizar, presentamos imágenes que evidencian nuestros avances durante la semana anterior. A continuación, se detallan los logros que hemos obtenido:
 
-<p align="justify">
-**1. Construcción de la maqueta del prototipo:** Esta etapa es crucial para el desarrollo de nuestro proyecto, ya que nos permite realizar diversos experimentos para evaluar si existe fugas o no el la tubería de agua.
+_**1. Construcción de la maqueta del prototipo:**_ Esta etapa es crucial para el desarrollo de nuestro proyecto, ya que nos permite realizar diversos experimentos para evaluar si existe fugas o no el la tubería de agua.
 
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/02a1a3da-9e5f-447a-9dd9-8bbc9bd753b4" width="70%">
@@ -68,7 +67,6 @@ Para finalizar, presentamos imágenes que evidencian nuestros avances durante la
 
 <p align="center">Imagen 5. Maqueta de nuestro prototipo </p>
 
-<p align="justify">
 _**2. Conexión del caudalímetro y la Portenta H7:**_ Esta etapa, consistió en la integración del caudalímetro con la tarjeta Portenta H7, presentó un desafío significativo debido a nuestra falta de experiencia previa con este dispositivo. Sin embargo, gracias a nuestro esfuerzo e investigación, logramos completar la conexión exitosamente. Esta etapa fue muy importante para el desarrollo del proyecto, ya que facilita el avance en las siguientes fases. La Portenta H7 y el caudalímetro son los componentes más importantes del sistema, y su correcta conexión era fundamental para el éxito del proyecto. Cabe destacar que, debido a las restricciones de uso de la Portenta H7 fuera del laboratorio, se ideó un método alternativo de prueba que consistió en soplar el caudalímetro para simular la presión real de trabajo.
 
 <p align="center">
