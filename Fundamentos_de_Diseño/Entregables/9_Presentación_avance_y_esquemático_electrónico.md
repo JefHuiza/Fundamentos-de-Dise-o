@@ -30,4 +30,4 @@ Posteriormente se realizó el circuito esquemático de nuestro proyecto, donde b
 
 <p align="center">Imagen 2. Circuito Esquemático del proyecto. </p>
 
-[Click aquí para ver el diagrama de flujo]()
+[Click aquí para ver el circuito esquemático]()
