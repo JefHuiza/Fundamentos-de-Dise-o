@@ -25,7 +25,7 @@ Posteriormente se realizó el circuito esquemático de nuestro proyecto, donde b
 </p>
 
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/c20e17b6-66b3-44bb-8450-b83e476347a6" width="70%">
+  <img src="" width="70%">
 </p>
 
 <p align="center">Imagen 2. Circuito Esquemático del proyecto. </p>
