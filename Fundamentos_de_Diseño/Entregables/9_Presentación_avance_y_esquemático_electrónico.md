@@ -59,5 +59,19 @@ Posteriormente se realizó el circuito esquemático de nuestro proyecto, donde b
 
 <p align="center">Imagen 5. Maqueta de nuestro prototipo </p>
 
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/e3f964ad-600b-4e19-a77d-72be457ccc95" width="70%">
+</p>
+
+<p align="center">Imagen 6. Conexión del caudalímetro con el Portenta H7 </p>
+
+
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/8bd69782-1199-43da-b231-c699e7dcd014" width="70%">
+</p>
+
+<p align="center">Imagen 7. Esquema del circuito electrico de manera real </p>
+
+
 
  
