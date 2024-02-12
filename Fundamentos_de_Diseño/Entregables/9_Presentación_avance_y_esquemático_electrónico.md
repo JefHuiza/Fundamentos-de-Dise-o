@@ -26,7 +26,7 @@ Seguidamente, se realizó el diagrama de flujo de la plataforma de Edge Impulse,
 
 <p align="center">Imagen 2. Diagrama de flujo de la plataforma. </p>
 
-[Click aquí para ver el diagrama de flujo de la platafforma](https://app.diagrams.net/#G1KbAD2T7pU1_F1PGvXLw5LXpnONEFUHKo)
+[Click aquí para ver el diagrama de flujo de la plataforma](https://app.diagrams.net/#G1KbAD2T7pU1_F1PGvXLw5LXpnONEFUHKo)
 
 <h1 align="center"><b>2. Circuito Esquemático</b></h1>
 
