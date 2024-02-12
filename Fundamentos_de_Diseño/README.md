@@ -12,7 +12,7 @@ Los entregables se subdividen a las vez las siguientes secciones:
 - [6. Matriz Morfológica y Tabla de Valoración](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/ebdee4eea4f81ba49c34fd7d384bebb6c48fc3c2/Fundamentos_de_Dise%C3%B1o/Entregables/6_Matriz_morfol%C3%B3gica_y_tabla_de_valoraci%C3%B3n.md)
 - [7. Modelado 3D](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/fd35f2bb8b0818cf0a842eb6987c7fffe9df9c0f/Fundamentos_de_Dise%C3%B1o/Entregables/7_Modelo_3D.md)
 - [8. Planos de modelado 3D y archivos para impresión 3D](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/4672efd3e8f005eeecd2720bb2d1096bc4bf356f/Fundamentos_de_Dise%C3%B1o/Entregables/8_Planos_3D_%20y_%20arch_impresi%C3%B3n.md)
-- [9. Esquemático del Circuitp y Diagrama de Flujo]()
+- [9. Esquemático del Circuito y Diagrama de Flujo]()
 
 -  ## Laboratorios:
 - [Informe Taller equipo10 laboratorio 1](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/main/Fundamentos_de_Dise%C3%B1o/Entregables/Informe-Taller-equipo10-Lab.md)
