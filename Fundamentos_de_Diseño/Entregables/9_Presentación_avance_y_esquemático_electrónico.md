@@ -23,7 +23,7 @@ Seguidamente, se realizó el diagrama de flujo de la plataforma de Edge Impulse,
 </p>
 
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/850e57db-dfe1-49c0-addf-5cd6eea491ac" width="70%">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/999c0599-ebdd-45fd-a725-f82251803b0e" width="70%">
 </p>
 
 <p align="center">Imagen 2. Diagrama de flujo de la plataforma. </p>
