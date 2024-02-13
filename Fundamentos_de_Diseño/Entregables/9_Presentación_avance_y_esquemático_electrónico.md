@@ -11,10 +11,10 @@ En esta sección, presentamos el diagrama de flujo de nuestro proyecto, y para d
 </p>
 
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/c20e17b6-66b3-44bb-8450-b83e476347a6" width="70%">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/52a63193-0c32-4e68-b2c0-b7b4af0e66f4" width="70%">
 </p>
 
-<p align="center">Imagen 1. Diagrama de flujo del proyecto. </p>
+<p align="center">Imagen 1. Diagrama de flujo del proyecto general. </p>
 
 [Click aquí para ver el diagrama de flujo](https://app.diagrams.net/#G1BI2dnCX4kPULV-y37qJqpu3AZyIsCm3T)  
 
