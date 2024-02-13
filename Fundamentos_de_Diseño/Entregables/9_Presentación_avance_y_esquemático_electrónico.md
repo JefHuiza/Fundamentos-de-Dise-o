@@ -37,13 +37,13 @@ Posteriormente se realizó el circuito esquemático de nuestro proyecto, donde b
 </p>
 
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/aa8ee46b-3bd1-417b-bb89-4d70e806cb83" width="70%">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/b3826bfd-0595-49f0-8c00-7a440de60f11" width="70%">
 </p>
 
 <p align="center">Imagen 3. Circuito Esquemático del proyecto en vista 2D. </p>
 
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/9f3692af-49a3-4d24-a59b-79bf463fc12a" width="70%">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/a52a0713-54bb-4c43-aeb0-82537e51adb0" width="70%">
 </p>
 
 <p align="center">Imagen 4. Circuito Esquemático del proyecto en vista 3D. </p>
