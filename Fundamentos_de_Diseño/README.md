@@ -21,4 +21,4 @@ Los entregables se subdividen a las vez las siguientes secciones:
 - [Informe Taller equipo10 laboratorio 5](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/25df156ec01da46170731fef27c112b41f34d8cf/Fundamentos_de_Dise%C3%B1o/Talleres/T05_Esquem%C3%A1tico_del_circuito_electr%C3%B3nico.md)
 
 - ## Hitos
-- [Hito N°1](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/e50286fde923a09a4ccc34cf96746cb812fc56b0/Fundamentos_de_Dise%C3%B1o/Entregables/Hitos/Hito_1)
+- [Hito N°1](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/4a324969197a96809a19e9a0f64b6eff4337a9c3/Fundamentos_de_Dise%C3%B1o/Hitos/Hito_1)
