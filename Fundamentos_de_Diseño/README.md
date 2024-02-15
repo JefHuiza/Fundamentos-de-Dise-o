@@ -4,7 +4,7 @@ La carpeta lleva de nombre Fundamentos de Diseño, esta contiene una subcarpeta 
 
 Los entregables se subdividen a las vez las siguientes secciones:
 - ## Entregables:
-- [1. Sobre nosotros](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/3c77044aa4e6b4b2126c605371974fc45db68960/Fundamentos_de_Dise%C3%B1o/Entregables/1_Sobre_nosotros.md)
+- [1. Sobre nosotros](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/116a9fa115f0d13ad5f4e51eb671597e49db63f2/Fundamentos_de_Dise%C3%B1o/Entregables/1_Sobre_nosotros.md)
 - [2. Definición_del_problema](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/8a8d8bd106f3b230844d2c3a5286c91796f1ab0e/Fundamentos_de_Dise%C3%B1o/Entregables/3_Definici%C3%B3n-del-Problema.md)
 - [3. Contexto social y economico del problema](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/8a8d8bd106f3b230844d2c3a5286c91796f1ab0e/Fundamentos_de_Dise%C3%B1o/Entregables/2_Contexto-Social-y-Econ%C3%B3mico.md)
 - [4. Estado del arte](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/8a8d8bd106f3b230844d2c3a5286c91796f1ab0e/Fundamentos_de_Dise%C3%B1o/Entregables/4_Estado_de_Arte.md)
