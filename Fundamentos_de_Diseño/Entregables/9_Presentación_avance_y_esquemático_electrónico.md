@@ -37,16 +37,22 @@ Posteriormente se realizó el circuito esquemático de nuestro proyecto, donde b
 </p>
 
 <p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/1a60b5bc-a9d3-473f-a734-07c10e92dc42" width="70%">
+</p>
+
+<p align="center">Imagen 3. Circuito Esquemático del proyecto. </p>
+
+<p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/b3826bfd-0595-49f0-8c00-7a440de60f11" width="70%">
 </p>
 
-<p align="center">Imagen 3. Circuito Esquemático del proyecto en vista 2D. </p>
+<p align="center">Imagen 4. Circuito Esquemático del proyecto en vista 2D. </p>
 
 <p align="center">
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/a52a0713-54bb-4c43-aeb0-82537e51adb0" width="70%">
 </p>
 
-<p align="center">Imagen 4. Circuito Esquemático del proyecto en vista 3D. </p>
+<p align="center">Imagen 5. Circuito Esquemático del proyecto en vista 3D. </p>
 
 [Click aquí para ver el circuito esquemático](https://www.flux.ai/edithson/absolute-red-robot-vacuum?editor=pcb_3d)
 
@@ -66,7 +72,7 @@ _**1. Construcción de la maqueta del prototipo:**_
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/02a1a3da-9e5f-447a-9dd9-8bbc9bd753b4" width="70%">
 </p>
 
-<p align="center">Imagen 5. Maqueta de nuestro prototipo </p>
+<p align="center">Imagen 6. Maqueta de nuestro prototipo </p>
 
 _**2. Conexión del caudalímetro y la Portenta H7:**_ 
 <p align="justify">
@@ -76,7 +82,7 @@ Esta etapa, consistió en la integración del caudalímetro con la tarjeta Porte
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/e3f964ad-600b-4e19-a77d-72be457ccc95" width="70%">
 </p>
 
-<p align="center">Imagen 6. Conexión del caudalímetro con el Portenta H7 </p>
+<p align="center">Imagen 7. Conexión del caudalímetro con el Portenta H7 </p>
 
 _**3. Esquema del circuito eléctrico real:**_
 
@@ -87,7 +93,7 @@ Esta sección presenta la etapa final de nuestro, donde se muestran las conexion
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/8bd69782-1199-43da-b231-c699e7dcd014" width="70%">
 </p>
 
-<p align="center">Imagen 7. Esquema del circuito electrico de manera real </p>
+<p align="center">Imagen 8. Esquema del circuito electrico de manera real </p>
 
 
 
