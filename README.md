@@ -2,6 +2,10 @@
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/d3c66dfb-5faa-419b-bf1b-d897ea110ce7" width="70%">
 </p>
 
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/439f9985-2cb4-41d0-aa52-0ec0c812afe1" width="70%">
+</p>
+
 # 🌱🔬¡Bienvenidos a AmbienteTech! 🌱🔬
 
 <p align="center">
