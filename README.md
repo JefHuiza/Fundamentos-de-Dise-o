@@ -60,7 +60,7 @@ Por ese motivo en este proyecto se abordará temas relacionados frente al desper
 - Nardy Liz Condori Mamani                                 nardy.condori@upch.pe                                
 - Edithson Ricardo Aybar Escobar                           edithson.aybar@upch.pe 
 
-Si deseas saber más sobre nosotros, ingresa al siguiente link: [Enlace a Sobre Nosotros](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/3c77044aa4e6b4b2126c605371974fc45db68960/Fundamentos_de_Dise%C3%B1o/Entregables/1_Sobre_nosotros.md)
+Si deseas saber más sobre nosotros, ingresa al siguiente link: [Enlace a Sobre Nosotros](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/116a9fa115f0d13ad5f4e51eb671597e49db63f2/Fundamentos_de_Dise%C3%B1o/Entregables/1_Sobre_nosotros.md)
 
 ## Docentes_del_curso:
 - Mg. Umbert Lewis De la Cruz Rodriguez                    umbert.de.la.cruz@upch.pe
