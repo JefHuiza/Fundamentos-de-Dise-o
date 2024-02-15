@@ -69,3 +69,7 @@ Si deseas saber más sobre nosotros, ingresa al siguiente link: [Enlace a Sobre 
 - Dr. Harry Anderson Rivera Tito                           harry.rivera@upch.pe
 - Ing. Juan Manuel Zúñiga Maman                            juan.zuniga@upch.pe
 - Ing. Renzo José Chan Ríos                                renzo.chan@upch.pe
+
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/439f9985-2cb4-41d0-aa52-0ec0c812afe1" width="80%">
+</p>
