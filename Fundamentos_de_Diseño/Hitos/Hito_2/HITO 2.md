@@ -1,5 +1,7 @@
-Bienvenidos!, este Repositorio forma parte del curso Fundamentos de Diseño del 5to ciclo de las carreras de Ingeniería Ambiental e Ingeniería Informática de la prestigiosa Universidad Peruana Cayetano Heredia.
+## Bienvenidos!, este Repositorio forma parte del curso Fundamentos de Diseño del 5to ciclo de las carreras de Ingeniería Ambiental e Ingeniería Informática de la prestigiosa Universidad Peruana Cayetano Heredia.
+### HITO 2
 
+<<<<<<< HEAD:Fundamentos_de_Diseño/Hitos/Hito_2/HITO 2.md
 La carpeta lleva de nombre Fundamentos de Diseño, esta contiene una subcarpeta llamada "Entregables", ahí se almacenaran semanalmente los avances que tengamos en el proyecto.
 
 Los entregables se subdividen a las vez las siguientes secciones:
@@ -23,3 +25,6 @@ Los entregables se subdividen a las vez las siguientes secciones:
 - ## Hitos
 - [Hito N°1](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/4a324969197a96809a19e9a0f64b6eff4337a9c3/Fundamentos_de_Dise%C3%B1o/Hitos/Hito_1)
 - [Hito N°2](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/fb50f0b90af37476270f0e3317eefeaac04d318d/Fundamentos_de_Dise%C3%B1o/Hitos/Hito_2)
+=======
+![AmbienteTech](https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/ec2e4b78-4f34-40d6-8a56-f5b0bcc08fbf)
+>>>>>>> eb200f83642666560be08e7dfea66bd331d04cf4:Fundamentos_de_Diseño/Hitos/Hito_2/README.md
