@@ -52,12 +52,12 @@ Luego procedimos a ingresar los componentes de manera más específica de acuerd
 </p>
 
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/73af1a4c-c815-4aa4-a34c-600102812fa1" alt="Soporte del sistema">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/2ba5c0ba-a753-469b-86cc-e5935c431b38">
 </p>
 
 <p align="center">Imagen 4. Modelado 3D, Soporte del prototipo en vista explosiva.  Fuente: Elaboración propia</p>
 
-[Click aquí para ver el modelo 3D en vista explosiva](https://skfb.ly/oQHEz)
+[Click aquí para ver el modelo 3D en vista explosiva](https://skfb.ly/oQWtJ)
 
 <h1 align="center"><b>Tabla de Componentes</b></h1>
 
