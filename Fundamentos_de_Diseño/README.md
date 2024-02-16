@@ -22,3 +22,4 @@ Los entregables se subdividen a las vez las siguientes secciones:
 
 - ## Hitos
 - [Hito N°1](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/4a324969197a96809a19e9a0f64b6eff4337a9c3/Fundamentos_de_Dise%C3%B1o/Hitos/Hito_1)
+- [Hito N°2](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/fb50f0b90af37476270f0e3317eefeaac04d318d/Fundamentos_de_Dise%C3%B1o/Hitos/Hito_2)
