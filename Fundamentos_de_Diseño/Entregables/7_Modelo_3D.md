@@ -15,7 +15,7 @@ En esta ocasión se presenta la elaboración del modelo 3D de manera exterior co
 </p>
 
 <p align="center">
-  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/9f223355-3b56-47c2-8720-8619dcb624e9" alt="Plano del modelo 3D">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/151795724/cc3329ea-5c1d-4d7b-93f4-a2c8f76e6435" alt="Plano del modelo 3D">
 </p>
 
 
