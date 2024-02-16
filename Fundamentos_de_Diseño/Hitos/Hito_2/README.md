@@ -1,0 +1,24 @@
+Bienvenidos!, este Repositorio forma parte del curso Fundamentos de Diseño del 5to ciclo de las carreras de Ingeniería Ambiental e Ingeniería Informática de la prestigiosa Universidad Peruana Cayetano Heredia.
+
+La carpeta lleva de nombre Fundamentos de Diseño, esta contiene una subcarpeta llamada "Entregables", ahí se almacenaran semanalmente los avances que tengamos en el proyecto.
+
+Los entregables se subdividen a las vez las siguientes secciones:
+- ## Entregables:
+- [1. Sobre nosotros](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/116a9fa115f0d13ad5f4e51eb671597e49db63f2/Fundamentos_de_Dise%C3%B1o/Entregables/1_Sobre_nosotros.md)
+- [2. Definición_del_problema](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/799e61d3f72133979809e86f2a496d57201015f4/Fundamentos_de_Dise%C3%B1o/Entregables/3_Definici%C3%B3n-del-Problema.md)
+- [3. Contexto social y economico del problema](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/0f47791abfdf0e254435b654e13beadf5524e470/Fundamentos_de_Dise%C3%B1o/Entregables/2_Contexto-Social-y-Econ%C3%B3mico.md)
+- [4. Estado del arte](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/8f1077a10d3ae14d8b923663a9135eb9174fe525/Fundamentos_de_Dise%C3%B1o/Entregables/4_Estado_de_Arte.md)
+- [5. Caja Negra y Esquema de Funciones](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/ec3444575b3c4548fb7dc967faefae2c8bda794c/Fundamentos_de_Dise%C3%B1o/Entregables/5_Caja_negra_y_esquema_de_funciones.md)
+- [6. Matriz Morfológica y Tabla de Valoración](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/e1b70ea1e308695a9329a4a3a070208f5907c88b/Fundamentos_de_Dise%C3%B1o/Entregables/6_Matriz_morfol%C3%B3gica_y_tabla_de_valoraci%C3%B3n.md)
+- [7. Modelado 3D](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/a314223a0bf921b49dcc9b178479f3a6e7891492/Fundamentos_de_Dise%C3%B1o/Entregables/7_Modelo_3D.md)
+- [8. Planos de modelado 3D y archivos para impresión 3D](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/552885c2a8842990647830e1405d4367a667fc0e/Fundamentos_de_Dise%C3%B1o/Entregables/8_Planos_3D_%20y_%20arch_impresi%C3%B3n.md)
+- [9. Esquemático del Circuito y Diagrama de Flujo](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/c6cfa1649115462fe3aae47b4de3f4792fbb14fc/Fundamentos_de_Dise%C3%B1o/Entregables/9_Presentaci%C3%B3n_avance_y_esquem%C3%A1tico_electr%C3%B3nico.md)
+-  ## Laboratorios:
+- [Informe Taller equipo10 laboratorio 1](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/main/Fundamentos_de_Dise%C3%B1o/Entregables/Informe-Taller-equipo10-Lab.md)
+- [Informe Taller equipo10 laboratorio 2](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/19f41eab522f964a509af359af68306e28faf45c/Fundamentos_de_Dise%C3%B1o/Talleres/T02%20Ejercicios_fund_Electr%C3%B3nica.md)
+- [Informe Taller equipo10 laboratorio 3](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/b37ac6ff50b7930de4606f1caca57c6093a5aba1/Fundamentos_de_Dise%C3%B1o/Talleres/T03%20Ejercicios_fund_Electr%C3%B3nica_II.md)
+- [Informe Taller equipo10 laboratorio 4](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/a9fac1734bc25b42dc7d55fab3e107e270b1e656/Fundamentos_de_Dise%C3%B1o/Talleres/T04_Modelado_3D.md)
+- [Informe Taller equipo10 laboratorio 5](https://github.com/JefHuiza/Fundamentos-de-Dise-o/blob/25df156ec01da46170731fef27c112b41f34d8cf/Fundamentos_de_Dise%C3%B1o/Talleres/T05_Esquem%C3%A1tico_del_circuito_electr%C3%B3nico.md)
+
+- ## Hitos
+- [Hito N°1](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/4a324969197a96809a19e9a0f64b6eff4337a9c3/Fundamentos_de_Dise%C3%B1o/Hitos/Hito_1)
