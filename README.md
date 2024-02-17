@@ -49,7 +49,6 @@ Por ese motivo en este proyecto se abordará temas relacionados frente al desper
 
 ## Descripición_de_los_archivos
 
--	[Documentos](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/main/Documentos): Documentos técnicos, artículos científicos, patentes, etc., que proporcionan información sobre el estado actual del arte en el campo de la IoT, así como sobre las aplicaciones específicas de la IoT en el proyecto.
 -	[Hardware](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/main/Hardware): Archivos de diseño de modelado 3D, diagramas esquemáticos de los circuitos, listas de materiales, instrucciones de montaje, etc., que se utilizan para construir el prototipo del sistema de IoT.
 -	[Software](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/main/Software): Código fuente del software, documentación de usuario, pruebas de software, etc., que se utilizan para controlar el hardware del sistema de IoT.
 -	[Fundamentos de diseño](https://github.com/JefHuiza/Fundamentos-de-Dise-o/tree/main/Fundamentos_de_Dise%C3%B1o): Entregables del curso, como proyectos, informes y presentaciones, hitos del curso, como fechas de entrega y plazos, informes del curso, como evaluaciones y calificaciones, etc., que proporcionan información sobre los requisitos del curso y progreso.
